@@ -2,13 +2,13 @@
 
 ## Official Instances
 
-* [nitter.net](https://nitter.net) 🇪🇸  
+* [nitter.net](https://nitter.net) 🇳🇱
   Issuer: Let's Encrypt, [SSLLabs Verification](https://www.ssllabs.com/ssltest/analyze.html?d=nitter.net)
 
 ## List of public Invidious Instances
-Note: Please add new instances on the bottom so that every user can see how old and how long an instance is listed here.
+Note: Please add new instances to the bottom so users can see how old and how long an instance is listed here.
 
-* [nitter.snopyta.org](https://nitter.snopyta.org) 🇫🇮  
+* [nitter.snopyta.org](https://nitter.snopyta.org) 🇫🇮
   Issuer: Let's Encrypt, [SSLLabs Verification](https://www.ssllabs.com/ssltest/analyze.html?d=nitter.snopyta.org)
 
 ### Tor Hidden Service
