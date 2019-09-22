@@ -18,3 +18,17 @@ Note: Please add new instances to the bottom so users can see how old and how lo
 ### Tor Hidden Service
 * [3nzoldnxplag42gqjs23xvghtzf6t6yzssrtytnntc6ppc7xxuoneoad.onion](http://3nzoldnxplag42gqjs23xvghtzf6t6yzssrtytnntc6ppc7xxuoneoad.onion/)
 * [nitter.l4qlywnpwqsluw65ts7md3khrivpirse744un3x7mlskqauz5pyuzgqd.onion](http://nitter.l4qlywnpwqsluw65ts7md3khrivpirse744un3x7mlskqauz5pyuzgqd.onion/)
+
+### Eepsite (I2P)
+
+
+
+### Plain HTTP (without SSL):
+
+
+
+### Broken SSL or self signed:
+
+
+
+### Offline:
