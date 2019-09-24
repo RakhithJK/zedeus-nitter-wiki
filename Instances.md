@@ -6,7 +6,7 @@
   Issuer: Let's Encrypt, [SSLLabs Verification](https://www.ssllabs.com/ssltest/analyze.html?d=nitter.net)
 
 ## List of public Nitter Instances
-Note: Please add new instances to the bottom so users can see how old and how long an instance is listed here.
+Note: Please add new instances to the bottom to preserve the order.
 
 * [nitter.snopyta.org](https://nitter.snopyta.org) 🇫🇮
   Issuer: Let's Encrypt, [SSLLabs Verification](https://www.ssllabs.com/ssltest/analyze.html?d=nitter.snopyta.org)
@@ -18,17 +18,3 @@ Note: Please add new instances to the bottom so users can see how old and how lo
 ### Tor Hidden Service
 * [3nzoldnxplag42gqjs23xvghtzf6t6yzssrtytnntc6ppc7xxuoneoad.onion](http://3nzoldnxplag42gqjs23xvghtzf6t6yzssrtytnntc6ppc7xxuoneoad.onion/)
 * [nitter.l4qlywnpwqsluw65ts7md3khrivpirse744un3x7mlskqauz5pyuzgqd.onion](http://nitter.l4qlywnpwqsluw65ts7md3khrivpirse744un3x7mlskqauz5pyuzgqd.onion/)
-
-### Eepsite (I2P)
-
-
-
-### Plain HTTP (without SSL):
-
-
-
-### Broken SSL or self signed:
-
-
-
-### Offline:
