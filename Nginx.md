@@ -5,9 +5,15 @@ server {
 	server_name YOUR_DOMAIN_NAME;
 	ssl_certificate YOUR_SSL_CERT;
 	ssl_certificate_key YOUR_SSL_CERT_KEY;
-	ssl_protocols TLSv1.2 TLSv1.1 TLSv1;
+	ssl_protocols TLSv1.3 TLSv1.2 TLSv1.1 TLSv1;
 	ssl_prefer_server_ciphers on;
-	ssl_ciphers "EECDH+ECDSA+AESGCM EECDH+aRSA+AESGCM EECDH+ECDSA+SHA384 EECDH+ECDSA+SHA256 EECDH+aRSA+SHA384 EECDH+aRSA+SHA256 EECDH+aRSA+RC4 EECDH EDH+aRSA RC4 !aNULL !eNULL !LOW !3DES !MD5 !EXP !PSK !SRP !DSS";
+	ssl_ciphers EECDH+AESGCM:EDH+AESGCM;
+	ssl_ecdh_curve secp384r1;
+	ssl_session_timeout  10m;
+	ssl_session_cache shared:SSL:10m;
+	ssl_session_tickets off;
+	ssl_stapling on;
+	ssl_stapling_verify on;
 
 	# Security Headers
 	add_header Strict-Transport-Security "max-age=31536000; includeSubDomains preload" always;
