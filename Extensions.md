@@ -1,6 +1,7 @@
 ### Extensions for Nitter
 #### Firefox
-- [Nitterify](https://addons.mozilla.org/en-US/firefox/addon/nitterify/): Redirects Twitter links to Nitter, without loading Twitter first. Supports media.
+- ~~[Nitterify](https://addons.mozilla.org/en-US/firefox/addon/nitterify/): Redirects Twitter links to Nitter, without loading Twitter first. Supports media.~~ Deprecated. Use [Invidition](https://addons.mozilla.org/firefox/addon/invidition/) instead.
+- [Invidition](https://addons.mozilla.org/firefox/addon/invidition/): Redirects Twitter and Youtube links to Nitter and Invidious. Highly configurable.
 - [Twitter to Nitter Redirect](https://addons.mozilla.org/en-US/firefox/addon/twitter-to-nitter-redirect/): Redirects Twitter links to Nitter.
 - [Nitter Redirect](https://addons.mozilla.org/en-US/firefox/addon/nitter-redirect/): Redirects Twitter links to Nitter instead, works when navigating to the site, or opening links.
 #### Chromium-based browsers
