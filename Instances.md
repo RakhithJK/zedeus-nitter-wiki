@@ -12,8 +12,8 @@ Note: Please add new instances to the bottom to preserve the order.
   Issuer: Let's Encrypt, [SSLLabs Verification](https://www.ssllabs.com/ssltest/analyze.html?d=nitter.snopyta.org)
 * [nitter.42l.fr](https://nitter.42l.fr/) 🇫🇷
   Issuer: Let's Encrypt, [SSLLabs Verification](https://www.ssllabs.com/ssltest/analyze.html?d=nitter.42l.fr)
-* [nitter.nixnet.xyz](https://nitter.nixnet.xyz/) 🇩🇪
-  Issuer: Let's Encrypt, [SSLLabs Verification](https://www.ssllabs.com/ssltest/analyze.html?d=nitter.nixnet.xyz)
+* [nitter.nixnet.services](https://nitter.nixnet.xyz/) 🇩🇪
+  Issuer: Let's Encrypt, [SSLLabs Verification](https://www.ssllabs.com/ssltest/analyze.html?d=nitter.nixnet.services)
 * [nitter.13ad.de](https://nitter.13ad.de) 🇩🇪
   Issuer: Let's Encrypt, [SSLLabs Verification](https://www.ssllabs.com/ssltest/analyze.html?d=nitter.13ad.de)
 * [tw.openalgeria.org](https://tw.openalgeria.org) 🇫🇷
