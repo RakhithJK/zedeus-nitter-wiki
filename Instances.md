@@ -2,7 +2,7 @@
 
 ## Official Instances
 
-* [nitter.net](https://nitter.net) 🇳🇱
+* [nitter.net](https://nitter.net) 🇩🇪
   Issuer: Let's Encrypt, [SSLLabs Verification](https://www.ssllabs.com/ssltest/analyze.html?d=nitter.net)
 
 ## List of public Nitter Instances
