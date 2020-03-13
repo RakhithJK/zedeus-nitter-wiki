@@ -20,6 +20,8 @@ Note: Please add new instances to the bottom to preserve the order.
   Issuer: Let's Encrypt, [SSLLabs Verification](https://www.ssllabs.com/ssltest/analyze.html?d=tw.openalgeria.org)
 * [nitter.pussthecat.org](https://nitter.pussthecat.org) 🇩🇪
   Issuer: Let's Encrypt, [SSLLabs Verification](https://www.ssllabs.com/ssltest/analyze.html?d=nitter.pussthecat.org)
+* [nitter.mastodont.cat](https://nitter.mastodont.cat) 🇩🇪
+  Issuer: Let's Encrypt, [SSLLabs Verification](https://www.ssllabs.com/ssltest/analyze.html?d=nitter.mastodont.cat)
 
 
 ### Tor Hidden Service
