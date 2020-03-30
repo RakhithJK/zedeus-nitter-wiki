@@ -22,8 +22,10 @@ Note: Please add new instances to the bottom to preserve the order.
   Issuer: Let's Encrypt, [SSLLabs Verification](https://www.ssllabs.com/ssltest/analyze.html?d=nitter.pussthecat.org)
 * [nitter.mastodont.cat](https://nitter.mastodont.cat) 🇩🇪
   Issuer: Let's Encrypt, [SSLLabs Verification](https://www.ssllabs.com/ssltest/analyze.html?d=nitter.mastodont.cat)
-* [nitter.dark.fail](https://nitter.dark.fail)
+* [nitter.dark.fail](https://nitter.dark.fail) 🇺🇸
   Issuer: Cloudflare, [SSLLabs Verification](https://www.ssllabs.com/ssltest/analyze.html?d=nitter.dark.fail)
+* [nitter.tedomum.net](https://nitter.tedomum.net/) 🇫🇷
+  Issuer: Let's Encrypt, [SSLLabs Verification](https://www.ssllabs.com/ssltest/analyze.html?d=nitter.tedomum.net)
 
 
 ### Tor Hidden Service
