@@ -10,3 +10,4 @@
 - [Nitter Redirect](https://chrome.google.com/webstore/detail/nitter-redirect/mohaicophfnifehkkkdbcejkflmgfkof): Redirects Twitter links to Nitter instead, works when navigating to the site, or opening links.
 #### Others
 - [iPhone Redirector Shortcut](https://www.icloud.com/shortcuts/3e90ac68c77b45eb82cb18dab519ff76): Automatically open Twitter links on Nitter (iPhone shortcut).
+- [NitterizeMe](https://f-droid.org/en/packages/app.fedilab.nitterizeme/): Redirects twitter, youtube, instagram to nitter, invidious, bibliogram. You can enable / disable every redirections if you want (Android app).
