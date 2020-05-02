@@ -26,8 +26,10 @@ Note: Please add new instances to the bottom to preserve the order.
   Issuer: Cloudflare, [SSLLabs Verification](https://www.ssllabs.com/ssltest/analyze.html?d=nitter.dark.fail)
 * [nitter.tedomum.net](https://nitter.tedomum.net/) 🇫🇷
   Issuer: Let's Encrypt, [SSLLabs Verification](https://www.ssllabs.com/ssltest/analyze.html?d=nitter.tedomum.net)
-* [t.maisputain.ovh](https://t.maisputain.ovh/) 🇫🇷
-  Issuer: Let's Encrypt, [SSLLabs Verification](https://www.ssllabs.com/ssltest/analyze.html?d=t.maisputain.ovh)
+* [~t.maisputain.ovh~](https://t.maisputain.ovh/) 🇫🇷 
+  Issuer: Let's Encrypt, [SSLLabs Verification](https://www.ssllabs.com/ssltest/analyze.html?d=t.maisputain.ovh) (has been down since added?)
+* [nitter.cattube.org](https://nitter.cattube.org/) 🇩🇪
+  Issuer: Let's Encrypt, [SSLLabs Verification](https://www.ssllabs.com/ssltest/analyze.html?d=nitter.cattube.org)
 
 ### Tor Hidden Service
 * [3nzoldnxplag42gqjs23xvghtzf6t6yzssrtytnntc6ppc7xxuoneoad.onion](http://3nzoldnxplag42gqjs23xvghtzf6t6yzssrtytnntc6ppc7xxuoneoad.onion/)
