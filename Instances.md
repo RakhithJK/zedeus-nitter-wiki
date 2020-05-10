@@ -27,7 +27,7 @@ Note: Please add new instances to the bottom to preserve the order.
 * [nitter.tedomum.net](https://nitter.tedomum.net/) 🇫🇷
   Issuer: Let's Encrypt, [SSLLabs Verification](https://www.ssllabs.com/ssltest/analyze.html?d=nitter.tedomum.net)
 * [~t.maisputain.ovh~](https://t.maisputain.ovh/) 🇫🇷 
-  Issuer: Let's Encrypt, [SSLLabs Verification](https://www.ssllabs.com/ssltest/analyze.html?d=t.maisputain.ovh) (has been down since added?)
+  Issuer: Let's Encrypt, [SSLLabs Verification](https://www.ssllabs.com/ssltest/analyze.html?d=t.maisputain.ovh) (Not working)
 * [nitter.cattube.org](https://nitter.cattube.org/) 🇩🇪
   Issuer: Let's Encrypt, [SSLLabs Verification](https://www.ssllabs.com/ssltest/analyze.html?d=nitter.cattube.org)
 * [nitter.fdn.fr](https://nitter.fdn.fr/) 🇫🇷
