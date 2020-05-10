@@ -30,6 +30,8 @@ Note: Please add new instances to the bottom to preserve the order.
   Issuer: Let's Encrypt, [SSLLabs Verification](https://www.ssllabs.com/ssltest/analyze.html?d=t.maisputain.ovh) (has been down since added?)
 * [nitter.cattube.org](https://nitter.cattube.org/) 🇩🇪
   Issuer: Let's Encrypt, [SSLLabs Verification](https://www.ssllabs.com/ssltest/analyze.html?d=nitter.cattube.org)
+* [nitter.fdn.fr](https://nitter.fdn.fr/) 🇫🇷
+  Issuer: Let's Encrypt, [SSLLabs Verification](https://www.ssllabs.com/ssltest/analyze.html?d=nitter.fdn.fr)
 
 ### Tor Hidden Service
 * [3nzoldnxplag42gqjs23xvghtzf6t6yzssrtytnntc6ppc7xxuoneoad.onion](http://3nzoldnxplag42gqjs23xvghtzf6t6yzssrtytnntc6ppc7xxuoneoad.onion/)
