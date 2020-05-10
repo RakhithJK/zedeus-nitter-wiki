@@ -23,7 +23,7 @@ Note: Please add new instances to the bottom to preserve the order.
 * [nitter.mastodont.cat](https://nitter.mastodont.cat) 🇩🇪
   Issuer: Let's Encrypt, [SSLLabs Verification](https://www.ssllabs.com/ssltest/analyze.html?d=nitter.mastodont.cat)
 * [nitter.dark.fail](https://nitter.dark.fail) 🇺🇸
-  Issuer: Cloudflare, [SSLLabs Verification](https://www.ssllabs.com/ssltest/analyze.html?d=nitter.dark.fail)
+  Issuer: Cloudflare, [SSLLabs Verification](https://www.ssllabs.com/ssltest/analyze.html?d=nitter.dark.fail) (Not working May 10th, 2020)
 * [nitter.tedomum.net](https://nitter.tedomum.net/) 🇫🇷
   Issuer: Let's Encrypt, [SSLLabs Verification](https://www.ssllabs.com/ssltest/analyze.html?d=nitter.tedomum.net)
 * [~t.maisputain.ovh~](https://t.maisputain.ovh/) 🇫🇷 
