@@ -17,7 +17,7 @@ Note: Please add new instances to the bottom to preserve the order.
 * [nitter.13ad.de](https://nitter.13ad.de) 🇩🇪
   Issuer: Let's Encrypt, [SSLLabs Verification](https://www.ssllabs.com/ssltest/analyze.html?d=nitter.13ad.de)
 * [tw.openalgeria.org](https://tw.openalgeria.org) 🇫🇷
-  Issuer: Let's Encrypt, [SSLLabs Verification](https://www.ssllabs.com/ssltest/analyze.html?d=tw.openalgeria.org)
+  Issuer: Let's Encrypt, [SSLLabs Verification](https://www.ssllabs.com/ssltest/analyze.html?d=tw.openalgeria.org) (Has some issues, May 10th, 2020)
 * [nitter.pussthecat.org](https://nitter.pussthecat.org) 🇩🇪
   Issuer: Let's Encrypt, [SSLLabs Verification](https://www.ssllabs.com/ssltest/analyze.html?d=nitter.pussthecat.org)
 * [nitter.mastodont.cat](https://nitter.mastodont.cat) 🇩🇪
