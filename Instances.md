@@ -12,24 +12,24 @@ Note: Please add new instances to the bottom to preserve the order.
   Issuer: Let's Encrypt, [SSLLabs Verification](https://www.ssllabs.com/ssltest/analyze.html?d=nitter.snopyta.org)
 * [nitter.42l.fr](https://nitter.42l.fr/) 🇫🇷
   Issuer: Let's Encrypt, [SSLLabs Verification](https://www.ssllabs.com/ssltest/analyze.html?d=nitter.42l.fr)
-* [nitter.nixnet.services](https://nitter.nixnet.xyz/) 🇩🇪
+* [nitter.nixnet.services](https://nitter.nixnet.services/) 🇩🇪
   Issuer: Let's Encrypt, [SSLLabs Verification](https://www.ssllabs.com/ssltest/analyze.html?d=nitter.nixnet.services)
 * [nitter.13ad.de](https://nitter.13ad.de) 🇩🇪
   Issuer: Let's Encrypt, [SSLLabs Verification](https://www.ssllabs.com/ssltest/analyze.html?d=nitter.13ad.de)
 * [tw.openalgeria.org](https://tw.openalgeria.org) 🇫🇷
-  Issuer: Let's Encrypt, [SSLLabs Verification](https://www.ssllabs.com/ssltest/analyze.html?d=tw.openalgeria.org) (Has some issues, May 10th, 2020)
+  Issuer: Let's Encrypt, [SSLLabs Verification](https://www.ssllabs.com/ssltest/analyze.html?d=tw.openalgeria.org) (Has some issues, May 10th, 2020) (Not working May 25th 2020)
 * [nitter.pussthecat.org](https://nitter.pussthecat.org) 🇩🇪
   Issuer: Let's Encrypt, [SSLLabs Verification](https://www.ssllabs.com/ssltest/analyze.html?d=nitter.pussthecat.org)
 * [nitter.mastodont.cat](https://nitter.mastodont.cat) 🇩🇪
   Issuer: Let's Encrypt, [SSLLabs Verification](https://www.ssllabs.com/ssltest/analyze.html?d=nitter.mastodont.cat)
 * [nitter.dark.fail](https://nitter.dark.fail) 🇺🇸
-  Issuer: Cloudflare, [SSLLabs Verification](https://www.ssllabs.com/ssltest/analyze.html?d=nitter.dark.fail) (Not working May 10th, 2020)
+  Issuer: Cloudflare, [SSLLabs Verification](https://www.ssllabs.com/ssltest/analyze.html?d=nitter.dark.fail)
 * [nitter.tedomum.net](https://nitter.tedomum.net/) 🇫🇷
   Issuer: Let's Encrypt, [SSLLabs Verification](https://www.ssllabs.com/ssltest/analyze.html?d=nitter.tedomum.net)
 * [t.maisputain.ovh](https://t.maisputain.ovh/) 🇫🇷 
   Issuer: Let's Encrypt, [SSLLabs Verification](https://www.ssllabs.com/ssltest/analyze.html?d=t.maisputain.ovh) (IPv6 Only)
 * [nitter.cattube.org](https://nitter.cattube.org/) 🇩🇪
-  Issuer: Let's Encrypt, [SSLLabs Verification](https://www.ssllabs.com/ssltest/analyze.html?d=nitter.cattube.org) (Not working May 10th, 2020)
+  Issuer: Let's Encrypt, [SSLLabs Verification](https://www.ssllabs.com/ssltest/analyze.html?d=nitter.cattube.org) 
 * [nitter.fdn.fr](https://nitter.fdn.fr/) 🇫🇷
   Issuer: Let's Encrypt, [SSLLabs Verification](https://www.ssllabs.com/ssltest/analyze.html?d=nitter.fdn.fr)
 
