@@ -33,7 +33,10 @@ Note: Please add new instances to the bottom to preserve the order.
 * [nitter.fdn.fr](https://nitter.fdn.fr/) 🇫🇷
   Issuer: Let's Encrypt, [SSLLabs Verification](https://www.ssllabs.com/ssltest/analyze.html?d=nitter.fdn.fr)
 * [nitter.1d4.us](https://nitter.1d4.us/) 🇺🇸 Issuer: Let's Encrypt, [SSLLabs Verification](https://www.ssllabs.com/ssltest/analyze.html?d=nitter.1d4.us)
+* [nitter.kavin.rocks](https://nitter.kavin.rocks) 🇮🇳
+  Issuer: Cloudflare, [SSLLabs Verification](https://www.ssllabs.com/ssltest/analyze.html?d=nitter.kavin.rocks)
 
 ### Tor Hidden Service
 * [3nzoldnxplag42gqjs23xvghtzf6t6yzssrtytnntc6ppc7xxuoneoad.onion](http://3nzoldnxplag42gqjs23xvghtzf6t6yzssrtytnntc6ppc7xxuoneoad.onion/)
 * [nitter.l4qlywnpwqsluw65ts7md3khrivpirse744un3x7mlskqauz5pyuzgqd.onion](http://nitter.l4qlywnpwqsluw65ts7md3khrivpirse744un3x7mlskqauz5pyuzgqd.onion/)
+* [32beeap3r6whfe2me4wqmblvru73o27si3v2uiilkxjhfvxbgzfcjwad.onion](http://32beeap3r6whfe2me4wqmblvru73o27si3v2uiilkxjhfvxbgzfcjwad.onion/)
