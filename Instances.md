@@ -34,7 +34,7 @@ Note: Please add new instances to the bottom to preserve the order.
   Issuer: Let's Encrypt, [SSLLabs Verification](https://www.ssllabs.com/ssltest/analyze.html?d=nitter.fdn.fr)
 * [nitter.1d4.us](https://nitter.1d4.us/) 🇺🇸 Issuer: Let's Encrypt, [SSLLabs Verification](https://www.ssllabs.com/ssltest/analyze.html?d=nitter.1d4.us)
 * [nitter.kavin.rocks](https://nitter.kavin.rocks) 🇮🇳
-  Issuer: Cloudflare, [SSLLabs Verification](https://www.ssllabs.com/ssltest/analyze.html?d=nitter.kavin.rocks) (Not working August 9th 2020)
+  Issuer: Cloudflare, [SSLLabs Verification](https://www.ssllabs.com/ssltest/analyze.html?d=nitter.kavin.rocks)
 * [tweet.lambda.dance](https://tweet.lambda.dance)  🇺🇸 Issuer: Let's Encrypt, [SSLLabs Verification](https://www.ssllabs.com/ssltest/analyze.html?d=tweet.lambda.dance)
 
 ### Tor Hidden Service
