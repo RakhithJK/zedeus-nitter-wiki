@@ -19,7 +19,7 @@ Note: Please add new instances to the bottom to preserve the order.
 * [tw.openalgeria.org](https://tw.openalgeria.org) 🇫🇷
   Issuer: Let's Encrypt, [SSLLabs Verification](https://www.ssllabs.com/ssltest/analyze.html?d=tw.openalgeria.org) (Has some issues, May 10th, 2020) (Not working May 25th 2020)
 * [nitter.pussthecat.org](https://nitter.pussthecat.org) 🇩🇪
-  Issuer: Let's Encrypt, [SSLLabs Verification](https://www.ssllabs.com/ssltest/analyze.html?d=nitter.pussthecat.org)
+  Issuer: Let's Encrypt, [SSLLabs Verification](https://www.ssllabs.com/ssltest/analyze.html?d=nitter.pussthecat.org) (Not working Sep 16 2020)
 * [nitter.mastodont.cat](https://nitter.mastodont.cat) 🇩🇪
   Issuer: Let's Encrypt, [SSLLabs Verification](https://www.ssllabs.com/ssltest/analyze.html?d=nitter.mastodont.cat)
 * [nitter.dark.fail](https://nitter.dark.fail) 🇺🇸
@@ -27,7 +27,7 @@ Note: Please add new instances to the bottom to preserve the order.
 * [nitter.tedomum.net](https://nitter.tedomum.net/) 🇫🇷
   Issuer: Let's Encrypt, [SSLLabs Verification](https://www.ssllabs.com/ssltest/analyze.html?d=nitter.tedomum.net)
 * [t.maisputain.ovh](https://t.maisputain.ovh/) 🇫🇷 
-  Issuer: Let's Encrypt, [SSLLabs Verification](https://www.ssllabs.com/ssltest/analyze.html?d=t.maisputain.ovh) (IPv6 Only)
+  Issuer: Let's Encrypt, [SSLLabs Verification](https://www.ssllabs.com/ssltest/analyze.html?d=t.maisputain.ovh) (IPv6 Only) (Not working Sep 16 2020)
 * [nitter.cattube.org](https://nitter.cattube.org/) 🇩🇪
   Issuer: Let's Encrypt, [SSLLabs Verification](https://www.ssllabs.com/ssltest/analyze.html?d=nitter.cattube.org) 
 * [nitter.fdn.fr](https://nitter.fdn.fr/) 🇫🇷
