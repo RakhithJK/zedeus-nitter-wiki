@@ -20,15 +20,15 @@ Note: Please add new instances to the bottom to preserve the order.
   Issuer: Let's Encrypt, [SSLLabs Verification](https://www.ssllabs.com/ssltest/analyze.html?d=nitter.pussthecat.org)
 * [nitter.mastodont.cat](https://nitter.mastodont.cat) 🇩🇪
   Issuer: Let's Encrypt, [SSLLabs Verification](https://www.ssllabs.com/ssltest/analyze.html?d=nitter.mastodont.cat)
-* ~~[nitter.dark.fail](https://nitter.dark.fail) 🇺🇸
-  Issuer: Cloudflare, [SSLLabs Verification](https://www.ssllabs.com/ssltest/analyze.html?d=nitter.dark.fail)~~ (502 Bad Gateway errors since 2020-10-06)
+* [nitter.dark.fail](https://nitter.dark.fail) 🇺🇸
+  Issuer: Cloudflare, [SSLLabs Verification](https://www.ssllabs.com/ssltest/analyze.html?d=nitter.dark.fail)
 * [nitter.tedomum.net](https://nitter.tedomum.net/) 🇫🇷
   Issuer: Let's Encrypt, [SSLLabs Verification](https://www.ssllabs.com/ssltest/analyze.html?d=nitter.tedomum.net)
 * [nitter.cattube.org](https://nitter.cattube.org/) 🇩🇪
   Issuer: Let's Encrypt, [SSLLabs Verification](https://www.ssllabs.com/ssltest/analyze.html?d=nitter.cattube.org) 
 * [nitter.fdn.fr](https://nitter.fdn.fr/) 🇫🇷
   Issuer: Let's Encrypt, [SSLLabs Verification](https://www.ssllabs.com/ssltest/analyze.html?d=nitter.fdn.fr)
-* ~~[nitter.1d4.us](https://nitter.1d4.us/) 🇺🇸 Issuer: Let's Encrypt, [SSLLabs Verification](https://www.ssllabs.com/ssltest/analyze.html?d=nitter.1d4.us)~~ (SSL cert has been expired since 2020-10-03)
+* [nitter.1d4.us](https://nitter.1d4.us/) 🇺🇸 Issuer: Let's Encrypt, [SSLLabs Verification](https://www.ssllabs.com/ssltest/analyze.html?d=nitter.1d4.us)
 * [nitter.kavin.rocks](https://nitter.kavin.rocks) 🇮🇳
   Issuer: Cloudflare, [SSLLabs Verification](https://www.ssllabs.com/ssltest/analyze.html?d=nitter.kavin.rocks)
 * [tweet.lambda.dance](https://tweet.lambda.dance)  🇺🇸 Issuer: Let's Encrypt, [SSLLabs Verification](https://www.ssllabs.com/ssltest/analyze.html?d=tweet.lambda.dance)
