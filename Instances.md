@@ -32,6 +32,7 @@ Note: Please add new instances to the bottom to preserve the order.
 * [nitter.kavin.rocks](https://nitter.kavin.rocks) 🇮🇳
   Issuer: Cloudflare, [SSLLabs Verification](https://www.ssllabs.com/ssltest/analyze.html?d=nitter.kavin.rocks)
 * [tweet.lambda.dance](https://tweet.lambda.dance)  🇺🇸 Issuer: Let's Encrypt, [SSLLabs Verification](https://www.ssllabs.com/ssltest/analyze.html?d=tweet.lambda.dance)
+* [nitter.cc](https://nitter.cc) 🇷🇸 Issuer: Cloudflare, [SSLLabs Verification](https://www.ssllabs.com/ssltest/analyze.html?d=nitter.cc)
 
 ### Tor Hidden Service
 * [3nzoldnxplag42gqjs23xvghtzf6t6yzssrtytnntc6ppc7xxuoneoad.onion](http://3nzoldnxplag42gqjs23xvghtzf6t6yzssrtytnntc6ppc7xxuoneoad.onion/)
