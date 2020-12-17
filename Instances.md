@@ -36,6 +36,7 @@ Note: Please add new instances to the bottom to preserve the order.
 * [nitter.weaponizedhumiliation.com](https://nitter.weaponizedhumiliation.com)  🇺🇸 Issuer: Let's Encrypt, [SSLLabs Verification](https://www.ssllabs.com/ssltest/analyze.html?d=nitter.weaponizedhumiliation.com)
 * [nitter.vxempire.xyz](https://nitter.vxempire.xyz) 🇪🇸 Issuer: Let's encrypt [SSLLabs Verification](https://www.ssllabs.com/ssltest/analyze.html?d=nitter.vxempire.xyz)
 * [n.itoma.tech](https://n.itoma.tech) 🇮🇪 Issuer: Let's Encrypt [SSLLabs Verification](https://www.ssllabs.com/ssltest/analyze.html?d=n.itoma.tech)
+* [nitter.unixfox.eu](https://nitter.unixfox.eu) 🇳🇱 Issuer: Let's encrypt [SSLLabs Verification](https://www.ssllabs.com/ssltest/analyze.html?d=nitter.unixfox.eu)
 
 ### Tor Hidden Service
 * [3nzoldnxplag42gqjs23xvghtzf6t6yzssrtytnntc6ppc7xxuoneoad.onion](http://3nzoldnxplag42gqjs23xvghtzf6t6yzssrtytnntc6ppc7xxuoneoad.onion/)
