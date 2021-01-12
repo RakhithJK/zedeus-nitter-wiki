@@ -7,9 +7,10 @@
 
 ## List of public Nitter Instances
 Note: Please add new instances to the bottom to preserve the order.
-
+<!-- hide it from the top, otherwise it might get as popular as invidious
 * [nitter.snopyta.org](https://nitter.snopyta.org) 🇫🇮
   Issuer: Let's Encrypt, [SSLLabs Verification](https://www.ssllabs.com/ssltest/analyze.html?d=nitter.snopyta.org)
+-->
 * [nitter.42l.fr](https://nitter.42l.fr/) 🇫🇷
   Issuer: Let's Encrypt, [SSLLabs Verification](https://www.ssllabs.com/ssltest/analyze.html?d=nitter.42l.fr)
 * [nitter.nixnet.services](https://nitter.nixnet.services/) 🇩🇪
