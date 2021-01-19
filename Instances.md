@@ -37,6 +37,8 @@ Note: Please add new instances to the bottom to preserve the order.
 * [nitter.weaponizedhumiliation.com](https://nitter.weaponizedhumiliation.com)  🇺🇸 Issuer: Let's Encrypt, [SSLLabs Verification](https://www.ssllabs.com/ssltest/analyze.html?d=nitter.weaponizedhumiliation.com)
 * [nitter.vxempire.xyz](https://nitter.vxempire.xyz) 🇪🇸 Issuer: Let's encrypt [SSLLabs Verification](https://www.ssllabs.com/ssltest/analyze.html?d=nitter.vxempire.xyz)
 * [nitter.unixfox.eu](https://nitter.unixfox.eu) 🇳🇱 Issuer: Let's encrypt [SSLLabs Verification](https://www.ssllabs.com/ssltest/analyze.html?d=nitter.unixfox.eu)
+* [nitter.domain.glass](https://nitter.domain.glass) 🇺🇸
+  Issuer: Cloudflare, [SSLLabs Verification](https://www.ssllabs.com/ssltest/analyze.html?d=nitter.domain.glass)
 
 
 ### Tor Hidden Service
