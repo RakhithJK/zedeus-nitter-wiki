@@ -39,7 +39,7 @@ Note: Please add new instances to the bottom to preserve the order.
 * [nitter.unixfox.eu](https://nitter.unixfox.eu) 🇳🇱 Issuer: Let's encrypt [SSLLabs Verification](https://www.ssllabs.com/ssltest/analyze.html?d=nitter.unixfox.eu)
 * [nitter.domain.glass](https://nitter.domain.glass) 🇺🇸
   Issuer: Cloudflare, [SSLLabs Verification](https://www.ssllabs.com/ssltest/analyze.html?d=nitter.domain.glass)
-* [nitter.himiko.cloud](https://nitter.himiko.cloud) 🇧🇬 Issuer: Let's encrypt [SSLLabs Verification](https://www.ssllabs.com/ssltest/analyze.html?d=nitter.himiko.cloud)
+* [nitter.himiko.cloud](https://nitter.himiko.cloud) 🇧🇬 Issuer: Let's encrypt. [SSLLabs Verification](https://www.ssllabs.com/ssltest/analyze.html?d=nitter.himiko.cloud)
 
 ### Tor Hidden Service
 * [3nzoldnxplag42gqjs23xvghtzf6t6yzssrtytnntc6ppc7xxuoneoad.onion](http://3nzoldnxplag42gqjs23xvghtzf6t6yzssrtytnntc6ppc7xxuoneoad.onion/)
