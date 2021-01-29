@@ -29,17 +29,26 @@ Note: Please add new instances to the bottom to preserve the order.
   Issuer: Let's Encrypt, [SSLLabs Verification](https://www.ssllabs.com/ssltest/analyze.html?d=nitter.cattube.org) 
 * [nitter.fdn.fr](https://nitter.fdn.fr/) 🇫🇷
   Issuer: Let's Encrypt, [SSLLabs Verification](https://www.ssllabs.com/ssltest/analyze.html?d=nitter.fdn.fr)
-* [nitter.1d4.us](https://nitter.1d4.us/) 🇺🇸 Issuer: Let's Encrypt, [SSLLabs Verification](https://www.ssllabs.com/ssltest/analyze.html?d=nitter.1d4.us) - Certificate expired
+* [nitter.1d4.us](https://nitter.1d4.us/) 🇺🇸
+  Issuer: Let's Encrypt, [SSLLabs Verification](https://www.ssllabs.com/ssltest/analyze.html?d=nitter.1d4.us) - Certificate expired
 * [nitter.kavin.rocks](https://nitter.kavin.rocks) 🇮🇳
   Issuer: Cloudflare, [SSLLabs Verification](https://www.ssllabs.com/ssltest/analyze.html?d=nitter.kavin.rocks)
-* [tweet.lambda.dance](https://tweet.lambda.dance)  🇺🇸 Issuer: Let's Encrypt, [SSLLabs Verification](https://www.ssllabs.com/ssltest/analyze.html?d=tweet.lambda.dance)
-* [nitter.cc](https://nitter.cc) 🇷🇸 Issuer: Cloudflare, [SSLLabs Verification](https://www.ssllabs.com/ssltest/analyze.html?d=nitter.cc)
-* [nitter.weaponizedhumiliation.com](https://nitter.weaponizedhumiliation.com)  🇺🇸 Issuer: Let's Encrypt, [SSLLabs Verification](https://www.ssllabs.com/ssltest/analyze.html?d=nitter.weaponizedhumiliation.com)
-* [nitter.vxempire.xyz](https://nitter.vxempire.xyz) 🇪🇸 Issuer: Let's encrypt [SSLLabs Verification](https://www.ssllabs.com/ssltest/analyze.html?d=nitter.vxempire.xyz) Certificate expired
-* [nitter.unixfox.eu](https://nitter.unixfox.eu) 🇳🇱 Issuer: Let's encrypt [SSLLabs Verification](https://www.ssllabs.com/ssltest/analyze.html?d=nitter.unixfox.eu)
+* [tweet.lambda.dance](https://tweet.lambda.dance) 🇺🇸
+  Issuer: Let's Encrypt, [SSLLabs Verification](https://www.ssllabs.com/ssltest/analyze.html?d=tweet.lambda.dance)
+* [nitter.cc](https://nitter.cc) 🇷🇸
+  Issuer: Cloudflare, [SSLLabs Verification](https://www.ssllabs.com/ssltest/analyze.html?d=nitter.cc)
+* [nitter.weaponizedhumiliation.com](https://nitter.weaponizedhumiliation.com) 🇺🇸
+  Issuer: Let's Encrypt, [SSLLabs Verification](https://www.ssllabs.com/ssltest/analyze.html?d=nitter.weaponizedhumiliation.com)
+* [nitter.vxempire.xyz](https://nitter.vxempire.xyz) 🇪🇸
+  Issuer: Let's Encrypt [SSLLabs Verification](https://www.ssllabs.com/ssltest/analyze.html?d=nitter.vxempire.xyz)
+* [nitter.unixfox.eu](https://nitter.unixfox.eu) 🇳🇱
+  Issuer: Let's Encrypt [SSLLabs Verification](https://www.ssllabs.com/ssltest/analyze.html?d=nitter.unixfox.eu)
 * [nitter.domain.glass](https://nitter.domain.glass) 🇺🇸
   Issuer: Cloudflare, [SSLLabs Verification](https://www.ssllabs.com/ssltest/analyze.html?d=nitter.domain.glass)
-* [nitter.himiko.cloud](https://nitter.himiko.cloud) 🇧🇬 Issuer: Let's encrypt. [SSLLabs Verification](https://www.ssllabs.com/ssltest/analyze.html?d=nitter.himiko.cloud)
+* [nitter.himiko.cloud](https://nitter.himiko.cloud) 🇧🇬
+  Issuer: Let's Encrypt. [SSLLabs Verification](https://www.ssllabs.com/ssltest/analyze.html?d=nitter.himiko.cloud)
+* [nitter.eu](https://nitter.eu) 🇫🇮
+  Issuer: Let's Encrypt. [SSLLabs Verification](https://www.ssllabs.com/ssltest/analyze.html?d=nitter.eu)
 
 ### Tor Hidden Service
 * [3nzoldnxplag42gqjs23xvghtzf6t6yzssrtytnntc6ppc7xxuoneoad.onion](http://3nzoldnxplag42gqjs23xvghtzf6t6yzssrtytnntc6ppc7xxuoneoad.onion/)
