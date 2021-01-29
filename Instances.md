@@ -49,6 +49,8 @@ Note: Please add new instances to the bottom to preserve the order.
   Issuer: Let's Encrypt. [SSLLabs Verification](https://www.ssllabs.com/ssltest/analyze.html?d=nitter.himiko.cloud)
 * [nitter.eu](https://nitter.eu) 🇫🇮
   Issuer: Let's Encrypt. [SSLLabs Verification](https://www.ssllabs.com/ssltest/analyze.html?d=nitter.eu)
+* [nitter.ethibox.fr](https://nitter.ethibox.fr) 🇫🇷
+  Issuer: Let's Encrypt. [SSLLabs Verification](https://www.ssllabs.com/ssltest/analyze.html?d=nitter.ethibox.fr)
 
 ### Tor Hidden Service
 * [3nzoldnxplag42gqjs23xvghtzf6t6yzssrtytnntc6ppc7xxuoneoad.onion](http://3nzoldnxplag42gqjs23xvghtzf6t6yzssrtytnntc6ppc7xxuoneoad.onion/)
