@@ -15,7 +15,7 @@ Note: Please add new instances to the bottom to preserve the order.
   Issuer: Let's Encrypt, [SSLLabs Verification](https://www.ssllabs.com/ssltest/analyze.html?d=nitter.42l.fr)
 * [nitter.nixnet.services](https://nitter.nixnet.services/) 🇩🇪
   Issuer: Let's Encrypt, [SSLLabs Verification](https://www.ssllabs.com/ssltest/analyze.html?d=nitter.nixnet.services)
-* [nitter.13ad.de](https://nitter.13ad.de) 🇩🇪
+* ("Error 403" in Jan 2021) [nitter.13ad.de](https://nitter.13ad.de) 🇩🇪
   Issuer: Let's Encrypt, [SSLLabs Verification](https://www.ssllabs.com/ssltest/analyze.html?d=nitter.13ad.de)
 * [nitter.pussthecat.org](https://nitter.pussthecat.org) 🇩🇪
   Issuer: Let's Encrypt, [SSLLabs Verification](https://www.ssllabs.com/ssltest/analyze.html?d=nitter.pussthecat.org)
