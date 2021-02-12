@@ -51,7 +51,7 @@ Note: Please add new instances to the bottom to preserve the order.
   Issuer: Let's Encrypt. [SSLLabs Verification](https://www.ssllabs.com/ssltest/analyze.html?d=nitter.eu)
 * [nitter.ethibox.fr](https://nitter.ethibox.fr) 🇫🇷
   Issuer: Let's Encrypt. [SSLLabs Verification](https://www.ssllabs.com/ssltest/analyze.html?d=nitter.ethibox.fr)
-* [nitter.namazso.eu](https://nitter.namazso.eu) 🇩🇪
+* (Tweets are not displayed in Feb 2021) [nitter.namazso.eu](https://nitter.namazso.eu) 🇩🇪
   Issuer: Let's Encrypt. [SSLLabs Verification](https://www.ssllabs.com/ssltest/analyze.html?d=nitter.namazso.eu)
 
 ### Tor Hidden Service
