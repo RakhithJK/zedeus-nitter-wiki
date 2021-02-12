@@ -15,7 +15,7 @@ Note: Please add new instances to the bottom to preserve the order.
   Issuer: Let's Encrypt, [SSLLabs Verification](https://www.ssllabs.com/ssltest/analyze.html?d=nitter.42l.fr)
 * [nitter.nixnet.services](https://nitter.nixnet.services/) 🇩🇪
   Issuer: Let's Encrypt, [SSLLabs Verification](https://www.ssllabs.com/ssltest/analyze.html?d=nitter.nixnet.services)
-* ("Error 403" in Jan 2021) [nitter.13ad.de](https://nitter.13ad.de) 🇩🇪
+* ("Error 403" in Jan 2021 + Feb 12) [nitter.13ad.de](https://nitter.13ad.de) 🇩🇪
   Issuer: Let's Encrypt, [SSLLabs Verification](https://www.ssllabs.com/ssltest/analyze.html?d=nitter.13ad.de)
 * [nitter.pussthecat.org](https://nitter.pussthecat.org) 🇩🇪
   Issuer: Let's Encrypt, [SSLLabs Verification](https://www.ssllabs.com/ssltest/analyze.html?d=nitter.pussthecat.org)
@@ -39,11 +39,11 @@ Note: Please add new instances to the bottom to preserve the order.
   Issuer: Cloudflare, [SSLLabs Verification](https://www.ssllabs.com/ssltest/analyze.html?d=nitter.cc)
 * [nitter.weaponizedhumiliation.com](https://nitter.weaponizedhumiliation.com) 🇺🇸
   Issuer: Let's Encrypt, [SSLLabs Verification](https://www.ssllabs.com/ssltest/analyze.html?d=nitter.weaponizedhumiliation.com)
-* [nitter.vxempire.xyz](https://nitter.vxempire.xyz) 🇪🇸
+* (Error "503" in Feb 12 2021)[nitter.vxempire.xyz](https://nitter.vxempire.xyz) 🇪🇸
   Issuer: Let's Encrypt [SSLLabs Verification](https://www.ssllabs.com/ssltest/analyze.html?d=nitter.vxempire.xyz)
 * [nitter.unixfox.eu](https://nitter.unixfox.eu) 🇳🇱
   Issuer: Let's Encrypt [SSLLabs Verification](https://www.ssllabs.com/ssltest/analyze.html?d=nitter.unixfox.eu)
-* (Error "523" in Feb 2021) [nitter.domain.glass](https://nitter.domain.glass) 🇺🇸
+* (Error "523" in Feb 12 2021) [nitter.domain.glass](https://nitter.domain.glass) 🇺🇸
   Issuer: Cloudflare, [SSLLabs Verification](https://www.ssllabs.com/ssltest/analyze.html?d=nitter.domain.glass)
 * [nitter.himiko.cloud](https://nitter.himiko.cloud) 🇧🇬
   Issuer: Let's Encrypt. [SSLLabs Verification](https://www.ssllabs.com/ssltest/analyze.html?d=nitter.himiko.cloud)
@@ -51,7 +51,7 @@ Note: Please add new instances to the bottom to preserve the order.
   Issuer: Let's Encrypt. [SSLLabs Verification](https://www.ssllabs.com/ssltest/analyze.html?d=nitter.eu)
 * [nitter.ethibox.fr](https://nitter.ethibox.fr) 🇫🇷
   Issuer: Let's Encrypt. [SSLLabs Verification](https://www.ssllabs.com/ssltest/analyze.html?d=nitter.ethibox.fr)
-* (Tweets are not displayed in Feb 2021) [nitter.namazso.eu](https://nitter.namazso.eu) 🇩🇪
+* (Tweets are not displayed in Feb 12 2021) [nitter.namazso.eu](https://nitter.namazso.eu) 🇩🇪
   Issuer: Let's Encrypt. [SSLLabs Verification](https://www.ssllabs.com/ssltest/analyze.html?d=nitter.namazso.eu)
 
 ### Tor Hidden Service
