@@ -39,7 +39,7 @@ Note: Please add new instances to the bottom to preserve the order.
   Issuer: Cloudflare, [SSLLabs Verification](https://www.ssllabs.com/ssltest/analyze.html?d=nitter.cc)
 * [nitter.weaponizedhumiliation.com](https://nitter.weaponizedhumiliation.com) 🇺🇸
   Issuer: Let's Encrypt, [SSLLabs Verification](https://www.ssllabs.com/ssltest/analyze.html?d=nitter.weaponizedhumiliation.com)
-* (Error "503" in Feb 12 2021)[nitter.vxempire.xyz](https://nitter.vxempire.xyz) 🇪🇸
+* (Slow) [nitter.vxempire.xyz](https://nitter.vxempire.xyz) 🇪🇸
   Issuer: Let's Encrypt [SSLLabs Verification](https://www.ssllabs.com/ssltest/analyze.html?d=nitter.vxempire.xyz)
 * [nitter.unixfox.eu](https://nitter.unixfox.eu) 🇳🇱
   Issuer: Let's Encrypt [SSLLabs Verification](https://www.ssllabs.com/ssltest/analyze.html?d=nitter.unixfox.eu)
