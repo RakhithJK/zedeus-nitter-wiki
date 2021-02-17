@@ -2,8 +2,9 @@
 
 ## Official Instances
 
-* [nitter.net](https://nitter.net) 🇩🇪
-  Issuer: Let's Encrypt, [SSLLabs Verification](https://www.ssllabs.com/ssltest/analyze.html?d=nitter.net)
+| URL                               | Country | Issuer & SSLLabs verification link                                         |
+| :-------------------------------- | :------ | :------------------------------------------------------------------------- |
+| [nitter.net](https://nitter.net/) | 🇩🇪      | [Let's Encrypt](https://www.ssllabs.com/ssltest/analyze.html?d=nitter.net) |
 
 ## List of public Nitter Instances
 Note: Please add new instances to the bottom to preserve the order.
@@ -11,29 +12,29 @@ Note: Please add new instances to the bottom to preserve the order.
 * [nitter.snopyta.org](https://nitter.snopyta.org) 🇫🇮
   Issuer: Let's Encrypt, [SSLLabs Verification](https://www.ssllabs.com/ssltest/analyze.html?d=nitter.snopyta.org)
 -->
-| URL                                                                            | Country                                                   | Issuer & SSLLabs verification link                                                                |
-| :----------------------------------------------------------------------------- | :-------------------------------------------------------- | :------------------------------------------------------------------------------------------------ |
-| [nitter.42l.fr](https://nitter.42l.fr/)                                        | 🇫🇷                                                        | [Let's Encrypt](https://www.ssllabs.com/ssltest/analyze.html?d=nitter.42l.fr)                     |
-| [nitter.nixnet.services](https://nitter.nixnet.services/)                      | 🇩🇪                                                        | [Let's Encrypt](https://www.ssllabs.com/ssltest/analyze.html?d=nitter.nixnet.services)            |
-| ("Error 403" in Jan 2021 + Feb 16)                                             | [nitter.13ad.de](https://nitter.13ad.de) 🇩🇪               | [Let's Encrypt](https://www.ssllabs.com/ssltest/analyze.html?d=nitter.13ad.de)                    |
-| [nitter.pussthecat.org](https://nitter.pussthecat.org)                         | 🇩🇪                                                        | [Let's Encrypt](https://www.ssllabs.com/ssltest/analyze.html?d=nitter.pussthecat.org)             |
-| [nitter.mastodont.cat](https://nitter.mastodont.cat)                           | 🇩🇪                                                        | [Let's Encrypt](https://www.ssllabs.com/ssltest/analyze.html?d=nitter.mastodont.cat)              |
-| [nitter.dark.fail](https://nitter.dark.fail)                                   | 🇺🇸                                                        | [Cloudflare](https://www.ssllabs.com/ssltest/analyze.html?d=nitter.dark.fail)                     |
-| [nitter.tedomum.net](https://nitter.tedomum.net/)                              | 🇫🇷                                                        | [Let's Encrypt](https://www.ssllabs.com/ssltest/analyze.html?d=nitter.tedomum.net)                |
-| [nitter.cattube.org](https://nitter.cattube.org/)                              | 🇩🇪                                                        | [Let's Encrypt](https://www.ssllabs.com/ssltest/analyze.html?d=nitter.cattube.org)                |
-| [nitter.fdn.fr](https://nitter.fdn.fr/)                                        | 🇫🇷                                                        | [Let's Encrypt](https://www.ssllabs.com/ssltest/analyze.html?d=nitter.fdn.fr)                     |
-| [nitter.1d4.us](https://nitter.1d4.us/)                                        | 🇺🇸                                                        | [Let's Encrypt](https://www.ssllabs.com/ssltest/analyze.html?d=nitter.1d4.us)                     |
-| [nitter.kavin.rocks](https://nitter.kavin.rocks)                               | 🇮🇳                                                        | [Cloudflare](https://www.ssllabs.com/ssltest/analyze.html?d=nitter.kavin.rocks)                   |
-| [tweet.lambda.dance](https://tweet.lambda.dance)                               | 🇺🇸                                                        | [Let's Encrypt](https://www.ssllabs.com/ssltest/analyze.html?d=tweet.lambda.dance)                |
-| [nitter.cc](https://nitter.cc)                                                 | 🇷🇸                                                        | [Cloudflare](https://www.ssllabs.com/ssltest/analyze.html?d=nitter.cc)                            |
-| [nitter.weaponizedhumiliation.com](https://nitter.weaponizedhumiliation.com)   | 🇺🇸                                                        | [Let's Encrypt](https://www.ssllabs.com/ssltest/analyze.html?d=nitter.weaponizedhumiliation.com)  |
-| (Slow)                                                                         | [nitter.vxempire.xyz](https://nitter.vxempire.xyz) 🇪🇸     | [Let's Encrypt](https://www.ssllabs.com/ssltest/analyze.html?d=nitter.vxempire.xyz)               |
-| [nitter.unixfox.eu](https://nitter.unixfox.eu)                                 | 🇳🇱                                                        | [Let's Encrypt](https://www.ssllabs.com/ssltest/analyze.html?d=nitter.unixfox.eu)                 |
-| (Error "523" on Feb 16 2021)                                                   | [nitter.domain.glass](https://nitter.domain.glass) 🇺🇸     | [Cloudflare](https://www.ssllabs.com/ssltest/analyze.html?d=nitter.domain.glass)                  |
-| [nitter.himiko.cloud](https://nitter.himiko.cloud)                             | 🇧🇬                                                        | [Let's Encrypt](https://www.ssllabs.com/ssltest/analyze.html?d=nitter.himiko.cloud)               |
-| [nitter.eu](https://nitter.eu)                                                 | 🇫🇮                                                        | [Let's Encrypt](https://www.ssllabs.com/ssltest/analyze.html?d=nitter.eu)                         |
-| [nitter.ethibox.fr](https://nitter.ethibox.fr)                                 | 🇫🇷                                                        | [Let's Encrypt](https://www.ssllabs.com/ssltest/analyze.html?d=nitter.ethibox.fr)                 |
-| [nitter.namazso.eu](https://nitter.namazso.eu)                                 | 🇩🇪                                                        | [Let's Encrypt](https://www.ssllabs.com/ssltest/analyze.html?d=nitter.namazso.eu)                 |
+| URL                                                                             | Country                                                   | Issuer & SSLLabs verification link                                                                |
+| :------------------------------------------------------------------------------ | :-------------------------------------------------------- | :------------------------------------------------------------------------------------------------ |
+| [nitter.42l.fr](https://nitter.42l.fr/)                                         | 🇫🇷                                                        | [Let's Encrypt](https://www.ssllabs.com/ssltest/analyze.html?d=nitter.42l.fr)                     |
+| [nitter.nixnet.services](https://nitter.nixnet.services/)                       | 🇩🇪                                                        | [Let's Encrypt](https://www.ssllabs.com/ssltest/analyze.html?d=nitter.nixnet.services)            |
+| [nitter.13ad.de](https://nitter.13ad.de) ("Error 403" in Feb 17 2021)           | 🇩🇪                                                        | [Let's Encrypt](https://www.ssllabs.com/ssltest/analyze.html?d=nitter.13ad.de)                    |
+| [nitter.pussthecat.org](https://nitter.pussthecat.org)                          | 🇩🇪                                                        | [Let's Encrypt](https://www.ssllabs.com/ssltest/analyze.html?d=nitter.pussthecat.org)             |
+| [nitter.mastodont.cat](https://nitter.mastodont.cat) (Defunct Feb 17 2021)      | 🇩🇪                                                        | [Let's Encrypt](https://www.ssllabs.com/ssltest/analyze.html?d=nitter.mastodont.cat)              |
+| [nitter.dark.fail](https://nitter.dark.fail) (Search redirects to @DarkDotFail) | 🇺🇸                                                        | [Cloudflare](https://www.ssllabs.com/ssltest/analyze.html?d=nitter.dark.fail)                     |
+| [nitter.tedomum.net](https://nitter.tedomum.net/)                               | 🇫🇷                                                        | [Let's Encrypt](https://www.ssllabs.com/ssltest/analyze.html?d=nitter.tedomum.net)                |
+| [nitter.cattube.org](https://nitter.cattube.org/) (Defunct Feb 17 2021)         | 🇩🇪                                                        | [Let's Encrypt](https://www.ssllabs.com/ssltest/analyze.html?d=nitter.cattube.org)                |
+| [nitter.fdn.fr](https://nitter.fdn.fr/)                                         | 🇫🇷                                                        | [Let's Encrypt](https://www.ssllabs.com/ssltest/analyze.html?d=nitter.fdn.fr)                     |
+| [nitter.1d4.us](https://nitter.1d4.us/)                                         | 🇺🇸                                                        | [Let's Encrypt](https://www.ssllabs.com/ssltest/analyze.html?d=nitter.1d4.us)                     |
+| [nitter.kavin.rocks](https://nitter.kavin.rocks)                                | 🇮🇳                                                        | [Cloudflare](https://www.ssllabs.com/ssltest/analyze.html?d=nitter.kavin.rocks)                   |
+| [tweet.lambda.dance](https://tweet.lambda.dance)                                | 🇺🇸                                                        | [Let's Encrypt](https://www.ssllabs.com/ssltest/analyze.html?d=tweet.lambda.dance)                |
+| [nitter.cc](https://nitter.cc)                                                  | 🇷🇸                                                        | [Cloudflare](https://www.ssllabs.com/ssltest/analyze.html?d=nitter.cc)                            |
+| [nitter.weaponizedhumiliation.com](https://nitter.weaponizedhumiliation.com)    | 🇺🇸                                                        | [Let's Encrypt](https://www.ssllabs.com/ssltest/analyze.html?d=nitter.weaponizedhumiliation.com)  |
+| [nitter.vxempire.xyz](https://nitter.vxempire.xyz) (Slow Feb 17 2021)           | 🇪🇸                                                        | [Let's Encrypt](https://www.ssllabs.com/ssltest/analyze.html?d=nitter.vxempire.xyz)               |
+| [nitter.unixfox.eu](https://nitter.unixfox.eu)                                  | 🇳🇱                                                        | [Let's Encrypt](https://www.ssllabs.com/ssltest/analyze.html?d=nitter.unixfox.eu)                 |
+| [nitter.domain.glass](https://nitter.domain.glass) (Error "523" on Feb 17 2021) | 🇺🇸                                                        | [Cloudflare](https://www.ssllabs.com/ssltest/analyze.html?d=nitter.domain.glass)                  |
+| [nitter.himiko.cloud](https://nitter.himiko.cloud)                              | 🇧🇬                                                        | [Let's Encrypt](https://www.ssllabs.com/ssltest/analyze.html?d=nitter.himiko.cloud)               |
+| [nitter.eu](https://nitter.eu)                                                  | 🇫🇮                                                        | [Let's Encrypt](https://www.ssllabs.com/ssltest/analyze.html?d=nitter.eu)                         |
+| [nitter.ethibox.fr](https://nitter.ethibox.fr) (Slow Feb 17 2021)               | 🇫🇷                                                        | [Let's Encrypt](https://www.ssllabs.com/ssltest/analyze.html?d=nitter.ethibox.fr)                 |
+| [nitter.namazso.eu](https://nitter.namazso.eu)                                  | 🇩🇪                                                        | [Let's Encrypt](https://www.ssllabs.com/ssltest/analyze.html?d=nitter.namazso.eu)                 |
 
 ### Tor Hidden Service
 * [3nzoldnxplag42gqjs23xvghtzf6t6yzssrtytnntc6ppc7xxuoneoad.onion](http://3nzoldnxplag42gqjs23xvghtzf6t6yzssrtytnntc6ppc7xxuoneoad.onion/)
