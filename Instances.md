@@ -9,7 +9,7 @@
 ## List of public Nitter Instances
 Note: Please add new instances to the bottom to preserve the order.
 <!-- hide it from the top, otherwise it might get as popular as invidious
-* [nitter.snopyta.org](https://nitter.snopyta.org) 🇫🇮
+* &#9989; [nitter.snopyta.org](https://nitter.snopyta.org) 🇫🇮
   Issuer: Let's Encrypt, [SSLLabs Verification](https://www.ssllabs.com/ssltest/analyze.html?d=nitter.snopyta.org)
 -->
 | URL                                                                             | Country                                                   | Issuer & SSLLabs verification link                                                                |
