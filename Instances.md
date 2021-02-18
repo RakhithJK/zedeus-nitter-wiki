@@ -45,3 +45,11 @@ Note: Please add new instances to the bottom to preserve the order.
 
 ### I2P Hidden Services
 * [nitter.i2p](http://axd6uavsstsrvstva4mzlzh4ct76rc6zdug3nxdgeitrzczhzf4q.b32.i2p/)
+
+## List of defuncted Nitter Instances
+| URL                               |
+| :-------------------------------- |
+| Will be created in March 2021     |
+
+
+
