@@ -12,7 +12,7 @@ Note: Please add new instances to the bottom to preserve the order.
 * [nitter.snopyta.org](https://nitter.snopyta.org) 🇫🇮
   Issuer: Let's Encrypt, [SSLLabs Verification](https://www.ssllabs.com/ssltest/analyze.html?d=nitter.snopyta.org)
 -->
-| URL                                                                             | Country                                                   | Issuer & SSLLabs verification link                                                                |
+| Status | URL                                                                             | Country                                                   | Issuer & SSLLabs verification link                                                                |
 | :------------------------------------------------------------------------------ | :-------------------------------------------------------- | :------------------------------------------------------------------------------------------------ |
 | &#10004; | [nitter.42l.fr](https://nitter.42l.fr/)                                         | 🇫🇷                                                        | [Let's Encrypt](https://www.ssllabs.com/ssltest/analyze.html?d=nitter.42l.fr)                     |
 | [nitter.nixnet.services](https://nitter.nixnet.services/)                       | 🇩🇪                                                        | [Let's Encrypt](https://www.ssllabs.com/ssltest/analyze.html?d=nitter.nixnet.services)            |
