@@ -4,12 +4,12 @@
 
 | URL                               | Country | Issuer & SSLLabs verification link                                         |
 | :-------------------------------- | :------ | :------------------------------------------------------------------------- |
-| [nitter.net](https://nitter.net/) | 🇩🇪      | [Let's Encrypt](https://www.ssllabs.com/ssltest/analyze.html?d=nitter.net) |
+| &#9989; [nitter.net](https://nitter.net/) | 🇩🇪      | [Let's Encrypt](https://www.ssllabs.com/ssltest/analyze.html?d=nitter.net) |
 
 ## List of public Nitter Instances
 Note: Please add new instances to the bottom to preserve the order.
 <!-- hide it from the top, otherwise it might get as popular as invidious
-* &#9989; [nitter.snopyta.org](https://nitter.snopyta.org) 🇫🇮
+* [nitter.snopyta.org](https://nitter.snopyta.org) 🇫🇮
   Issuer: Let's Encrypt, [SSLLabs Verification](https://www.ssllabs.com/ssltest/analyze.html?d=nitter.snopyta.org)
 -->
 | URL                                                                             | Country                                                   | Issuer & SSLLabs verification link                                                                |
