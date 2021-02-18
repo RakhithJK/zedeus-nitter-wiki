@@ -2,7 +2,7 @@
 
 ## Official Instances
 
-| URL                               | Country | Issuer & SSLLabs verification link                                         |
+| Status | URL                               | Country | Issuer & SSLLabs verification link                                         |
 | :-------------------------------- | :------ | :------------------------------------------------------------------------- |
 | [nitter.net](https://nitter.net/) | 🇩🇪      | [Let's Encrypt](https://www.ssllabs.com/ssltest/analyze.html?d=nitter.net) |
 
