@@ -36,6 +36,8 @@ Note: Please add new instances to the bottom to preserve the order.
 | &#128012; | [nitter.ethibox.fr](https://nitter.ethibox.fr) (Slow Feb 17 2021)               | 🇫🇷                                                        | [Let's Encrypt](https://www.ssllabs.com/ssltest/analyze.html?d=nitter.ethibox.fr)                 |
 | &#9989; | [nitter.namazso.eu](https://nitter.namazso.eu)                                  | 🇩🇪                                                        | [Let's Encrypt](https://www.ssllabs.com/ssltest/analyze.html?d=nitter.namazso.eu)                 |
 
+[HINT: Quickly choose a random server from the list (from 1 to 15) ](https://www.random.org/integers/?num=1&min=1&max=15&col=1&base=10&format=plain&rnd=new)
+
 ### Tor Hidden Service
 * [3nzoldnxplag42gqjs23xvghtzf6t6yzssrtytnntc6ppc7xxuoneoad.onion](http://3nzoldnxplag42gqjs23xvghtzf6t6yzssrtytnntc6ppc7xxuoneoad.onion/)
 * [nitter.l4qlywnpwqsluw65ts7md3khrivpirse744un3x7mlskqauz5pyuzgqd.onion](http://nitter.l4qlywnpwqsluw65ts7md3khrivpirse744un3x7mlskqauz5pyuzgqd.onion/)
