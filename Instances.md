@@ -21,7 +21,6 @@ Note: Please add new instances to the bottom to preserve the order.
 | &#10060; | [nitter.mastodont.cat](https://nitter.mastodont.cat) (Defunct Feb 17 2021)      | 🇩🇪                                                        | [Let's Encrypt](https://www.ssllabs.com/ssltest/analyze.html?d=nitter.mastodont.cat)              |
 | &#9989; | [nitter.dark.fail](https://nitter.dark.fail) (Search redirects to @DarkDotFail) | 🇺🇸                                                        | [Cloudflare](https://www.ssllabs.com/ssltest/analyze.html?d=nitter.dark.fail)                     |
 | &#9989; | [nitter.tedomum.net](https://nitter.tedomum.net/)                               | 🇫🇷                                                        | [Let's Encrypt](https://www.ssllabs.com/ssltest/analyze.html?d=nitter.tedomum.net)                |
-| &#10060; | [nitter.cattube.org](https://nitter.cattube.org/) (Defunct Feb 17 2021)         | 🇩🇪                                                        | [Let's Encrypt](https://www.ssllabs.com/ssltest/analyze.html?d=nitter.cattube.org)                |
 | &#9989; | [nitter.fdn.fr](https://nitter.fdn.fr/)                                         | 🇫🇷                                                        | [Let's Encrypt](https://www.ssllabs.com/ssltest/analyze.html?d=nitter.fdn.fr)                     |
 | &#9989; | [nitter.1d4.us](https://nitter.1d4.us/)                                         | 🇺🇸                                                        | [Let's Encrypt](https://www.ssllabs.com/ssltest/analyze.html?d=nitter.1d4.us)                     |
 | &#9989; | [nitter.kavin.rocks](https://nitter.kavin.rocks)                                | 🇮🇳                                                        | [Cloudflare](https://www.ssllabs.com/ssltest/analyze.html?d=nitter.kavin.rocks)                   |
@@ -47,9 +46,10 @@ Note: Please add new instances to the bottom to preserve the order.
 * [nitter.i2p](http://axd6uavsstsrvstva4mzlzh4ct76rc6zdug3nxdgeitrzczhzf4q.b32.i2p/)
 
 ## List of defuncted Nitter Instances
-| URL                               |
-| :-------------------------------- |
-| Will be created in March 2021     |
+| | URL                                                                             | Country                                                   | Issuer & SSLLabs verification link                                                              |
+| :------- | :------------------------------------------------------------------------------ | :-------------------------------------------------------- | :------------------------------------------------------------------------------------------------ |
+| &#10060; | [nitter.cattube.org](https://nitter.cattube.org/) (Defunct Feb 17 2021) (nowa peertube instance ?!) | 🇩🇪                                                        | [Let's Encrypt](https://www.ssllabs.com/ssltest/analyze.html?d=nitter.cattube.org)                |
+
 
 
 
