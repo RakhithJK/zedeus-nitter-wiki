@@ -48,7 +48,7 @@ Note: Please add new instances to the bottom to preserve the order.
 ## List of defuncted Nitter Instances
 | | URL                                                                             | Country                                                   | Issuer & SSLLabs verification link                                                              |
 | :------- | :------------------------------------------------------------------------------ | :-------------------------------------------------------- | :------------------------------------------------------------------------------------------------ |
-| &#10060; | [nitter.cattube.org](https://nitter.cattube.org/) (Defunct Feb 17 2021) (nowa peertube instance ?!) | 🇩🇪                                                        | [Let's Encrypt](https://www.ssllabs.com/ssltest/analyze.html?d=nitter.cattube.org)                |
+| &#10060; | [nitter.cattube.org](https://nitter.cattube.org/) (Defunct Feb 17 2021) | 🇩🇪                                                        | [Let's Encrypt](https://www.ssllabs.com/ssltest/analyze.html?d=nitter.cattube.org)                |
 
 
 
