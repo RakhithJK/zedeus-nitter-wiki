@@ -2,9 +2,9 @@
 
 ## Official Instances
 
-| URL                               | Country | Issuer & SSLLabs verification link                                         |
+|          | URL                               | Country | Issuer & SSLLabs verification link                                         |
 | :------- | :-------------------------------- | :------ | :------------------------------------------------------------------------- |
-| &#9989; | [nitter.net](https://nitter.net/) | 🇩🇪      | [Let's Encrypt](https://www.ssllabs.com/ssltest/analyze.html?d=nitter.net) |
+| &#9989;  | [nitter.net](https://nitter.net/) | 🇩🇪      | [Let's Encrypt](https://www.ssllabs.com/ssltest/analyze.html?d=nitter.net) |
 
 ## List of public Nitter Instances
 Note: Please add new instances to the bottom to preserve the order.
