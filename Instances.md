@@ -34,6 +34,7 @@ Note: Please add new instances to the bottom to preserve the order.
 | &#9989; | [nitter.eu](https://nitter.eu)                                                  | 🇫🇮                                                        | [Let's Encrypt](https://www.ssllabs.com/ssltest/analyze.html?d=nitter.eu)                         |
 | &#128012; | [nitter.ethibox.fr](https://nitter.ethibox.fr) (Slow Feb 17 2021)               | 🇫🇷                                                        | [Let's Encrypt](https://www.ssllabs.com/ssltest/analyze.html?d=nitter.ethibox.fr)                 |
 | &#9989; | [nitter.namazso.eu](https://nitter.namazso.eu)                                  | 🇩🇪                                                        | [Let's Encrypt](https://www.ssllabs.com/ssltest/analyze.html?d=nitter.namazso.eu)                 |
+| &#9989; | [nitter.mailstation.de](https://nitter.mailstation.de)                                  | 🇩🇪                                                        | [Let's Encrypt](https://www.ssllabs.com/ssltest/analyze.html?d=nitter.mailstation.de)                 |
 
 ### Tor Hidden Service
 |    | URL                                                                                                                                                    |
