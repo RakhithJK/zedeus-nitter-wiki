@@ -34,7 +34,8 @@ Note: Please add new instances to the bottom to preserve the order.
 | &#128012; | [nitter.ethibox.fr](https://nitter.ethibox.fr) (Slow Feb 17 2021)               | 🇫🇷                                                        | [Let's Encrypt](https://www.ssllabs.com/ssltest/analyze.html?d=nitter.ethibox.fr)                 |
 | &#9989; | [nitter.namazso.eu](https://nitter.namazso.eu)                                  | 🇩🇪                                                        | [Let's Encrypt](https://www.ssllabs.com/ssltest/analyze.html?d=nitter.namazso.eu)                 |
 | &#9989; | [nitter.mailstation.de](https://nitter.mailstation.de)                                  | 🇩🇪                                                        | [Let's Encrypt](https://www.ssllabs.com/ssltest/analyze.html?d=nitter.mailstation.de)                 |
-| &#9989; | [nitter.actionsack.com](https://nitter.actionsack.com)                         | 🇺🇸                                                   | [Cloudflare](https://www.ssllabs.com/ssltest/analyze.html?d=nitter.actionsack.com)                |
+| &#9989; | [nitter.actionsack.com](https://nitter.actionsack.com) | 🇺🇸 | [Cloudflare](https://www.ssllabs.com/ssltest/analyze.html?d=nitter.actionsack.com)   |
+| &#9989; | [nitter.cattube.org](https://nitter.cattube.org/)      | 🇩🇪 | [Let's Encrypt](https://www.ssllabs.com/ssltest/analyze.html?d=nitter.cattube.org)      |
 
 ### Tor Hidden Service
 |    | URL                                                                                                                                                    |
@@ -51,5 +52,4 @@ Note: Please add new instances to the bottom to preserve the order.
 ## List of defuncted Nitter Instances
 | | URL                                                                             | Country                                                   | Issuer & SSLLabs verification link                                                              |
 | :------- | :------------------------------------------------------------------------------ | :-------------------------------------------------------- | :------------------------------------------------------------------------------------------------ |
-| &#10060; | [nitter.cattube.org](https://nitter.cattube.org/) (Defunct 2021-02-17) | 🇩🇪 | [Let's Encrypt](https://www.ssllabs.com/ssltest/analyze.html?d=nitter.cattube.org) |
 | &#10060; | [nitter.dark.fail](https://nitter.dark.fail) (Defunct 2021-02-22)      | 🇺🇸 | [Cloudflare](https://www.ssllabs.com/ssltest/analyze.html?d=nitter.dark.fail)   |
