@@ -32,12 +32,11 @@ Note: Please add new instances to the bottom to preserve the order.
 | &#128012; | [nitter.ethibox.fr](https://nitter.ethibox.fr) (Slow Feb 17 2021)             | 🇫🇷                                                        | [Let's Encrypt](https://www.ssllabs.com/ssltest/analyze.html?d=nitter.ethibox.fr)                 |
 | ✅ | [nitter.namazso.eu](https://nitter.namazso.eu)                                  | 🇩🇪                                                        | [Let's Encrypt](https://www.ssllabs.com/ssltest/analyze.html?d=nitter.namazso.eu)                 |
 | ✅ | [nitter.mailstation.de](https://nitter.mailstation.de)                          | 🇩🇪                                                        | [Let's Encrypt](https://www.ssllabs.com/ssltest/analyze.html?d=nitter.mailstation.de)             |
-| ✅ | [nitter.actionsack.com](https://nitter.actionsack.com)                          | 🇺🇸
-| [Cloudflare](https://www.ssllabs.com/ssltest/analyze.html?d=nitter.actionsack.com) |
+| ✅ | [nitter.actionsack.com](https://nitter.actionsack.com)                          | 🇺🇸                                                        | [Cloudflare](https://www.ssllabs.com/ssltest/analyze.html?d=nitter.actionsack.com)                |
 | ✅ | [nitter.cattube.org](https://nitter.cattube.org/)                               | 🇩🇪 
-| [Let's Encrypt](https://www.ssllabs.com/ssltest/analyze.html?d=nitter.cattube.org) |
+| [Let's Encrypt](https://www.ssllabs.com/ssltest/analyze.html?d=nitter.cattube.org)                |
 | ✅ | [nitter.dark.fail](https://nitter.dark.fail)                                    | 🇺🇸 
-| [Cloudflare](https://www.ssllabs.com/ssltest/analyze.html?d=nitter.dark.fail) |
+| [Cloudflare](https://www.ssllabs.com/ssltest/analyze.html?d=nitter.dark.fail)                     |
 
 ### Tor Hidden Service
 |    | URL                                                                                                                                                    |
