@@ -49,10 +49,10 @@ Note: Please add new instances to the bottom to preserve the order.
 * [nitter.i2p](http://axd6uavsstsrvstva4mzlzh4ct76rc6zdug3nxdgeitrzczhzf4q.b32.i2p/)
 
 ## List of defuncted Nitter Instances
-| | URL                                                                             | Country                                                   | Issuer & SSLLabs verification link                                                              |
+|          | URL                                                                             | Country                                                   | Issuer & SSLLabs verification link                                                              |
 | :------- | :------------------------------------------------------------------------------ | :-------------------------------------------------------- | :------------------------------------------------------------------------------------------------ |
 <!-- Hey buds ! plz not defunct servers only because one day he was unreachable ;) TKS -->
-| &#10060; | [nitter.13ad.de](https://nitter.13ad.de) ("Error 403" in Feb 17+23 2021)        |
-🇩🇪         | [Let's Encrypt](https://www.ssllabs.com/ssltest/analyze.html?d=nitter.13ad.de)         |
-| &#10060; | [nitter.pussthecat.org](https://nitter.pussthecat.org) (502 Bad Gateway)        | 🇩🇪                                                        | [Let's Encrypt](https://www.ssllabs.com/ssltest/analyze.html?d=nitter.pussthecat.org)             |
+| &#10060; | [nitter.13ad.de](https://nitter.13ad.de) ("Error 403" in Feb 17+23 2021)        | 🇩🇪 
+| [Let's Encrypt](https://www.ssllabs.com/ssltest/analyze.html?d=nitter.13ad.de)                  |
+| &#10060; | [nitter.pussthecat.org](https://nitter.pussthecat.org) (502 Bad Gateway)        | 🇩🇪                                                        | [Let's Encrypt](https://www.ssllabs.com/ssltest/analyze.html?d=nitter.pussthecat.org)           |
 
