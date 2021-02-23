@@ -13,7 +13,7 @@ Note: Please add new instances to the bottom to preserve the order.
   Issuer: Let's Encrypt, [SSLLabs Verification](https://www.ssllabs.com/ssltest/analyze.html?d=nitter.snopyta.org)
 -->
 | | URL                                                                             | Country                                                   | Issuer & SSLLabs verification link                                                              |
-| :------- | :------------------------------------------------------------------------------ | :-------------------------------------------------------- | :------------------------------------------------------------------------------------------------ |
+| :------- | :----------------------------------------------------------------------------- | :-------------------------------------------------------- | :-------------------------------------------------------------------------------------------------- |
 | &#9989; | [nitter.42l.fr](https://nitter.42l.fr/)                                         | 🇫🇷                                                        | [Let's Encrypt](https://www.ssllabs.com/ssltest/analyze.html?d=nitter.42l.fr)                     |
 | &#9989; | [nitter.nixnet.services](https://nitter.nixnet.services/)                       | 🇩🇪                                                        | [Let's Encrypt](https://www.ssllabs.com/ssltest/analyze.html?d=nitter.nixnet.services)            |
 | &#9989; | [nitter.mastodont.cat](https://nitter.mastodont.cat)                            | 🇩🇪                                                        | [Let's Encrypt](https://www.ssllabs.com/ssltest/analyze.html?d=nitter.mastodont.cat)              |
@@ -24,17 +24,20 @@ Note: Please add new instances to the bottom to preserve the order.
 | &#9989; | [tweet.lambda.dance](https://tweet.lambda.dance)                                | 🇺🇸                                                        | [Let's Encrypt](https://www.ssllabs.com/ssltest/analyze.html?d=tweet.lambda.dance)                |
 | &#9989; | [nitter.cc](https://nitter.cc)                                                  | 🇷🇸                                                        | [Cloudflare](https://www.ssllabs.com/ssltest/analyze.html?d=nitter.cc)                            |
 | &#9989; | [nitter.weaponizedhumiliation.com](https://nitter.weaponizedhumiliation.com)    | 🇺🇸                                                        | [Let's Encrypt](https://www.ssllabs.com/ssltest/analyze.html?d=nitter.weaponizedhumiliation.com)  |
-| &#128012; | [nitter.vxempire.xyz](https://nitter.vxempire.xyz) (Slow Feb 17 2021)           | 🇪🇸                                                        | [Let's Encrypt](https://www.ssllabs.com/ssltest/analyze.html?d=nitter.vxempire.xyz)               |
+| &#128012; | [nitter.vxempire.xyz](https://nitter.vxempire.xyz) (Slow Feb 17 2021)         | 🇪🇸                                                        | [Let's Encrypt](https://www.ssllabs.com/ssltest/analyze.html?d=nitter.vxempire.xyz)               |
 | &#9989; | [nitter.unixfox.eu](https://nitter.unixfox.eu)                                  | 🇳🇱                                                        | [Let's Encrypt](https://www.ssllabs.com/ssltest/analyze.html?d=nitter.unixfox.eu)                 |
-| &#9989; | [nitter.domain.glass](https://nitter.domain.glass)                             | 🇺🇸                                                        | [Cloudflare](https://www.ssllabs.com/ssltest/analyze.html?d=nitter.domain.glass)                  |
+| &#9989; | [nitter.domain.glass](https://nitter.domain.glass)                              | 🇺🇸                                                        | [Cloudflare](https://www.ssllabs.com/ssltest/analyze.html?d=nitter.domain.glass)                  |
 | &#9989; | [nitter.himiko.cloud](https://nitter.himiko.cloud)                              | 🇧🇬                                                        | [Let's Encrypt](https://www.ssllabs.com/ssltest/analyze.html?d=nitter.himiko.cloud)               |
 | &#9989; | [nitter.eu](https://nitter.eu)                                                  | 🇫🇮                                                        | [Let's Encrypt](https://www.ssllabs.com/ssltest/analyze.html?d=nitter.eu)                         |
-| &#128012; | [nitter.ethibox.fr](https://nitter.ethibox.fr) (Slow Feb 17 2021)               | 🇫🇷                                                        | [Let's Encrypt](https://www.ssllabs.com/ssltest/analyze.html?d=nitter.ethibox.fr)                 |
+| &#128012; | [nitter.ethibox.fr](https://nitter.ethibox.fr) (Slow Feb 17 2021)             | 🇫🇷                                                        | [Let's Encrypt](https://www.ssllabs.com/ssltest/analyze.html?d=nitter.ethibox.fr)                 |
 | &#9989; | [nitter.namazso.eu](https://nitter.namazso.eu)                                  | 🇩🇪                                                        | [Let's Encrypt](https://www.ssllabs.com/ssltest/analyze.html?d=nitter.namazso.eu)                 |
-| &#9989; | [nitter.mailstation.de](https://nitter.mailstation.de)                                  | 🇩🇪                                                        | [Let's Encrypt](https://www.ssllabs.com/ssltest/analyze.html?d=nitter.mailstation.de)                 |
-| &#9989; | [nitter.actionsack.com](https://nitter.actionsack.com) | 🇺🇸 | [Cloudflare](https://www.ssllabs.com/ssltest/analyze.html?d=nitter.actionsack.com)   |
-| &#9989; | [nitter.cattube.org](https://nitter.cattube.org/)      | 🇩🇪 | [Let's Encrypt](https://www.ssllabs.com/ssltest/analyze.html?d=nitter.cattube.org)      |
-| &#9989; | [nitter.dark.fail](https://nitter.dark.fail)           | 🇺🇸 | [Cloudflare](https://www.ssllabs.com/ssltest/analyze.html?d=nitter.dark.fail)   |
+| &#9989; | [nitter.mailstation.de](https://nitter.mailstation.de)                          | 🇩🇪                                                        | [Let's Encrypt](https://www.ssllabs.com/ssltest/analyze.html?d=nitter.mailstation.de)             |
+| &#9989; | [nitter.actionsack.com](https://nitter.actionsack.com)                          | 🇺🇸
+| [Cloudflare](https://www.ssllabs.com/ssltest/analyze.html?d=nitter.actionsack.com)                |
+| &#9989; | [nitter.cattube.org](https://nitter.cattube.org/)                               | 🇩🇪 
+| [Let's Encrypt](https://www.ssllabs.com/ssltest/analyze.html?d=nitter.cattube.org)                |
+| &#9989; | [nitter.dark.fail](https://nitter.dark.fail)                                    | 🇺🇸 
+| [Cloudflare](https://www.ssllabs.com/ssltest/analyze.html?d=nitter.dark.fail)                     |
 
 ### Tor Hidden Service
 |    | URL                                                                                                                                                    |
