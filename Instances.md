@@ -16,8 +16,6 @@ Note: Please add new instances to the bottom to preserve the order.
 | :------- | :------------------------------------------------------------------------------ | :-------------------------------------------------------- | :------------------------------------------------------------------------------------------------ |
 | &#9989; | [nitter.42l.fr](https://nitter.42l.fr/)                                         | 🇫🇷                                                        | [Let's Encrypt](https://www.ssllabs.com/ssltest/analyze.html?d=nitter.42l.fr)                     |
 | &#9989; | [nitter.nixnet.services](https://nitter.nixnet.services/)                       | 🇩🇪                                                        | [Let's Encrypt](https://www.ssllabs.com/ssltest/analyze.html?d=nitter.nixnet.services)            |
-| &#10060; | [nitter.13ad.de](https://nitter.13ad.de) ("Error 403" in Feb 17 2021)           | 🇩🇪                                                        | [Let's Encrypt](https://www.ssllabs.com/ssltest/analyze.html?d=nitter.13ad.de)                    |
-| &#10060; | [nitter.pussthecat.org](https://nitter.pussthecat.org) (502 Bad Gateway)       | 🇩🇪                                                        | [Let's Encrypt](https://www.ssllabs.com/ssltest/analyze.html?d=nitter.pussthecat.org)             |
 | &#9989; | [nitter.mastodont.cat](https://nitter.mastodont.cat)                            | 🇩🇪                                                        | [Let's Encrypt](https://www.ssllabs.com/ssltest/analyze.html?d=nitter.mastodont.cat)              |
 | &#9989; | [nitter.tedomum.net](https://nitter.tedomum.net/)                               | 🇫🇷                                                        | [Let's Encrypt](https://www.ssllabs.com/ssltest/analyze.html?d=nitter.tedomum.net)                |
 | &#9989; | [nitter.fdn.fr](https://nitter.fdn.fr/)                                         | 🇫🇷                                                        | [Let's Encrypt](https://www.ssllabs.com/ssltest/analyze.html?d=nitter.fdn.fr)                     |
@@ -36,6 +34,7 @@ Note: Please add new instances to the bottom to preserve the order.
 | &#9989; | [nitter.mailstation.de](https://nitter.mailstation.de)                                  | 🇩🇪                                                        | [Let's Encrypt](https://www.ssllabs.com/ssltest/analyze.html?d=nitter.mailstation.de)                 |
 | &#9989; | [nitter.actionsack.com](https://nitter.actionsack.com) | 🇺🇸 | [Cloudflare](https://www.ssllabs.com/ssltest/analyze.html?d=nitter.actionsack.com)   |
 | &#9989; | [nitter.cattube.org](https://nitter.cattube.org/)      | 🇩🇪 | [Let's Encrypt](https://www.ssllabs.com/ssltest/analyze.html?d=nitter.cattube.org)      |
+| &#9989; | [nitter.dark.fail](https://nitter.dark.fail)           | 🇺🇸 | [Cloudflare](https://www.ssllabs.com/ssltest/analyze.html?d=nitter.dark.fail)   |
 
 ### Tor Hidden Service
 |    | URL                                                                                                                                                    |
@@ -52,4 +51,6 @@ Note: Please add new instances to the bottom to preserve the order.
 ## List of defuncted Nitter Instances
 | | URL                                                                             | Country                                                   | Issuer & SSLLabs verification link                                                              |
 | :------- | :------------------------------------------------------------------------------ | :-------------------------------------------------------- | :------------------------------------------------------------------------------------------------ |
-| &#10060; | [nitter.dark.fail](https://nitter.dark.fail) (Defunct 2021-02-22)      | 🇺🇸 | [Cloudflare](https://www.ssllabs.com/ssltest/analyze.html?d=nitter.dark.fail)   |
+| &#10060; | [nitter.13ad.de](https://nitter.13ad.de) ("Error 403" in Feb 17+23 2021)           | 🇩🇪                                                        | [Let's Encrypt](https://www.ssllabs.com/ssltest/analyze.html?d=nitter.13ad.de)                    |
+| &#10060; | [nitter.pussthecat.org](https://nitter.pussthecat.org) (502 Bad Gateway)       | 🇩🇪                                                        | [Let's Encrypt](https://www.ssllabs.com/ssltest/analyze.html?d=nitter.pussthecat.org)             |
+
