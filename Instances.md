@@ -58,5 +58,3 @@ Hey buds ! plz not defunct servers only because one day he was unreachable ;) TK
 | :------- | :------------------------------------------------------------------------------ | :-------------
 | :--------------------------------------------------------                                       |
 | &#10060; | [nitter.13ad.de](https://nitter.13ad.de) ("Error 403" in Feb 17+23 2021)        | 🇩🇪                                                        | [Let's Encrypt](https://www.ssllabs.com/ssltest/analyze.html?d=nitter.13ad.de)                  |
-| &#10060; | [nitter.pussthecat.org](https://nitter.pussthecat.org) (502 Bad Gateway)        | 🇩🇪                                                        | [Let's Encrypt](https://www.ssllabs.com/ssltest/analyze.html?d=nitter.pussthecat.org)           |
-
