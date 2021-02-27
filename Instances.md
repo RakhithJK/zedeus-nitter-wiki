@@ -2,7 +2,7 @@
 
 ## Official Instances
 
-|          | URL                               | Country | Issuer & SSLLabs verification link                                         |
+|          | URL                               | Country | Issuer & SSLLabs verification&nbsp;link                                         |
 | :------- | :-------------------------------- | :------ | :------------------------------------------------------------------------- |
 | &#9989;  | [nitter.net](https://nitter.net/) | 🇩🇪      | [Let's Encrypt](https://www.ssllabs.com/ssltest/analyze.html?d=nitter.net) |
 
@@ -12,7 +12,7 @@ Note: Please add new instances to the bottom to preserve the order.
 * [nitter.snopyta.org](https://nitter.snopyta.org) 🇫🇮
   Issuer: Let's Encrypt, [SSLLabs Verification](https://www.ssllabs.com/ssltest/analyze.html?d=nitter.snopyta.org)
 -->
-|    | URL                                                                            | Country                                                   | Issuer & SSLLabs verification link                                                              |
+|    | URL                                                                            | Country                                                   | Issuer & SSLLabs verification&nbsp;link                                                              |
 | :------ | :----------------------------------------------------------------------------- | :-------------------------------------------------------- | :-------------------------------------------------------------------------------------------------- |
 | ✅ | [nitter.42l.fr](https://nitter.42l.fr/)                                         | 🇫🇷                                                        | [Let's Encrypt](https://www.ssllabs.com/ssltest/analyze.html?d=nitter.42l.fr)                     |
 | ✅ | [nitter.pussthecat.org](https://nitter.pussthecat.org)                          | 🇩🇪                                                        | [Let's Encrypt](https://www.ssllabs.com/ssltest/analyze.html?d=nitter.pussthecat.org)             | 
@@ -54,6 +54,6 @@ Note: Please add new instances to the bottom to preserve the order.
 <!--
 Hey buds ! plz not defunct servers only because one day he was unreachable ;) TKS
 -->
-|    | URL                                                                            | Country                                                   | Issuer & SSLLabs verification link                                                              |
+|    | URL                                                                            | Country                                                   | Issuer & SSLLabs verification&nbsp;link                                                              |
 | :------ | :----------------------------------------------------------------------------- | :-------------------------------------------------------- | :-------------------------------------------------------------------------------------------------- |
 | ❌ | [nitter.13ad.de](https://nitter.13ad.de) ("Error 403" since Feb 17 2021) | 🇩🇪                                                        | [Let's Encrypt](https://www.ssllabs.com/ssltest/analyze.html?d=nitter.13ad.de)                     |
