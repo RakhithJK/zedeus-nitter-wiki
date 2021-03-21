@@ -37,8 +37,7 @@ Note: Please add new instances to the bottom to preserve the order.
 | ✅ | [nitter.dark.fail](https://nitter.dark.fail)                                    | 🇺🇸                                                        | [Cloudflare](https://www.ssllabs.com/ssltest/analyze.html?d=nitter.dark.fail)                     |
 | ✅ | [birdsite.xanny.family](https://birdsite.xanny.family)                          | 🇬🇧                                                   | [Let's Encrypt](https://www.ssllabs.com/ssltest/analyze.html?d=birdsite.xanny.family)             |
 | ✅ | [nitter.40two.app](https://nitter.40two.app)                          | 🇳🇱                                                   | [Let's Encrypt](https://www.ssllabs.com/ssltest/analyze.html?d=nitter.40two.app)             |
-| ✅ | [nitter.skrep.in](https://nitter.skrep.in)                          | 🇩🇪                                                   
-| [Let's Encrypt](https://www.ssllabs.com/ssltest/analyze.html?d=nitter.skrep.in)             |
+| ✅ | [nitter.skrep.in](https://nitter.skrep.in)                          | 🇩🇪                                                   | [Let's Encrypt](https://www.ssllabs.com/ssltest/analyze.html?d=nitter.skrep.in)             |
 
 ### Tor Hidden Service
 
