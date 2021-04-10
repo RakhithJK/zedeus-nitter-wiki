@@ -63,3 +63,11 @@ Hey buds ! plz not defunct servers only because one day he was unreachable ;) TK
 | :------ | :----------------------------------------------------------------------------- | :-------------------------------------------------------- | :-------------------------------------------------------------------------------------------------- |
 | ❌ | [nitter.13ad.de](https://nitter.13ad.de) ("Error 403" since Feb 17 2021) | 🇩🇪                                                        | [Let's Encrypt](https://www.ssllabs.com/ssltest/analyze.html?d=nitter.13ad.de)                     |
 | ❌ | [nitter.weaponizedhumiliation.com](https://nitter.weaponizedhumiliation.com) (Abandoned domain name since Mar 08 2021) | 🇺🇸                                                        | [Let's Encrypt](https://www.ssllabs.com/ssltest/analyze.html?d=nitter.weaponizedhumiliation.com)  |
+
+## List of Third-party Nitter services
+
+| Name                    |                                                               |
+| :---------------------- | :------------------------------------------------------------ |
+| [TWIIT](https://twiiit.com) | Randomly picks up a server from this wiki                 |  
+
+
