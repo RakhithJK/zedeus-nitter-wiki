@@ -40,7 +40,7 @@ Note: Please add new instances to the bottom to preserve the order.
 | ✅ | [nitter.skrep.in](https://nitter.skrep.in)                          | 🇩🇪                                                   | [Let's Encrypt](https://www.ssllabs.com/ssltest/analyze.html?d=nitter.skrep.in)             |
 | ✅ | [nitter.hu](https://nitter.hu)                          | 🇭🇺                                                   | [Let's Encrypt](https://www.ssllabs.com/ssltest/analyze.html?d=nitter.hu)             |
 | ✅ | [nitter.database.red](https://nitter.database.red)                          | 🇺🇸                                                   | [Cloudflare](https://www.ssllabs.com/ssltest/analyze.html?d=nitter.database.red)             |
-
+| ✅ | [nitter.exonip.de](https://nitter.exonip.de/)                       | 🇩🇪                                                        | [Let's Encrypt](https://www.ssllabs.com/ssltest/analyze.html?d=nitter.exonip.de)            |
 ### Tor Hidden Service
 
 |         | URL                                                                                                                                                    |
