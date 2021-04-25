@@ -30,7 +30,6 @@ Note: Please add new instances to the bottom to preserve the order.
 | ✅ | [nitter.eu](https://nitter.eu)                                                  | 🇫🇮                                                        | [Let's Encrypt](https://www.ssllabs.com/ssltest/analyze.html?d=nitter.eu)                         |
 | &#128012; | [nitter.ethibox.fr](https://nitter.ethibox.fr) (Slow Feb 17 2021)             | 🇫🇷                                                        | [Let's Encrypt](https://www.ssllabs.com/ssltest/analyze.html?d=nitter.ethibox.fr)                 |
 | ✅ | [nitter.namazso.eu](https://nitter.namazso.eu)                                  | 🇩🇪                                                        | [Let's Encrypt](https://www.ssllabs.com/ssltest/analyze.html?d=nitter.namazso.eu)                 |
-| ✅ | [nitter.mastodont.cat](https://nitter.mastodont.cat)                          | 🇩🇪                                                        | [Let's Encrypt](https://www.ssllabs.com/ssltest/analyze.html?d=nitter.mastodont.cat)             |
 | ✅ | [nitter.mailstation.de](https://nitter.mailstation.de)                          | 🇩🇪                                                        | [Let's Encrypt](https://www.ssllabs.com/ssltest/analyze.html?d=nitter.mailstation.de)             |
 | ✅ | [nitter.actionsack.com](https://nitter.actionsack.com)                          | 🇺🇸                                                        | [Cloudflare](https://www.ssllabs.com/ssltest/analyze.html?d=nitter.actionsack.com)                |
 | ✅ | [nitter.cattube.org](https://nitter.cattube.org/)                               | 🇩🇪                                                        | [Let's Encrypt](https://www.ssllabs.com/ssltest/analyze.html?d=nitter.cattube.org)                |
@@ -63,8 +62,9 @@ Hey buds ! plz not defunct servers only because one day he was unreachable ;) TK
 -->
 |    | URL                                                                            | Country                                                   | Issuer & SSLLabs verification&nbsp;link                                                              |
 | :------ | :----------------------------------------------------------------------------- | :-------------------------------------------------------- | :-------------------------------------------------------------------------------------------------- |
-| ❌ | [nitter.13ad.de](https://nitter.13ad.de) ("Error 403" since Feb 17 2021) | 🇩🇪                                                        | [Let's Encrypt](https://www.ssllabs.com/ssltest/analyze.html?d=nitter.13ad.de)                     |
-| ❌ | [nitter.weaponizedhumiliation.com](https://nitter.weaponizedhumiliation.com) (Abandoned domain name since Mar 08 2021) | 🇺🇸                                                        | [Let's Encrypt](https://www.ssllabs.com/ssltest/analyze.html?d=nitter.weaponizedhumiliation.com)  |
+| ❌ | [nitter.13ad.de](https://nitter.13ad.de) ("Error 403" since 2021-02-17) | 🇩🇪                                                        | [Let's Encrypt](https://www.ssllabs.com/ssltest/analyze.html?d=nitter.13ad.de)                     |
+| ❌ | [nitter.weaponizedhumiliation.com](https://nitter.weaponizedhumiliation.com) (Abandoned domain name since 2021-03-08) | 🇺🇸                                                        | [Let's Encrypt](https://www.ssllabs.com/ssltest/analyze.html?d=nitter.weaponizedhumiliation.com)  |
+| ❌ | [nitter.mastodont.cat](https://nitter.mastodont.cat) (dead subdomain since 2021-04-10)      | 🇩🇪                                                        | [Let's Encrypt](https://www.ssllabs.com/ssltest/analyze.html?d=nitter.mastodont.cat)             |
 
 ## List of Third-party Nitter services
 
