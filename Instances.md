@@ -71,6 +71,6 @@ Hey buds ! plz not defunct servers only because one day he was unreachable ;) TK
 
 | Name                    |                                                               |
 | :---------------------- | :------------------------------------------------------------ |
-| [TWIIT](https://twiiit.com) | Randomly picks up a server from this wiki                 |  
+| [TWIIIT](https://twiiit.com) | Randomly picks up a server from this wiki                 |  
 
 
