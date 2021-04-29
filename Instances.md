@@ -40,6 +40,7 @@ Note: Please add new instances to the bottom to preserve the order.
 | ✅ | [nitter.hu](https://nitter.hu) (Only Hungary)                     | 🇭🇺                                                   | [Cloudflare](https://www.ssllabs.com/ssltest/analyze.html?d=nitter.hu)             |
 | ✅ | [nitter.database.red](https://nitter.database.red)                          | 🇺🇸                                                   | [Cloudflare](https://www.ssllabs.com/ssltest/analyze.html?d=nitter.database.red)             |
 | ✅ | [nitter.exonip.de](https://nitter.exonip.de/)                       | 🇩🇪                                                        | [Let's Encrypt](https://www.ssllabs.com/ssltest/analyze.html?d=nitter.exonip.de)            |
+| ✅ | [twitr.gq](https://twitr.gq/)                       | 🇺🇸                                                       | [Cloudflare](https://www.ssllabs.com/ssltest/analyze.html?d=twitr.gq)            |
 ### Tor Hidden Service
 
 |         | URL                                                                                                                                                    |
