@@ -60,7 +60,7 @@ Note: Please add new instances to the bottom to preserve the order.
 
 ## List of defuncted Nitter Instances
 <!--
-Hey buds ! plz not defunct servers only because one day he was unreachable ;) TKS
+Hey buds ! plz not defunct servers only because one day he was unreachable ;) Thanks.
 -->
 |    | URL                                                                            | Country                                                   | Issuer & SSLLabs verification&nbsp;link                                                              |
 | :------ | :----------------------------------------------------------------------------- | :-------------------------------------------------------- | :-------------------------------------------------------------------------------------------------- |
