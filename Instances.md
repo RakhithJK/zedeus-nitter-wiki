@@ -39,7 +39,7 @@ Note: Please add new instances to the bottom to preserve the order.
 | 🇭🇺 | [nitter.hu](https://nitter.hu) (Only Hungary)                     | 🇭🇺                                                   | [Cloudflare](https://www.ssllabs.com/ssltest/analyze.html?d=nitter.hu)             |
 | ✅ | [nitter.database.red](https://nitter.database.red)                          | 🇺🇸                                                   | [Cloudflare](https://www.ssllabs.com/ssltest/analyze.html?d=nitter.database.red)             |
 | ✅ | [nitter.exonip.de](https://nitter.exonip.de/)                       | 🇩🇪                                                        | [Let's Encrypt](https://www.ssllabs.com/ssltest/analyze.html?d=nitter.exonip.de)            |
-| ✅ | [twitr.gq](https://twitr.gq/)                       | 🇺🇸                                                       | [Cloudflare](https://www.ssllabs.com/ssltest/analyze.html?d=twitr.gq)            |
+| ✅ | [twitr.gq](https://twitr.gq/)                       | 🇫🇮                                                       | [Cloudflare](https://www.ssllabs.com/ssltest/analyze.html?d=twitr.gq)            |
 | ✅ | [nitter.koyu.space](https://nitter.koyu.space/)                                 | 🇩🇪                                                        | [Let's Encrypt](https://www.ssllabs.com/ssltest/analyze.html?d=nitter.koyu.space)    |
 ### Tor Hidden Service
 
@@ -73,6 +73,6 @@ Hey buds ! plz not defunct servers only because one day he was unreachable ;) Th
 
 | Name                    |                                                               |
 | :---------------------- | :------------------------------------------------------------ |
-| [TWIIIT](https://twiiit.com) | Randomly picks up a server from this wiki                 |  
-
+| [TWIIIT](https://twiiit.com) | Randomly picks up a server from this wiki                |  
+| [Twitit](https://twitit.gq) | Tracks all instances' status and redirects to working ones (highly monitored) |  
 
