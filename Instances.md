@@ -26,7 +26,6 @@ Note: Please add new instances to the bottom to preserve the order.
 | &#128012; | [nitter.vxempire.xyz](https://nitter.vxempire.xyz) (Slow Feb 17 2021)         | 🇪🇸                                                        | [Let's Encrypt](https://www.ssllabs.com/ssltest/analyze.html?d=nitter.vxempire.xyz)               |
 | ✅ | [nitter.unixfox.eu](https://nitter.unixfox.eu)                                  | 🇳🇱                                                        | [Let's Encrypt](https://www.ssllabs.com/ssltest/analyze.html?d=nitter.unixfox.eu)                 |
 | ✅ | [nitter.domain.glass](https://nitter.domain.glass)                              | 🇺🇸                                                        | [Cloudflare](https://www.ssllabs.com/ssltest/analyze.html?d=nitter.domain.glass)                  |
-| ✅ | [nitter.himiko.cloud](https://nitter.himiko.cloud)                              | 🇧🇬                                                        | [Let's Encrypt](https://www.ssllabs.com/ssltest/analyze.html?d=nitter.himiko.cloud)               |
 | ✅ | [nitter.eu](https://nitter.eu)                                                  | 🇫🇮                                                        | [Let's Encrypt](https://www.ssllabs.com/ssltest/analyze.html?d=nitter.eu)                         |
 | &#128012; | [nitter.ethibox.fr](https://nitter.ethibox.fr) (Slow Feb 17 2021)             | 🇫🇷                                                        | [Let's Encrypt](https://www.ssllabs.com/ssltest/analyze.html?d=nitter.ethibox.fr)                 |
 | ✅ | [nitter.namazso.eu](https://nitter.namazso.eu)                                  | 🇩🇪                                                        | [Let's Encrypt](https://www.ssllabs.com/ssltest/analyze.html?d=nitter.namazso.eu)                 |
@@ -63,11 +62,11 @@ Hey buds ! plz not defunct servers only because one day he was unreachable ;) Th
 -->
 |    | URL                                                                            | Country                                                   | Issuer & SSLLabs verification&nbsp;link                                                              |
 | :------ | :----------------------------------------------------------------------------- | :-------------------------------------------------------- | :-------------------------------------------------------------------------------------------------- |
-| ❌ | [nitter.13ad.de](https://nitter.13ad.de) ("Error 403" since 2021-02-17) | 🇩🇪                                                        | [Let's Encrypt](https://www.ssllabs.com/ssltest/analyze.html?d=nitter.13ad.de)                     |
-| ❌ | [nitter.weaponizedhumiliation.com](https://nitter.weaponizedhumiliation.com) (Abandoned domain name since 2021-03-08) | 🇺🇸                                                        | [Let's Encrypt](https://www.ssllabs.com/ssltest/analyze.html?d=nitter.weaponizedhumiliation.com)  |
+| ❌ | [nitter.13ad.de](https://nitter.13ad.de) ("Error 403" since 2021-02-17)                     | 🇩🇪                                                                | [Let's Encrypt](https://www.ssllabs.com/ssltest/analyze.html?d=nitter.13ad.de)                     |
+| ❌ | [nitter.weaponizedhumiliation.com](https://nitter.weaponizedhumiliation.com) (parked domain since 2021-03-08) | 🇺🇸                                                        | [Let's Encrypt](https://www.ssllabs.com/ssltest/analyze.html?d=nitter.weaponizedhumiliation.com)  |
 | ❌ | [nitter.mastodont.cat](https://nitter.mastodont.cat) (dead subdomain since 2021-04-10)      | 🇩🇪                                                        | [Let's Encrypt](https://www.ssllabs.com/ssltest/analyze.html?d=nitter.mastodont.cat)             |
-| ❌ | [nitter.dark.fail](https://nitter.dark.fail) (dead subdomain since 2021-04-30)                                   | 🇺🇸                                                        | [Cloudflare](https://www.ssllabs.com/ssltest/analyze.html?d=nitter.dark.fail)                     |
-
+| ❌ | [nitter.dark.fail](https://nitter.dark.fail) (dead subdomain since 2021-04-30)              | 🇺🇸                                                        | [Cloudflare](https://www.ssllabs.com/ssltest/analyze.html?d=nitter.dark.fail)                    |
+| ❌ | [nitter.himiko.cloud](https://nitter.himiko.cloud) (dead base domain since 2021-05-03)      | 🇧🇬                                                        | [Let's Encrypt](https://www.ssllabs.com/ssltest/analyze.html?d=nitter.himiko.cloud)              |
 
 ## List of Third-party Nitter services
 
