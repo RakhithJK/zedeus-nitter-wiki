@@ -37,11 +37,12 @@ Note: Please add new instances to the bottom to preserve the order.
 | ✅ | [nitter.skrep.in](https://nitter.skrep.in)                          | 🇩🇪                                                   | [Let's Encrypt](https://www.ssllabs.com/ssltest/analyze.html?d=nitter.skrep.in)             |
 | 🇭🇺 | [nitter.hu](https://nitter.hu) (Only Hungary)                     | 🇭🇺                                                   | [Cloudflare](https://www.ssllabs.com/ssltest/analyze.html?d=nitter.hu)             |
 | ✅ | [nitter.database.red](https://nitter.database.red)                          | 🇺🇸                                                   | [Cloudflare](https://www.ssllabs.com/ssltest/analyze.html?d=nitter.database.red)             |
-| ✅ | [nitter.exonip.de](https://nitter.exonip.de/)                       | 🇩🇪                                                        | [Let's Encrypt](https://www.ssllabs.com/ssltest/analyze.html?d=nitter.exonip.de)            |
-| ✅ | [twitr.gq](https://twitr.gq/)                       | 🇫🇮                                                       | [Cloudflare](https://www.ssllabs.com/ssltest/analyze.html?d=twitr.gq)            |
+| ✅ | [nitter.exonip.de](https://nitter.exonip.de/)                                   | 🇩🇪                                                        | [Let's Encrypt](https://www.ssllabs.com/ssltest/analyze.html?d=nitter.exonip.de)     |
+| ✅ | [twitr.gq](https://twitr.gq/)                                                   | 🇫🇮                                                        | [Cloudflare](https://www.ssllabs.com/ssltest/analyze.html?d=twitr.gq)                |
 | ✅ | [nitter.koyu.space](https://nitter.koyu.space/)                                 | 🇩🇪                                                        | [Let's Encrypt](https://www.ssllabs.com/ssltest/analyze.html?d=nitter.koyu.space)    |
-### Tor Hidden Service
+| ✅ | [nitter.dark.fail](https://nitter.dark.fail) (no search)                        | 🇺🇸                                                        | [Cloudflare](https://www.ssllabs.com/ssltest/analyze.html?d=nitter.dark.fail)        |
 
+### Tor Hidden Service
 |         | URL                                                                                                                                                    |
 | :------ | :-----------------------------------------------------------------------------                                                                         |
 | ❌      | [3nzoldnxplag42gqjs23xvghtzf6t6yzssrtytnntc6ppc7xxuoneoad.onion](http://3nzoldnxplag42gqjs23xvghtzf6t6yzssrtytnntc6ppc7xxuoneoad.onion/)               |
@@ -65,7 +66,6 @@ Hey buds ! plz not defunct servers only because one day he was unreachable ;) Th
 | ❌ | [nitter.13ad.de](https://nitter.13ad.de) ("Error 403" since 2021-02-17)                     | 🇩🇪                                                                | [Let's Encrypt](https://www.ssllabs.com/ssltest/analyze.html?d=nitter.13ad.de)                     |
 | ❌ | [nitter.weaponizedhumiliation.com](https://nitter.weaponizedhumiliation.com) (parked domain since 2021-03-08) | 🇺🇸                                                        | [Let's Encrypt](https://www.ssllabs.com/ssltest/analyze.html?d=nitter.weaponizedhumiliation.com)  |
 | ❌ | [nitter.mastodont.cat](https://nitter.mastodont.cat) (dead subdomain since 2021-04-10)      | 🇩🇪                                                        | [Let's Encrypt](https://www.ssllabs.com/ssltest/analyze.html?d=nitter.mastodont.cat)             |
-| ❌ | [nitter.dark.fail](https://nitter.dark.fail) (dead subdomain since 2021-04-30)              | 🇺🇸                                                        | [Cloudflare](https://www.ssllabs.com/ssltest/analyze.html?d=nitter.dark.fail)                    |
 | ❌ | [nitter.himiko.cloud](https://nitter.himiko.cloud) (dead base domain since 2021-05-03)      | 🇧🇬                                                        | [Let's Encrypt](https://www.ssllabs.com/ssltest/analyze.html?d=nitter.himiko.cloud)              |
 
 ## List of Third-party Nitter services
