@@ -25,7 +25,6 @@ Note: Please add new instances to the bottom to preserve the order.
 | &#128012; | [nitter.1d4.us](https://nitter.1d4.us/) (Slow Apr 6 2021)             | 🇺🇸                 | [Let's Encrypt](https://www.ssllabs.com/ssltest/analyze.html?d=nitter.1d4.us)          |
 | ✅        | [nitter.kavin.rocks](https://nitter.kavin.rocks)                      | 🇮🇳                 | [Cloudflare](https://www.ssllabs.com/ssltest/analyze.html?d=nitter.kavin.rocks)        |
 | ✅        | [nitter-home.kavin.rocks](https://nitter-home.kavin.rocks)            | 🇮🇳 -> routed to 🇸🇬 | [Cloudflare](https://www.ssllabs.com/ssltest/analyze.html?d=nitter-home.kavin.rocks)   |
-| ✅        | [tweet.lambda.dance](https://tweet.lambda.dance)                      | 🇺🇸                 | [Let's Encrypt](https://www.ssllabs.com/ssltest/analyze.html?d=tweet.lambda.dance)     |
 | ✅        | [nitter.cc](https://nitter.cc)                                        | 🇷🇸                 | [Cloudflare](https://www.ssllabs.com/ssltest/analyze.html?d=nitter.cc)                 |
 | &#128012; | [nitter.vxempire.xyz](https://nitter.vxempire.xyz) (Slow Feb 17 2021) | 🇪🇸                 | [Let's Encrypt](https://www.ssllabs.com/ssltest/analyze.html?d=nitter.vxempire.xyz)    |
 | ✅        | [nitter.unixfox.eu](https://nitter.unixfox.eu)                        | 🇳🇱                 | [Let's Encrypt](https://www.ssllabs.com/ssltest/analyze.html?d=nitter.unixfox.eu)      |
@@ -76,6 +75,8 @@ Hey buds ! plz not defunct servers only because one day he was unreachable ;) Th
 | ❌  | [nitter.weaponizedhumiliation.com](https://nitter.weaponizedhumiliation.com) (parked domain since 2021-03-08) | 🇺🇸      | [Let's Encrypt](https://www.ssllabs.com/ssltest/analyze.html?d=nitter.weaponizedhumiliation.com) |
 | ❌  | [nitter.mastodont.cat](https://nitter.mastodont.cat) (dead subdomain since 2021-04-10)                        | 🇩🇪      | [Let's Encrypt](https://www.ssllabs.com/ssltest/analyze.html?d=nitter.mastodont.cat)             |
 | ❌  | [nitter.himiko.cloud](https://nitter.himiko.cloud) (dead base domain since 2021-05-03)                        | 🇧🇬      | [Let's Encrypt](https://www.ssllabs.com/ssltest/analyze.html?d=nitter.himiko.cloud)              |
+| ❌  | [tweet.lambda.dance](https://tweet.lambda.dance)                      | 🇺🇸                 | [Let's Encrypt](https://www.ssllabs.com/ssltest/analyze.html?d=tweet.lambda.dance)     |
+
 
 ## List of Third-party Nitter services
 
