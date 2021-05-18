@@ -75,7 +75,7 @@ Hey buds ! plz not defunct servers only because one day he was unreachable ;) Th
 | ❌  | [nitter.weaponizedhumiliation.com](https://nitter.weaponizedhumiliation.com) (parked domain since 2021-03-08) | 🇺🇸      | [Let's Encrypt](https://www.ssllabs.com/ssltest/analyze.html?d=nitter.weaponizedhumiliation.com) |
 | ❌  | [nitter.mastodont.cat](https://nitter.mastodont.cat) (dead subdomain since 2021-04-10)                        | 🇩🇪      | [Let's Encrypt](https://www.ssllabs.com/ssltest/analyze.html?d=nitter.mastodont.cat)             |
 | ❌  | [nitter.himiko.cloud](https://nitter.himiko.cloud) (dead base domain since 2021-05-03)                        | 🇧🇬      | [Let's Encrypt](https://www.ssllabs.com/ssltest/analyze.html?d=nitter.himiko.cloud)              |
-| ❌  | [tweet.lambda.dance](https://tweet.lambda.dance)                      | 🇺🇸                 | [Let's Encrypt](https://www.ssllabs.com/ssltest/analyze.html?d=tweet.lambda.dance)     |
+| ❌  | [tweet.lambda.dance](https://tweet.lambda.dance) (domain unreachable since 2021-05-15)                        | 🇺🇸      | [Let's Encrypt](https://www.ssllabs.com/ssltest/analyze.html?d=tweet.lambda.dance)               |
 
 
 ## List of Third-party Nitter services
