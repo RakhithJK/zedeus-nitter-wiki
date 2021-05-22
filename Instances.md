@@ -45,6 +45,7 @@ Note: Please add new instances to the bottom to preserve the order.
 | ✅        | [nitter.koyu.space](https://nitter.koyu.space/)                       | 🇩🇪                 | [Let's Encrypt](https://www.ssllabs.com/ssltest/analyze.html?d=nitter.koyu.space)      |
 | ✅        | [nitter.dark.fail](https://nitter.dark.fail) (no search)              | 🇺🇸                 | [Cloudflare](https://www.ssllabs.com/ssltest/analyze.html?d=nitter.dark.fail)          |
 | ✅        | [nitter.jae.fi](https://nitter.jae.fi)                                | 🇫🇮                 | [ZeroSSL](https://www.ssllabs.com/ssltest/analyze.html?d=nitter.jae.fi)             |
+| ✅        | [nitter.moomoo.me](https://nitter.moomoo.me)                          | 🇺🇸                 | [Cloudflare](https://www.ssllabs.com/ssltest/analyze.html?d=nitter.moomoo.me)          |
 
 ### Tor Hidden Service
 
