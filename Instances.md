@@ -17,9 +17,9 @@ Note: Please add new instances to the bottom to preserve the order.
 
 |           | URL                                                                   | Country            | Issuer & SSLLabs verification&nbsp;link                                                |
 | :-------- | :-------------------------------------------------------------------- | :----------------- | :------------------------------------------------------------------------------------- |
-| ✅        | [nitter.42l.fr](https://nitter.42l.fr/)                               | 🇫🇷                 | [Let's Encrypt]
+| ✅        | [nitter.42l.fr](https://nitter.42l.fr/)                               | 🇫🇷                 | [Let's Encrypt](https://www.ssllabs.com/ssltest/analyze.html?d=nitter.42l.fr)          |
 | ✅        | [nitter.ortion.xyz](https://nitter.ortion.xyz/)                       | 🇫🇷                 | [Let's Encrypt]
-(https://www.ssllabs.com/ssltest/analyze.html?d=nitter.42l.fr)          |
+(https://www.ssllabs.com/ssltest/analyze.html?d=nitter.ortion.xyz)      |
 | ✅        | [nitter.pussthecat.org](https://nitter.pussthecat.org)                | 🇩🇪                 | [Let's Encrypt](https://www.ssllabs.com/ssltest/analyze.html?d=nitter.pussthecat.org)  |
 | ✅        | [nitter.nixnet.services](https://nitter.nixnet.services/)             | 🇩🇪                 | [Let's Encrypt](https://www.ssllabs.com/ssltest/analyze.html?d=nitter.nixnet.services) |
 | ✅        | [nitter.tedomum.net](https://nitter.tedomum.net/)                     | 🇫🇷                 | [Let's Encrypt](https://www.ssllabs.com/ssltest/analyze.html?d=nitter.tedomum.net)     |
