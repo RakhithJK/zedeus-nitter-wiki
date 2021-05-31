@@ -47,8 +47,6 @@ Note: Please add new instances to the bottom to preserve the order.
 | ✅        | [nitter.dark.fail](https://nitter.dark.fail) (no search)              | 🇺🇸                 | [Cloudflare](https://www.ssllabs.com/ssltest/analyze.html?d=nitter.dark.fail)          |
 | ✅        | [nitter.jae.fi](https://nitter.jae.fi)                                | 🇫🇮                 | [ZeroSSL](https://www.ssllabs.com/ssltest/analyze.html?d=nitter.jae.fi)             |
 | ✅        | [nitter.moomoo.me](https://nitter.moomoo.me)                          | 🇺🇸                 | [Cloudflare](https://www.ssllabs.com/ssltest/analyze.html?d=nitter.moomoo.me)          |
-|          | [nitter.httpjames.space](https://nitter.httpjames.space) ("rate limited" since 2021-05-29)                           | 🇫🇮                 | [Let's Encrypt](https://www.ssllabs.com/ssltest/analyze.html?d=nitter.httpjames.space)          |
-
 
 ### Tor Hidden Service
 
