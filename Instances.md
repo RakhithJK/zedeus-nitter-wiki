@@ -18,7 +18,6 @@ Note: Please add new instances to the bottom to preserve the order.
 |           | URL                                                                   | Country            | Issuer & SSLLabs verification&nbsp;link                                                |
 | :-------- | :-------------------------------------------------------------------- | :----------------- | :------------------------------------------------------------------------------------- |
 | ✅        | [nitter.42l.fr](https://nitter.42l.fr/)                               | 🇫🇷                 | [Let's Encrypt](https://www.ssllabs.com/ssltest/analyze.html?d=nitter.42l.fr)          |
-| ✅        | [nitter.ortion.xyz](https://nitter.ortion.xyz/)                       | 🇫🇷                 | [Let's Encrypt](https://www.ssllabs.com/ssltest/analyze.html?d=nitter.ortion.xyz)      |
 | ✅        | [nitter.pussthecat.org](https://nitter.pussthecat.org)                | 🇩🇪                 | [Let's Encrypt](https://www.ssllabs.com/ssltest/analyze.html?d=nitter.pussthecat.org)  |
 | ✅        | [nitter.nixnet.services](https://nitter.nixnet.services/)             | 🇩🇪                 | [Let's Encrypt](https://www.ssllabs.com/ssltest/analyze.html?d=nitter.nixnet.services) |
 | ✅        | [nitter.fdn.fr](https://nitter.fdn.fr/)                               | 🇫🇷                 | [Let's Encrypt](https://www.ssllabs.com/ssltest/analyze.html?d=nitter.fdn.fr)          |
@@ -46,6 +45,7 @@ Note: Please add new instances to the bottom to preserve the order.
 | ✅        | [nitter.dark.fail](https://nitter.dark.fail) (no search)              | 🇺🇸                 | [Cloudflare](https://www.ssllabs.com/ssltest/analyze.html?d=nitter.dark.fail)          |
 | ✅        | [nitter.jae.fi](https://nitter.jae.fi)                                | 🇫🇮                 | [ZeroSSL](https://www.ssllabs.com/ssltest/analyze.html?d=nitter.jae.fi)             |
 | ✅        | [nitter.moomoo.me](https://nitter.moomoo.me)                          | 🇺🇸                 | [Cloudflare](https://www.ssllabs.com/ssltest/analyze.html?d=nitter.moomoo.me)          |
+| ✅        | [nitter.ortion.xyz](https://nitter.ortion.xyz/)                       | 🇫🇷                 | [Let's Encrypt](https://www.ssllabs.com/ssltest/analyze.html?d=nitter.ortion.xyz)      |
 
 ### Tor Hidden Service
 
