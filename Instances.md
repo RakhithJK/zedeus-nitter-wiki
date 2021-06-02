@@ -70,11 +70,11 @@ Note: Please add new instances to the bottom to preserve the order.
 
 <!--
 Hey buds ! plz not defunct servers only because one day he was unreachable ;) Thanks.
+We think considers than keeping here an URL three or more months on this wiki part becomes useless.
 -->
 
 |     | URL                                                                                                           | Country | Issuer & SSLLabs verification&nbsp;link                                                          |
 | :-- | :------------------------------------------------------------------------------------------------------------ | :------ | :----------------------------------------------------------------------------------------------- |
-| ❌  | [nitter.13ad.de](https://nitter.13ad.de) ("Error 403" since 2021-02-17)                                       | 🇩🇪      | [Let's Encrypt](https://www.ssllabs.com/ssltest/analyze.html?d=nitter.13ad.de)                   |
 | ❌  | [nitter.weaponizedhumiliation.com](https://nitter.weaponizedhumiliation.com) (parked domain since 2021-03-08) | 🇺🇸      | [Let's Encrypt](https://www.ssllabs.com/ssltest/analyze.html?d=nitter.weaponizedhumiliation.com) |
 | ❌  | [nitter.mastodont.cat](https://nitter.mastodont.cat) (dead subdomain since 2021-04-10)                        | 🇩🇪      | [Let's Encrypt](https://www.ssllabs.com/ssltest/analyze.html?d=nitter.mastodont.cat)             |
 | ❌  | [nitter.himiko.cloud](https://nitter.himiko.cloud) (dead base domain since 2021-05-03)                        | 🇧🇬      | [Let's Encrypt](https://www.ssllabs.com/ssltest/analyze.html?d=nitter.himiko.cloud)              |
@@ -86,4 +86,4 @@ Hey buds ! plz not defunct servers only because one day he was unreachable ;) Th
 | Name                         |                                                                               |
 | :--------------------------- | :---------------------------------------------------------------------------- |
 | [TWIIIT](https://twiiit.com) | Randomly picks up a server from this wiki                                     |
-| [Twitit](https://twitit.gq)  | Tracks all instances' status and redirects to working ones (highly monitored) |
+| [Twitit](https://twitit.gq)  | Tracks all instances status and redirects to working ones (highly monitored) |
