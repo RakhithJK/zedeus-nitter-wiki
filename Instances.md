@@ -21,7 +21,6 @@ Note: Please add new instances to the bottom to preserve the order.
 | ✅        | [nitter.ortion.xyz](https://nitter.ortion.xyz/)                       | 🇫🇷                 | [Let's Encrypt](https://www.ssllabs.com/ssltest/analyze.html?d=nitter.ortion.xyz)      |
 | ✅        | [nitter.pussthecat.org](https://nitter.pussthecat.org)                | 🇩🇪                 | [Let's Encrypt](https://www.ssllabs.com/ssltest/analyze.html?d=nitter.pussthecat.org)  |
 | ✅        | [nitter.nixnet.services](https://nitter.nixnet.services/)             | 🇩🇪                 | [Let's Encrypt](https://www.ssllabs.com/ssltest/analyze.html?d=nitter.nixnet.services) |
-| ✅        | [nitter.tedomum.net](https://nitter.tedomum.net/)                     | 🇫🇷                 | [Let's Encrypt](https://www.ssllabs.com/ssltest/analyze.html?d=nitter.tedomum.net)     |
 | ✅        | [nitter.fdn.fr](https://nitter.fdn.fr/)                               | 🇫🇷                 | [Let's Encrypt](https://www.ssllabs.com/ssltest/analyze.html?d=nitter.fdn.fr)          |
 | &#128012; | [nitter.1d4.us](https://nitter.1d4.us/) (Slow Apr 6 2021)             | 🇺🇸                 | [Let's Encrypt](https://www.ssllabs.com/ssltest/analyze.html?d=nitter.1d4.us)          |
 | ✅        | [nitter.kavin.rocks](https://nitter.kavin.rocks)                      | 🇮🇳                 | [Cloudflare](https://www.ssllabs.com/ssltest/analyze.html?d=nitter.kavin.rocks)        |
