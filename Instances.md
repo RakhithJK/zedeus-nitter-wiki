@@ -23,7 +23,6 @@ Note: Please add new instances to the bottom to preserve the order.
 | ✅        | [nitter.fdn.fr](https://nitter.fdn.fr/)                               | 🇫🇷                 | [Let's Encrypt](https://www.ssllabs.com/ssltest/analyze.html?d=nitter.fdn.fr)          |
 | &#128012; | [nitter.1d4.us](https://nitter.1d4.us/) (Slow Apr 6 2021)             | 🇺🇸                 | [Let's Encrypt](https://www.ssllabs.com/ssltest/analyze.html?d=nitter.1d4.us)          |
 | ✅        | [nitter.kavin.rocks](https://nitter.kavin.rocks)                      | 🇮🇳                 | [Cloudflare](https://www.ssllabs.com/ssltest/analyze.html?d=nitter.kavin.rocks)        |
-| ✅        | [nitter-home.kavin.rocks](https://nitter-home.kavin.rocks)            | 🇮🇳 -> routed to 🇸🇬 | [Cloudflare](https://www.ssllabs.com/ssltest/analyze.html?d=nitter-home.kavin.rocks)   |
 | ✅  | [tweet.lambda.dance](https://tweet.lambda.dance)                   | 🇺🇸      | [Let's Encrypt](https://www.ssllabs.com/ssltest/analyze.html?d=tweet.lambda.dance)               |
 | ✅        | [nitter.cc](https://nitter.cc)                                        | 🇷🇸                 | [Cloudflare](https://www.ssllabs.com/ssltest/analyze.html?d=nitter.cc)                 |
 | &#128012; | [nitter.vxempire.xyz](https://nitter.vxempire.xyz) (Slow Feb 17 2021) | 🇪🇸                 | [Let's Encrypt](https://www.ssllabs.com/ssltest/analyze.html?d=nitter.vxempire.xyz)    |
