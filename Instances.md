@@ -71,7 +71,7 @@ We can consider than keeping here an URL three or more months on this wiki part 
 -->
 
 |     | URL                                                                                                           | Country | Issuer & SSLLabs verification&nbsp;link                                                          |
-| :-- | :------------------------------------------------------------------------------------------------------------ | :------ | :----------------------------------------------------------------------------------------------- |
+| :-- | :---------------------------------------------------------------------------------------------------------------------------- | :------ | :----------------------------------------------------------------------------------------------- |
 | ❌  | [nitter.mastodont.cat](https://nitter.mastodont.cat) (dead subdomain since 2021-04-10)                        | 🇩🇪      | [Let's Encrypt](https://www.ssllabs.com/ssltest/analyze.html?d=nitter.mastodont.cat)             |
 | ❌  | [nitter.himiko.cloud](https://nitter.himiko.cloud) (dead base domain since 2021-05-03)                        | 🇧🇬      | [Let's Encrypt](https://www.ssllabs.com/ssltest/analyze.html?d=nitter.himiko.cloud)              |
 | ❌  | [nitter.jae.fi](https://nitter.jae.fi) (dead subdomain since 2021-06-11) | 🇫🇮  | [ZeroSSL](https://www.ssllabs.com/ssltest/analyze.html?d=nitter.jae.fi) |
