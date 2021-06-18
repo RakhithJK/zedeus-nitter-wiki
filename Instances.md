@@ -12,7 +12,7 @@ Note: Please add new instances to the bottom to preserve the order.
 
 <!--
 - nitter.snopyta.org admin ask us to "hide it from the top, otherwise it might get as popular as invidious"
-- List of less used icons used here : SLOW = &#128012; WAS BAD/OFTEN RATE LIMITED BUT NEED TO CONFIRM HIS REVIVAL => 🧐
+- List of less used icons used here : SLOW = &#128012; *** WAS BAD/TOO OFTEN RATE LIMITED OR SLOW BUT NOW NEED TO CONFIRM HIS REVIVAL = 🧐
 -->
 
 |           | URL                                                                   | Country            | Issuer & SSLLabs verification&nbsp;link                                                |
@@ -24,7 +24,6 @@ Note: Please add new instances to the bottom to preserve the order.
 | &#128012; | [nitter.1d4.us](https://nitter.1d4.us/) (Slow Apr 6 2021)             | 🇺🇸                 | [Let's Encrypt](https://www.ssllabs.com/ssltest/analyze.html?d=nitter.1d4.us)          |
 | ✅        | [nitter.kavin.rocks](https://nitter.kavin.rocks)                      | 🇮🇳                 | [Cloudflare](https://www.ssllabs.com/ssltest/analyze.html?d=nitter.kavin.rocks)        |
 | ✅  | [tweet.lambda.dance](https://tweet.lambda.dance)                   | 🇺🇸      | [Let's Encrypt](https://www.ssllabs.com/ssltest/analyze.html?d=tweet.lambda.dance)               |
-|        | [nitter.vxempire.xyz](https://nitter.vxempire.xyz) (Slow Feb 17 2021) | 🇪🇸                 | [Let's Encrypt](https://www.ssllabs.com/ssltest/analyze.html?d=nitter.vxempire.xyz)    |
 | ✅        | [nitter.unixfox.eu](https://nitter.unixfox.eu)                        | 🇳🇱                 | [Let's Encrypt](https://www.ssllabs.com/ssltest/analyze.html?d=nitter.unixfox.eu)      |
 | ✅        | [nitter.domain.glass](https://nitter.domain.glass)                    | 🇺🇸                 | [Cloudflare](https://www.ssllabs.com/ssltest/analyze.html?d=nitter.domain.glass)       |
 | ✅        | [nitter.eu](https://nitter.eu)                                        | 🇫🇮                 | [Let's Encrypt](https://www.ssllabs.com/ssltest/analyze.html?d=nitter.eu)              |
@@ -68,7 +67,7 @@ Note: Please add new instances to the bottom to preserve the order.
 
 <!--
 Hey buds ! plz not defunct servers only because one day he was unreachable ;) Thanks.
-We think considers than keeping here an URL three or more months on this wiki part becomes useless.
+We can consider than keeping here an URL three or more months on this wiki part becomes useless.
 -->
 
 |     | URL                                                                                                           | Country | Issuer & SSLLabs verification&nbsp;link                                                          |
@@ -77,9 +76,8 @@ We think considers than keeping here an URL three or more months on this wiki pa
 | ❌  | [nitter.himiko.cloud](https://nitter.himiko.cloud) (dead base domain since 2021-05-03)                        | 🇧🇬      | [Let's Encrypt](https://www.ssllabs.com/ssltest/analyze.html?d=nitter.himiko.cloud)              |
 | ❌  | [nitter.jae.fi](https://nitter.jae.fi) (dead subdomain since 2021-06-11) | 🇫🇮  | [ZeroSSL](https://www.ssllabs.com/ssltest/analyze.html?d=nitter.jae.fi) |
 | ❌  | [nitter.koyu.space](https://nitter.koyu.space/) (too many rate limited states since 2021-06-07)                       | 🇩🇪                 | [Let's Encrypt](https://www.ssllabs.com/ssltest/analyze.html?d=nitter.koyu.space)      |
-| ❌  | [nitter.cc](https://nitter.cc) (almost down since June 2021)                     | 🇷🇸                 | [Cloudflare](https://www.ssllabs.com/ssltest/analyze.html?d=nitter.cc)                 |
-
-
+| ❌  | [nitter.cc](https://nitter.cc) (almost down since mid-June 2021)                     | 🇷🇸                 | [Cloudflare](https://www.ssllabs.com/ssltest/analyze.html?d=nitter.cc)                 |
+| ❌  | [nitter.vxempire.xyz](https://nitter.vxempire.xyz) (too many issues like slow or rate limited since mid-June 2021) | 🇪🇸                 | [Let's Encrypt](https://www.ssllabs.com/ssltest/analyze.html?d=nitter.vxempire.xyz)    |
 
 ## List of Third-party Nitter services
 
