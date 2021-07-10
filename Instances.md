@@ -73,14 +73,14 @@ We can consider than keeping here an URL three or more months on this wiki part 
 
 |     | URL                                                                                                           | Country | Issuer & SSLLabs verification&nbsp;link                                                          |
 | :-- | :---------------------------------------------------------------------------------------------------------------------------- | :------ | :----------------------------------------------------------------------------------------------- |
-| ❌  | [nitter.mastodont.cat](https://nitter.mastodont.cat) (dead subdomain since 2021-04-10)                        | 🇩🇪      | [Let's Encrypt](https://www.ssllabs.com/ssltest/analyze.html?d=nitter.mastodont.cat)             |
 | ❌  | [nitter.himiko.cloud](https://nitter.himiko.cloud) (dead base domain since 2021-05-03)                        | 🇧🇬      | [Let's Encrypt](https://www.ssllabs.com/ssltest/analyze.html?d=nitter.himiko.cloud)              |
 | ❌  | [nitter.jae.fi](https://nitter.jae.fi) (dead subdomain since 2021-06-11) | 🇫🇮  | [ZeroSSL](https://www.ssllabs.com/ssltest/analyze.html?d=nitter.jae.fi) |
 | ❌  | [nitter.koyu.space](https://nitter.koyu.space/) (too many rate limited states since 2021-06-07)                       | 🇩🇪                 | [Let's Encrypt](https://www.ssllabs.com/ssltest/analyze.html?d=nitter.koyu.space)      |
 | ❌  | [nitter.cc](https://nitter.cc) (almost down since mid-June 2021)                     | 🇷🇸                 | [Cloudflare](https://www.ssllabs.com/ssltest/analyze.html?d=nitter.cc)                 |
 | ❌  | [nitter.ortion.xyz](https://nitter.ortion.xyz/) (too many issues like slow, 502 error or rate limited since 7 Jun 2021)                      | 🇫🇷                 | [Let's Encrypt](https://www.ssllabs.com/ssltest/analyze.html?d=nitter.ortion.xyz)      |
-## List of Third-party Nitter services
 | ❌  | [nitter.vxempire.xyz](https://nitter.vxempire.xyz) (too many issues like slow or rate limited since mid-June 2021) | 🇪🇸                 | [Let's Encrypt](https://www.ssllabs.com/ssltest/analyze.html?d=nitter.vxempire.xyz)    |
+
+## List of Third-party Nitter services
 
 | Name                         |                                                                               |
 | :----------------------------------------------------------- | :---------------------------------------------------------------------------- |
