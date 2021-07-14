@@ -57,7 +57,7 @@ Note: Please add new instances to the bottom to preserve the order.
 | ❌  | [i23nv6w3juvzlw32xzoxcqzktegd4i4fu3nmnc2ewv4ggiu4ledwklad.onion](http://i23nv6w3juvzlw32xzoxcqzktegd4i4fu3nmnc2ewv4ggiu4ledwklad.onion/)               |
 | ✅  | [26oq3gioiwcmfojub37nz5gzbkdiqp7fue5kvye7d4txv4ny6fb4wwid.onion](http://26oq3gioiwcmfojub37nz5gzbkdiqp7fue5kvye7d4txv4ny6fb4wwid.onion/)               |
 | ✅  | [vfaomgh4jxphpbdfizkm5gbtjahmei234giqj4facbwhrfjtcldauqad.onion](http://vfaomgh4jxphpbdfizkm5gbtjahmei234giqj4facbwhrfjtcldauqad.onion/)               |
-| ✅  | [sjbaseh3c45sjphejyrpeuwnqfgj4okogfbvg5i2p5e27ssedtutetqd.onion](http://sjbaseh3c45sjphejyrpeuwnqfgj4okogfbvg5i2p5e27ssedtutetqd.onion/)               |
+| ✅  | [nitterrrs6bbcba2bxjviwxzzapkhuuelljtig2ku2rxasweckxxxhid.onion](http://nitterrrs6bbcba2bxjviwxzzapkhuuelljtig2ku2rxasweckxxxhid.onion/)               |
 
 ### I2P Hidden Services
 
