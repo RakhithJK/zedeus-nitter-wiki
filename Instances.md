@@ -12,7 +12,7 @@ Note: Please add new instances to the bottom to preserve the order.
 
 <!--
 - nitter.snopyta.org admin ask us to "hide it from the top, otherwise it might get as popular as invidious"
-- List of less used icons used here : SLOW = &#128012; ****** WAS BAD/TOO OFTEN RATE LIMITED OR SLOW BUT NOW NEED TO CONFIRM HIS REVIVAL = &#129396; ****** TINY INSTANCE : DOES NOT HOLD THE LOAD = 🥴 
+- List of less used icons used here : SLOW = &#128012; ****** WAS BAD/TOO OFTEN RATE LIMITED OR SLOW BUT NOW NEED TO CONFIRM HIS REVIVAL = 🧐 ****** TINY INSTANCE : DOES NOT HOLD THE LOAD = 😕 
 -->
 
 |           | URL                                                                   | Country            | Issuer & SSLLabs verification&nbsp;link                                                |
@@ -75,7 +75,7 @@ We can consider than keeping here an URL three or more months on this wiki part 
 | :-- | :---------------------------------------------------------------------------------------------------------------------------- | :------ | :----------------------------------------------------------------------------------------------- |
 | ❌  | [nitter.himiko.cloud](https://nitter.himiko.cloud) (dead base domain since 2021-05-03)                        | 🇧🇬      | [Let's Encrypt](https://www.ssllabs.com/ssltest/analyze.html?d=nitter.himiko.cloud)              |
 | ❌  | [nitter.jae.fi](https://nitter.jae.fi) (dead subdomain since 2021-06-11) | 🇫🇮  | [ZeroSSL](https://www.ssllabs.com/ssltest/analyze.html?d=nitter.jae.fi) |
-| &#129396; | [nitter.koyu.space](https://nitter.koyu.space/) (tiny Nitter instance: too many rate limited or slow states since 2021-06-07)                       | 🇩🇪                 | [Let's Encrypt](https://www.ssllabs.com/ssltest/analyze.html?d=nitter.koyu.space)      |
+| 😕 | [nitter.koyu.space](https://nitter.koyu.space/) (tiny Nitter instance: too many rate limited or slow states since 2021-06-07)                       | 🇩🇪                 | [Let's Encrypt](https://www.ssllabs.com/ssltest/analyze.html?d=nitter.koyu.space)      |
 | ❌  | [nitter.cc](https://nitter.cc) (almost down since mid-June 2021)                     | 🇷🇸                 | [Cloudflare](https://www.ssllabs.com/ssltest/analyze.html?d=nitter.cc)                 |
 | ❌  | [nitter.ortion.xyz](https://nitter.ortion.xyz/) (too many issues like slow, 502 error or rate limited since 7 Jun 2021)                      | 🇫🇷                 | [Let's Encrypt](https://www.ssllabs.com/ssltest/analyze.html?d=nitter.ortion.xyz)      |
 | ❌  | [nitter.vxempire.xyz](https://nitter.vxempire.xyz) (too many issues like slow or rate limited since mid-June 2021) | 🇪🇸                 | [Let's Encrypt](https://www.ssllabs.com/ssltest/analyze.html?d=nitter.vxempire.xyz)    |
