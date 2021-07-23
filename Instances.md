@@ -44,6 +44,7 @@ Note: Please add new instances to the bottom to preserve the order.
 | ✅        | [bird.trom.tf](https://bird.trom.tf/)                       | 🇩🇪                 | [Let's Encrypt](https://www.ssllabs.com/ssltest/analyze.html?d=bird.trom.tf)      |
 |  ✅       | [nitter.mha.fi](https://nitter.mha.fi)                       | 🇩🇪                 | [Let's Encrypt](https://www.ssllabs.com/ssltest/analyze.html?d=nitter.mha.fi)      |
 |  ✅       | [nitter.bcow.xyz](https://nitter.bcow.xyz)                       | 🇺🇸                 | [Let's Encrypt](https://www.ssllabs.com/ssltest/analyze.html?d=nitter.bcow.xyz)      |
+|  ✅       | [bird.nogafam.es](https://bird.nogafam.es)                       | 🇪🇸                | [Let's Encrypt](https://www.ssllabs.com/ssltest/analyze.html?d=bird.nogafam.es)      |
 
 ### Tor Hidden Service
 
