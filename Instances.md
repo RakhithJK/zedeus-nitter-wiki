@@ -12,38 +12,38 @@ Note: Please add new instances to the bottom to preserve the order.
 
 <!--
 - nitter.snopyta.org admin ask us to "hide it from the top, otherwise it might get as popular as invidious"
-- List of less used icons used here : SLOW = &#128012; ****** WAS BAD/TOO OFTEN RATE LIMITED OR SLOW BUT NOW NEED TO CONFIRM HIS REVIVAL = 🧐 ****** TINY INSTANCE : DOES NOT HOLD THE LOAD = 😕 
 -->
 
-|           | URL                                                                   | Country            | Issuer & SSLLabs verification&nbsp;link                                                |
-| :-------- | :-------------------------------------------------------------------- | :----------------- | :------------------------------------------------------------------------------------- |
-| ✅        | [nitter.42l.fr](https://nitter.42l.fr/)                               | 🇫🇷                 | [Let's Encrypt](https://www.ssllabs.com/ssltest/analyze.html?d=nitter.42l.fr)          |
-| ✅        | [nitter.pussthecat.org](https://nitter.pussthecat.org)                | 🇩🇪                 | [Let's Encrypt](https://www.ssllabs.com/ssltest/analyze.html?d=nitter.pussthecat.org)  |
-| ✅        | [nitter.nixnet.services](https://nitter.nixnet.services/)             | 🇩🇪                 | [Let's Encrypt](https://www.ssllabs.com/ssltest/analyze.html?d=nitter.nixnet.services) |
-| ✅        | [nitter.fdn.fr](https://nitter.fdn.fr/)                               | 🇫🇷                 | [Let's Encrypt](https://www.ssllabs.com/ssltest/analyze.html?d=nitter.fdn.fr)          |
-| &#128012; | [nitter.1d4.us](https://nitter.1d4.us/) (Slow Apr 6 2021)             | 🇺🇸                 | [Let's Encrypt](https://www.ssllabs.com/ssltest/analyze.html?d=nitter.1d4.us)          |
-| ✅        | [nitter.kavin.rocks](https://nitter.kavin.rocks)                      | 🇮🇳                 | [Cloudflare](https://www.ssllabs.com/ssltest/analyze.html?d=nitter.kavin.rocks)        |
-| ✅  | [tweet.lambda.dance](https://tweet.lambda.dance)                   | 🇺🇸      | [Let's Encrypt](https://www.ssllabs.com/ssltest/analyze.html?d=tweet.lambda.dance)               |
-| ✅        | [nitter.unixfox.eu](https://nitter.unixfox.eu)                        | 🇳🇱                 | [Let's Encrypt](https://www.ssllabs.com/ssltest/analyze.html?d=nitter.unixfox.eu)      |
-| ✅        | [nitter.domain.glass](https://nitter.domain.glass)                    | 🇺🇸                 | [Cloudflare](https://www.ssllabs.com/ssltest/analyze.html?d=nitter.domain.glass)       |
-| ✅        | [nitter.eu](https://nitter.eu)                                        | 🇫🇮                 | [Let's Encrypt](https://www.ssllabs.com/ssltest/analyze.html?d=nitter.eu)              |
-| &#128012; | [nitter.ethibox.fr](https://nitter.ethibox.fr) (Slow Feb 17 2021)     | 🇫🇷                 | [Let's Encrypt](https://www.ssllabs.com/ssltest/analyze.html?d=nitter.ethibox.fr)      |
-| ✅        | [nitter.namazso.eu](https://nitter.namazso.eu)                        | 🇩🇪                 | [Let's Encrypt](https://www.ssllabs.com/ssltest/analyze.html?d=nitter.namazso.eu)      |
-| ✅        | [nitter.mailstation.de](https://nitter.mailstation.de)                | 🇩🇪                 | [Let's Encrypt](https://www.ssllabs.com/ssltest/analyze.html?d=nitter.mailstation.de)  |
-| ✅        | [nitter.actionsack.com](https://nitter.actionsack.com)                | 🇺🇸                 | [Cloudflare](https://www.ssllabs.com/ssltest/analyze.html?d=nitter.actionsack.com)     |
-| ✅        | [nitter.cattube.org](https://nitter.cattube.org/)                     | 🇩🇪                 | [Let's Encrypt](https://www.ssllabs.com/ssltest/analyze.html?d=nitter.cattube.org)     |
-| ✅        | [birdsite.xanny.family](https://birdsite.xanny.family)                | 🇬🇧                 | [Let's Encrypt](https://www.ssllabs.com/ssltest/analyze.html?d=birdsite.xanny.family)  |
-| ✅        | [nitter.40two.app](https://nitter.40two.app)                          | 🇳🇱                 | [Let's Encrypt](https://www.ssllabs.com/ssltest/analyze.html?d=nitter.40two.app)       |
-| ✅        | [nitter.hu](https://nitter.hu)                            | 🇭🇺                 | [Cloudflare](https://www.ssllabs.com/ssltest/analyze.html?d=nitter.hu)                 |
-| ✅        | [nitter.database.red](https://nitter.database.red)                    | 🇺🇸                 | [Cloudflare](https://www.ssllabs.com/ssltest/analyze.html?d=nitter.database.red)       |
-| ✅        | [nitter.exonip.de](https://nitter.exonip.de/)                         | 🇩🇪                 | [Let's Encrypt](https://www.ssllabs.com/ssltest/analyze.html?d=nitter.exonip.de)       |
-| ✅        | [twitr.gq](https://twitr.gq/)                                         | 🇫🇮                 | [Cloudflare](https://www.ssllabs.com/ssltest/analyze.html?d=twitr.gq)                  |
-| ✅        | [nitter.dark.fail](https://nitter.dark.fail) (no search)              | 🇺🇸                 | [Cloudflare](https://www.ssllabs.com/ssltest/analyze.html?d=nitter.dark.fail)          |
-| ✅        | [nitter.moomoo.me](https://nitter.moomoo.me)                          | 🇺🇸                 | [Cloudflare](https://www.ssllabs.com/ssltest/analyze.html?d=nitter.moomoo.me)          |
-| ✅        | [bird.trom.tf](https://bird.trom.tf/)                       | 🇩🇪                 | [Let's Encrypt](https://www.ssllabs.com/ssltest/analyze.html?d=bird.trom.tf)      |
-|  ✅       | [nitter.mha.fi](https://nitter.mha.fi)                       | 🇩🇪                 | [Let's Encrypt](https://www.ssllabs.com/ssltest/analyze.html?d=nitter.mha.fi)      |
-|  ✅       | [nitter.bcow.xyz](https://nitter.bcow.xyz)                       | 🇺🇸                 | [Let's Encrypt](https://www.ssllabs.com/ssltest/analyze.html?d=nitter.bcow.xyz)      |
-|  ✅       | [bird.nogafam.es](https://bird.nogafam.es)                       | 🇪🇸                | [Let's Encrypt](https://www.ssllabs.com/ssltest/analyze.html?d=bird.nogafam.es)      |
+❓ means the commit link is either invalid or missing from the instance's about page.
+
+|     | URL                                                           | Country    | Updated | Issuer & SSLLabs verification&nbsp;link                                                |
+| :-- | :------------------------------------------------------------ | :--------- | :------ | :------------------------------------------------------------------------------------- |
+| ✅  | [nitter.42l.fr](https://nitter.42l.fr/)                       | 🇫🇷       | ✅      | [Let's Encrypt](https://www.ssllabs.com/ssltest/analyze.html?d=nitter.42l.fr)          |
+| ✅  | [nitter.pussthecat.org](https://nitter.pussthecat.org)        | 🇩🇪       | ✅      | [Let's Encrypt](https://www.ssllabs.com/ssltest/analyze.html?d=nitter.pussthecat.org)  |
+| ✅  | [nitter.nixnet.services](https://nitter.nixnet.services/)     | 🇩🇪       | ❌      | [Let's Encrypt](https://www.ssllabs.com/ssltest/analyze.html?d=nitter.nixnet.services) |
+| ✅  | [nitter.fdn.fr](https://nitter.fdn.fr/)                       | 🇫🇷       | ❓      | [Let's Encrypt](https://www.ssllabs.com/ssltest/analyze.html?d=nitter.fdn.fr)          |
+| ✅  | [nitter.1d4.us](https://nitter.1d4.us/)                       | 🇺🇸       | ❓      | [Let's Encrypt](https://www.ssllabs.com/ssltest/analyze.html?d=nitter.1d4.us)          |
+| ✅  | [nitter.kavin.rocks](https://nitter.kavin.rocks)              | 🇮🇳       | ✅      | [Cloudflare](https://www.ssllabs.com/ssltest/analyze.html?d=nitter.kavin.rocks)        |
+| ✅  | [tweet.lambda.dance](https://tweet.lambda.dance)              | 🇺🇸       | ❌      | [Let's Encrypt](https://www.ssllabs.com/ssltest/analyze.html?d=tweet.lambda.dance)               |
+| ✅  | [nitter.unixfox.eu](https://nitter.unixfox.eu)                | 🇳🇱       | ❌      | [Let's Encrypt](https://www.ssllabs.com/ssltest/analyze.html?d=nitter.unixfox.eu)      |
+| ✅  | [nitter.domain.glass](https://nitter.domain.glass)            | 🇺🇸       | ❌      | [Cloudflare](https://www.ssllabs.com/ssltest/analyze.html?d=nitter.domain.glass)       |
+| ✅  | [nitter.eu](https://nitter.eu)                                | 🇫🇮       | ❌      | [Let's Encrypt](https://www.ssllabs.com/ssltest/analyze.html?d=nitter.eu)              |
+| ❌  | [nitter.ethibox.fr](https://nitter.ethibox.fr) (maintenance?) | 🇫🇷       | ❓      | [Let's Encrypt](https://www.ssllabs.com/ssltest/analyze.html?d=nitter.ethibox.fr)   |
+| ✅  | [nitter.namazso.eu](https://nitter.namazso.eu)                | 🇩🇪       | ✅      | [Let's Encrypt](https://www.ssllabs.com/ssltest/analyze.html?d=nitter.namazso.eu)      |
+| ✅  | [nitter.mailstation.de](https://nitter.mailstation.de)        | 🇩🇪       | ✅      | [Let's Encrypt](https://www.ssllabs.com/ssltest/analyze.html?d=nitter.mailstation.de)  |
+| ✅  | [nitter.actionsack.com](https://nitter.actionsack.com)        | 🇺🇸       | ✅      | [Cloudflare](https://www.ssllabs.com/ssltest/analyze.html?d=nitter.actionsack.com)     |
+| ✅  | [nitter.cattube.org](https://nitter.cattube.org/)             | 🇩🇪       | ❌      | [Let's Encrypt](https://www.ssllabs.com/ssltest/analyze.html?d=nitter.cattube.org)     |
+| ✅  | [birdsite.xanny.family](https://birdsite.xanny.family)        | 🇬🇧       | ❌      | [Let's Encrypt](https://www.ssllabs.com/ssltest/analyze.html?d=birdsite.xanny.family)  |
+| ✅  | [nitter.hu](https://nitter.hu)                                | 🇭🇺       | ❌      | [Cloudflare](https://www.ssllabs.com/ssltest/analyze.html?d=nitter.hu)                 |
+| ✅  | [nitter.database.red](https://nitter.database.red)            | 🇺🇸       | ✅      | [Cloudflare](https://www.ssllabs.com/ssltest/analyze.html?d=nitter.database.red)       |
+| ✅  | [nitter.exonip.de](https://nitter.exonip.de/)                 | 🇩🇪       | ❌      | [Let's Encrypt](https://www.ssllabs.com/ssltest/analyze.html?d=nitter.exonip.de)       |
+| ✅  | [twitr.gq](https://twitr.gq/)                                 | 🇫🇮       | ❓      | [Cloudflare](https://www.ssllabs.com/ssltest/analyze.html?d=twitr.gq)                  |
+| ✅  | [nitter.dark.fail](https://nitter.dark.fail) (no search)      | 🇺🇸       | ✅      | [Cloudflare](https://www.ssllabs.com/ssltest/analyze.html?d=nitter.dark.fail)          |
+| ✅  | [nitter.moomoo.me](https://nitter.moomoo.me)                  | 🇺🇸       | ❌      | [Cloudflare](https://www.ssllabs.com/ssltest/analyze.html?d=nitter.moomoo.me)          |
+| ✅  | [bird.trom.tf](https://bird.trom.tf/)                         | 🇩🇪       | ❓      | [Let's Encrypt](https://www.ssllabs.com/ssltest/analyze.html?d=bird.trom.tf)      |
+| ✅  | [nitter.mha.fi](https://nitter.mha.fi)                        | 🇩🇪       | ❓      | [Let's Encrypt](https://www.ssllabs.com/ssltest/analyze.html?d=nitter.mha.fi)      |
+| ✅  | [nitter.bcow.xyz](https://nitter.bcow.xyz)                    | 🇺🇸       | ✅      | [Let's Encrypt](https://www.ssllabs.com/ssltest/analyze.html?d=nitter.bcow.xyz)      |
+| ✅  | [bird.nogafam.es](https://bird.nogafam.es)                    | 🇪🇸       | ✅      | [Let's Encrypt](https://www.ssllabs.com/ssltest/analyze.html?d=bird.nogafam.es)      |
 
 ### Tor Hidden Service
 
@@ -68,24 +68,20 @@ Note: Please add new instances to the bottom to preserve the order.
 
 ## List of defuncted Nitter Instances
 
-<!--
-Hey buds ! plz not defunct servers only because one day he was unreachable ;) Thanks.
-We can consider than keeping here an URL three or more months on this wiki part becomes useless.
--->
-
-|     | URL                                                                                                           | Country | Issuer & SSLLabs verification&nbsp;link                                                          |
-| :-- | :---------------------------------------------------------------------------------------------------------------------------- | :------ | :----------------------------------------------------------------------------------------------- |
-| ❌  | [nitter.himiko.cloud](https://nitter.himiko.cloud) (dead base domain since 2021-05-03)                        | 🇧🇬      | [Let's Encrypt](https://www.ssllabs.com/ssltest/analyze.html?d=nitter.himiko.cloud)              |
-| ❌  | [nitter.jae.fi](https://nitter.jae.fi) (dead subdomain since 2021-06-11) | 🇫🇮  | [ZeroSSL](https://www.ssllabs.com/ssltest/analyze.html?d=nitter.jae.fi) |
-| 😕 | [nitter.koyu.space](https://nitter.koyu.space/) (tiny Nitter instance: too many rate limited or slow states since 2021-06-07)                       | 🇩🇪                 | [Let's Encrypt](https://www.ssllabs.com/ssltest/analyze.html?d=nitter.koyu.space)      |
-| ❌  | [nitter.cc](https://nitter.cc) (almost down since mid-June 2021)                     | 🇷🇸                 | [Cloudflare](https://www.ssllabs.com/ssltest/analyze.html?d=nitter.cc)                 |
-| ❌  | [nitter.ortion.xyz](https://nitter.ortion.xyz/) (too many issues like slow, 502 error or rate limited since 7 Jun 2021)                      | 🇫🇷                 | [Let's Encrypt](https://www.ssllabs.com/ssltest/analyze.html?d=nitter.ortion.xyz)      |
-| ❌  | [nitter.vxempire.xyz](https://nitter.vxempire.xyz) (too many issues like slow or rate limited since mid-June 2021) | 🇪🇸                 | [Let's Encrypt](https://www.ssllabs.com/ssltest/analyze.html?d=nitter.vxempire.xyz)    |
+|    | URL                                                                            | Country | Issuer & SSLLabs verification&nbsp;link                                             |
+| :- | :----------------------------------------------------------------------------- | :------ | :---------------------------------------------------------------------------------- |
+| ❌ | [nitter.himiko.cloud](https://nitter.himiko.cloud)                             | 🇧🇬    | [Let's Encrypt](https://www.ssllabs.com/ssltest/analyze.html?d=nitter.himiko.cloud) |
+| ❌ | [nitter.jae.fi](https://nitter.jae.fi)                                         | 🇫🇮    | [ZeroSSL](https://www.ssllabs.com/ssltest/analyze.html?d=nitter.jae.fi)             |
+| 😕 | [nitter.koyu.space](https://nitter.koyu.space/) (2021-06-07 tiny instance)     | 🇩🇪    | [Let's Encrypt](https://www.ssllabs.com/ssltest/analyze.html?d=nitter.koyu.space)   |
+| ❌ | [nitter.cc](https://nitter.cc) (June 2021 usually down)                        | 🇷🇸    | [Cloudflare](https://www.ssllabs.com/ssltest/analyze.html?d=nitter.cc)              |
+| ❌ | [nitter.ortion.xyz](https://nitter.ortion.xyz/) (2021-06-07 too many issues)   | 🇫🇷    | [Let's Encrypt](https://www.ssllabs.com/ssltest/analyze.html?d=nitter.ortion.xyz)   |
+| ❌ | [nitter.vxempire.xyz](https://nitter.vxempire.xyz) (June 2021 too many issues) | 🇪🇸    | [Let's Encrypt](https://www.ssllabs.com/ssltest/analyze.html?d=nitter.vxempire.xyz) |
+| ❌ | [nitter.40two.app](https://nitter.40two.app)                                   | 🇳🇱    | [Let's Encrypt](https://www.ssllabs.com/ssltest/analyze.html?d=nitter.40two.app)    |
 
 ## List of Third-party Nitter services
 
-| Name                         |                                                                               |
-| :----------------------------------------------------------- | :---------------------------------------------------------------------------- |
-| [TWIIIT](https://twiiit.com) | Randomly picks up a server from this wiki                                     |
-| [Twitit](https://twitit.gq)  | Tracks all Nitter instances status and redirects to working ones (highly monitored)  |
-| [Nitter-instances](https://github.com/xnaas/nitter-instances) | Tracks all Nitter instances (highly monitored) |
+| Name                                                          | Description                                                      |
+| :------------------------------------------------------------ | :--------------------------------------------------------------- |
+| [Twiiit](https://twiiit.com)                                  | Randomly picks a server from this wiki                           |
+| [Twitit](https://twitit.gq)                                   | Tracks all Nitter instances status and redirects to working ones |
+| [Nitter-instances](https://github.com/xnaas/nitter-instances) | Tracks all Nitter instances                                      |
