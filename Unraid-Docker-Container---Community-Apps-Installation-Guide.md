@@ -23,8 +23,8 @@ With that in mind, the installation of Nitter is rather simple once you have the
 
 - Name – Appdata
 - Container Path - /config
-- Host Path - /mnt/user/appdata/nitter
-- Default Value - /mnt/user/appdata/nitter
+- Host Path - /mnt/user/appdata/nitter (_this could be changed to whatever suits your local server path requirements if your appdata path is different_)
+- Default Value - /mnt/user/appdata/nitter (_see above_)
 - Acccess Mode – Read/Write
 - Description – Appdata location
 
