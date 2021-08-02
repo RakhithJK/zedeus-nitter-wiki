@@ -28,23 +28,7 @@ With that in mind, the installation of Nitter is rather simple once you have the
 - Acccess Mode – Read/Write
 - Description – Appdata location
 
-14.	Add in a ‘variable’ as;
-
-- Name – PUID
-- Key - PUID
-- Value – 99
-- Default Value - 99
-- Description – PUID
-
-15.	Add in a further ‘variable’ as;
-
-- Name – PGID
-- Key – PGID
-- Value – 100
-- Default Value – 100
-- Description – PGID
-
-16.	Now add in a ‘port’ as;
+14.	Now add in a ‘port’ as;
 
 - Name – Port
 - Container Port – 8080
@@ -53,10 +37,10 @@ With that in mind, the installation of Nitter is rather simple once you have the
 - Connection Type – TCP
 - Description – Container Port: 8080
 
-17.	Uncheck the ‘Start Container After Install’ checkbox. (_We need to add the nitter.conf prior to starting the container_)
-18.	Click apply to download/install the container.
+15.	Uncheck the ‘Start Container After Install’ checkbox. (_We need to add the nitter.conf prior to starting the container_)
+16.	Click apply to download/install the container.
 
-19.	Now to generate the required ‘nitter.conf;’
+17.	Now to generate the required ‘nitter.conf;’
 
 - Enter terminal from the webGUI of Unraid and navigate over to /mnt/user/appdata/nitter
 - Use your terminal text editor of choice (vi or nano)
@@ -87,5 +71,5 @@ RestartSec=15
 WantedBy=multi-user.target
 ```
 
-20. Start your Nitter docker container
-21. _OPTIONAL – Head over to your SSL cert provider container of choice and set-up as necessary to server certs to your Nitter instance for your domain_.
+18. Start your Nitter docker container
+19. _OPTIONAL – Head over to your SSL cert provider container of choice and set-up as necessary to server certs to your Nitter instance for your domain_.
