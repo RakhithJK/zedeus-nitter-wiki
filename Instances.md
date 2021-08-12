@@ -46,6 +46,7 @@ Note: Please add new instances to the bottom to preserve the order.
 | ✅  | [bird.nogafam.es](https://bird.nogafam.es)                    | 🇪🇸       | ✅      | [Let's Encrypt](https://www.ssllabs.com/ssltest/analyze.html?d=bird.nogafam.es)      |
 | ✅  | [twitter.censors.us](https://twitter.censors.us)              | 🇫🇷       | ✅      | [Let's Encrypt](https://www.ssllabs.com/ssltest/analyze.html?d=twitter.censors.us)      |
 | ✅  | [nitter.grimneko.de](https://nitter.grimneko.de)              | 🇩🇪       | ✅      | [Let's Encrypt](https://www.ssllabs.com/ssltest/analyze.html?d=nitter.grimneko.de)      |
+| ✅ | [nitter.koyu.space](https://nitter.koyu.space/)                | 🇩🇪       | ✅      | [Let's Encrypt](https://www.ssllabs.com/ssltest/analyze.html?d=nitter.koyu.space)   |
 
 
 ### Tor Hidden Service
@@ -75,7 +76,6 @@ Note: Please add new instances to the bottom to preserve the order.
 | :- | :----------------------------------------------------------------------------- | :------ | :---------------------------------------------------------------------------------- |
 | ❌ | [nitter.himiko.cloud](https://nitter.himiko.cloud)                             | 🇧🇬    | [Let's Encrypt](https://www.ssllabs.com/ssltest/analyze.html?d=nitter.himiko.cloud) |
 | ❌ | [nitter.jae.fi](https://nitter.jae.fi)                                         | 🇫🇮    | [ZeroSSL](https://www.ssllabs.com/ssltest/analyze.html?d=nitter.jae.fi)             |
-| 😕 | [nitter.koyu.space](https://nitter.koyu.space/) (2021-06-07 tiny instance)     | 🇩🇪    | [Let's Encrypt](https://www.ssllabs.com/ssltest/analyze.html?d=nitter.koyu.space)   |
 | ❌ | [nitter.cc](https://nitter.cc) (June 2021 usually down)                        | 🇷🇸    | [Cloudflare](https://www.ssllabs.com/ssltest/analyze.html?d=nitter.cc)              |
 | ❌ | [nitter.ortion.xyz](https://nitter.ortion.xyz/) (2021-06-07 too many issues)   | 🇫🇷    | [Let's Encrypt](https://www.ssllabs.com/ssltest/analyze.html?d=nitter.ortion.xyz)   |
 | ❌ | [nitter.vxempire.xyz](https://nitter.vxempire.xyz) (June 2021 too many issues) | 🇪🇸    | [Let's Encrypt](https://www.ssllabs.com/ssltest/analyze.html?d=nitter.vxempire.xyz) |
