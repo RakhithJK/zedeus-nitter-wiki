@@ -47,7 +47,7 @@ Note: Please add new instances to the bottom to preserve the order.
 | ✅  | [twitter.censors.us](https://twitter.censors.us)              | 🇫🇷       | ✅      | [Let's Encrypt](https://www.ssllabs.com/ssltest/analyze.html?d=twitter.censors.us)      |
 | ✅  | [nitter.grimneko.de](https://nitter.grimneko.de)              | 🇩🇪       | ✅      | [Let's Encrypt](https://www.ssllabs.com/ssltest/analyze.html?d=nitter.grimneko.de)      |
 | ✅ | [nitter.koyu.space](https://nitter.koyu.space/)                | 🇩🇪       | ✅      | [Let's Encrypt](https://www.ssllabs.com/ssltest/analyze.html?d=nitter.koyu.space)   |
-
+| ✅ | [nitter.sugoma.tk](https://nitter.sugoma.tk/)                | 🇺🇸       | ✅      | [Let's Encrypt](https://www.ssllabs.com/ssltest/analyze.html?d=nitter.sugoma.tk)   |
 
 ### Tor Hidden Service
 
