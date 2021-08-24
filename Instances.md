@@ -50,7 +50,7 @@ Note: Please add new instances to the bottom to preserve the order.
 | ✅ | [nitter.sugoma.tk](https://nitter.sugoma.tk/)                | 🇺🇸       | ✅      | [Let's Encrypt](https://www.ssllabs.com/ssltest/analyze.html?d=nitter.sugoma.tk)   |
 | ✅ | [nitter.alefvanoon.xyz](https://nitter.alefvanoon.xyz/)                | 🇺🇸       | ✅      | [Let's Encrypt](https://www.ssllabs.com/ssltest/analyze.html?d=nitter.alefvanoon.xyz)   |
 | ✅ | [nitter.ir](https://nitter.ir/)                | 🇺🇸       | ✅      | [Let's Encrypt](https://www.ssllabs.com/ssltest/analyze.html?d=nitter.ir)   |
-
+| ✅ | [nitter.autarkic.org](https://nitter.autarkic.org/)                | 🇺🇸       | ✅      | [Let's Encrypt](https://www.ssllabs.com/ssltest/analyze.html?d=nitter.autarkic.org)   |
 ### Tor Hidden Service
 
 |     | URL                                                                                                                                                    |
