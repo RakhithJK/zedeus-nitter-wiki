@@ -19,7 +19,7 @@ With that in mind, the installation of Nitter is rather simple once you have the
 9.	Set your ‘WebUI’ as http://[IP]:[PORT:8080]/ (_This could be changed to whatever suits your local server port requirements - see below_)
 10.	Set ‘Extra Parameters’ as --restart=always
 11.	Set your network type as needed (_OPTIONAL - Set network type as your network that you utilize for your SSL certs (for me its proxnetwork).)_
-12.	Add in your static IP address that you will utilize for Nitter. (_It makes it easier to get to your hosted instance_)
+12.	Add in your static IP address that you will utilize for Nitter. (_This can be configured to suit your reverse proxy. You can even leave it empty if that's easier. I found in my setup that it was easier for me to have the IP set as a static entry._)
 
 13.	Add in a ‘path’ as;
 
