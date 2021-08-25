@@ -47,50 +47,7 @@ With that in mind, the installation of Nitter is rather simple once you have the
 - Enter terminal from the webGUI of Unraid and navigate over to /mnt/user/appdata/nitter
 - Use your terminal text editor of choice (vi or nano)
   _For example – nano nitter.conf_
-- Paste in the following nitter.conf (_this should initially be the same as the one listed https://github.com/zedeus/nitter/blob/master/nitter.conf_)
-
-```
-[Server]
-address = "0.0.0.0"
-port = 8080
-https = false  # disable to enable cookies when not using https
-httpMaxConnections = 100
-staticDir = "./public"
-title = "nitter"
-hostname = "nitter.net"
-
-[Cache]
-listMinutes = 240  # how long to cache list info (not the tweets, so keep it high)
-rssMinutes = 10  # how long to cache rss queries
-redisHost = "localhost"
-redisPort = 6379
-redisConnections = 20 # connection pool size
-redisMaxConnections = 30
-redisPassword = ""
-# max, new connections are opened when none are available, but if the pool size
-# goes above this, they're closed when released. don't worry about this unless
-# you receive tons of requests per second
-
-[Config]
-hmacKey = "secretkey" # random key for cryptographic signing of video urls
-base64Media = false # use base64 encoding for proxied media urls
-tokenCount = 10
-# minimum amount of usable tokens. tokens are used to authorize API requests,
-# but they expire after ~1 hour, and have a limit of 187 requests.
-# the limit gets reset every 15 minutes, and the pool is filled up so there's
-# always at least $tokenCount usable tokens. again, only increase this if
-# you receive major bursts all the time
-
-# Change default preferences here, see src/prefs_impl.nim for a complete list
-[Preferences]
-theme = "Nitter"
-replaceTwitter = "nitter.net"
-replaceYouTube = "piped.kavin.rocks"
-replaceInstagram = ""
-proxyVideos = true
-hlsPlayback = false
-infiniteScroll = false
-```
+- Paste in the contents of the nitter.conf directly from https://github.com/zedeus/nitter/blob/master/nitter.conf
 
 18. Start your Nitter docker container
 19. _OPTIONAL – Head over to your SSL cert provider container of choice and set-up as necessary to server certs to your Nitter instance for your domain_.
