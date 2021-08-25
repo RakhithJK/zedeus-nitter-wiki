@@ -47,30 +47,49 @@ With that in mind, the installation of Nitter is rather simple once you have the
 - Enter terminal from the webGUI of Unraid and navigate over to /mnt/user/appdata/nitter
 - Use your terminal text editor of choice (vi or nano)
   _For example – nano nitter.conf_
-- Paste in the following nitter.conf (_this is the same as the one listed on the installation guide in Nitter's readme_)
+- Paste in the following nitter.conf (_this should initially be the same as the one listed https://github.com/zedeus/nitter/blob/master/nitter.conf_)
 
 ```
-[Unit]
-Description=Nitter (An alternative Twitter front-end)
-After=syslog.target
-After=network.target
+[Server]
+address = "0.0.0.0"
+port = 8080
+https = false  # disable to enable cookies when not using https
+httpMaxConnections = 100
+staticDir = "./public"
+title = "nitter"
+hostname = "nitter.net"
 
-[Service]
-Type=simple
+[Cache]
+listMinutes = 240  # how long to cache list info (not the tweets, so keep it high)
+rssMinutes = 10  # how long to cache rss queries
+redisHost = "localhost"
+redisPort = 6379
+redisConnections = 20 # connection pool size
+redisMaxConnections = 30
+redisPassword = ""
+# max, new connections are opened when none are available, but if the pool size
+# goes above this, they're closed when released. don't worry about this unless
+# you receive tons of requests per second
 
-# set user and group
-User=nitter
-Group=nitter
+[Config]
+hmacKey = "secretkey" # random key for cryptographic signing of video urls
+base64Media = false # use base64 encoding for proxied media urls
+tokenCount = 10
+# minimum amount of usable tokens. tokens are used to authorize API requests,
+# but they expire after ~1 hour, and have a limit of 187 requests.
+# the limit gets reset every 15 minutes, and the pool is filled up so there's
+# always at least $tokenCount usable tokens. again, only increase this if
+# you receive major bursts all the time
 
-# configure location
-WorkingDirectory=/home/nitter/nitter
-ExecStart=/home/nitter/nitter/nitter
-
-Restart=always
-RestartSec=15
-
-[Install]
-WantedBy=multi-user.target
+# Change default preferences here, see src/prefs_impl.nim for a complete list
+[Preferences]
+theme = "Nitter"
+replaceTwitter = "nitter.net"
+replaceYouTube = "piped.kavin.rocks"
+replaceInstagram = ""
+proxyVideos = true
+hlsPlayback = false
+infiniteScroll = false
 ```
 
 18. Start your Nitter docker container
