@@ -1,5 +1,7 @@
 # **Nitter – Unraid Docker Installation**
 
+_Please note - For Unraid, I have released a 'Community Apps' template which has simplified the installation of Nitter on your device allowing you to jump to step 15 once you have found Nitter in the Community Apps page. However, if you wish to install directly from DockerHub yourself you can continue to follow these steps._
+
 This Unraid Docker Installation guide will mostly assume a few things;
 1.	You have docker enabled within Unraid
 2.	You have enabled community apps within Unraid
@@ -10,10 +12,10 @@ This Unraid Docker Installation guide will mostly assume a few things;
 With that in mind, the installation of Nitter is rather simple once you have the above setup.
 
 
-5.	Head over to apps and search for Nitter
+5.	Head over to apps and search for Nitter, click the 'Click Here To Get More Results From DockerHub' hyperlink to give more results.
 6.	Click to begin the installation of Nitter within the search result. (_The repo is zedeus/nitter_)
 7.	Set the toggle on the right in the template as ‘advanced view’ (_It defaults to basic view_)
-8.	Set your ‘Icon URL’ as https://github.com/zedeus/nitter/blob/master/public/logo.png?raw=true (_This will provide you with the Nitter logo_)
+8.	Set your ‘Icon URL’ as https://raw.githubusercontent.com/zedeus/nitter/master/public/logo.png (_This will provide you with the Nitter logo_)
 9.	Set your ‘WebUI’ as http://[IP]:[PORT:8080]/ (_This could be changed to whatever suits your local server port requirements - see below_)
 10.	Set ‘Extra Parameters’ as --restart=always
 11.	Set your network type as needed (_OPTIONAL - Set network type as your network that you utilize for your SSL certs (for me its proxnetwork).)_
