@@ -25,7 +25,7 @@ Note: Please add new instances to the bottom to preserve the order.
 | ✅  | [nitter.1d4.us](https://nitter.1d4.us/)                       | 🇺🇸       | ❓      | [Let's Encrypt](https://www.ssllabs.com/ssltest/analyze.html?d=nitter.1d4.us)          |
 | ✅  | [nitter.kavin.rocks](https://nitter.kavin.rocks)              | 🇮🇳       | ✅      | [Cloudflare](https://www.ssllabs.com/ssltest/analyze.html?d=nitter.kavin.rocks)        |
 | ✅  | [tweet.lambda.dance](https://tweet.lambda.dance)              | 🇺🇸       | ✅      | [Let's Encrypt](https://www.ssllabs.com/ssltest/analyze.html?d=tweet.lambda.dance)     |
-| ✅  | [nitter.eu.unixfox](https://nitter.unixfox.eu)                | 🇳🇱       | ❌      | [Let's Encrypt](https://www.ssllabs.com/ssltest/analyze.html?d=nitter.unixfox.eu)      |
+| ✅  | [nitter.unixfox.eu](https://nitter.unixfox.eu)                | 🇳🇱       | ❌      | [Let's Encrypt](https://www.ssllabs.com/ssltest/analyze.html?d=nitter.unixfox.eu)      |
 | ✅  | [nitter.domain.glass](https://nitter.domain.glass)            | 🇺🇸       | ❌      | [Cloudflare](https://www.ssllabs.com/ssltest/analyze.html?d=nitter.domain.glass)       |
 | ✅  | [nitter.eu](https://nitter.eu)                                | 🇫🇮       | ✅      | [Let's Encrypt](https://www.ssllabs.com/ssltest/analyze.html?d=nitter.eu)              |
 | ❌  | [nitter.ethibox.fr](https://nitter.ethibox.fr) (maintenance?) | 🇫🇷       | ❓      | [Let's Encrypt](https://www.ssllabs.com/ssltest/analyze.html?d=nitter.ethibox.fr)      |
