@@ -38,7 +38,7 @@ Note: Please add new instances to the bottom to preserve the order.
 | ✅  | [nitter.database.red](https://nitter.database.red)            | 🇺🇸       | ✅      | [Cloudflare](https://www.ssllabs.com/ssltest/analyze.html?d=nitter.database.red)       |
 | ✅  | [nitter.exonip.de](https://nitter.exonip.de/)                 | 🇩🇪       | ❌      | [Let's Encrypt](https://www.ssllabs.com/ssltest/analyze.html?d=nitter.exonip.de)       |
 | ✅  | [twitr.gq](https://twitr.gq/)                                 | 🇫🇮       | ❌      | [Cloudflare](https://www.ssllabs.com/ssltest/analyze.html?d=twitr.gq)                  |
-| ✅  | [nitter.moomoo.me](https://nitter.moomoo.me)                  | 🇺🇸       | ❌      | [Cloudflare](https://www.ssllabs.com/ssltest/analyze.html?d=nitter.moomoo.me)          |
+| ✅  | [nitter.moomoo.me](https://nitter.moomoo.me)                  | 🇺🇸       | ✅      | [Cloudflare](https://www.ssllabs.com/ssltest/analyze.html?d=nitter.moomoo.me)          |
 | ✅  | [bird.trom.tf](https://bird.trom.tf/)                         | 🇩🇪       | ❓      | [Let's Encrypt](https://www.ssllabs.com/ssltest/analyze.html?d=bird.trom.tf)           |
 | ✅  | [nitter.mha.fi](https://nitter.mha.fi)                        | 🇱🇹       | ❓      | [Let's Encrypt](https://www.ssllabs.com/ssltest/analyze.html?d=nitter.mha.fi)          |
 | ✅  | [nitter.bcow.xyz](https://nitter.bcow.xyz)                    | 🇺🇸       | ✅      | [Let's Encrypt](https://www.ssllabs.com/ssltest/analyze.html?d=nitter.bcow.xyz)        |
