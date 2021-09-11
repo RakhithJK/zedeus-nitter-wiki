@@ -51,7 +51,7 @@ Note: Please add new instances to the bottom to preserve the order.
 | ✅  | [n.hyperborea.cloud](https://n.hyperborea.cloud/)             | 🇨🇦       | ✅      | [Let's Encrypt](https://www.ssllabs.com/ssltest/analyze.html?d=n.hyperborea.cloud)     |
 | ✅  | [nitter.didw.to](https://nitter.didw.to)             | 🇸🇪       | ✅      | [Let's Encrypt](https://www.ssllabs.com/ssltest/analyze.html?d=nitter.didw.to)     |
 | ✅  | [nitter.ca](https://nitter.ca/)             | 🇨🇦       | ✅      | [Let's Encrypt](https://www.ssllabs.com/ssltest/analyze.html?d=nitter.ca)     |
-
+| ✅  | [tweet.lambda.dance](https://tweet.lambda.dance)   | 🇺🇸    | [Let's Encrypt](https://www.ssllabs.com/ssltest/analyze.html?d=tweet.lambda.dance)     |
 ### Tor Hidden Service
 
 |     | URL                                                                                                                                                    |
@@ -87,7 +87,7 @@ Note: Please add new instances to the bottom to preserve the order.
 | ❌ | [nitter.40two.app](https://nitter.40two.app)                                   | 🇳🇱    | [Let's Encrypt](https://www.ssllabs.com/ssltest/analyze.html?d=nitter.40two.app)    |
 | ❌ | [nitter.dark.fail](https://nitter.dark.fail)                                   | 🇺🇸    | [Cloudflare](https://www.ssllabs.com/ssltest/analyze.html?d=nitter.dark.fail)       |
 | ❌  | [nitter.sugoma.tk](https://nitter.sugoma.tk/) (dead since it was added)       | 🇺🇸    | [Let's Encrypt](https://www.ssllabs.com/ssltest/analyze.html?d=nitter.sugoma.tk)       |
-| ❌  | [tweet.lambda.dance](https://tweet.lambda.dance) (uptime <10% since August)   | 🇺🇸    | [Let's Encrypt](https://www.ssllabs.com/ssltest/analyze.html?d=tweet.lambda.dance)     |
+
 
 ## List of Third-party Nitter services
 
