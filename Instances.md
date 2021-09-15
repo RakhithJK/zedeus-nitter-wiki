@@ -52,6 +52,7 @@ Note: Please add new instances to the bottom to preserve the order.
 | ✅  | [nitter.didw.to](https://nitter.didw.to)             | 🇸🇪       | ✅      | [Let's Encrypt](https://www.ssllabs.com/ssltest/analyze.html?d=nitter.didw.to)     |
 | ✅  | [nitter.ca](https://nitter.ca/)             | 🇨🇦       | ✅      | [Let's Encrypt](https://www.ssllabs.com/ssltest/analyze.html?d=nitter.ca)     |
 | ✅  | [tweet.lambda.dance](https://tweet.lambda.dance)  | 🇺🇸  |  ✅   | [Let's Encrypt](https://www.ssllabs.com/ssltest/analyze.html?d=tweet.lambda.dance)     |
+| ✅  | [twitter.076.ne.jp](https://twitter.076.ne.jp)  | 🇯🇵  |  ✅   | [Let's Encrypt](https://www.ssllabs.com/ssltest/analyze.html?d=twitter.076.ne.jp)     |
 ### Tor Hidden Service
 
 |     | URL                                                                                                                                                    |
