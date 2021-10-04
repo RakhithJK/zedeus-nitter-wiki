@@ -35,7 +35,7 @@ Note: Please add new instances to the bottom to preserve the order.
 | ✅  | [birdsite.xanny.family](https://birdsite.xanny.family)        | 🇬🇧       | ❌      | [Let's Encrypt](https://www.ssllabs.com/ssltest/analyze.html?d=birdsite.xanny.family)  |
 | ✅  | [nitter.hu](https://nitter.hu)                                | 🇭🇺       | ❌      | [Cloudflare](https://www.ssllabs.com/ssltest/analyze.html?d=nitter.hu)                 |
 | ✅  | [nitter.exonip.de](https://nitter.exonip.de/)                 | 🇩🇪       | ❌      | [Let's Encrypt](https://www.ssllabs.com/ssltest/analyze.html?d=nitter.exonip.de)       |
-| ✅  | [twitr.gq](https://twitr.gq/)                                 | 🇫🇮       | ✅      | [Cloudflare](https://www.ssllabs.com/ssltest/analyze.html?d=twitr.gq)                  |
+| ✅  | [twitr.gq](https://twitr.gq/)                                 | 🇫🇮       | ❓      | [Cloudflare](https://www.ssllabs.com/ssltest/analyze.html?d=twitr.gq)                  |
 | ✅  | [nitter.moomoo.me](https://nitter.moomoo.me)                  | 🇺🇸       | ✅      | [Cloudflare](https://www.ssllabs.com/ssltest/analyze.html?d=nitter.moomoo.me)          |
 | ✅  | [bird.trom.tf](https://bird.trom.tf/)                         | 🇩🇪       | ❓      | [Let's Encrypt](https://www.ssllabs.com/ssltest/analyze.html?d=bird.trom.tf)           |
 | ✅  | [nitter.it](https://nitter.it)                        | 🇱🇹        | ❓              | [Let's Encrypt](https://www.ssllabs.com/ssltest/analyze.html?d=nitter.it)          |
