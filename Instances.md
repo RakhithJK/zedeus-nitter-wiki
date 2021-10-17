@@ -24,6 +24,7 @@ Note: Please add new instances to the bottom to preserve the order.
 | ✅  | [nitter.fdn.fr](https://nitter.fdn.fr/)                       | 🇫🇷       | ❓      | [Let's Encrypt](https://www.ssllabs.com/ssltest/analyze.html?d=nitter.fdn.fr)          |
 | ✅  | [nitter.1d4.us](https://nitter.1d4.us/)                       | 🇺🇸       | ❓      | [Let's Encrypt](https://www.ssllabs.com/ssltest/analyze.html?d=nitter.1d4.us)          |
 | ✅  | [nitter.kavin.rocks](https://nitter.kavin.rocks)              | 🇮🇳       | ✅      | [Cloudflare](https://www.ssllabs.com/ssltest/analyze.html?d=nitter.kavin.rocks)        |
+| ✅ | [nitter.vxempire.xyz](https://nitter.vxempire.xyz)            | 🇪🇸        | ❌      | [Let's Encrypt](https://www.ssllabs.com/ssltest/analyze.html?d=nitter.vxempire.xyz) |
 | ✅  | [nitter.unixfox.eu](https://nitter.unixfox.eu)                | 🇳🇱       | ✅      | [Let's Encrypt](https://www.ssllabs.com/ssltest/analyze.html?d=nitter.unixfox.eu)      |
 | ✅  | [nitter.domain.glass](https://nitter.domain.glass)            | 🇺🇸       | ❌      | [Cloudflare](https://www.ssllabs.com/ssltest/analyze.html?d=nitter.domain.glass)       |
 | ✅  | [nitter.eu](https://nitter.eu)                                | 🇫🇮       | ✅      | [Let's Encrypt](https://www.ssllabs.com/ssltest/analyze.html?d=nitter.eu)              |
@@ -82,7 +83,6 @@ Note: Please add new instances to the bottom to preserve the order.
 | ❌ | [nitter.jae.fi](https://nitter.jae.fi)                                         | 🇫🇮    | [ZeroSSL](https://www.ssllabs.com/ssltest/analyze.html?d=nitter.jae.fi)             |
 | ❌ | [nitter.cc](https://nitter.cc) (June 2021 usually down)                        | 🇷🇸    | [Cloudflare](https://www.ssllabs.com/ssltest/analyze.html?d=nitter.cc)              |
 | ❌ | [nitter.ortion.xyz](https://nitter.ortion.xyz/) (2021-06-07 too many issues)   | 🇫🇷    | [Let's Encrypt](https://www.ssllabs.com/ssltest/analyze.html?d=nitter.ortion.xyz)   |
-| ❌ | [nitter.vxempire.xyz](https://nitter.vxempire.xyz) (June 2021 too many issues) | 🇪🇸    | [Let's Encrypt](https://www.ssllabs.com/ssltest/analyze.html?d=nitter.vxempire.xyz) |
 | ❌ | [nitter.40two.app](https://nitter.40two.app)                                   | 🇳🇱    | [Let's Encrypt](https://www.ssllabs.com/ssltest/analyze.html?d=nitter.40two.app)    |
 | ❌ | [nitter.dark.fail](https://nitter.dark.fail)                                   | 🇺🇸    | [Cloudflare](https://www.ssllabs.com/ssltest/analyze.html?d=nitter.dark.fail)       |
 | ❌  | [nitter.sugoma.tk](https://nitter.sugoma.tk/) (dead since it was added)       | 🇺🇸    | [Let's Encrypt](https://www.ssllabs.com/ssltest/analyze.html?d=nitter.sugoma.tk)       |
