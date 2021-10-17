@@ -86,7 +86,7 @@ Note: Please add new instances to the bottom to preserve the order.
 | ❌ | [nitter.40two.app](https://nitter.40two.app)                                   | 🇳🇱    | [Let's Encrypt](https://www.ssllabs.com/ssltest/analyze.html?d=nitter.40two.app)    |
 | ❌ | [nitter.dark.fail](https://nitter.dark.fail)                                   | 🇺🇸    | [Cloudflare](https://www.ssllabs.com/ssltest/analyze.html?d=nitter.dark.fail)       |
 | ❌  | [nitter.sugoma.tk](https://nitter.sugoma.tk/) (dead since it was added)       | 🇺🇸    | [Let's Encrypt](https://www.ssllabs.com/ssltest/analyze.html?d=nitter.sugoma.tk)       |
-| ❌  | [bird.nogafam.es](https://bird.nogafam.es) (offline since 2021-10-03)         | 🇪🇸       | ✅      | [Let's Encrypt](https://www.ssllabs.com/ssltest/analyze.html?d=bird.nogafam.es)        |
+| ❌  | [bird.nogafam.es](https://bird.nogafam.es) (offline since 2021-10-03)         | 🇪🇸    | [Let's Encrypt](https://www.ssllabs.com/ssltest/analyze.html?d=bird.nogafam.es)        |
 
 
 ## List of Third-party Nitter services
