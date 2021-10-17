@@ -48,7 +48,6 @@ Note: Please add new instances to the bottom to preserve the order.
 | ✅  | [nitter.autarkic.org](https://nitter.autarkic.org/)           | 🇺🇸       | ✅      | [Let's Encrypt](https://www.ssllabs.com/ssltest/analyze.html?d=nitter.autarkic.org)    |
 | ✅  | [n.0x0.st](https://n.0x0.st/)                                 | 🇩🇪       | ✅      | [Let's Encrypt](https://www.ssllabs.com/ssltest/analyze.html?d=n.0x0.st)               |
 | ✅  | [n.hyperborea.cloud](https://n.hyperborea.cloud/)             | 🇨🇦       | ✅      | [Let's Encrypt](https://www.ssllabs.com/ssltest/analyze.html?d=n.hyperborea.cloud)     |
-| ✅  | [nitter.didw.to](https://nitter.didw.to)             | 🇸🇪       | ✅      | [Let's Encrypt](https://www.ssllabs.com/ssltest/analyze.html?d=nitter.didw.to)     |
 | ✅  | [nitter.ca](https://nitter.ca/)             | 🇨🇦       | ✅      | [Let's Encrypt](https://www.ssllabs.com/ssltest/analyze.html?d=nitter.ca)     |
 | ✅  | [tweet.lambda.dance](https://tweet.lambda.dance)  | 🇺🇸  |  ✅   | [Let's Encrypt](https://www.ssllabs.com/ssltest/analyze.html?d=tweet.lambda.dance)     |
 | ✅  | [twitter.076.ne.jp](https://twitter.076.ne.jp)  | 🇯🇵  |  ✅   | [Let's Encrypt](https://www.ssllabs.com/ssltest/analyze.html?d=twitter.076.ne.jp)     |
@@ -75,18 +74,19 @@ Note: Please add new instances to the bottom to preserve the order.
 -   [nitter.i2p](http://axd6uavsstsrvstva4mzlzh4ct76rc6zdug3nxdgeitrzczhzf4q.b32.i2p/)
 -   [u6ikd6zndl3c4dsdq4mmujpntgeevdk5qzkfb57r4tnfeccrn2qa.b32.i2p](http://u6ikd6zndl3c4dsdq4mmujpntgeevdk5qzkfb57r4tnfeccrn2qa.b32.i2p/)
 
-## List of defuncted Nitter Instances
+## Discontinued Nitter Instances
 
-|    | URL                                                                            | Country | Issuer & SSLLabs verification&nbsp;link                                             |
-| :- | :----------------------------------------------------------------------------- | :------ | :---------------------------------------------------------------------------------- |
-| ❌ | [nitter.himiko.cloud](https://nitter.himiko.cloud)                             | 🇧🇬    | [Let's Encrypt](https://www.ssllabs.com/ssltest/analyze.html?d=nitter.himiko.cloud) |
-| ❌ | [nitter.jae.fi](https://nitter.jae.fi)                                         | 🇫🇮    | [ZeroSSL](https://www.ssllabs.com/ssltest/analyze.html?d=nitter.jae.fi)             |
-| ❌ | [nitter.cc](https://nitter.cc) (June 2021 usually down)                        | 🇷🇸    | [Cloudflare](https://www.ssllabs.com/ssltest/analyze.html?d=nitter.cc)              |
-| ❌ | [nitter.ortion.xyz](https://nitter.ortion.xyz/) (2021-06-07 too many issues)   | 🇫🇷    | [Let's Encrypt](https://www.ssllabs.com/ssltest/analyze.html?d=nitter.ortion.xyz)   |
-| ❌ | [nitter.40two.app](https://nitter.40two.app)                                   | 🇳🇱    | [Let's Encrypt](https://www.ssllabs.com/ssltest/analyze.html?d=nitter.40two.app)    |
-| ❌ | [nitter.dark.fail](https://nitter.dark.fail)                                   | 🇺🇸    | [Cloudflare](https://www.ssllabs.com/ssltest/analyze.html?d=nitter.dark.fail)       |
-| ❌  | [nitter.sugoma.tk](https://nitter.sugoma.tk/) (dead since it was added)       | 🇺🇸    | [Let's Encrypt](https://www.ssllabs.com/ssltest/analyze.html?d=nitter.sugoma.tk)       |
-| ❌  | [bird.nogafam.es](https://bird.nogafam.es) (offline since 2021-10-03)         | 🇪🇸    | [Let's Encrypt](https://www.ssllabs.com/ssltest/analyze.html?d=bird.nogafam.es)        |
+|    | URL                                                    | Country | Offline Date |
+| :- | :----------------------------------------------------- | :------ | :----------- |
+| ❌ | [nitter.himiko.cloud](https://nitter.himiko.cloud)     | 🇧🇬      | Unknown      |
+| ❌ | [nitter.jae.fi](https://nitter.jae.fi)                 | 🇫🇮      | Unknown      |
+| ❌ | [nitter.cc](https://nitter.cc)                         | 🇷🇸      | 2021-06-??   |
+| ❌ | [nitter.ortion.xyz](https://nitter.ortion.xyz)         | 🇫🇷      | 2021-06-07   |
+| ❌ | [nitter.40two.app](https://nitter.40two.app)           | 🇳🇱      | Unknown      |
+| ❌ | [nitter.dark.fail](https://nitter.dark.fail)           | 🇺🇸      | Unknown      |
+| ❌ | [nitter.sugoma.tk](https://nitter.sugoma.tk)           | 🇺🇸      | Never Online |
+| ❌ | [nitter.didw.to](https://nitter.didw.to)               | 🇸🇪      | 2021-09-24   |
+| ❌ | [bird.nogafam.es](https://bird.nogafam.es)             | 🇪🇸      | 2021-10-03   |
 
 
 ## List of Third-party Nitter services
