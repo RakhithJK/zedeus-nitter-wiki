@@ -49,7 +49,6 @@ Note: Please add new instances to the bottom to preserve the order.
 | ✅  | [n.0x0.st](https://n.0x0.st/)                                 | 🇩🇪       | ✅      | [Let's Encrypt](https://www.ssllabs.com/ssltest/analyze.html?d=n.0x0.st)               |
 | ✅  | [n.hyperborea.cloud](https://n.hyperborea.cloud/)             | 🇨🇦       | ✅      | [Let's Encrypt](https://www.ssllabs.com/ssltest/analyze.html?d=n.hyperborea.cloud)     |
 | ✅  | [nitter.ca](https://nitter.ca/)             | 🇨🇦       | ✅      | [Let's Encrypt](https://www.ssllabs.com/ssltest/analyze.html?d=nitter.ca)     |
-| ✅  | [tweet.lambda.dance](https://tweet.lambda.dance)  | 🇺🇸  |  ✅   | [Let's Encrypt](https://www.ssllabs.com/ssltest/analyze.html?d=tweet.lambda.dance)     |
 | ✅  | [twitter.076.ne.jp](https://twitter.076.ne.jp)  | 🇯🇵  |  ✅   | [Let's Encrypt](https://www.ssllabs.com/ssltest/analyze.html?d=twitter.076.ne.jp)     |
 ### Tor Hidden Service
 
@@ -80,13 +79,14 @@ Note: Please add new instances to the bottom to preserve the order.
 | :- | :----------------------------------------------------- | :------ | :----------- |
 | ❌ | [nitter.himiko.cloud](https://nitter.himiko.cloud)     | 🇧🇬      | Unknown      |
 | ❌ | [nitter.jae.fi](https://nitter.jae.fi)                 | 🇫🇮      | Unknown      |
-| ❌ | [nitter.cc](https://nitter.cc)                         | 🇷🇸      | 2021-06-??   |
+| ❌ | [nitter.cc](https://nitter.cc)                         | 🇷🇸      | 2021-06      |
 | ❌ | [nitter.ortion.xyz](https://nitter.ortion.xyz)         | 🇫🇷      | 2021-06-07   |
 | ❌ | [nitter.40two.app](https://nitter.40two.app)           | 🇳🇱      | Unknown      |
 | ❌ | [nitter.dark.fail](https://nitter.dark.fail)           | 🇺🇸      | Unknown      |
 | ❌ | [nitter.sugoma.tk](https://nitter.sugoma.tk)           | 🇺🇸      | Never Online |
 | ❌ | [nitter.didw.to](https://nitter.didw.to)               | 🇸🇪      | 2021-09-24   |
 | ❌ | [bird.nogafam.es](https://bird.nogafam.es)             | 🇪🇸      | 2021-10-03   |
+| ❌ | [tweet.lambda.dance](https://tweet.lambda.dance)       | 🇺🇸      | 2021-10      |
 
 
 ## List of Third-party Nitter services
