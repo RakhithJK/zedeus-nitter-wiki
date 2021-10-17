@@ -95,4 +95,4 @@ Note: Please add new instances to the bottom to preserve the order.
 | :------------------------------------------------------------ | :--------------------------------------------------------------- |
 | [Twiiit](https://twiiit.com)                                  | Randomly picks a server from this wiki                           |
 | [Twitit](https://twitit.gq)                                   | Tracks all Nitter instances status and redirects to working ones |
-| [Nitter-instances](https://github.com/xnaas/nitter-instances) | Tracks all Nitter instances                                      |
+| [Nitter Upptime](https://xnaas.github.io/nitter-instances/)   | Tracks uptime for Nitter instances  |
