@@ -20,7 +20,6 @@ Note: Please add new instances to the bottom to preserve the order.
 | :-- | :------------------------------------------------------------ | :--------- | :------ | :------------------------------------------------------------------------------------- |
 | ✅  | [nitter.42l.fr](https://nitter.42l.fr/)                       | 🇫🇷       | ✅      | [Let's Encrypt](https://www.ssllabs.com/ssltest/analyze.html?d=nitter.42l.fr)          |
 | ✅  | [nitter.pussthecat.org](https://nitter.pussthecat.org)        | 🇩🇪       | ✅      | [Let's Encrypt](https://www.ssllabs.com/ssltest/analyze.html?d=nitter.pussthecat.org)  |
-| ✅  | [nitter.nixnet.services](https://nitter.nixnet.services/)     | 🇩🇪       | ✅      | [Let's Encrypt](https://www.ssllabs.com/ssltest/analyze.html?d=nitter.nixnet.services) |
 | ✅  | [nitter.fdn.fr](https://nitter.fdn.fr/)                       | 🇫🇷       | ❓      | [Let's Encrypt](https://www.ssllabs.com/ssltest/analyze.html?d=nitter.fdn.fr)          |
 | ✅  | [nitter.1d4.us](https://nitter.1d4.us/)                       | 🇺🇸       | ❓      | [Let's Encrypt](https://www.ssllabs.com/ssltest/analyze.html?d=nitter.1d4.us)          |
 | ✅  | [nitter.kavin.rocks](https://nitter.kavin.rocks)              | 🇮🇳       | ✅      | [Cloudflare](https://www.ssllabs.com/ssltest/analyze.html?d=nitter.kavin.rocks)        |
@@ -87,6 +86,7 @@ Note: Please add new instances to the bottom to preserve the order.
 | ❌ | [nitter.didw.to](https://nitter.didw.to)               | 🇸🇪      | 2021-09-24   |
 | ❌ | [bird.nogafam.es](https://bird.nogafam.es)             | 🇪🇸      | 2021-10-03   |
 | ❌ | [tweet.lambda.dance](https://tweet.lambda.dance)       | 🇺🇸      | 2021-10      |
+| ❌ | [nitter.nixnet.services](https://nitter.nixnet.services/) | 🇩🇪       | 2021-10-18 (User not found error)      |
 
 
 ## List of Third-party Nitter services
