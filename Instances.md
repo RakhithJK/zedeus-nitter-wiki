@@ -50,7 +50,7 @@ Note: Please add new instances to the bottom to preserve the order.
 | ✅  | [n.hyperborea.cloud](https://n.hyperborea.cloud/)             | 🇨🇦       | ✅      | [Let's Encrypt](https://www.ssllabs.com/ssltest/analyze.html?d=n.hyperborea.cloud)     |
 | ✅  | [nitter.ca](https://nitter.ca/)             | 🇨🇦       | ✅      | [Let's Encrypt](https://www.ssllabs.com/ssltest/analyze.html?d=nitter.ca)     |
 | ✅  | [twitter.076.ne.jp](https://twitter.076.ne.jp)  | 🇯🇵  |  ✅   | [Let's Encrypt](https://www.ssllabs.com/ssltest/analyze.html?d=twitter.076.ne.jp)     |
-| ✅  | [nitter.mrsheep.xyz](https://nitter.mrsheep.xyz)  | 🇨🇾  |  ✅   | [Let's Encrypt](https://www.ssllabs.com/ssltest/analyze.html?d=nitter.mrsheep.xyz)     |
+| ✅  | [nitter.mrsheep.xyz](https://nitter.mrsheep.xyz)  | 🇨🇾  |  ✅   | [Cloudflare](https://www.ssllabs.com/ssltest/analyze.html?d=nitter.mrsheep.xyz)     |
 ### Tor Hidden Service
 
 |     | URL                                                                                                                                                    |
