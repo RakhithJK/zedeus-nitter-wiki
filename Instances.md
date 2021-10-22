@@ -53,6 +53,7 @@ Note: Please add new instances to the bottom to preserve the order.
 | ✅  | [lu-nitter.resolv.ee](https://lu-nitter.resolv.ee)  | 🇱🇺  |  ✅   | [Let's Encrypt](https://www.ssllabs.com/ssltest/analyze.html?d=lu-nitter.resolv.ee)     |
 | ✅  | [is-nitter.resolv.ee](https://is-nitter.resolv.ee)  | 🇮🇸  |  ✅   | [Cloudflare](https://www.ssllabs.com/ssltest/analyze.html?d=is-nitter.resolv.ee)     |
 | ✅  | [cy-nitter.resolv.ee](https://cy-nitter.resolv.ee)  | 🇨🇾  |  ✅   | [Cloudflare](https://www.ssllabs.com/ssltest/analyze.html?d=cy-nitter.resolv.ee)     |
+| ✅  | [tweet.lambda.dance](https://tweet.lambda.dance)  | 🇺🇸  |  ✅   | [Let's Encrypt](https://www.ssllabs.com/ssltest/analyze.html?d=tweet.lambda.dance)     |
 
 ### Tor Hidden Service
 
@@ -90,7 +91,6 @@ Note: Please add new instances to the bottom to preserve the order.
 | ❌ | [nitter.sugoma.tk](https://nitter.sugoma.tk)           | 🇺🇸      | Never Online |
 | ❌ | [nitter.didw.to](https://nitter.didw.to)               | 🇸🇪      | 2021-09-24   |
 | ❌ | [bird.nogafam.es](https://bird.nogafam.es)             | 🇪🇸      | 2021-10-03   |
-| ❌ | [tweet.lambda.dance](https://tweet.lambda.dance)       | 🇺🇸      | 2021-10      |
 
 
 ## List of Third-party Nitter services
