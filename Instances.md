@@ -54,6 +54,7 @@ Note: Please add new instances to the bottom to preserve the order.
 | ✅  | [is-nitter.resolv.ee](https://is-nitter.resolv.ee)  | 🇮🇸  |  ✅   | [Cloudflare](https://www.ssllabs.com/ssltest/analyze.html?d=is-nitter.resolv.ee)     |
 | ✅  | [cy-nitter.resolv.ee](https://cy-nitter.resolv.ee)  | 🇨🇾  |  ✅   | [Cloudflare](https://www.ssllabs.com/ssltest/analyze.html?d=cy-nitter.resolv.ee)     |
 | ✅  | [tweet.lambda.dance](https://tweet.lambda.dance)  | 🇺🇸  |  ✅   | [Let's Encrypt](https://www.ssllabs.com/ssltest/analyze.html?d=tweet.lambda.dance)     |
+| ✅  | [nitter.mstdn.social](https://nitter.mstdn.social)  | 🇩🇪  |  ✅   | [Let's Encrypt](https://www.ssllabs.com/ssltest/analyze.html?d=nitter.mstdn.social)     |
 
 ### Tor Hidden Service
 
