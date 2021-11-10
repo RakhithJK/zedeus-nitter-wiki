@@ -31,7 +31,6 @@ Note: Please add new instances to the bottom to preserve the order.
 | ✅  | [nitter.namazso.eu](https://nitter.namazso.eu)                | 🇩🇪       | ✅      | [Let's Encrypt](https://www.ssllabs.com/ssltest/analyze.html?d=nitter.namazso.eu)      |
 | ✅  | [nitter.mailstation.de](https://nitter.mailstation.de)        | 🇩🇪       | ✅      | [Let's Encrypt](https://www.ssllabs.com/ssltest/analyze.html?d=nitter.mailstation.de)  |
 | ✅  | [nitter.actionsack.com](https://nitter.actionsack.com)        | 🇺🇸       | ✅      | [Cloudflare](https://www.ssllabs.com/ssltest/analyze.html?d=nitter.actionsack.com)     |
-| ✅  | [nitter.cattube.org](https://nitter.cattube.org/)             | 🇩🇪       | ❌      | [Let's Encrypt](https://www.ssllabs.com/ssltest/analyze.html?d=nitter.cattube.org)     |
 | ✅  | [birdsite.xanny.family](https://birdsite.xanny.family)        | 🇬🇧       | ❌      | [Let's Encrypt](https://www.ssllabs.com/ssltest/analyze.html?d=birdsite.xanny.family)  |
 | ✅  | [nitter.hu](https://nitter.hu) (Search option is locked)  | 🇭🇺       | ✅      | [Cloudflare](https://www.ssllabs.com/ssltest/analyze.html?d=nitter.hu)                 |
 | ✅  | [nitter.exonip.de](https://nitter.exonip.de/)                 | 🇩🇪       | ❌      | [Let's Encrypt](https://www.ssllabs.com/ssltest/analyze.html?d=nitter.exonip.de)       |
@@ -92,6 +91,7 @@ Note: Please add new instances to the bottom to preserve the order.
 | ❌ | [nitter.didw.to](https://nitter.didw.to)               | 🇸🇪      | 2021-09-24   |
 | ❌ | [bird.nogafam.es](https://bird.nogafam.es)             | 🇪🇸      | 2021-10-03   |
 | ❌ | [nitter.ethibox.fr](https://nitter.ethibox.fr)         | 🇫🇷      | Unknown      |
+| ❌ | [nitter.cattube.org](https://nitter.cattube.org/)      | 🇩🇪      | 2021-10-06   |
 
 
 ## List of Third-party Nitter services
