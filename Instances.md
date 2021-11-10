@@ -23,7 +23,7 @@ Note: Please add new instances to the bottom to preserve the order.
 | ✅  | [nitter.nixnet.services](https://nitter.nixnet.services/)     | 🇩🇪       | ✅      | [Let's Encrypt](https://www.ssllabs.com/ssltest/analyze.html?d=nitter.nixnet.services) |
 | ✅  | [nitter.fdn.fr](https://nitter.fdn.fr/)                       | 🇫🇷       | ❓      | [Let's Encrypt](https://www.ssllabs.com/ssltest/analyze.html?d=nitter.fdn.fr)          |
 | ✅  | [nitter.1d4.us](https://nitter.1d4.us/)                       | 🇺🇸       | ❓      | [Let's Encrypt](https://www.ssllabs.com/ssltest/analyze.html?d=nitter.1d4.us)          |
-| ✅  | [nitter.kavin.rocks](https://nitter.kavin.rocks)              | 🇮🇳       | ✅      | [Cloudflare](https://www.ssllabs.com/ssltest/analyze.html?d=nitter.kavin.rocks)        |
+| ✅  | [nitter.kavin.rocks](https://nitter.kavin.rocks)              | 🇮🇳       | ✅      | [Let's Encrypt](https://www.ssllabs.com/ssltest/analyze.html?d=nitter.kavin.rocks)        |
 | ✅  | [nitter-jp.kavin.rocks](https://nitter-jp.kavin.rocks)              | 🇯🇵       | ✅      | [Let's Encrypt](https://www.ssllabs.com/ssltest/analyze.html?d=nitter-jp.kavin.rocks)        |
 | ✅ | [nitter.vxempire.xyz](https://nitter.vxempire.xyz)            | 🇪🇸        | ❌      | [Let's Encrypt](https://www.ssllabs.com/ssltest/analyze.html?d=nitter.vxempire.xyz) |
 | ✅  | [nitter.unixfox.eu](https://nitter.unixfox.eu)                | 🇳🇱       | ✅      | [Let's Encrypt](https://www.ssllabs.com/ssltest/analyze.html?d=nitter.unixfox.eu)      |
