@@ -56,6 +56,7 @@ Note: Please add new instances to the bottom to preserve the order.
 | ✅  | [notabird.site](https://notabird.site)  | 🌏 (anycast)  |  ✅   | [Cloudflare](https://www.ssllabs.com/ssltest/analyze.html?d=notabird.site)     |
 | ✅  | [nitter-jp.kavin.rocks](https://nitter-jp.kavin.rocks)              | 🇯🇵       | ✅      | [Let's Encrypt](https://www.ssllabs.com/ssltest/analyze.html?d=nitter-jp.kavin.rocks)        |
 | ✅  | [nitter.weiler.rocks](https://nitter.weiler.rocks)  | 🇩🇪  |  ✅   | [Let's Encrypt](https://www.ssllabs.com/ssltest/analyze.html?d=nitter.weiler.rocks)     |
+| ✅  | [nitter.silkky.cloud](https://nitter.silkky.cloud)  | 🇫🇮  |  ✅   | [Cloudflare](https://www.ssllabs.com/ssltest/analyze.html?d=nitter.silkky.cloud)     |
 ### Tor Hidden Service
 
 |     | URL                                                                                                                                                    |
