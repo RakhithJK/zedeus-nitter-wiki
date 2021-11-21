@@ -6,7 +6,8 @@
 | ~~[Invidition](https://addons.mozilla.org/firefox/addon/invidition/)~~                               | ~~Twitter, Youtube~~                                            | ~~Highly configurable. Unmaintained.~~ Use [Privacy Redirect](https://addons.mozilla.org/firefox/addon/privacy-redirect/) instead             |
 | [Twitter to Nitter Redirect](https://addons.mozilla.org/firefox/addon/twitter-to-nitter-redirect/)   | Twitter                                                         |                                                                                                                                               |
 | [Nitter Redirect](https://addons.mozilla.org/firefox/addon/nitter-redirect/)                         | Twitter                                                         | Works when navigating to the site, or opening links                                                                                           |
-| [Alter](https://addons.mozilla.org/firefox/addon/alter/)                                             | YouTube, Twitter, Reddit            |
+| [Alter](https://addons.mozilla.org/firefox/addon/alter/)                                             | YouTube, Twitter, Reddit | Simple and Minimal           |
+|
 | [Privacy Redirect](https://addons.mozilla.org/firefox/addon/privacy-redirect/)                       | Google Maps, Google Search, Instagram, Reddit, Twitter, Youtube |                                                                                                                                               |
 #### Chromium-based browsers
 | Name                                                                                                            | Sites                                                           | Comment                                             |
