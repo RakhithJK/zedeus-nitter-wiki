@@ -54,7 +54,6 @@ Note: Please add new instances to the bottom to preserve the order.
 | ✅  | [nitter.mstdn.social](https://nitter.mstdn.social)  | 🇩🇪  |  ✅   | [Let's Encrypt](https://www.ssllabs.com/ssltest/analyze.html?d=nitter.mstdn.social)     |
 | ✅  | [nitter.fly.dev](https://nitter.fly.dev)  | 🌏 (anycast) |  ✅   | [Let's Encrypt](https://www.ssllabs.com/ssltest/analyze.html?d=nitter.fly.dev)     |
 | ✅  | [notabird.site](https://notabird.site)  | 🌏 (anycast)  |  ✅   | [Cloudflare](https://www.ssllabs.com/ssltest/analyze.html?d=notabird.site)     |
-| ✅  | [nitter-jp.kavin.rocks](https://nitter-jp.kavin.rocks)              | 🇯🇵       | ✅      | [Let's Encrypt](https://www.ssllabs.com/ssltest/analyze.html?d=nitter-jp.kavin.rocks)        |
 | ✅  | [nitter.weiler.rocks](https://nitter.weiler.rocks)  | 🇩🇪  |  ✅   | [Let's Encrypt](https://www.ssllabs.com/ssltest/analyze.html?d=nitter.weiler.rocks)     |
 | ✅  | [nitter.silkky.cloud](https://nitter.silkky.cloud)  | 🇫🇮  |  ✅   | [Cloudflare](https://www.ssllabs.com/ssltest/analyze.html?d=nitter.silkky.cloud)     |
 | ✅  | [nitter.sethforprivacy.com](https://nitter.sethforprivacy.com)  | 🇩🇪  |  ✅   | [Let's Encrypt](https://www.ssllabs.com/ssltest/analyze.html?d=nitter.sethforprivacy.com)     |
