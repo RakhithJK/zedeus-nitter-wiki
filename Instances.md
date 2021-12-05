@@ -56,7 +56,7 @@ Note: Please add new instances to the bottom to preserve the order.
 | ✅  | [nitter.weiler.rocks](https://nitter.weiler.rocks)  | 🇩🇪  |  ✅   | [Let's Encrypt](https://www.ssllabs.com/ssltest/analyze.html?d=nitter.weiler.rocks)     |
 | ✅  | [nitter.silkky.cloud](https://nitter.silkky.cloud)  | 🇫🇮  |  ✅   | [Cloudflare](https://www.ssllabs.com/ssltest/analyze.html?d=nitter.silkky.cloud)     |
 | ✅  | [nitter.sethforprivacy.com](https://nitter.sethforprivacy.com)  | 🇩🇪  |  ✅   | [Let's Encrypt](https://www.ssllabs.com/ssltest/analyze.html?d=nitter.sethforprivacy.com)     |
-| ✅  | [nitter.hitman.cloud](https://nitter.hitman.cloud)  | 🇩🇪  |  ✅   | [Let's Encrypt](https://www.ssllabs.com/ssltest/analyze.html?d=nitter.hitman.cloud)     |
+| ✅  | [nttr.stream](https://nttr.stream)  | 🇩🇪  |  ✅   | [Let's Encrypt](https://www.ssllabs.com/ssltest/analyze.html?d=nttr.stream)     |
 ### Tor Hidden Service
 
 |     | URL                                                                                                                                                    |
