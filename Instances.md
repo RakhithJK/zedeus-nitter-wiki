@@ -4,7 +4,7 @@
 
 |         | URL                               | Country | Issuer & SSLLabs verification&nbsp;link                                    |
 | :------ | :-------------------------------- | :------ | :------------------------------------------------------------------------- |
-| ❌ | [nitter.net](https://nitter.net/) | 🇩🇪      | [Let's Encrypt](https://www.ssllabs.com/ssltest/analyze.html?d=nitter.net) |
+| ✅ | [nitter.net](https://nitter.net/) | 🇩🇪      | [Let's Encrypt](https://www.ssllabs.com/ssltest/analyze.html?d=nitter.net) |
 
 ## List of public Nitter Instances
 
