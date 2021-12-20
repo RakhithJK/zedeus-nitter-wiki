@@ -38,7 +38,7 @@ Note: Please add new instances to the bottom to preserve the order.
 | ✅  | [nitter.moomoo.me](https://nitter.moomoo.me)                  | 🇺🇸       | ✅      | [Cloudflare](https://www.ssllabs.com/ssltest/analyze.html?d=nitter.moomoo.me)          |
 | ✅  | [bird.trom.tf](https://bird.trom.tf/)                         | 🇩🇪       | ❓      | [Let's Encrypt](https://www.ssllabs.com/ssltest/analyze.html?d=bird.trom.tf)           |
 | ✅  | [nitter.it](https://nitter.it)                        | 🇫🇮        | ✅              | [Buypass](https://www.ssllabs.com/ssltest/analyze.html?d=nitter.it)          |
-| ✅  | [twitter.censors.us](https://twitter.censors.us)              | 🇫🇷       | ✅      | [Let's Encrypt](https://www.ssllabs.com/ssltest/analyze.html?d=twitter.censors.us)     |
+| ✅  | [twitter.censors.us](https://twitter.censors.us)              | 🇫🇷       | ❌      | [Let's Encrypt](https://www.ssllabs.com/ssltest/analyze.html?d=twitter.censors.us)     |
 | ✅  | [nitter.grimneko.de](https://nitter.grimneko.de)              | 🇩🇪       | ✅      | [Let's Encrypt](https://www.ssllabs.com/ssltest/analyze.html?d=nitter.grimneko.de)     |
 | ✅  | [nitter.koyu.space](https://nitter.koyu.space/)               | 🇩🇪       | ✅      | [Let's Encrypt](https://www.ssllabs.com/ssltest/analyze.html?d=nitter.koyu.space)      |
 | ✅  | [nitter.alefvanoon.xyz](https://nitter.alefvanoon.xyz/)       | 🇺🇸       | ✅      | [Let's Encrypt](https://www.ssllabs.com/ssltest/analyze.html?d=nitter.alefvanoon.xyz)  |
@@ -54,7 +54,7 @@ Note: Please add new instances to the bottom to preserve the order.
 | ✅  | [nitter.fly.dev](https://nitter.fly.dev)  | 🌏 (anycast) |  ✅   | [Let's Encrypt](https://www.ssllabs.com/ssltest/analyze.html?d=nitter.fly.dev)     |
 | ✅  | [notabird.site](https://notabird.site)  | 🌏 (anycast)  |  ✅   | [Cloudflare](https://www.ssllabs.com/ssltest/analyze.html?d=notabird.site)     |
 | ✅  | [nitter.weiler.rocks](https://nitter.weiler.rocks)  | 🇩🇪  |  ✅   | [Let's Encrypt](https://www.ssllabs.com/ssltest/analyze.html?d=nitter.weiler.rocks)     |
-| ✅  | [nitter.silkky.cloud](https://nitter.silkky.cloud)  | 🇫🇮  |  ✅   | [Cloudflare](https://www.ssllabs.com/ssltest/analyze.html?d=nitter.silkky.cloud)     |
+| ✅  | [nitter.silkky.cloud](https://nitter.silkky.cloud)  | 🇫🇮  |  ❌   | [Cloudflare](https://www.ssllabs.com/ssltest/analyze.html?d=nitter.silkky.cloud)     |
 | ✅  | [nitter.sethforprivacy.com](https://nitter.sethforprivacy.com)  | 🇩🇪  |  ✅   | [Let's Encrypt](https://www.ssllabs.com/ssltest/analyze.html?d=nitter.sethforprivacy.com)     |
 | ✅  | [nttr.stream](https://nttr.stream)  | 🇩🇪  |  ✅   | [ZeroSSL](https://www.ssllabs.com/ssltest/analyze.html?d=nttr.stream)     |
 ### Tor Hidden Service
