@@ -42,7 +42,7 @@ With that in mind, the installation of Nitter is rather simple once you have the
 15.	Uncheck the ‘Start Container After Install’ checkbox. (_We need to add the nitter.conf prior to starting the container_)
 16.	Click apply to download/install the container.
 
-17.     Ensure you have an up to date Redis container (from the community apps repos or roll-your-own)
+17.	Ensure you have an up to date Redis container (from the community apps repos or roll-your-own)
 
 18.	Now to generate the required ‘nitter.conf;’
 
