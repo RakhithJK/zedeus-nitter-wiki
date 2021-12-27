@@ -24,7 +24,6 @@ Note: Please add new instances to the bottom to preserve the order.
 | ✅  | [nitter.fdn.fr](https://nitter.fdn.fr/)                       | 🇫🇷       | ❓      | [Let's Encrypt](https://www.ssllabs.com/ssltest/analyze.html?d=nitter.fdn.fr)          |
 | ✅  | [nitter.1d4.us](https://nitter.1d4.us/)                       | 🇺🇸       | ❓      | [Let's Encrypt](https://www.ssllabs.com/ssltest/analyze.html?d=nitter.1d4.us)          |
 | ✅  | [nitter.kavin.rocks](https://nitter.kavin.rocks)              | 🇮🇳       | ✅      | [Let's Encrypt](https://www.ssllabs.com/ssltest/analyze.html?d=nitter.kavin.rocks)        |
-| ❌ | [nitter.vxempire.xyz](https://nitter.vxempire.xyz)            | 🇪🇸        | ❌      | [Let's Encrypt](https://www.ssllabs.com/ssltest/analyze.html?d=nitter.vxempire.xyz) **CERTIFICATE EXPIRED** |
 | ✅  | [nitter.unixfox.eu](https://nitter.unixfox.eu)                | 🇳🇱       | ✅      | [Let's Encrypt](https://www.ssllabs.com/ssltest/analyze.html?d=nitter.unixfox.eu)      |
 | ✅  | [nitter.domain.glass](https://nitter.domain.glass)            | 🇺🇸       | ❌      | [Cloudflare](https://www.ssllabs.com/ssltest/analyze.html?d=nitter.domain.glass)       |
 | ✅  | [nitter.eu](https://nitter.eu)                                | 🇫🇮       | ❌      | [Let's Encrypt](https://www.ssllabs.com/ssltest/analyze.html?d=nitter.eu)              |
@@ -44,12 +43,10 @@ Note: Please add new instances to the bottom to preserve the order.
 | ✅  | [nitter.alefvanoon.xyz](https://nitter.alefvanoon.xyz/)       | 🇺🇸       | ❌      | [Let's Encrypt](https://www.ssllabs.com/ssltest/analyze.html?d=nitter.alefvanoon.xyz)  |
 | ✅  | [nitter.ir](https://nitter.ir/)                               | 🇺🇸       | ❌      | [Let's Encrypt](https://www.ssllabs.com/ssltest/analyze.html?d=nitter.ir)              |
 | ✅  | [nitter.autarkic.org](https://nitter.autarkic.org/)           | 🇺🇸       | ❌      | [Let's Encrypt](https://www.ssllabs.com/ssltest/analyze.html?d=nitter.autarkic.org)    |
-| ❌  | [n.0x0.st](https://n.0x0.st/)                                 | 🇩🇪       | ✅      | [Let's Encrypt](https://www.ssllabs.com/ssltest/analyze.html?d=n.0x0.st)               |
 | ✅  | [n.hyperborea.cloud](https://n.hyperborea.cloud/)             | 🇨🇦       | ❌      | [Let's Encrypt](https://www.ssllabs.com/ssltest/analyze.html?d=n.hyperborea.cloud)     |
 | ✅  | [nitter.ca](https://nitter.ca/)             | 🇨🇦       | ❌      | [Let's Encrypt](https://www.ssllabs.com/ssltest/analyze.html?d=nitter.ca)     |
 | ✅  | [twitter.076.ne.jp](https://twitter.076.ne.jp)  | 🇯🇵  |  ❌   | [Let's Encrypt](https://www.ssllabs.com/ssltest/analyze.html?d=twitter.076.ne.jp)     |
 | ✅  | [lu-nitter.resolv.ee](https://lu-nitter.resolv.ee)  | 🇱🇺  |  ❌   | [Let's Encrypt](https://www.ssllabs.com/ssltest/analyze.html?d=lu-nitter.resolv.ee)     |
-| ❌  | [is-nitter.resolv.ee](https://is-nitter.resolv.ee)  | 🇮🇸  |  ✅   | [Cloudflare](https://www.ssllabs.com/ssltest/analyze.html?d=is-nitter.resolv.ee)     |
 | ✅  | [nitter.mstdn.social](https://nitter.mstdn.social)  | 🇩🇪  |  ❌   | [Let's Encrypt](https://www.ssllabs.com/ssltest/analyze.html?d=nitter.mstdn.social)     |
 | ✅  | [nitter.fly.dev](https://nitter.fly.dev)  | 🌏 (anycast) |  ❌   | [Let's Encrypt](https://www.ssllabs.com/ssltest/analyze.html?d=nitter.fly.dev)     |
 | ✅  | [notabird.site](https://notabird.site)  | 🌏 (anycast)  |  ❌   | [Cloudflare](https://www.ssllabs.com/ssltest/analyze.html?d=notabird.site)     |
@@ -98,6 +95,9 @@ Note: Please add new instances to the bottom to preserve the order.
 | ❌ | [nitter.ethibox.fr](https://nitter.ethibox.fr)         | 🇫🇷      | Unknown      |
 | ❌ | [nitter.cattube.org](https://nitter.cattube.org/)      | 🇩🇪      | 2021-10-06   |
 | ❌ | [tweet.lambda.dance](https://tweet.lambda.dance)       | 🇺🇸      | Never Online |
+| ❌ | [nitter.vxempire.xyz](https://nitter.vxempire.xyz)     | 🇪🇸      | 2021-11-30   |
+| ❌ | [n.0x0.st](https://n.0x0.st/)                          | 🇩🇪      | 2021-12-06   |
+| ❌ | [is-nitter.resolv.ee](https://is-nitter.resolv.ee)     | 🇮🇸      | 2021-12-10   |
 
 
 ## Third-party Nitter services
