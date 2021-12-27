@@ -1,0 +1,6 @@
+In the digital age, the world is becoming more and more global. Personal, consumer and business transactions are occurring across the world on daily basis. These interactions are happening in real-time and with less and less face-to-face contact. Online identity verification services need to meet these demands. Customers expect communication between themselves, businesses and other personal entities to be fast and easy but most importantly secure. Furthermore, these solutions need to provide global identity verification for users from around the world.
+We believe that consumer data protection should be a standard and highly protected information in this global digital marketplace. Building trust with consumers should be a top priority to protect clients from data breaches, hackers and online criminals.
+**IDMERIT’s Data Sets Them Apart**
+IDMERIT utilizes traditional data sources for personal and business verification services from over 90 countries. Their identity bureau includes identity data from some of the most challenging yet important countries including Brazil, India, China and South Africa.
+Visit now: [Identity Verification Service](https://www.idmerit.com/identity-verification/)
+
