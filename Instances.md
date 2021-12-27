@@ -1,12 +1,12 @@
-# Public Nitter Instances
+# Nitter Instances
 
-## Official Instances
+## Official
 
 |         | URL                               | Country | Issuer & SSLLabs verification&nbsp;link                                    |
 | :------ | :-------------------------------- | :------ | :------------------------------------------------------------------------- |
 | ✅ | [nitter.net](https://nitter.net/) | 🇩🇪      | [Let's Encrypt](https://www.ssllabs.com/ssltest/analyze.html?d=nitter.net) |
 
-## List of public Nitter Instances
+## Public
 
 Note: Please add new instances to the bottom to preserve the order.
 
@@ -58,7 +58,7 @@ Note: Please add new instances to the bottom to preserve the order.
 | ✅  | [nitter.sethforprivacy.com](https://nitter.sethforprivacy.com)  | 🇩🇪  |  ✅   | [Let's Encrypt](https://www.ssllabs.com/ssltest/analyze.html?d=nitter.sethforprivacy.com)     |
 | ✅  | [nttr.stream](https://nttr.stream)  | 🇩🇪  |  ✅   | [ZeroSSL](https://www.ssllabs.com/ssltest/analyze.html?d=nttr.stream)     |
 | ✅  | [nitter.cutelab.space](https://nitter.cutelab.space)  | 🇺🇸  |  ✅   | [Let's Encrypt](https://www.ssllabs.com/ssltest/analyze.html?d=nitter.cutelab.space)     |
-### Tor Hidden Service
+### Tor
 
 |     | URL                                                                                                                                                    |
 | :-- | :----------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -77,12 +77,12 @@ Note: Please add new instances to the bottom to preserve the order.
 | ✅  | [jebqj47jgxleaiosfcxfibx2xdahjettuydlxbg64azd4khsxv6kawid.onion](http://jebqj47jgxleaiosfcxfibx2xdahjettuydlxbg64azd4khsxv6kawid.onion/)               |
 | ✅  | [nttr2iupbb6fazdpr2rgbooon2tzbbsvvkagkgkwohhodjzj43stxhad.onion](http://nttr2iupbb6fazdpr2rgbooon2tzbbsvvkagkgkwohhodjzj43stxhad.onion/)               |
 | ✅  | [nitraeju2mipeziu2wtcrqsxg7h62v5y4eqgwi75uprynkj74gevvuqd.onion](http://nitraeju2mipeziu2wtcrqsxg7h62v5y4eqgwi75uprynkj74gevvuqd.onion/)  
-### I2P Hidden Services
+### I2P
 
 -   [nitter.i2p](http://axd6uavsstsrvstva4mzlzh4ct76rc6zdug3nxdgeitrzczhzf4q.b32.i2p/)
 -   [u6ikd6zndl3c4dsdq4mmujpntgeevdk5qzkfb57r4tnfeccrn2qa.b32.i2p](http://u6ikd6zndl3c4dsdq4mmujpntgeevdk5qzkfb57r4tnfeccrn2qa.b32.i2p/)
 
-## Discontinued Nitter Instances
+## Discontinued
 
 |    | URL                                                    | Country | Offline Date |
 | :- | :----------------------------------------------------- | :------ | :----------- |
@@ -100,7 +100,7 @@ Note: Please add new instances to the bottom to preserve the order.
 | ❌ | [tweet.lambda.dance](https://tweet.lambda.dance)       | 🇺🇸      | Never Online |
 
 
-## List of Third-party Nitter services
+## Third-party Nitter services
 
 | Name                                                          | Description                                                      |
 | :------------------------------------------------------------ | :--------------------------------------------------------------- |
