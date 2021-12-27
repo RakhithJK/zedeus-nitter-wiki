@@ -42,12 +42,15 @@ With that in mind, the installation of Nitter is rather simple once you have the
 15.	Uncheck the ‘Start Container After Install’ checkbox. (_We need to add the nitter.conf prior to starting the container_)
 16.	Click apply to download/install the container.
 
-17.	Now to generate the required ‘nitter.conf;’
+17.     Ensure you have an up to date Redis container (from the community apps repos or roll-your-own)
+
+18.	Now to generate the required ‘nitter.conf;’
 
 - Enter terminal from the webGUI of Unraid and navigate over to /mnt/user/appdata/nitter
 - Use your terminal text editor of choice (vi or nano)
   _For example – nano nitter.conf_
 - Paste in the contents of the nitter.conf directly from https://github.com/zedeus/nitter/blob/master/nitter.conf
+- Update your nitter.conf to your desired settings, including redis details.
 
-18. Start your Nitter docker container
-19. _OPTIONAL – Head over to your SSL cert provider container of choice and set-up as necessary to server certs to your Nitter instance for your domain_.
+19. Start your Nitter docker container
+20. _OPTIONAL – Head over to your SSL cert provider container of choice and set-up as necessary to server certs to your Nitter instance for your domain_.
