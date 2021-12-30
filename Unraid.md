@@ -1,4 +1,4 @@
-# **Nitter – Unraid Docker Installation**
+# Unraid Docker Container Community Apps Installation Guide
 
 _Please note - For Unraid, I have released a 'Community Apps' template which has simplified the installation of Nitter on your device allowing you to jump to step 15 once you have found Nitter in the Community Apps page. However, if you wish to install directly from DockerHub yourself you can continue to follow these steps._
 
