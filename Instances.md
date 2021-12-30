@@ -1,5 +1,3 @@
-# Nitter Instances
-
 ## Official
 
 | URL                              | Country | Issuer & SSLLabs verification&nbsp;link                                    |
