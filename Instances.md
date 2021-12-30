@@ -36,6 +36,7 @@ Note: Please add new instances to the bottom to preserve the order.
 | ❌  | [nitter.exonip.de](https://nitter.exonip.de/)                  | 🇩🇪      | ❌      | [Let's Encrypt](https://www.ssllabs.com/ssltest/analyze.html?d=nitter.exonip.de)          |
 | ✅  | [twitr.gq](https://twitr.gq/)                                  | 🇫🇮      | ❓      | [Cloudflare](https://www.ssllabs.com/ssltest/analyze.html?d=twitr.gq)                     |
 | ✅  | [nitter.moomoo.me](https://nitter.moomoo.me)                   | 🇺🇸      | ✅      | [Cloudflare](https://www.ssllabs.com/ssltest/analyze.html?d=nitter.moomoo.me)             |
+| ✅  | [nittereu.moomoo.me](https://nittereu.moomoo.me)                   | 🇸🇪      | ✅      | [Cloudflare](https://www.ssllabs.com/ssltest/analyze.html?d=nittereu.moomoo.me)             |
 | ✅  | [bird.trom.tf](https://bird.trom.tf/)                          | 🇩🇪      | ❓      | [Let's Encrypt](https://www.ssllabs.com/ssltest/analyze.html?d=bird.trom.tf)              |
 | ✅  | [nitter.it](https://nitter.it)                                 | 🇫🇮      | ✅      | [Buypass](https://www.ssllabs.com/ssltest/analyze.html?d=nitter.it)                       |
 | ✅  | [twitter.censors.us](https://twitter.censors.us)               | 🇫🇷      | ✅      | [Let's Encrypt](https://www.ssllabs.com/ssltest/analyze.html?d=twitter.censors.us)        |
