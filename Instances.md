@@ -14,9 +14,9 @@ Note: Please add new instances to the bottom to preserve the order.
 - nitter.snopyta.org admin ask us to "hide it from the top, otherwise it might get as popular as invidious"
 -->
 
-❓ means the commit link is invalid or missing from the instance's about page. \
 ❌¹ means the instance isn't online. \
-❌² means the instance is outdated, mostly shows if an instance misses a vital change, e.g. timelines not loading.
+❌² means the instance is outdated, mostly shows if an instance misses a vital change, e.g. timelines not loading. \
+❓ means the commit link is invalid or missing from the instance's about page.
 
 |Online¹| URL                                                            | Country | Updated² | Issuer & SSLLabs verification&nbsp;link                                                   |
 | :-- | :------------------------------------------------------------- | :------ | :------ | :---------------------------------------------------------------------------------------- |
