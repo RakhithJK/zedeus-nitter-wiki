@@ -19,7 +19,7 @@
 | [iPhone Redirector Shortcut](https://www.icloud.com/shortcuts/3e90ac68c77b45eb82cb18dab519ff76) | Twitter                                  | iPhone shortcut                                               |
 | Android: [UntrackMe](https://f-droid.org/packages/app.fedilab.nitterizeme/)                     | Google Maps, Instagram, Twitter, YouTube | Android app. You can control which redirections and instances |
 
-#### Bookmarklet by @Mennaruuk
+### Bookmarklet by @Mennaruuk
 ```js
 javascript:(function(){window.location.replace(document.URL.replace('twitter.com','nitter.net'))})()
 ```
