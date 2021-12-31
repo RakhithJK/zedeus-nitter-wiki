@@ -38,7 +38,7 @@ Note: Please add new instances to the bottom to preserve the order.
 | [bird.trom.tf](https://bird.trom.tf/)                          | ✅      | ❓       | 🇩🇪      | [Let's Encrypt](https://www.ssllabs.com/ssltest/analyze.html?d=bird.trom.tf)              |
 | [nitter.it](https://nitter.it)                                 | ✅      | ✅       | 🇫🇮      | [Buypass](https://www.ssllabs.com/ssltest/analyze.html?d=nitter.it)                       |
 | [twitter.censors.us](https://twitter.censors.us)               | ✅      | ✅       | 🇫🇷      | [Let's Encrypt](https://www.ssllabs.com/ssltest/analyze.html?d=twitter.censors.us)        |
-| [nitter.grimneko.de](https://nitter.grimneko.de)               | ✅      | ❌       | 🇩🇪      | [Let's Encrypt](https://www.ssllabs.com/ssltest/analyze.html?d=nitter.grimneko.de)        |
+| [nitter.grimneko.de](https://nitter.grimneko.de)               | ✅      | ❓       | 🇩🇪      | [Let's Encrypt](https://www.ssllabs.com/ssltest/analyze.html?d=nitter.grimneko.de)        |
 | [nitter.koyu.space](https://nitter.koyu.space/)                | ✅      | ❌       | 🇩🇪      | [Let's Encrypt](https://www.ssllabs.com/ssltest/analyze.html?d=nitter.koyu.space)         |
 | [nitter.alefvanoon.xyz](https://nitter.alefvanoon.xyz/)        | ✅      | ❌       | 🇺🇸      | [Let's Encrypt](https://www.ssllabs.com/ssltest/analyze.html?d=nitter.alefvanoon.xyz)     |
 | [nitter.ir](https://nitter.ir/)                                | ✅      | ❌       | 🇺🇸      | [Let's Encrypt](https://www.ssllabs.com/ssltest/analyze.html?d=nitter.ir)                 |
