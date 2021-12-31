@@ -16,11 +16,11 @@ Note: Please add new instances to the bottom to preserve the order.
 ❌² means the instance is outdated, mostly shows if an instance misses a vital change, e.g. timelines not loading. \
 ❓ means the commit link is invalid or missing from the instance's about page.
 
-| URL                                                            | Online¹ | Updated² | Country | Issuer & SSLLabs verification&nbsp;link                                                   |
+| URL                                                            | Online¹ | Updated² | Country | Issuer & SSLLabs verificationlink                                                         |
 | :------------------------------------------------------------- | :------ | :------- | :------ | :---------------------------------------------------------------------------------------- |
 | [nitter.42l.fr](https://nitter.42l.fr/)                        | ✅      | ✅       | 🇫🇷      | [Let's Encrypt](https://www.ssllabs.com/ssltest/analyze.html?d=nitter.42l.fr)             |
 | [nitter.pussthecat.org](https://nitter.pussthecat.org)         | ✅      | ✅       | 🇩🇪      | [Let's Encrypt](https://www.ssllabs.com/ssltest/analyze.html?d=nitter.pussthecat.org)     |
-| [nitter.nixnet.services](https://nitter.nixnet.services/)      | ✅      | ❌       | 🇩🇪      | [Let's Encrypt](https://www.ssllabs.com/ssltest/analyze.html?d=nitter.nixnet.services)    |
+| [nitter.nixnet.services](https://nitter.nixnet.services/) ([auth required](https://nixnet.services/blog/nitter-behind-http-basic-auth/)) | ✅ | ❌ | 🇩🇪 | [Let's Encrypt](https://www.ssllabs.com/ssltest/analyze.html?d=nitter.nixnet.services)    |
 | [nitter.fdn.fr](https://nitter.fdn.fr/)                        | ✅      | ❓       | 🇫🇷      | [Let's Encrypt](https://www.ssllabs.com/ssltest/analyze.html?d=nitter.fdn.fr)             |
 | [nitter.1d4.us](https://nitter.1d4.us/)                        | ✅      | ❓       | 🇺🇸      | [Let's Encrypt](https://www.ssllabs.com/ssltest/analyze.html?d=nitter.1d4.us)             |
 | [nitter.kavin.rocks](https://nitter.kavin.rocks)               | ✅      | ❓       | 🇮🇳      | [Let's Encrypt](https://www.ssllabs.com/ssltest/analyze.html?d=nitter.kavin.rocks)        |
