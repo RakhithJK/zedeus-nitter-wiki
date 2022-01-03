@@ -27,9 +27,9 @@ Note: Please add new instances to the bottom to preserve the order.
 | [nitter.unixfox.eu](https://nitter.unixfox.eu)                 | ✅      | ✅       | 🇳🇱      | [Let's Encrypt](https://www.ssllabs.com/ssltest/analyze.html?d=nitter.unixfox.eu)         |
 | [nitter.domain.glass](https://nitter.domain.glass)             | ✅      | ❌       | 🇺🇸      | [Cloudflare](https://www.ssllabs.com/ssltest/analyze.html?d=nitter.domain.glass)          |
 | [nitter.eu](https://nitter.eu)                                 | ✅      | ❌       | 🇫🇮      | [Let's Encrypt](https://www.ssllabs.com/ssltest/analyze.html?d=nitter.eu)                 |
-| [nitter.namazso.eu](https://nitter.namazso.eu)                 | ✅      | ❓       | 🇩🇪      | [Let's Encrypt](https://www.ssllabs.com/ssltest/analyze.html?d=nitter.namazso.eu)         |
+| [nitter.namazso.eu](https://nitter.namazso.eu)                 | ✅      | ✅       | 🇩🇪      | [Let's Encrypt](https://www.ssllabs.com/ssltest/analyze.html?d=nitter.namazso.eu)         |
 | [nitter.mailstation.de](https://nitter.mailstation.de)         | ✅      | ❌       | 🇩🇪      | [Let's Encrypt](https://www.ssllabs.com/ssltest/analyze.html?d=nitter.mailstation.de)     |
-| [nitter.actionsack.com](https://nitter.actionsack.com)         | ✅      | ❓       | 🇺🇸      | [Cloudflare](https://www.ssllabs.com/ssltest/analyze.html?d=nitter.actionsack.com)        |
+| [nitter.actionsack.com](https://nitter.actionsack.com)         | ✅      | ✅       | 🇺🇸      | [Cloudflare](https://www.ssllabs.com/ssltest/analyze.html?d=nitter.actionsack.com)        |
 | [birdsite.xanny.family](https://birdsite.xanny.family)         | ✅      | ❌       | 🇬🇧      | [Let's Encrypt](https://www.ssllabs.com/ssltest/analyze.html?d=birdsite.xanny.family)     |
 | [nitter.hu](https://nitter.hu) (Search option is locked)       | ✅      | ❌       | 🇭🇺      | [Cloudflare](https://www.ssllabs.com/ssltest/analyze.html?d=nitter.hu)                    |
 | [twitr.gq](https://twitr.gq/)                                  | ✅      | ❓       | 🇫🇮      | [Cloudflare](https://www.ssllabs.com/ssltest/analyze.html?d=twitr.gq)                     |
