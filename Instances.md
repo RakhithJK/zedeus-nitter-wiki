@@ -57,7 +57,7 @@ Note: Please add new instances to the bottom to preserve the order.
 | [nitter.cutelab.space](https://nitter.cutelab.space)           | ✅      | ✅       | 🇺🇸      | [Let's Encrypt](https://www.ssllabs.com/ssltest/analyze.html?d=nitter.cutelab.space)      |
 | [nitter.nl](https://nitter.nl)                                 | ✅      | ✅       | 🇳🇱      | [Let's Encrypt](https://www.ssllabs.com/ssltest/analyze.html?d=nitter.nl)                 |
 | [nitter.mint.lgbt](https://nitter.mint.lgbt)                   | ✅      | ✅       | 🇨🇦      | [Let's Encrypt](https://www.ssllabs.com/ssltest/analyze.html?d=nitter.mint.lgbt)                 |
-
+| [nitter.tokhmi.xyz](https://nitter.tokhmi.xyz)                        | ✅      | ✅       | 🇺🇸      | [Let's Encrypt](https://www.ssllabs.com/ssltest/analyze.html?d=nitter.tokhmi.xyz)             |
 ### Tor
 | URL                                                                                                                                                    |    |
 | :----------------------------------------------------------------------------------------------------------------------------------------------------- | :- |
