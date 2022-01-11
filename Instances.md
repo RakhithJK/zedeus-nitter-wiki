@@ -46,7 +46,6 @@ Note: Please add new instances to the bottom to preserve the order.
 | [n.hyperborea.cloud](https://n.hyperborea.cloud/)              | ✅      | ❌       | 🇨🇦      | [Let's Encrypt](https://www.ssllabs.com/ssltest/analyze.html?d=n.hyperborea.cloud)        |
 | [nitter.ca](https://nitter.ca/)                                | ✅      | ❌       | 🇨🇦      | [Let's Encrypt](https://www.ssllabs.com/ssltest/analyze.html?d=nitter.ca)                 |
 | [twitter.076.ne.jp](https://twitter.076.ne.jp) (in Japanese)   | ✅      | ✅       | 🇯🇵      | [Let's Encrypt](https://www.ssllabs.com/ssltest/analyze.html?d=twitter.076.ne.jp)         |
-| [lu-nitter.resolv.ee](https://lu-nitter.resolv.ee)             | ✅      | ❌       | 🇱🇺      | [Let's Encrypt](https://www.ssllabs.com/ssltest/analyze.html?d=lu-nitter.resolv.ee)       |
 | [nitter.mstdn.social](https://nitter.mstdn.social)             | ✅      | ❌       | 🇩🇪      | [Let's Encrypt](https://www.ssllabs.com/ssltest/analyze.html?d=nitter.mstdn.social)       |
 | [nitter.fly.dev](https://nitter.fly.dev) (anycast)             | ✅      | ❌       | 🌏      | [Let's Encrypt](https://www.ssllabs.com/ssltest/analyze.html?d=nitter.fly.dev)            |
 | [notabird.site](https://notabird.site) (anycast)               | ✅      | ❌       | 🌏      | [Cloudflare](https://www.ssllabs.com/ssltest/analyze.html?d=notabird.site)                |
@@ -100,6 +99,7 @@ Note: Please add new instances to the bottom to preserve the order.
 | [n.0x0.st](https://n.0x0.st/)                          | 🇩🇪      | 2021-12-06   |
 | [is-nitter.resolv.ee](https://is-nitter.resolv.ee)     | 🇮🇸      | 2021-12-10   |
 | [nitter.exonip.de](https://nitter.exonip.de/)          | 🇩🇪      | 2021-12-26   |
+| [lu-nitter.resolv.ee](https://lu-nitter.resolv.ee)     | 🇱🇺      | 2021-12-31   |
 
 
 ## Third-party Nitter services
