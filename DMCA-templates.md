@@ -1,4 +1,5 @@
 See discussion here: https://github.com/zedeus/nitter/issues/482
+
 Templates provided by TheFrenchGhosty.
 
 ## Europe
