@@ -34,7 +34,7 @@ Note: Please add new instances to the bottom to preserve the order.
 | [nitter.hu](https://nitter.hu) (Search option is locked)       | ✅      | ✅       | 🇭🇺      | [Cloudflare](https://www.ssllabs.com/ssltest/analyze.html?d=nitter.hu)                    |
 | [twitr.gq](https://twitr.gq/)                                  | ✅      | ❓       | 🇫🇮      | [Cloudflare](https://www.ssllabs.com/ssltest/analyze.html?d=twitr.gq)                     |
 | [nitter.moomoo.me](https://nitter.moomoo.me)                   | ✅      | ✅       | 🇺🇸      | [Cloudflare](https://www.ssllabs.com/ssltest/analyze.html?d=nitter.moomoo.me)             |
-| [nittereu.moomoo.me](https://nittereu.moomoo.me)               | ✅      | ✅       | 🇸🇪      | [Cloudflare](https://www.ssllabs.com/ssltest/analyze.html?d=nittereu.moomoo.me)           |
+| [nittereu.moomoo.me](https://nittereu.moomoo.me) ([bandwidth limit](https://gist.github.com/moom0o/84d339fee382c3734dca1660604cb37f)) | ✅ | ✅ | 🇸🇪 | [Cloudflare](https://www.ssllabs.com/ssltest/analyze.html?d=nittereu.moomoo.me) |
 | [bird.trom.tf](https://bird.trom.tf/)                          | ✅      | ❓       | 🇩🇪      | [Let's Encrypt](https://www.ssllabs.com/ssltest/analyze.html?d=bird.trom.tf)              |
 | [nitter.it](https://nitter.it)                                 | ✅      | ✅       | 🇩🇪      | [Let's Encrypt](https://www.ssllabs.com/ssltest/analyze.html?d=nitter.it)                       |
 | [twitter.censors.us](https://twitter.censors.us)               | ✅      | ❌       | 🇫🇷      | [Let's Encrypt](https://www.ssllabs.com/ssltest/analyze.html?d=twitter.censors.us)        |
