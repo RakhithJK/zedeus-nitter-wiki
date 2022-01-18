@@ -31,7 +31,7 @@ Note: Please add new instances to the bottom to preserve the order.
 | [nitter.mailstation.de](https://nitter.mailstation.de)         | ✅      | ❌       | 🇩🇪      | [Let's Encrypt](https://www.ssllabs.com/ssltest/analyze.html?d=nitter.mailstation.de)     |
 | [nitter.actionsack.com](https://nitter.actionsack.com)         | ✅      | ✅       | 🇺🇸      | [Cloudflare](https://www.ssllabs.com/ssltest/analyze.html?d=nitter.actionsack.com)        |
 | [birdsite.xanny.family](https://birdsite.xanny.family)         | ✅      | ❌       | 🇬🇧      | [Let's Encrypt](https://www.ssllabs.com/ssltest/analyze.html?d=birdsite.xanny.family)     |
-| [nitter.hu](https://nitter.hu) (Search option is locked)       | ✅      | ✅       | 🇭🇺      | [Cloudflare](https://www.ssllabs.com/ssltest/analyze.html?d=nitter.hu)                    |
+| [nitter.hu](https://nitter.hu)        | ✅      | ✅       | 🇭🇺      | [Let's Encrypt](https://www.ssllabs.com/ssltest/analyze.html?d=nitter.hu)                    |
 | [twitr.gq](https://twitr.gq/)                                  | ✅      | ❓       | 🇫🇮      | [Cloudflare](https://www.ssllabs.com/ssltest/analyze.html?d=twitr.gq)                     |
 | [nitter.moomoo.me](https://nitter.moomoo.me)                   | ✅      | ✅       | 🇺🇸      | [Cloudflare](https://www.ssllabs.com/ssltest/analyze.html?d=nitter.moomoo.me)             |
 | [nittereu.moomoo.me](https://nittereu.moomoo.me) ([bandwidth limit](https://gist.github.com/moom0o/84d339fee382c3734dca1660604cb37f)) | ✅ | ✅ | 🇸🇪 | [Cloudflare](https://www.ssllabs.com/ssltest/analyze.html?d=nittereu.moomoo.me) |
