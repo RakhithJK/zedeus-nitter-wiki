@@ -85,7 +85,7 @@ Note: Please add new instances to the bottom to preserve the order.
 ## Discontinued
 | URL                                                    | Country | Offline Date |
 | :----------------------------------------------------- | :------ | :----------- |
-| [nitter.himiko.cloud](https://nitter.himiko.cloud)     | 🇧🇬      | Unknown      |
+| [nitter.himiko.cloud](https://nitter.himiko.cloud)     | 🇧🇬      | 2021-05-03   |
 | [nitter.jae.fi](https://nitter.jae.fi)                 | 🇫🇮      | Unknown      |
 | [nitter.cc](https://nitter.cc)                         | 🇷🇸      | 2021-06      |
 | [nitter.ortion.xyz](https://nitter.ortion.xyz)         | 🇫🇷      | 2021-06-07   |
