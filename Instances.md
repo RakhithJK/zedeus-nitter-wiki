@@ -57,7 +57,7 @@ Note: Please add new instances to the bottom to preserve the order.
 | [nitter.tokhmi.xyz](https://nitter.tokhmi.xyz)                 | ✅      | ❓       | 🇺🇸      | [Let's Encrypt](https://www.ssllabs.com/ssltest/analyze.html?d=nitter.tokhmi.xyz)             |
 | [nitter.bus-hit.me](https://nitter.bus-hit.me)                 | ✅      | ✅       | 🇨🇦      | [Let's Encrypt](https://www.ssllabs.com/ssltest/analyze.html?d=nitter.bus-hit.me)             
 | [fuckthesacklers.network](https://fuckthesacklers.network) (anycast) | ✅      | ❌       | 🌏      | [Cloudflare](https://www.ssllabs.com/ssltest/analyze.html?d=fuckthesacklers.network) 
-| [nitter.govt.land](https://nitter.govt.land) (anycast)                 | ✅      | ✅       | 🌏      | [Cloudflare](https://www.ssllabs.com/ssltest/analyze.html?d=nitter.govt.land)   |
+| [nitter.govt.land](https://nitter.govt.land) (anycast)                 | ✅      | ❌       | 🌏      | [Cloudflare](https://www.ssllabs.com/ssltest/analyze.html?d=nitter.govt.land)   |
 | [nitter.datatunnel.xyz](https://nitter.datatunnel.xyz)                 | ✅      | ✅       | 🇫🇮      | [Let's Encrypt](https://www.ssllabs.com/ssltest/analyze.html?d=nitter.datatunnel.xyz)       |   |
 ### Tor
 | URL                                                                                                                                                    |    |
