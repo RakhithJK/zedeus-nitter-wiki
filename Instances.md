@@ -38,9 +38,7 @@ Note: Please add new instances to the bottom to preserve the order.
 | [nitter.it](https://nitter.it)                                 | ✅      | ✅       | 🇩🇪      | [Let's Encrypt](https://www.ssllabs.com/ssltest/analyze.html?d=nitter.it)                       |
 | [twitter.censors.us](https://twitter.censors.us)               | ✅      | ❌       | 🇫🇷      | [Let's Encrypt](https://www.ssllabs.com/ssltest/analyze.html?d=twitter.censors.us)        |
 | [nitter.grimneko.de](https://nitter.grimneko.de)               | ✅      | ✅       | 🇩🇪      | [Let's Encrypt](https://www.ssllabs.com/ssltest/analyze.html?d=nitter.grimneko.de)        |
-| [nitter.koyu.space](https://nitter.koyu.space/)                | ✅      | ✅       | 🇩🇪      | [Let's Encrypt](https://www.ssllabs.com/ssltest/analyze.html?d=nitter.koyu.space)         |
 | [nitter.alefvanoon.xyz](https://nitter.alefvanoon.xyz/)        | ✅      | ❓       | 🇺🇸      | [Let's Encrypt](https://www.ssllabs.com/ssltest/analyze.html?d=nitter.alefvanoon.xyz)     |
-| [nitter.autarkic.org](https://nitter.autarkic.org/)            | ❌      | ❌       | 🇺🇸      | [Let's Encrypt](https://www.ssllabs.com/ssltest/analyze.html?d=nitter.autarkic.org)       |
 | [n.hyperborea.cloud](https://n.hyperborea.cloud/)              | ✅      | ❌       | 🇨🇦      | [Let's Encrypt](https://www.ssllabs.com/ssltest/analyze.html?d=n.hyperborea.cloud)        |
 | [nitter.ca](https://nitter.ca/)                                | ✅      | ❌       | 🇨🇦      | [Let's Encrypt](https://www.ssllabs.com/ssltest/analyze.html?d=nitter.ca)                 |
 | [twitter.076.ne.jp](https://twitter.076.ne.jp) (in Japanese)   | ✅      | ✅       | 🇯🇵      | [Let's Encrypt](https://www.ssllabs.com/ssltest/analyze.html?d=twitter.076.ne.jp)         |
@@ -105,7 +103,9 @@ Note: Please add new instances to the bottom to preserve the order.
 | [nitter.exonip.de](https://nitter.exonip.de/)          | 🇩🇪      | 2021-12-26   |
 | [lu-nitter.resolv.ee](https://lu-nitter.resolv.ee)     | 🇱🇺      | 2021-12-31   |
 | [nitter.ir](https://nitter.ir/)                        | 🇺🇸      | 2022-01-03   |
-| [nitterrrs6bbcba2bxjviwxzzapkhuuelljtig2ku2rxasweckxxxhid.onion](http://nitterrrs6bbcba2bxjviwxzzapkhuuelljtig2ku2rxasweckxxxhid.onion/) | 🇺🇸 | 2022-01-31
+| [nitterrrs6bbcba2bxjviwxzzapkhuuelljtig2ku2rxasweckxxxhid.onion](http://nitterrrs6bbcba2bxjviwxzzapkhuuelljtig2ku2rxasweckxxxhid.onion/) | 🇺🇸 | 2022-01-31 |
+| [nitter.koyu.space](https://nitter.koyu.space/)        | 🇩🇪      | 2022-01-24   |
+| [nitter.autarkic.org](https://nitter.autarkic.org/)    | 🇺🇸      | 2022-01-28   |
 
 
 ## Third-party Nitter services
