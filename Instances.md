@@ -58,6 +58,7 @@ Note: Please add new instances to the bottom to preserve the order.
 | [nitter.govt.land](https://nitter.govt.land) (anycast)                 | ✅      | ✅       | 🌏      | [Cloudflare](https://www.ssllabs.com/ssltest/analyze.html?d=nitter.govt.land)   |
 | [nitter.datatunnel.xyz](https://nitter.datatunnel.xyz)                 | ✅      | ✅       | 🇫🇮      | [Let's Encrypt](https://www.ssllabs.com/ssltest/analyze.html?d=nitter.datatunnel.xyz)       |   |
 | [nitter.esmailelbob.xyz](https://nitter.esmailelbob.xyz)                 | ✅      | ✅       | 🇨🇦      | [Let's Encrypt](https://www.ssllabs.com/ssltest/analyze.html?d=nitter.esmailelbob.xyz)   |
+| [tw.artemislena.eu](https://tw.artemislena.eu)                 | ✅      | ✅       | 🇩🇪      | [Let's Encrypt](https://www.ssllabs.com/ssltest/analyze.html?d=tw.artemislena.eu)         |
 
 ### Tor
 | URL                                                                                                                                                    |    |
