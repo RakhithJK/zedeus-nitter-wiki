@@ -59,7 +59,7 @@ Note: Please add new instances to the bottom to preserve the order.
 | [nitter.datatunnel.xyz](https://nitter.datatunnel.xyz)                 | ✅      | ✅       | 🇫🇮      | [Let's Encrypt](https://www.ssllabs.com/ssltest/analyze.html?d=nitter.datatunnel.xyz)       |   |
 | [nitter.esmailelbob.xyz](https://nitter.esmailelbob.xyz)                 | ✅      | ✅       | 🇨🇦      | [Let's Encrypt](https://www.ssllabs.com/ssltest/analyze.html?d=nitter.esmailelbob.xyz)   |
 | [tw.artemislena.eu](https://tw.artemislena.eu)                 | ✅      | ✅       | 🇩🇪      | [Let's Encrypt](https://www.ssllabs.com/ssltest/analyze.html?d=tw.artemislena.eu)         |
-| [nitter.eu.org](https://nitter.eu.org) (mirror of nitter.it)                 | ✅      | ✅       | 🌏      | [Cloudflare](https://www.ssllabs.com/ssltest/analyze.html?d=nitter.eu.org)         |
+| [nitter.eu.org](https://nitter.eu.org) (anycast)                 | ✅      | ✅       | 🌏      | [Cloudflare](https://www.ssllabs.com/ssltest/analyze.html?d=nitter.eu.org)         |
 
 ### Tor
 | URL                                                                                                                                                    |    |
