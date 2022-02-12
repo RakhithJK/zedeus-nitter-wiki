@@ -21,7 +21,7 @@ Note: Please add new instances to the bottom to preserve the order.
 | [nitter.42l.fr](https://nitter.42l.fr/)                        | ✅      | ✅       | 🇫🇷      | [Let's Encrypt](https://www.ssllabs.com/ssltest/analyze.html?d=nitter.42l.fr)             |
 | [nitter.pussthecat.org](https://nitter.pussthecat.org)         | ✅      | ✅       | 🇩🇪      | [Let's Encrypt](https://www.ssllabs.com/ssltest/analyze.html?d=nitter.pussthecat.org)     |
 | [nitter.nixnet.services](https://nitter.nixnet.services/) ([auth required](https://nixnet.services/blog/nitter-behind-http-basic-auth/)) | ✅ | ✅ | 🇩🇪 | [Let's Encrypt](https://www.ssllabs.com/ssltest/analyze.html?d=nitter.nixnet.services)    |
-| [nitter.fdn.fr](https://nitter.fdn.fr/)                        | ✅      | ❓       | 🇫🇷      | [Let's Encrypt](https://www.ssllabs.com/ssltest/analyze.html?d=nitter.fdn.fr)             |
+| [nitter.fdn.fr](https://nitter.fdn.fr/)                        | ✅      | ❌       | 🇫🇷      | [Let's Encrypt](https://www.ssllabs.com/ssltest/analyze.html?d=nitter.fdn.fr)             |
 | [nitter.1d4.us](https://nitter.1d4.us/)                        | ✅      | ❓       | 🇺🇸      | [Let's Encrypt](https://www.ssllabs.com/ssltest/analyze.html?d=nitter.1d4.us)             |
 | [nitter.kavin.rocks](https://nitter.kavin.rocks)               | ✅      | ✅       | 🇮🇳      | [Let's Encrypt](https://www.ssllabs.com/ssltest/analyze.html?d=nitter.kavin.rocks)        |
 | [nitter.unixfox.eu](https://nitter.unixfox.eu)                 | ✅      | ✅       | 🇳🇱      | [Let's Encrypt](https://www.ssllabs.com/ssltest/analyze.html?d=nitter.unixfox.eu)         |
@@ -56,7 +56,7 @@ Note: Please add new instances to the bottom to preserve the order.
 | [nitter.bus-hit.me](https://nitter.bus-hit.me)                 | ✅      | ✅       | 🇨🇦      | [Let's Encrypt](https://www.ssllabs.com/ssltest/analyze.html?d=nitter.bus-hit.me)             
 | [fuckthesacklers.network](https://fuckthesacklers.network) (anycast) | ✅      | ❌       | 🌏      | [Cloudflare](https://www.ssllabs.com/ssltest/analyze.html?d=fuckthesacklers.network) 
 | [nitter.govt.land](https://nitter.govt.land) (anycast)                 | ✅      | ✅       | 🌏      | [Cloudflare](https://www.ssllabs.com/ssltest/analyze.html?d=nitter.govt.land)   |
-| [nitter.datatunnel.xyz](https://nitter.datatunnel.xyz)                 | ✅      | ✅       | 🇫🇮      | [Let's Encrypt](https://www.ssllabs.com/ssltest/analyze.html?d=nitter.datatunnel.xyz)       |   |
+| [nitter.datatunnel.xyz](https://nitter.datatunnel.xyz)                 | ✅      | ❌       | 🇫🇮      | [Let's Encrypt](https://www.ssllabs.com/ssltest/analyze.html?d=nitter.datatunnel.xyz)       |   |
 | [nitter.esmailelbob.xyz](https://nitter.esmailelbob.xyz)                 | ✅      | ✅       | 🇨🇦      | [Let's Encrypt](https://www.ssllabs.com/ssltest/analyze.html?d=nitter.esmailelbob.xyz)   |
 | [tw.artemislena.eu](https://tw.artemislena.eu)                 | ✅      | ✅       | 🇩🇪      | [Let's Encrypt](https://www.ssllabs.com/ssltest/analyze.html?d=tw.artemislena.eu)         |
 | [nitter.eu.org](https://nitter.eu.org) (anycast)                 | ✅      | ✅       | 🌏      | [Cloudflare](https://www.ssllabs.com/ssltest/analyze.html?d=nitter.eu.org)         |
