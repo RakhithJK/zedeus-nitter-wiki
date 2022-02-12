@@ -49,7 +49,7 @@ Note: Please add new instances to the bottom to preserve the order.
 | [nitter.silkky.cloud](https://nitter.silkky.cloud)             | ✅      | ❓       | 🇫🇮      | [Cloudflare](https://www.ssllabs.com/ssltest/analyze.html?d=nitter.silkky.cloud)          |
 | [nitter.sethforprivacy.com](https://nitter.sethforprivacy.com) | ✅      | ✅       | 🇩🇪      | [Let's Encrypt](https://www.ssllabs.com/ssltest/analyze.html?d=nitter.sethforprivacy.com) |
 | [nttr.stream](https://nttr.stream)                             | ✅      | ✅       | 🇺🇸      | [BuyPass](https://www.ssllabs.com/ssltest/analyze.html?d=nttr.stream)                     |
-| [nitter.cutelab.space](https://nitter.cutelab.space)           | ✅      | ✅       | 🇺🇸      | [Let's Encrypt](https://www.ssllabs.com/ssltest/analyze.html?d=nitter.cutelab.space)      |
+| [nitter.cutelab.space](https://nitter.cutelab.space)           | ✅      | ✅       | 🇺🇸      | [Sectigo](https://www.ssllabs.com/ssltest/analyze.html?d=nitter.cutelab.space)      |
 | [nitter.nl](https://nitter.nl)                                 | ✅      | ❌       | 🇳🇱      | [Let's Encrypt](https://www.ssllabs.com/ssltest/analyze.html?d=nitter.nl)                 |
 | [nitter.mint.lgbt](https://nitter.mint.lgbt)                   | ✅      | ✅       | 🇨🇦      | [Let's Encrypt](https://www.ssllabs.com/ssltest/analyze.html?d=nitter.mint.lgbt)                 |
 | [nitter.tokhmi.xyz](https://nitter.tokhmi.xyz)                 | ✅      | ❓       | 🇺🇸      | [Let's Encrypt](https://www.ssllabs.com/ssltest/analyze.html?d=nitter.tokhmi.xyz)             |
