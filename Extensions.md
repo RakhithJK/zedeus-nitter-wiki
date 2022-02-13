@@ -23,5 +23,5 @@
 
 ### Bookmarklet by @Mennaruuk
 ```js
-javascript:(function(){window.location.replace(document.URL.replace('twitter.com','nitter.net'))})()
+javascript:(function(){window.location.replace(document.URL.replace(/(mobile.)?twitter.com/,'nitter.net'))})()
 ```
