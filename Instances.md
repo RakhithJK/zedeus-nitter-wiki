@@ -60,6 +60,7 @@ Note: Please add new instances to the bottom to preserve the order.
 | [nitter.esmailelbob.xyz](https://nitter.esmailelbob.xyz)                 | ✅      | ✅       | 🇨🇦      | [Let's Encrypt](https://www.ssllabs.com/ssltest/analyze.html?d=nitter.esmailelbob.xyz)   |
 | [tw.artemislena.eu](https://tw.artemislena.eu)                 | ✅      | ✅       | 🇩🇪      | [Let's Encrypt](https://www.ssllabs.com/ssltest/analyze.html?d=tw.artemislena.eu)         |
 | [de.nttr.stream](https://de.nttr.stream)                       | ✅      | ✅       | 🇩🇪      | [BuyPass](https://www.ssllabs.com/ssltest/analyze.html?d=de.nttr.stream)                     |
+| [nitter.winscloud.net](https://nitter.winscloud.net)                       | ✅      | ✅       | 🇹🇭      | [Cloudflare](https://www.ssllabs.com/ssltest/analyze.html?d=nitter.winscloud.net)                     |
 
 ### Tor
 | URL                                                                                                                                                    |    |
