@@ -63,6 +63,7 @@ Note: Please add new instances to the bottom to preserve the order.
 | [nitter.winscloud.net](https://nitter.winscloud.net)                       | ✅      | ✅       | 🇹🇭      | [Cloudflare](https://www.ssllabs.com/ssltest/analyze.html?d=nitter.winscloud.net)                     |
 | [nitter.tiekoetter.com](https://nitter.tiekoetter.com)                       | ✅      | ✅       | 🇩🇪      | [Let's Encrypt](https://www.ssllabs.com/ssltest/analyze.html?d=nitter.tiekoetter.com)                     |
  | [nitter.spaceint.fr](https://nitter.spaceint.fr)                       | ✅      | ✅       | 🇧🇪      | [Let's Encrypt](https://www.ssllabs.com/ssltest/analyze.html?d=nitter.spaceint.fr)                     |
+ | [twtr.bch.bar](https://twtr.bch.bar)                       | ✅      | ✅       | 🌏      | [Cloudflare](https://www.ssllabs.com/ssltest/analyze.html?d=twtr.bch.bar)
 
 ### Tor
 | URL                                                                                                                                                    |    |
