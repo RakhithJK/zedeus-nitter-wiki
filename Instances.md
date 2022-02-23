@@ -52,7 +52,6 @@ Note: Please add new instances to the bottom to preserve the order.
 | [nitter.cutelab.space](https://nitter.cutelab.space)           | ✅      | ✅       | 🇺🇸      | [Sectigo](https://www.ssllabs.com/ssltest/analyze.html?d=nitter.cutelab.space)      |
 | [nitter.nl](https://nitter.nl)                                 | ✅      | ❌       | 🇳🇱      | [Let's Encrypt](https://www.ssllabs.com/ssltest/analyze.html?d=nitter.nl)                 |
 | [nitter.mint.lgbt](https://nitter.mint.lgbt)                   | ✅      | ✅       | 🇨🇦      | [Let's Encrypt](https://www.ssllabs.com/ssltest/analyze.html?d=nitter.mint.lgbt)                 |
-| [nitter.tokhmi.xyz](https://nitter.tokhmi.xyz)                 | ❌      | ❌       | 🇺🇸      | [Let's Encrypt](https://www.ssllabs.com/ssltest/analyze.html?d=nitter.tokhmi.xyz)             |
 | [nitter.bus-hit.me](https://nitter.bus-hit.me)                 | ✅      | ✅       | 🇨🇦      | [Let's Encrypt](https://www.ssllabs.com/ssltest/analyze.html?d=nitter.bus-hit.me)             
 | [fuckthesacklers.network](https://fuckthesacklers.network) (anycast) | ✅      | ❌       | 🌏      | [Cloudflare](https://www.ssllabs.com/ssltest/analyze.html?d=fuckthesacklers.network) 
 | [nitter.govt.land](https://nitter.govt.land) (anycast)                 | ✅      | ✅       | 🌏      | [Cloudflare](https://www.ssllabs.com/ssltest/analyze.html?d=nitter.govt.land)   |
@@ -113,6 +112,8 @@ Note: Please add new instances to the bottom to preserve the order.
 | [nitterrrs6bbcba2bxjviwxzzapkhuuelljtig2ku2rxasweckxxxhid.onion](http://nitterrrs6bbcba2bxjviwxzzapkhuuelljtig2ku2rxasweckxxxhid.onion/) | 🇺🇸 | 2022-01-31 |
 | [nitter.koyu.space](https://nitter.koyu.space/)        | 🇩🇪      | 2022-01-24   |
 | [nitter.autarkic.org](https://nitter.autarkic.org/)    | 🇺🇸      | 2022-01-28   |
+| [nitter.tokhmi.xyz](https://nitter.tokhmi.xyz)         | 🇺🇸      | 2022-02-09   |
+| [nitter.eu.org](https://nitter.eu.org)                 | 🌏      | 2022-02-14   |
 
 
 ## Third-party Nitter services
