@@ -63,6 +63,7 @@ Note: Please add new instances to the bottom to preserve the order.
 | [nitter.tiekoetter.com](https://nitter.tiekoetter.com)                       | ✅      | ✅       | 🇩🇪      | [Let's Encrypt](https://www.ssllabs.com/ssltest/analyze.html?d=nitter.tiekoetter.com)                     |
  | [nitter.spaceint.fr](https://nitter.spaceint.fr)                       | ✅      | ✅       | 🇧🇪      | [Let's Encrypt](https://www.ssllabs.com/ssltest/analyze.html?d=nitter.spaceint.fr)                     |
  | [twtr.bch.bar](https://twtr.bch.bar)                       | ✅      | ✅       | 🌏      | [Cloudflare](https://www.ssllabs.com/ssltest/analyze.html?d=twtr.bch.bar)
+ | [nitter.exonip.de](https://nitter.exonip.de)                       | ✅      | ✅       | 🇩🇪      | [Let's Encrypt](https://www.ssllabs.com/ssltest/analyze.html?d=nitter.exonip.de)
 
 ### Tor
 | URL                                                                                                                                                    |    |
@@ -106,7 +107,6 @@ Note: Please add new instances to the bottom to preserve the order.
 | [nitter.vxempire.xyz](https://nitter.vxempire.xyz)     | 🇪🇸      | 2021-11-30   |
 | [n.0x0.st](https://n.0x0.st/)                          | 🇩🇪      | 2021-12-06   |
 | [is-nitter.resolv.ee](https://is-nitter.resolv.ee)     | 🇮🇸      | 2021-12-10   |
-| [nitter.exonip.de](https://nitter.exonip.de/)          | 🇩🇪      | 2021-12-26   |
 | [lu-nitter.resolv.ee](https://lu-nitter.resolv.ee)     | 🇱🇺      | 2021-12-31   |
 | [nitter.ir](https://nitter.ir/)                        | 🇺🇸      | 2022-01-03   |
 | [nitterrrs6bbcba2bxjviwxzzapkhuuelljtig2ku2rxasweckxxxhid.onion](http://nitterrrs6bbcba2bxjviwxzzapkhuuelljtig2ku2rxasweckxxxhid.onion/) | 🇺🇸 | 2022-01-31 |
