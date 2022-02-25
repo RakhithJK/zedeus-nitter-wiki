@@ -16,8 +16,8 @@ Note: Please add new instances to the bottom to preserve the order.
 ❌² means the instance is outdated, mostly shows if an instance misses a vital change, e.g. timelines not loading. \
 ❓ means the commit link is invalid or missing from the instance's about page.
 
-| URL                                                                  | Online¹ | Updated² | Country | Issuer & SSLLabs verification link                                                         |
-| :------------------------------------------------------------------- | :------ | :------- | :------ | :---------------------------------------------------------------------------------------- |
+| URL                                                                  | Online¹ | Updated²  | Country | Issuer & SSLLabs verification link                                                        |
+| :------------------------------------------------------------------- | :------ | :-------- | :------ | :---------------------------------------------------------------------------------------- |
 | [nitter.42l.fr](https://nitter.42l.fr/)                              | ✅      | ✅        | 🇫🇷      | [Let's Encrypt](https://www.ssllabs.com/ssltest/analyze.html?d=nitter.42l.fr)             |
 | [nitter.pussthecat.org](https://nitter.pussthecat.org)               | ✅      | ✅        | 🇩🇪      | [Let's Encrypt](https://www.ssllabs.com/ssltest/analyze.html?d=nitter.pussthecat.org)     |
 | [nitter.nixnet.services](https://nitter.nixnet.services/) ([auth required](https://nixnet.services/blog/nitter-behind-http-basic-auth/)) | ✅ | ❌ | 🇩🇪 | [Let's Encrypt](https://www.ssllabs.com/ssltest/analyze.html?d=nitter.nixnet.services)    |
@@ -43,7 +43,7 @@ Note: Please add new instances to the bottom to preserve the order.
 | [nitter.ca](https://nitter.ca/)                                      | ✅      | ❌        | 🇨🇦      | [Let's Encrypt](https://www.ssllabs.com/ssltest/analyze.html?d=nitter.ca)                 |
 | [twitter.076.ne.jp](https://twitter.076.ne.jp) (in Japanese)         | ✅      | ✅        | 🇯🇵      | [Let's Encrypt](https://www.ssllabs.com/ssltest/analyze.html?d=twitter.076.ne.jp)         |
 | [nitter.mstdn.social](https://nitter.mstdn.social)                   | ✅      | ❓        | 🇩🇪      | [Let's Encrypt](https://www.ssllabs.com/ssltest/analyze.html?d=nitter.mstdn.social)       |
-| [nitter.fly.dev](https://nitter.fly.dev) (anycast)                    | ✅      | ❌       | 🌏      | [Let's Encrypt](https://www.ssllabs.com/ssltest/analyze.html?d=nitter.fly.dev)            |
+| [nitter.fly.dev](https://nitter.fly.dev) (anycast)                   | ✅      | ❌        | 🌏      | [Let's Encrypt](https://www.ssllabs.com/ssltest/analyze.html?d=nitter.fly.dev)            |
 | [notabird.site](https://notabird.site) (anycast)                     | ✅      | ❌        | 🌏      | [Cloudflare](https://www.ssllabs.com/ssltest/analyze.html?d=notabird.site)                |
 | [nitter.weiler.rocks](https://nitter.weiler.rocks)                   | ✅      | ❌        | 🇩🇪      | [Let's Encrypt](https://www.ssllabs.com/ssltest/analyze.html?d=nitter.weiler.rocks)       |
 | [nitter.silkky.cloud](https://nitter.silkky.cloud)                   | ✅      | ❓        | 🇫🇮      | [Cloudflare](https://www.ssllabs.com/ssltest/analyze.html?d=nitter.silkky.cloud)          |
@@ -122,5 +122,4 @@ Note: Please add new instances to the bottom to preserve the order.
 | :------------------------------------------------------------ | :--------------------------------------------------------------- |
 | [Twiiit](https://twiiit.com)                                  | Randomly picks a server from this wiki                           |
 | [Twitit](https://twitit.gq)                                   | Tracks all Nitter instances status and redirects to working ones |
-| [Nitter Upptime](https://xnaas.github.io/nitter-instances/)   | Tracks uptime for Nitter instances  |
-
+| [Nitter Upptime](https://xnaas.github.io/nitter-instances/)   | Tracks uptime for Nitter instances                               |
