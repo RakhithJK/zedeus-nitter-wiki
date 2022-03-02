@@ -65,7 +65,7 @@ Note: Please add new instances to the bottom to preserve the order.
 | [twtr.bch.bar](https://twtr.bch.bar)                                 | ✅      | ✅        | 🌏      | [Cloudflare](https://www.ssllabs.com/ssltest/analyze.html?d=twtr.bch.bar)                 |
 | [nitter.exonip.de](https://nitter.exonip.de)                         | ✅      | ✅        | 🇩🇪      | [Let's Encrypt](https://www.ssllabs.com/ssltest/analyze.html?d=nitter.exonip.de)          |
 | [nitter.mastodon.pro](https://nitter.mastodon.pro)                   | ✅      | ✅        | 🇨🇭      | [Let's Encrypt](https://www.ssllabs.com/ssltest/analyze.html?d=nitter.mastodon.pro)       |
-| [nitter.notraxx.ch](https://nitter.notraxx.ch/)                   | ✅      | ✅        | 🇨🇭      | [Let's Encrypt](https://www.ssllabs.com/ssltest/analyze.html?d=nitter.notraxx.ch)       |
+| [nitter.notraxx.ch](https://nitter.notraxx.ch/)                   | ✅      | ✅        | 🇩🇪      | [Let's Encrypt](https://www.ssllabs.com/ssltest/analyze.html?d=nitter.notraxx.ch)       |
 
 
 ### Tor
