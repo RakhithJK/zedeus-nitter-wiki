@@ -63,7 +63,7 @@ Note: Please add new instances to the bottom to preserve the order.
 | [nitter.tiekoetter.com](https://nitter.tiekoetter.com)               | ✅      | ✅        | 🇩🇪      | [Let's Encrypt](https://www.ssllabs.com/ssltest/analyze.html?d=nitter.tiekoetter.com)     |
 | [nitter.spaceint.fr](https://nitter.spaceint.fr)                     | ✅      | ✅        | 🇧🇪      | [Let's Encrypt](https://www.ssllabs.com/ssltest/analyze.html?d=nitter.spaceint.fr)        |
 | [twtr.bch.bar](https://twtr.bch.bar)                                 | ✅      | ✅        | 🌏      | [Cloudflare](https://www.ssllabs.com/ssltest/analyze.html?d=twtr.bch.bar)                 |
-| [nitter.exonip.de](https://nitter.exonip.de)                         | ✅      | ✅        | 🇩🇪      | [Let's Encrypt](https://www.ssllabs.com/ssltest/analyze.html?d=nitter.exonip.de)          |
+| [nitter.privacy.com.de](https://nitter.privacy.com.de)               | ✅      | ✅        | 🇩🇪      | [Let's Encrypt](https://www.ssllabs.com/ssltest/analyze.html?d=nitter.privacy.com.de)     |
 | [nitter.mastodon.pro](https://nitter.mastodon.pro)                   | ✅      | ✅        | 🇨🇭      | [Let's Encrypt](https://www.ssllabs.com/ssltest/analyze.html?d=nitter.mastodon.pro)       |
 | [nitter.notraxx.ch](https://nitter.notraxx.ch/)                   | ✅      | ✅        | 🇩🇪      | [Let's Encrypt](https://www.ssllabs.com/ssltest/analyze.html?d=nitter.notraxx.ch)       |
 
