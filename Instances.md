@@ -66,6 +66,7 @@ Note: Please add new instances to the bottom to preserve the order.
 | [nitter.privacy.com.de](https://nitter.privacy.com.de)               | ✅      | ✅        | 🇩🇪      | [Let's Encrypt](https://www.ssllabs.com/ssltest/analyze.html?d=nitter.privacy.com.de)     |
 | [nitter.mastodon.pro](https://nitter.mastodon.pro)                   | ✅      | ✅        | 🇨🇭      | [Let's Encrypt](https://www.ssllabs.com/ssltest/analyze.html?d=nitter.mastodon.pro)       |
 | [nitter.notraxx.ch](https://nitter.notraxx.ch/)                   | ✅      | ✅        | 🇩🇪      | [Let's Encrypt](https://www.ssllabs.com/ssltest/analyze.html?d=nitter.notraxx.ch)       |
+| [nitter.poast.org](https://nitter.poast.org/)                   | ✅      | ✅        | 🇺🇸      | [Let's Encrypt](https://www.ssllabs.com/ssltest/analyze.html?d=nitter.poast.org)       |
 
 
 ### Tor
