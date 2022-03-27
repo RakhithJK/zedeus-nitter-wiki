@@ -68,6 +68,7 @@ Note: Please add new instances to the bottom to preserve the order.
 | [nitter.notraxx.ch](https://nitter.notraxx.ch/)                      | ✅      | ✅        | 🇩🇪      | [Let's Encrypt](https://www.ssllabs.com/ssltest/analyze.html?d=nitter.notraxx.ch)         |
 | [nitter.poast.org](https://nitter.poast.org/)                        | ✅      | ✅        | 🇺🇸      | [Let's Encrypt](https://www.ssllabs.com/ssltest/analyze.html?d=nitter.poast.org)          |
 | [nitter.lunar.icu](https://nitter.lunar.icu/)                        | ✅      | ✅        | 🇩🇪      | [Cloudflare](https://www.ssllabs.com/ssltest/analyze.html?d=nitter.lunar.icu)             |
+| [nitter.bird.froth.zone](https://nitter.bird.froth.zone)             | ✅      | ✅        | 🇨🇦      | [Let's Encrypt](https://www.ssllabs.com/ssltest/analyze.html?d=nitter.bird.froth.zone)
 
 
 ### Tor
