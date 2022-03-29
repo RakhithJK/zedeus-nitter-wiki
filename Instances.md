@@ -69,6 +69,7 @@ Note: Please add new instances to the bottom to preserve the order.
 | [nitter.poast.org](https://nitter.poast.org/)                        | ✅      | ✅        | 🇺🇸      | [Let's Encrypt](https://www.ssllabs.com/ssltest/analyze.html?d=nitter.poast.org)          |
 | [nitter.lunar.icu](https://nitter.lunar.icu/)                        | ✅      | ✅        | 🇩🇪      | [Cloudflare](https://www.ssllabs.com/ssltest/analyze.html?d=nitter.lunar.icu)             |
 | [nitter.bird.froth.zone](https://nitter.bird.froth.zone)             | ✅      | ✅        | 🇨🇦      | [Let's Encrypt](https://www.ssllabs.com/ssltest/analyze.html?d=nitter.bird.froth.zone)
+| [nitter.privacy.com.de](https://nitter.privacy.com.de)             | ✅      | ✅        | 🇩🇪      | [ZeroSSL](https://www.ssllabs.com/ssltest/analyze.html?d=nitter.privacy.com.de)
 
 
 ### Tor
