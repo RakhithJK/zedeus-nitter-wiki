@@ -127,5 +127,8 @@ Note: Please add new instances to the bottom to preserve the order.
 | Name                                                          | Description                                                      |
 | :------------------------------------------------------------ | :--------------------------------------------------------------- |
 | [Twiiit](https://twiiit.com)                                  | Randomly picks a server from this wiki                           |
-| [Twitit](https://twitit.gq)                                   | Tracks all Nitter instances status and redirects to working ones |
 | [Nitter Upptime](https://xnaas.github.io/nitter-instances/)   | Tracks uptime for Nitter instances                               |
+<!--
+Apparently spam: https://github.com/zedeus/nitter/issues/596
+| [Twitit](https://twitit.gq)                                   | Tracks all Nitter instances status and redirects to working ones |
+-->
