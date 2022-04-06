@@ -127,6 +127,7 @@ Note: Please add new instances to the bottom to preserve the order.
 | Name                                                          | Description                                                      |
 | :------------------------------------------------------------ | :--------------------------------------------------------------- |
 | [Twiiit](https://twiiit.com)                                  | Randomly picks a server from this wiki                           |
+| [Farside](https://farside.link)                               | Randomly picks a working instance for various frontends          |
 | [Nitter Upptime](https://xnaas.github.io/nitter-instances/)   | Tracks uptime for Nitter instances                               |
 <!--
 Apparently spam: https://github.com/zedeus/nitter/issues/596
