@@ -28,6 +28,7 @@ Note: Please add new instances to the bottom to preserve the order.
 | [nitter.domain.glass](https://nitter.domain.glass)                   | ✅      | ❌        | 🇺🇸      | [Cloudflare](https://www.ssllabs.com/ssltest/analyze.html?d=nitter.domain.glass)          |
 | [nitter.eu](https://nitter.eu)                                       | ✅      | ✅        | 🇫🇮      | [Let's Encrypt](https://www.ssllabs.com/ssltest/analyze.html?d=nitter.eu)                 |
 | [nitter.namazso.eu](https://nitter.namazso.eu)                       | ✅      | ✅        | 🇩🇪      | [Let's Encrypt](https://www.ssllabs.com/ssltest/analyze.html?d=nitter.namazso.eu)         |
+| [nitter.actionsack.com](https://nitter.actionsack.com)               | ✅      | ✅        | 🇺🇸      | [Cloudflare](https://www.ssllabs.com/ssltest/analyze.html?d=nitter.actionsack.com)        |
 | [birdsite.xanny.family](https://birdsite.xanny.family) (anycast)     | ✅      | ❌        | 🌏      | [Cloudflare](https://www.ssllabs.com/ssltest/analyze.html?d=birdsite.xanny.family)        |
 | [nitter.hu](https://nitter.hu)                                       | ✅      | ✅        | 🇭🇺      | [Let's Encrypt](https://www.ssllabs.com/ssltest/analyze.html?d=nitter.hu)                 |
 | [nitter.moomoo.me](https://nitter.moomoo.me)                         | ✅      | ✅        | 🇺🇸      | [Cloudflare](https://www.ssllabs.com/ssltest/analyze.html?d=nitter.moomoo.me)             |
