@@ -67,7 +67,7 @@ Note: Please add new instances to the bottom to preserve the order.
 | [nitter.dcs0.hu](https://nitter.dcs0.hu)                             | ✅      | ✅        | 🇭🇺      | [Let's Encrypt](https://www.ssllabs.com/ssltest/analyze.html?d=nitter.dcs0.hu)            |
 | [twitter.dr460nf1r3.org](https://twitter.dr460nf1r3.org/)            | ✅      | ✅        | 🇩🇪      | [Cloudflare](https://www.ssllabs.com/ssltest/analyze.html?d=twitter.dr460nf1r3.org)       |
 | [twitter.beparanoid.de](https://twitter.beparanoid.de)               | ✅      | ✅        | 🇨🇭      | [Let's Encrypt](https://www.ssllabs.com/ssltest/analyze.html?d=twitter.beparanoid.de)     |
-
+| [n.ramle.be](https://n.ramle.be)                     | ✅      | ✅        | 🇧🇪      | [Let's Encrypt](https://www.ssllabs.com/ssltest/analyze.html?d=n.ramle.be)        |
 ### Tor
 | URL                                                                                                                                                      |    |
 | :------------------------------------------------------------------------------------------------------------------------------------------------------- | :- |
