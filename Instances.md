@@ -50,7 +50,6 @@ Note: Please add new instances to the bottom to preserve the order.
 | [nitter.bus-hit.me](https://nitter.bus-hit.me)                       | ✅      | ✅        | 🇨🇦      | [Let's Encrypt](https://www.ssllabs.com/ssltest/analyze.html?d=nitter.bus-hit.me)         | 
 | [fuckthesacklers.network](https://fuckthesacklers.network) (anycast) | ✅      | ❌        | 🌏      | [Cloudflare](https://www.ssllabs.com/ssltest/analyze.html?d=fuckthesacklers.network)      |
 | [nitter.govt.land](https://nitter.govt.land) (anycast)               | ✅      | ✅        | 🌏      | [Cloudflare](https://www.ssllabs.com/ssltest/analyze.html?d=nitter.govt.land)             |
-| [nitter.datatunnel.xyz](https://nitter.datatunnel.xyz)               | ✅      | ✅        | 🇫🇮      | [Let's Encrypt](https://www.ssllabs.com/ssltest/analyze.html?d=nitter.datatunnel.xyz)     |
 | [nitter.esmailelbob.xyz](https://nitter.esmailelbob.xyz)             | ✅      | ✅        | 🇨🇦      | [Let's Encrypt](https://www.ssllabs.com/ssltest/analyze.html?d=nitter.esmailelbob.xyz)    |
 | [tw.artemislena.eu](https://tw.artemislena.eu)                       | ✅      | ✅        | 🇩🇪      | [Let's Encrypt](https://www.ssllabs.com/ssltest/analyze.html?d=tw.artemislena.eu)         |
 | [de.nttr.stream](https://de.nttr.stream)                             | ✅      | ✅        | 🇩🇪      | [BuyPass](https://www.ssllabs.com/ssltest/analyze.html?d=de.nttr.stream)                  |
@@ -67,7 +66,8 @@ Note: Please add new instances to the bottom to preserve the order.
 | [nitter.dcs0.hu](https://nitter.dcs0.hu)                             | ✅      | ✅        | 🇭🇺      | [Let's Encrypt](https://www.ssllabs.com/ssltest/analyze.html?d=nitter.dcs0.hu)            |
 | [twitter.dr460nf1r3.org](https://twitter.dr460nf1r3.org/)            | ✅      | ✅        | 🇩🇪      | [Cloudflare](https://www.ssllabs.com/ssltest/analyze.html?d=twitter.dr460nf1r3.org)       |
 | [twitter.beparanoid.de](https://twitter.beparanoid.de)               | ✅      | ✅        | 🇨🇭      | [Let's Encrypt](https://www.ssllabs.com/ssltest/analyze.html?d=twitter.beparanoid.de)     |
-| [n.ramle.be](https://n.ramle.be)                     | ✅      | ✅        | 🇧🇪      | [Let's Encrypt](https://www.ssllabs.com/ssltest/analyze.html?d=n.ramle.be)        |
+| [n.ramle.be](https://n.ramle.be)                                     | ✅      | ✅        | 🇧🇪      | [Let's Encrypt](https://www.ssllabs.com/ssltest/analyze.html?d=n.ramle.be)    |
+
 ### Tor
 | URL                                                                                                                                                      |    |
 | :------------------------------------------------------------------------------------------------------------------------------------------------------- | :- |
@@ -116,7 +116,7 @@ Note: Please add new instances to the bottom to preserve the order.
 | [is-nitter.resolv.ee](https://is-nitter.resolv.ee)      | 🇮🇸      | 2021-12-10   |
 | [lu-nitter.resolv.ee](https://lu-nitter.resolv.ee)      | 🇱🇺      | 2021-12-31   |
 | [nitter.ir](https://nitter.ir/)                         | 🇺🇸      | 2022-01-03   |
-| [nitterrrs6bbcba2bxjviwxzzapkhuuelljtig2ku2rxasweckxxxhid.onion](http://nitterrrs6bbcba2bxjviwxzzapkhuuelljtig2ku2rxasweckxxxhid.onion/) | 🇺🇸 | 2022-01-31 |
+| [nitterrrs6...hid.onion](http://nitterrrs6bbcba2bxjviwxzzapkhuuelljtig2ku2rxasweckxxxhid.onion) | 🇺🇸 | 2022-01-31 |
 | [nitter.koyu.space](https://nitter.koyu.space/)         | 🇩🇪      | 2022-01-24   |
 | [nitter.autarkic.org](https://nitter.autarkic.org/)     | 🇺🇸      | 2022-01-28   |
 | [nitter.tokhmi.xyz](https://nitter.tokhmi.xyz)          | 🇺🇸      | 2022-02-09   |
@@ -124,7 +124,7 @@ Note: Please add new instances to the bottom to preserve the order.
 | [nittereu.moomoo.me](https://nittereu.moomoo.me)        | 🇩🇪      | 2022-04-24   |
 | [twitr.gq](https://twitr.gq/)                           | 🇫🇮      | 2022-04-26   |
 | [nitter.alefvanoon.xyz](https://nitter.alefvanoon.xyz/) | 🇺🇸      | 2022-04-28   |
-
+| [nitter.datatunnel.xyz](https://nitter.datatunnel.xyz)  | 🇫🇮      | 2022-05-12   |
 
 ## Third-party Nitter services
 | Name                                                          | Description                                                      |
