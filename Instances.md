@@ -35,7 +35,7 @@ Note: Please add new instances to the bottom to preserve the order.
 | [twitter.censors.us](https://twitter.censors.us)                     | ✅      | ✅        | 🇫🇷      | [Let's Encrypt](https://www.ssllabs.com/ssltest/analyze.html?d=twitter.censors.us)        |
 | [nitter.grimneko.de](https://nitter.grimneko.de)                     | ✅      | ✅        | 🇩🇪      | [Let's Encrypt](https://www.ssllabs.com/ssltest/analyze.html?d=nitter.grimneko.de)        |
 | [n.hyperborea.cloud](https://n.hyperborea.cloud/)                    | ✅      | ❌        | 🇨🇦      | [Let's Encrypt](https://www.ssllabs.com/ssltest/analyze.html?d=n.hyperborea.cloud)        |
-| [nitter.ca](https://nitter.ca/)                                      | ✅      | ❌        | 🇨🇦      | [Let's Encrypt](https://www.ssllabs.com/ssltest/analyze.html?d=nitter.ca)                 |
+| [nitter.ca](https://nitter.ca/)                                      | ✅      | ✅        | 🇨🇦      | [Let's Encrypt](https://www.ssllabs.com/ssltest/analyze.html?d=nitter.ca)                 |
 | [twitter.076.ne.jp](https://twitter.076.ne.jp) (in Japanese)         | ✅      | ✅        | 🇯🇵      | [Let's Encrypt](https://www.ssllabs.com/ssltest/analyze.html?d=twitter.076.ne.jp)         |
 | [nitter.mstdn.social](https://nitter.mstdn.social)                   | ✅      | ❓        | 🇩🇪      | [Let's Encrypt](https://www.ssllabs.com/ssltest/analyze.html?d=nitter.mstdn.social)       |
 | [nitter.fly.dev](https://nitter.fly.dev) (anycast)                   | ✅      | ✅        | 🌏      | [Let's Encrypt](https://www.ssllabs.com/ssltest/analyze.html?d=nitter.fly.dev)            |
