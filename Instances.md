@@ -125,6 +125,7 @@ Note: Please add new instances to the bottom to preserve the order.
 | [twitr.gq](https://twitr.gq/)                           | 🇫🇮      | 2022-04-26   |
 | [nitter.alefvanoon.xyz](https://nitter.alefvanoon.xyz/) | 🇺🇸      | 2022-04-28   |
 | [nitter.datatunnel.xyz](https://nitter.datatunnel.xyz)  | 🇫🇮      | 2022-05-12   |
+| [nitter.silkky.cloud](https://nitter.silkky.cloud)      | 🇫🇮      | 2022-05-23   |
 
 ## Third-party Nitter services
 | Name                                                          | Description                                                      |
