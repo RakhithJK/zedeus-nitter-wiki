@@ -67,6 +67,7 @@ Note: Please add new instances to the bottom to preserve the order.
 | [twitter.beparanoid.de](https://twitter.beparanoid.de)               | ✅      | ✅        | 🇨🇭      | [Let's Encrypt](https://www.ssllabs.com/ssltest/analyze.html?d=twitter.beparanoid.de)     |
 | [n.ramle.be](https://n.ramle.be)                                     | ✅      | ✅        | 🇧🇪      | [Let's Encrypt](https://www.ssllabs.com/ssltest/analyze.html?d=n.ramle.be)    |
 | [nitter.cz](https://nitter.cz)                                     | ✅      | ✅        | 🇨🇿      | [Let's Encrypt](https://www.ssllabs.com/ssltest/analyze.html?d=nitter.cz)    |
+| [nitter.privacydev.net](https://nitter.privacydev.net)                                     | ✅      | ✅        | 🇺🇸      | [Let's Encrypt](https://www.ssllabs.com/ssltest/analyze.html?d=nitter.privacydev.net)    |
 
 ### Tor
 | URL                                                                                                                                                      |    |
