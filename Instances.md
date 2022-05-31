@@ -69,7 +69,7 @@ Note: Please add new instances to the bottom to preserve the order.
 | [nitter.cz](https://nitter.cz)                                     | ✅      | ✅        | 🇨🇿      | [Let's Encrypt](https://www.ssllabs.com/ssltest/analyze.html?d=nitter.cz)    |
 | [nitter.privacydev.net](https://nitter.privacydev.net)                                     | ✅      | ✅        | 🇺🇸      | [Let's Encrypt](https://www.ssllabs.com/ssltest/analyze.html?d=nitter.privacydev.net)    |
 | [tweet.lambda.dance](https://tweet.lambda.dance)                                     | ✅      | ✅        | 🇺🇸      | [Let's Encrypt](https://www.ssllabs.com/ssltest/analyze.html?d=tweet.lambda.dance)    |
-
+| [nitter.ebnar.xyz](https://nitter.ebnar.xyz)|✅      | ✅        | 🇩🇪      | [Let's Encrypt](https://www.ssllabs.com/ssltest/analyze.html?d=nitter.ebnar.xyz)|
 ### Tor
 | URL                                                                                                                                                      |    |
 | :------------------------------------------------------------------------------------------------------------------------------------------------------- | :- |
