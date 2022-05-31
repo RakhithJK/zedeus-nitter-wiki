@@ -70,6 +70,7 @@ Note: Please add new instances to the bottom to preserve the order.
 | [nitter.privacydev.net](https://nitter.privacydev.net)                                     | ✅      | ✅        | 🇺🇸      | [Let's Encrypt](https://www.ssllabs.com/ssltest/analyze.html?d=nitter.privacydev.net)    |
 | [tweet.lambda.dance](https://tweet.lambda.dance)                                     | ✅      | ✅        | 🇺🇸      | [Let's Encrypt](https://www.ssllabs.com/ssltest/analyze.html?d=tweet.lambda.dance)    |
 | [nitter.ebnar.xyz](https://nitter.ebnar.xyz)|✅      | ✅        | 🇩🇪      | [Let's Encrypt](https://www.ssllabs.com/ssltest/analyze.html?d=nitter.ebnar.xyz)|
+| [nitter.kylrth.com](https://nitter.kylrth.com)|✅      | ✅        | 🇨🇦      | [Let's Encrypt](https://www.ssllabs.com/ssltest/analyze.html?d=nitter.kylrth.com)|
 ### Tor
 | URL                                                                                                                                                      |    |
 | :------------------------------------------------------------------------------------------------------------------------------------------------------- | :- |
