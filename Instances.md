@@ -68,6 +68,7 @@ Note: Please add new instances to the bottom to preserve the order.
 | [n.ramle.be](https://n.ramle.be)                                     | ✅      | ✅        | 🇧🇪      | [Let's Encrypt](https://www.ssllabs.com/ssltest/analyze.html?d=n.ramle.be)    |
 | [nitter.cz](https://nitter.cz)                                     | ✅      | ✅        | 🇨🇿      | [Let's Encrypt](https://www.ssllabs.com/ssltest/analyze.html?d=nitter.cz)    |
 | [nitter.privacydev.net](https://nitter.privacydev.net)                                     | ✅      | ✅        | 🇺🇸      | [Let's Encrypt](https://www.ssllabs.com/ssltest/analyze.html?d=nitter.privacydev.net)    |
+| [tweet.lambda.dance](https://tweet.lambda.dance)                                     | ✅      | ✅        | 🇺🇸      | [Let's Encrypt](https://www.ssllabs.com/ssltest/analyze.html?d=tweet.lambda.dance)    |
 
 ### Tor
 | URL                                                                                                                                                      |    |
@@ -92,7 +93,7 @@ Note: Please add new instances to the bottom to preserve the order.
 | [twitter.ap3jtgssd7qn4vfoa62gi2ijddoblslbeuw5dan3xt7myvqpura5i4qd.onion](http://twitter.ap3jtgssd7qn4vfoa62gi2ijddoblslbeuw5dan3xt7myvqpura5i4qd.onion/) | ✅ |
 | [twitter.prnoid54e44a4bduq5due64jkk7wcnkxcp5kv3juncm7veptjcqudgyd.onion](http://twitter.prnoid54e44a4bduq5due64jkk7wcnkxcp5kv3juncm7veptjcqudgyd.onion/) | ✅ |
 | [nitter.micohauwkjbyw5meacrb4ipicwvwg4xtzl7y7viv53kig2mdcsvwkyyd.onion](http://nitter.micohauwkjbyw5meacrb4ipicwvwg4xtzl7y7viv53kig2mdcsvwkyyd.onion/) | ✅ |
-
+| [fbdi323aj3t6hdx4jtkuwxrnafzskquciowu2yu3jizfssaq35aow6ad.onion](http://fbdi323aj3t6hdx4jtkuwxrnafzskquciowu2yu3jizfssaq35aow6ad.onion/) | ✅ |
 ### I2P
 -   [nitter.i2p](http://axd6uavsstsrvstva4mzlzh4ct76rc6zdug3nxdgeitrzczhzf4q.b32.i2p/)
 -   [u6ikd6zndl3c4dsdq4mmujpntgeevdk5qzkfb57r4tnfeccrn2qa.b32.i2p](http://u6ikd6zndl3c4dsdq4mmujpntgeevdk5qzkfb57r4tnfeccrn2qa.b32.i2p/)
@@ -112,7 +113,6 @@ Note: Please add new instances to the bottom to preserve the order.
 | [bird.nogafam.es](https://bird.nogafam.es)              | 🇪🇸      | 2021-10-03   |
 | [nitter.ethibox.fr](https://nitter.ethibox.fr)          | 🇫🇷      | Unknown      |
 | [nitter.cattube.org](https://nitter.cattube.org/)       | 🇩🇪      | 2021-10-06   |
-| [tweet.lambda.dance](https://tweet.lambda.dance)        | 🇺🇸      | Never Online |
 | [nitter.vxempire.xyz](https://nitter.vxempire.xyz)      | 🇪🇸      | 2021-11-30   |
 | [n.0x0.st](https://n.0x0.st/)                           | 🇩🇪      | 2021-12-06   |
 | [is-nitter.resolv.ee](https://is-nitter.resolv.ee)      | 🇮🇸      | 2021-12-10   |
