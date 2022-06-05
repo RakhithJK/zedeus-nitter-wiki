@@ -71,6 +71,7 @@ Note: Please add new instances to the bottom to preserve the order.
 | [tweet.lambda.dance](https://tweet.lambda.dance)                                     | ✅      | ✅        | 🇺🇸      | [Let's Encrypt](https://www.ssllabs.com/ssltest/analyze.html?d=tweet.lambda.dance)    |
 | [nitter.ebnar.xyz](https://nitter.ebnar.xyz)|✅      | ✅        | 🇩🇪      | [Let's Encrypt](https://www.ssllabs.com/ssltest/analyze.html?d=nitter.ebnar.xyz)|
 | [nitter.kylrth.com](https://nitter.kylrth.com)|✅      | ✅        | 🇨🇦      | [Let's Encrypt](https://www.ssllabs.com/ssltest/analyze.html?d=nitter.kylrth.com)|
+| [nitter.oishi-ra.men](https://nitter.oishi-ra.men)|✅      | ✅        | 🇩🇪      | [Let's Encrypt](https://www.ssllabs.com/ssltest/analyze.html?d=nitter.kylrth.com)|
 ### Tor
 | URL                                                                                                                                                      |    |
 | :------------------------------------------------------------------------------------------------------------------------------------------------------- | :- |
