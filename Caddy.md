@@ -2,7 +2,7 @@
 ```
 nitter.example.com {
     header {
-        Strict-Transport-Security "max-age=63072000; includeSubDomains; preload"
+        Strict-Transport-Security "max-age=63072000"
         Referrer-Policy no-referrer
         X-Permitted-Cross-Domain-Policies none
         X-Content-Type-Options nosniff
