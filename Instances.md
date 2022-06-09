@@ -16,8 +16,8 @@ Note: Please add new instances to the bottom to preserve the order.
 ❌² means the instance is outdated, mostly shows if an instance misses a vital change, e.g. timelines not loading. \
 ❓ means the commit link is invalid or missing from the instance's about page.
 
-| URL                                                                  | Online¹ | Updated²  | Country   | Issuer & SSLLabs verification link                                                        |
-| :------------------------------------------------------------------- | :------ | :-------- | :-------- | :---------------------------------------------------------------------------------------- |
+| URL                                                                  | Online¹ | Updated²  | Country | Issuer & SSLLabs verification link                                                        |
+| :------------------------------------------------------------------- | :------ | :-------- | :------ | :---------------------------------------------------------------------------------------- |
 | [nitter.42l.fr](https://nitter.42l.fr/)                              | ✅      | ✅        | 🇫🇷      | [Let's Encrypt](https://www.ssllabs.com/ssltest/analyze.html?d=nitter.42l.fr)             |
 | [nitter.pussthecat.org](https://nitter.pussthecat.org)               | ✅      | ✅        | 🇩🇪      | [Let's Encrypt](https://www.ssllabs.com/ssltest/analyze.html?d=nitter.pussthecat.org)     |
 | [nitter.nixnet.services](https://nitter:nitter@nitter.nixnet.services) ([auth required](https://nixnet.services/blog/nitter-behind-http-basic-auth/)) | ✅ | ❌ | 🇩🇪 | [Let's Encrypt](https://www.ssllabs.com/ssltest/analyze.html?d=nitter.nixnet.services)    |
@@ -31,7 +31,7 @@ Note: Please add new instances to the bottom to preserve the order.
 | [nitter.hu](https://nitter.hu)                                       | ✅      | ✅        | 🇭🇺      | [Let's Encrypt](https://www.ssllabs.com/ssltest/analyze.html?d=nitter.hu)                 |
 | [nitter.moomoo.me](https://nitter.moomoo.me)                         | ✅      | ✅        | 🇺🇸      | [Cloudflare](https://www.ssllabs.com/ssltest/analyze.html?d=nitter.moomoo.me)             |
 | [bird.trom.tf](https://bird.trom.tf/)                                | ✅      | ❓        | 🇩🇪      | [Let's Encrypt](https://www.ssllabs.com/ssltest/analyze.html?d=bird.trom.tf)              |
-| [nitter.it](https://nitter.it)                                       | ✅      | ✅        | 🇨🇭      | [Buypass AS-983163327](https://www.ssllabs.com/ssltest/analyze.html?d=nitter.it)                 |
+| [nitter.it](https://nitter.it)                                       | ✅      | ✅        | 🇨🇭      | [Buypass AS-983163327](https://www.ssllabs.com/ssltest/analyze.html?d=nitter.it)          |
 | [twitter.censors.us](https://twitter.censors.us)                     | ✅      | ✅        | 🇫🇷      | [Let's Encrypt](https://www.ssllabs.com/ssltest/analyze.html?d=twitter.censors.us)        |
 | [nitter.grimneko.de](https://nitter.grimneko.de)                     | ✅      | ✅        | 🇩🇪      | [Let's Encrypt](https://www.ssllabs.com/ssltest/analyze.html?d=nitter.grimneko.de)        |
 | [n.hyperborea.cloud](https://n.hyperborea.cloud/)                    | ✅      | ❌        | 🇨🇦      | [Let's Encrypt](https://www.ssllabs.com/ssltest/analyze.html?d=n.hyperborea.cloud)        |
@@ -65,13 +65,15 @@ Note: Please add new instances to the bottom to preserve the order.
 | [nitter.dcs0.hu](https://nitter.dcs0.hu)                             | ✅      | ✅        | 🇭🇺      | [Let's Encrypt](https://www.ssllabs.com/ssltest/analyze.html?d=nitter.dcs0.hu)            |
 | [twitter.dr460nf1r3.org](https://twitter.dr460nf1r3.org/)            | ✅      | ✅        | 🇩🇪      | [Cloudflare](https://www.ssllabs.com/ssltest/analyze.html?d=twitter.dr460nf1r3.org)       |
 | [twitter.beparanoid.de](https://twitter.beparanoid.de)               | ✅      | ✅        | 🇨🇭      | [Let's Encrypt](https://www.ssllabs.com/ssltest/analyze.html?d=twitter.beparanoid.de)     |
-| [n.ramle.be](https://n.ramle.be)                                     | ✅      | ✅        | 🇧🇪      | [Let's Encrypt](https://www.ssllabs.com/ssltest/analyze.html?d=n.ramle.be)    |
-| [nitter.cz](https://nitter.cz)                                     | ✅      | ✅        | 🇨🇿      | [Let's Encrypt](https://www.ssllabs.com/ssltest/analyze.html?d=nitter.cz)    |
-| [nitter.privacydev.net](https://nitter.privacydev.net)                                     | ✅      | ✅        | 🇺🇸      | [Let's Encrypt](https://www.ssllabs.com/ssltest/analyze.html?d=nitter.privacydev.net)    |
-| [tweet.lambda.dance](https://tweet.lambda.dance)                                     | ✅      | ✅        | 🇺🇸      | [Let's Encrypt](https://www.ssllabs.com/ssltest/analyze.html?d=tweet.lambda.dance)    |
-| [nitter.ebnar.xyz](https://nitter.ebnar.xyz)|✅      | ✅        | 🇩🇪      | [Let's Encrypt](https://www.ssllabs.com/ssltest/analyze.html?d=nitter.ebnar.xyz)|
-| [nitter.kylrth.com](https://nitter.kylrth.com)|✅      | ✅        | 🇨🇦      | [Let's Encrypt](https://www.ssllabs.com/ssltest/analyze.html?d=nitter.kylrth.com)|
-| [nitter.oishi-ra.men](https://nitter.oishi-ra.men)|✅      | ✅        | 🇩🇪      | [Let's Encrypt](https://www.ssllabs.com/ssltest/analyze.html?d=nitter.kylrth.com)|
+| [n.ramle.be](https://n.ramle.be)                                     | ✅      | ✅        | 🇧🇪      | [Let's Encrypt](https://www.ssllabs.com/ssltest/analyze.html?d=n.ramle.be)                |
+| [nitter.cz](https://nitter.cz)                                       | ✅      | ✅        | 🇨🇿      | [Let's Encrypt](https://www.ssllabs.com/ssltest/analyze.html?d=nitter.cz)                 |
+| [nitter.privacydev.net](https://nitter.privacydev.net)               | ✅      | ✅        | 🇺🇸      | [Let's Encrypt](https://www.ssllabs.com/ssltest/analyze.html?d=nitter.privacydev.net)     |
+| [tweet.lambda.dance](https://tweet.lambda.dance)                     | ✅      | ✅        | 🇺🇸      | [Let's Encrypt](https://www.ssllabs.com/ssltest/analyze.html?d=tweet.lambda.dance)        |
+| [nitter.ebnar.xyz](https://nitter.ebnar.xyz)                         | ✅      | ✅        | 🇩🇪      | [Let's Encrypt](https://www.ssllabs.com/ssltest/analyze.html?d=nitter.ebnar.xyz)          |
+| [nitter.kylrth.com](https://nitter.kylrth.com)                       | ✅      | ✅        | 🇨🇦      | [Let's Encrypt](https://www.ssllabs.com/ssltest/analyze.html?d=nitter.kylrth.com)         |
+| [nitter.oishi-ra.men](https://nitter.oishi-ra.men)                   | ✅      | ✅        | 🇩🇪      | [Let's Encrypt](https://www.ssllabs.com/ssltest/analyze.html?d=nitter.kylrth.com)         |
+| [nitter.foss.wtf](https://nitter.foss.wtf)                           | ✅      | ✅        | 🇩🇪      | [Let's Encrypt](https://www.ssllabs.com/ssltest/analyze.html?d=nitter.foss.wtf)           |
+
 ### Tor
 | URL                                                                                                                                                      |    |
 | :------------------------------------------------------------------------------------------------------------------------------------------------------- | :- |
