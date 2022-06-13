@@ -48,7 +48,6 @@ Note: Please add new instances to the bottom to preserve the order.
 | [nitter.mint.lgbt](https://nitter.mint.lgbt)                         | ✅      | ✅        | 🇬🇧      | [Let's Encrypt](https://www.ssllabs.com/ssltest/analyze.html?d=nitter.mint.lgbt)          |
 | [nitter.bus-hit.me](https://nitter.bus-hit.me)                       | ✅      | ✅        | 🇨🇦      | [Let's Encrypt](https://www.ssllabs.com/ssltest/analyze.html?d=nitter.bus-hit.me)         | 
 | [fuckthesacklers.network](https://fuckthesacklers.network) (anycast) | ✅      | ❌        | 🌏      | [Cloudflare](https://www.ssllabs.com/ssltest/analyze.html?d=fuckthesacklers.network)      |
-| [nitter.govt.land](https://nitter.govt.land) (anycast)               | ✅      | ✅        | 🌏      | [Cloudflare](https://www.ssllabs.com/ssltest/analyze.html?d=nitter.govt.land)             |
 | [nitter.esmailelbob.xyz](https://nitter.esmailelbob.xyz)             | ✅      | ✅        | 🇨🇦      | [Let's Encrypt](https://www.ssllabs.com/ssltest/analyze.html?d=nitter.esmailelbob.xyz)    |
 | [tw.artemislena.eu](https://tw.artemislena.eu)                       | ✅      | ✅        | 🇩🇪      | [Let's Encrypt](https://www.ssllabs.com/ssltest/analyze.html?d=tw.artemislena.eu)         |
 | [de.nttr.stream](https://de.nttr.stream)                             | ✅      | ✅        | 🇩🇪      | [BuyPass](https://www.ssllabs.com/ssltest/analyze.html?d=de.nttr.stream)                  |
@@ -127,12 +126,13 @@ Note: Please add new instances to the bottom to preserve the order.
 | [nitter.koyu.space](https://nitter.koyu.space/)         | 🇩🇪      | 2022-01-24   |
 | [nitter.autarkic.org](https://nitter.autarkic.org/)     | 🇺🇸      | 2022-01-28   |
 | [nitter.tokhmi.xyz](https://nitter.tokhmi.xyz)          | 🇺🇸      | 2022-02-09   |
-| [nitter.eu.org](https://nitter.eu.org)                  | 🌏      | 2022-02-14   |
+| [nitter.eu.org](https://nitter.eu.org)                  | 🌏      | 2022-02-14  |
 | [nittereu.moomoo.me](https://nittereu.moomoo.me)        | 🇩🇪      | 2022-04-24   |
 | [twitr.gq](https://twitr.gq/)                           | 🇫🇮      | 2022-04-26   |
 | [nitter.alefvanoon.xyz](https://nitter.alefvanoon.xyz/) | 🇺🇸      | 2022-04-28   |
 | [nitter.datatunnel.xyz](https://nitter.datatunnel.xyz)  | 🇫🇮      | 2022-05-12   |
 | [nitter.silkky.cloud](https://nitter.silkky.cloud)      | 🇫🇮      | 2022-05-23   |
+| [nitter.govt.land](https://nitter.govt.land)            | 🌏      | 2022-05-04  |
 
 ## Third-party Nitter services
 | Name                                                          | Description                                                      |
