@@ -72,9 +72,9 @@ Note: Please add new instances to the bottom to preserve the order.
 | [nitter.kylrth.com](https://nitter.kylrth.com)                       | ✅      | ✅        | 🇨🇦      | [Let's Encrypt](https://www.ssllabs.com/ssltest/analyze.html?d=nitter.kylrth.com)         |
 | [nitter.oishi-ra.men](https://nitter.oishi-ra.men)                   | ✅      | ✅        | 🇩🇪      | [Let's Encrypt](https://www.ssllabs.com/ssltest/analyze.html?d=nitter.kylrth.com)         |
 | [nitter.foss.wtf](https://nitter.foss.wtf)                           | ✅      | ✅        | 🇩🇪      | [Let's Encrypt](https://www.ssllabs.com/ssltest/analyze.html?d=nitter.foss.wtf)           |
-| [nitter.priv.pw](https://nitter.priv.pw)                             | ✅      | ✅        | 🇩🇪      | [Let's Encrypt](https://www.ssllabs.com/ssltest/analyze.html?d=nitter.priv.pw)|
-| [t.com.sb](https://t.com.sb/)                              | ✅      | ✅        | 🇪🇪      | [ZeroSSL](https://www.ssllabs.com/ssltest/analyze.html?d=t.com.sb)             |
-| [nt.vern.cc](https://nt.vern.cc)               | ✅      | ✅        | 🇺🇸      | [Let's Encrypt](https://www.ssllabs.com/ssltest/analyze.html?d=nt.vern.cc)     |
+| [nitter.priv.pw](https://nitter.priv.pw)                             | ✅      | ✅        | 🇩🇪      | [Let's Encrypt](https://www.ssllabs.com/ssltest/analyze.html?d=nitter.priv.pw)            |
+| [t.com.sb](https://t.com.sb/)                                        | ✅      | ✅        | 🇪🇪      | [ZeroSSL](https://www.ssllabs.com/ssltest/analyze.html?d=t.com.sb)                  |
+| [nt.vern.cc](https://nt.vern.cc)                                     | ✅      | ✅        | 🇺🇸      | [Let's Encrypt](https://www.ssllabs.com/ssltest/analyze.html?d=nt.vern.cc)                |
 
 ### Tor
 | URL                                                                                                                                                      |    |
