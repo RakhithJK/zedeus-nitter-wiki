@@ -58,7 +58,6 @@ Note: Please add new instances to the bottom to preserve the order.
 | [nitter.mastodon.pro](https://nitter.mastodon.pro)                   | ✅      | ✅        | 🇨🇭      | [Let's Encrypt](https://www.ssllabs.com/ssltest/analyze.html?d=nitter.mastodon.pro)       |
 | [nitter.notraxx.ch](https://nitter.notraxx.ch/)                      | ✅      | ✅        | 🇩🇪      | [Let's Encrypt](https://www.ssllabs.com/ssltest/analyze.html?d=nitter.notraxx.ch)         |
 | [nitter.poast.org](https://nitter.poast.org/)                        | ✅      | ✅        | 🇺🇸      | [Let's Encrypt](https://www.ssllabs.com/ssltest/analyze.html?d=nitter.poast.org)          |
-| [nitter.lunar.icu](https://nitter.lunar.icu/)                        | ✅      | ✅        | 🇩🇪      | [Cloudflare](https://www.ssllabs.com/ssltest/analyze.html?d=nitter.lunar.icu)             |
 | [nitter.bird.froth.zone](https://nitter.bird.froth.zone)             | ✅      | ✅        | 🇨🇦      | [Let's Encrypt](https://www.ssllabs.com/ssltest/analyze.html?d=nitter.bird.froth.zone)    |
 | [nitter.dcs0.hu](https://nitter.dcs0.hu)                             | ✅      | ✅        | 🇭🇺      | [Let's Encrypt](https://www.ssllabs.com/ssltest/analyze.html?d=nitter.dcs0.hu)            |
 | [twitter.dr460nf1r3.org](https://twitter.dr460nf1r3.org/)            | ✅      | ✅        | 🇩🇪      | [Cloudflare](https://www.ssllabs.com/ssltest/analyze.html?d=twitter.dr460nf1r3.org)       |
@@ -139,6 +138,7 @@ Note: Please add new instances to the bottom to preserve the order.
 | [nitter.datatunnel.xyz](https://nitter.datatunnel.xyz)  | 🇫🇮      | 2022-05-12   |
 | [nitter.silkky.cloud](https://nitter.silkky.cloud)      | 🇫🇮      | 2022-05-23   |
 | [nitter.govt.land](https://nitter.govt.land)            | 🌏      | 2022-05-04  |
+| [nitter.lunar.icu](https://nitter.lunar.icu/)           | 🇩🇪      | 2022-06-27   |
 | [nitter.mstdn.social](https://nitter.mstdn.social)      | 🇩🇪      | 2022-06-28   |
 
 ## Third-party Nitter services
