@@ -73,6 +73,7 @@ Note: Please add new instances to the bottom to preserve the order.
 | [nitter.priv.pw](https://nitter.priv.pw)                             | ✅      | ✅        | 🇩🇪      | [Let's Encrypt](https://www.ssllabs.com/ssltest/analyze.html?d=nitter.priv.pw)            |
 | [t.com.sb](https://t.com.sb/)                                        | ✅      | ✅        | 🇪🇪      | [ZeroSSL](https://www.ssllabs.com/ssltest/analyze.html?d=t.com.sb)                  |
 | [nt.vern.cc](https://nt.vern.cc)                                     | ✅      | ✅        | 🇺🇸      | [Let's Encrypt](https://www.ssllabs.com/ssltest/analyze.html?d=nt.vern.cc)                |
+| [nitter.wef.lol](https://nitter.wef.lol)                                     | ✅      | ✅        | 🇮🇸      | [Let's Encrypt](https://www.ssllabs.com/ssltest/analyze.html?d=nitter.wef.lol)                |
 
 ### Tor
 | URL                                                                                                                                                      |    |
