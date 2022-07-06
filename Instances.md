@@ -74,6 +74,7 @@ Note: Please add new instances to the bottom to preserve the order.
 | [t.com.sb](https://t.com.sb/)                                        | ✅      | ✅        | 🇪🇪      | [ZeroSSL](https://www.ssllabs.com/ssltest/analyze.html?d=t.com.sb)                  |
 | [nt.vern.cc](https://nt.vern.cc)                                     | ✅      | ✅        | 🇺🇸      | [Let's Encrypt](https://www.ssllabs.com/ssltest/analyze.html?d=nt.vern.cc)                |
 | [nitter.wef.lol](https://nitter.wef.lol)                                     | ✅      | ✅        | 🇮🇸      | [Let's Encrypt](https://www.ssllabs.com/ssltest/analyze.html?d=nitter.wef.lol)                |
+| [nitter.tokhmi.xyz](https://nitter.tokhmi.xyz)                                     | ✅      | ✅        | 🇮🇸      | [Let's Encrypt](https://www.ssllabs.com/ssltest/analyze.html?d=nitter.tokhmi.xyz)                |
 
 ### Tor
 | URL                                                                                                                                                      |    |
@@ -131,7 +132,6 @@ Note: Please add new instances to the bottom to preserve the order.
 | [nitterrrs6...hid.onion](http://nitterrrs6bbcba2bxjviwxzzapkhuuelljtig2ku2rxasweckxxxhid.onion) | 🇺🇸 | 2022-01-31 |
 | [nitter.koyu.space](https://nitter.koyu.space/)         | 🇩🇪      | 2022-01-24   |
 | [nitter.autarkic.org](https://nitter.autarkic.org/)     | 🇺🇸      | 2022-01-28   |
-| [nitter.tokhmi.xyz](https://nitter.tokhmi.xyz)          | 🇺🇸      | 2022-02-09   |
 | [nitter.eu.org](https://nitter.eu.org)                  | 🌏      | 2022-02-14  |
 | [nittereu.moomoo.me](https://nittereu.moomoo.me)        | 🇩🇪      | 2022-04-24   |
 | [twitr.gq](https://twitr.gq/)                           | 🇫🇮      | 2022-04-26   |
