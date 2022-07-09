@@ -76,6 +76,7 @@ Note: Please add new instances to the bottom to preserve the order.
 | [nitter.wef.lol](https://nitter.wef.lol)                                     | ✅      | ✅        | 🇮🇸      | [Let's Encrypt](https://www.ssllabs.com/ssltest/analyze.html?d=nitter.wef.lol)                |
 | [nitter.tokhmi.xyz](https://nitter.tokhmi.xyz)                                     | ✅      | ✅        | 🇺🇸      | [Let's Encrypt](https://www.ssllabs.com/ssltest/analyze.html?d=nitter.tokhmi.xyz)                |
 | [nitter.catalyst.sx](https://nitter.catalyst.sx/)                              | ✅      | ✅        | 🇺🇸      | [Let's Encrypt](https://www.ssllabs.com/ssltest/analyze.html?d=nitter.catalyst.sx)             |
+| [unofficialbird.com](https://unofficialbird.com/)                              | ✅      | ✅        | 🇺🇸      | [Let's Encrypt](https://www.ssllabs.com/ssltest/analyze.html?d=unofficialbird.com)             |
 
 ### Tor
 | URL                                                                                                                                                      |    |
