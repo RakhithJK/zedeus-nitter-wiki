@@ -80,6 +80,7 @@ Note: Please add new instances to the bottom to preserve the order.
 | [nitter.projectsegfau.lt](https://nitter.projectsegfau.lt)                              | ✅      | ✅        | 🇱🇺      | [Let's Encrypt](https://www.ssllabs.com/ssltest/analyze.html?d=nitter.projectsegfau.lt)             |
 | [singapore.unofficialbird.com](https://singapore.unofficialbird.com) | ✅      | ✅        | 🇸🇬      | [Let's Encrypt](https://www.ssllabs.com/ssltest/analyze.html?d=singapore.unofficialbird.com) |
 | [twt.funami.tech](https://twt.funami.tech) | ✅      | ✅        | 🇰🇷      | [Let's Encrypt](https://www.ssllabs.com/ssltest/analyze.html?d=twt.funami.tech) |
+| [nitter.fprivacy.com](https://nitter.fprivacy.com) | ✅      | ✅        | 🇸🇬      | [Let's Encrypt](https://www.ssllabs.com/ssltest/analyze.html?d=nitter.fprivacy.com) |
 
 ### Tor
 | URL                                                                                                                                                      |    |
