@@ -72,7 +72,6 @@ Note: Please add new instances to the bottom to preserve the order.
 | [nitter.oishi-ra.men](https://nitter.oishi-ra.men)                   | ✅      | ✅        | 🇩🇪      | [Let's Encrypt](https://www.ssllabs.com/ssltest/analyze.html?d=nitter.kylrth.com)         |
 | [nitter.foss.wtf](https://nitter.foss.wtf)                           | ✅      | ✅        | 🇩🇪      | [Let's Encrypt](https://www.ssllabs.com/ssltest/analyze.html?d=nitter.foss.wtf)           |
 | [nitter.priv.pw](https://nitter.priv.pw)                             | ✅      | ✅        | 🇩🇪      | [Let's Encrypt](https://www.ssllabs.com/ssltest/analyze.html?d=nitter.priv.pw)            |
-| [t.com.sb](https://t.com.sb/)                                        | ✅      | ✅        | 🇪🇪      | [ZeroSSL](https://www.ssllabs.com/ssltest/analyze.html?d=t.com.sb)                  |
 | [nt.vern.cc](https://nt.vern.cc)                                     | ✅      | ✅        | 🇺🇸      | [Let's Encrypt](https://www.ssllabs.com/ssltest/analyze.html?d=nt.vern.cc)                |
 | [nitter.wef.lol](https://nitter.wef.lol)                                     | ✅      | ✅        | 🇮🇸      | [Let's Encrypt](https://www.ssllabs.com/ssltest/analyze.html?d=nitter.wef.lol)                |
 | [nitter.tokhmi.xyz](https://nitter.tokhmi.xyz)                                     | ✅      | ✅        | 🇺🇸      | [Let's Encrypt](https://www.ssllabs.com/ssltest/analyze.html?d=nitter.tokhmi.xyz)                |
@@ -158,3 +157,4 @@ Note: Please add new instances to the bottom to preserve the order.
 Apparently spam: https://github.com/zedeus/nitter/issues/596
 | [Twitit](https://twitit.gq)                                   | Tracks all Nitter instances status and redirects to working ones |
 -->
+<!-- t.com.sb is now redirecting to random nitter instances -->
