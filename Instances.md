@@ -31,7 +31,7 @@ Note: Please add new instances to the bottom to preserve the order.
 | [nitter.hu](https://nitter.hu)                                       | ✅      | ✅        | 🇭🇺      | [Let's Encrypt](https://www.ssllabs.com/ssltest/analyze.html?d=nitter.hu)                 |
 | [nitter.moomoo.me](https://nitter.moomoo.me)                         | ✅      | ✅        | 🇺🇸      | [Cloudflare](https://www.ssllabs.com/ssltest/analyze.html?d=nitter.moomoo.me)             |
 | [bird.trom.tf](https://bird.trom.tf/)                                | ✅      | ❓        | 🇩🇪      | [Let's Encrypt](https://www.ssllabs.com/ssltest/analyze.html?d=bird.trom.tf)              |
-| [nitter.it](https://nitter.it)                                       | ✅      | ✅        | 🇨🇭, 🇸🇪, 🇯🇵     | [Buypass AS-983163327](https://www.ssllabs.com/ssltest/analyze.html?d=nitter.it)          |
+| [nitter.it](https://nitter.it)                                       | ✅      | ✅        | 🇨🇭, 🇸🇪, 🇯🇵, 🇸🇦     | [Buypass AS-983163327](https://www.ssllabs.com/ssltest/analyze.html?d=nitter.it)          |
 | [twitter.censors.us](https://twitter.censors.us)                     | ✅      | ✅        | 🇫🇷      | [Let's Encrypt](https://www.ssllabs.com/ssltest/analyze.html?d=twitter.censors.us)        |
 | [nitter.grimneko.de](https://nitter.grimneko.de)                     | ✅      | ✅        | 🇩🇪      | [Let's Encrypt](https://www.ssllabs.com/ssltest/analyze.html?d=nitter.grimneko.de)        |
 | [n.hyperborea.cloud](https://n.hyperborea.cloud/)                    | ✅      | ❌        | 🇨🇦      | [Let's Encrypt](https://www.ssllabs.com/ssltest/analyze.html?d=n.hyperborea.cloud)        |
