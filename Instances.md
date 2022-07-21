@@ -81,6 +81,10 @@ Note: Please add new instances to the bottom to preserve the order.
 | [singapore.unofficialbird.com](https://singapore.unofficialbird.com) | ✅      | ✅        | 🇸🇬    | [Let's Encrypt](https://www.ssllabs.com/ssltest/analyze.html?d=singapore.unofficialbird.com) |
 | [twt.funami.tech](https://twt.funami.tech)                           | ✅      | ✅        | 🇰🇷    | [Let's Encrypt](https://www.ssllabs.com/ssltest/analyze.html?d=twt.funami.tech)              |
 | [nitter.fprivacy.com](https://nitter.fprivacy.com)                   | ✅      | ✅        | 🇸🇬    | [Let's Encrypt](https://www.ssllabs.com/ssltest/analyze.html?d=nitter.fprivacy.com)          |
+| [canada.unofficialbird.com](https://canada.unofficialbird.com)       | ✅      | ✅        | 🇨🇦    | [Let's Encrypt](https://www.ssllabs.com/ssltest/analyze.html?d=canada.unofficialbird.com)    |
+| [india.unofficialbird.com](https://india.unofficialbird.com)         | ✅      | ✅        | 🇮🇳    | [Let's Encrypt](https://www.ssllabs.com/ssltest/analyze.html?d=india.unofficialbird.com)     |
+| [nederland.unofficialbird.com](https://nederland.unofficialbird.com) | ✅      | ✅        | 🇳🇱    | [Let's Encrypt](https://www.ssllabs.com/ssltest/analyze.html?d=nederland.unofficialbird.com) |
+| [uk.unofficialbird.com](https://uk.unofficialbird.com)               | ✅      | ✅        | 🇬🇧    | [Let's Encrypt](https://www.ssllabs.com/ssltest/analyze.html?d=uk.unofficialbird.com)        |
 
 ### Tor
 | URL                                                                                                                                                      |    |
