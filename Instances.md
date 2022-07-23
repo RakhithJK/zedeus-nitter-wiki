@@ -31,7 +31,7 @@ Note: Please add new instances to the bottom to preserve the order.
 | [nitter.hu](https://nitter.hu)                                       | ✅      | ✅       | 🇭🇺      | [Let's Encrypt](https://www.ssllabs.com/ssltest/analyze.html?d=nitter.hu)                    |
 | [nitter.moomoo.me](https://nitter.moomoo.me)                         | ✅      | ✅       | 🇺🇸      | [Cloudflare](https://www.ssllabs.com/ssltest/analyze.html?d=nitter.moomoo.me)                |
 | [bird.trom.tf](https://bird.trom.tf/)                                | ✅      | ❓       | 🇩🇪      | [Let's Encrypt](https://www.ssllabs.com/ssltest/analyze.html?d=bird.trom.tf)                 |
-| [nitter.it](https://nitter.it)                                       | ✅      | ✅       | 🇫🇮      | [ZeroSSL](https://www.ssllabs.com/ssltest/analyze.html?d=nitter.it)      |
+| [nitter.it](https://nitter.it)                                       | ✅      | ✅       | 🇫🇮      | [ZeroSSL](https://www.ssllabs.com/ssltest/analyze.html?d=nitter.it)                          |
 | [twitter.censors.us](https://twitter.censors.us)                     | ✅      | ✅       | 🇫🇷      | [Let's Encrypt](https://www.ssllabs.com/ssltest/analyze.html?d=twitter.censors.us)           |
 | [nitter.grimneko.de](https://nitter.grimneko.de)                     | ✅      | ✅       | 🇩🇪      | [Let's Encrypt](https://www.ssllabs.com/ssltest/analyze.html?d=nitter.grimneko.de)           |
 | [n.hyperborea.cloud](https://n.hyperborea.cloud/)                    | ✅      | ❌       | 🇨🇦      | [Let's Encrypt](https://www.ssllabs.com/ssltest/analyze.html?d=n.hyperborea.cloud)           |
@@ -57,7 +57,6 @@ Note: Please add new instances to the bottom to preserve the order.
 | [nitter.privacy.com.de](https://nitter.privacy.com.de)               | ✅      | ✅       | 🇩🇪      | [ZeroSSL](https://www.ssllabs.com/ssltest/analyze.html?d=nitter.privacy.com.de)              |
 | [nitter.mastodon.pro](https://nitter.mastodon.pro)                   | ✅      | ✅       | 🇨🇭      | [Let's Encrypt](https://www.ssllabs.com/ssltest/analyze.html?d=nitter.mastodon.pro)          |
 | [nitter.notraxx.ch](https://nitter.notraxx.ch/)                      | ✅      | ✅       | 🇩🇪      | [Let's Encrypt](https://www.ssllabs.com/ssltest/analyze.html?d=nitter.notraxx.ch)            |
-| [nitter.slipfox.xyz](https://nitter.slipfox.xyz)                     | ✅      | ✅       | 🇺🇸      | [Let's Encrypt](https://www.ssllabs.com/ssltest/analyze.html?d=nitter.slipfox.xyz)           |
 | [nitter.poast.org](https://nitter.poast.org/)                        | ✅      | ✅       | 🇺🇸      | [Let's Encrypt](https://www.ssllabs.com/ssltest/analyze.html?d=nitter.poast.org)             |
 | [nitter.bird.froth.zone](https://nitter.bird.froth.zone)             | ✅      | ✅       | 🇨🇦      | [Let's Encrypt](https://www.ssllabs.com/ssltest/analyze.html?d=nitter.bird.froth.zone)       |
 | [nitter.dcs0.hu](https://nitter.dcs0.hu)                             | ✅      | ✅       | 🇭🇺      | [Let's Encrypt](https://www.ssllabs.com/ssltest/analyze.html?d=nitter.dcs0.hu)               |
@@ -86,6 +85,7 @@ Note: Please add new instances to the bottom to preserve the order.
 | [nederland.unofficialbird.com](https://nederland.unofficialbird.com) | ✅      | ✅       | 🇳🇱      | [Let's Encrypt](https://www.ssllabs.com/ssltest/analyze.html?d=nederland.unofficialbird.com) |
 | [uk.unofficialbird.com](https://uk.unofficialbird.com)               | ✅      | ✅       | 🇬🇧      | [Let's Encrypt](https://www.ssllabs.com/ssltest/analyze.html?d=uk.unofficialbird.com)        |
 | [n.l5.ca](https://n.l5.ca)                                           | ✅      | ✅       | 🇺🇸      | [Let's Encrypt](https://www.ssllabs.com/ssltest/analyze.html?d=n.l5.ca)                      |
+| [nitter.slipfox.xyz](https://nitter.slipfox.xyz)                     | ✅      | ✅       | 🇺🇸      | [Let's Encrypt](https://www.ssllabs.com/ssltest/analyze.html?d=nitter.slipfox.xyz)           |
 
 ### Tor
 | URL                                                                                                                                                      |    |
