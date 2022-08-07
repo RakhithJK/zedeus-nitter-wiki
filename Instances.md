@@ -29,7 +29,7 @@ Note: Please add new instances to the bottom to preserve the order.
 | [nitter.namazso.eu](https://nitter.namazso.eu)                       | ✅      | ✅       | 🇩🇪      | [Let's Encrypt](https://www.ssllabs.com/ssltest/analyze.html?d=nitter.namazso.eu)            |
 | [birdsite.xanny.family](https://birdsite.xanny.family) (anycast)     | ✅      | ❌       | 🌏      | [Cloudflare](https://www.ssllabs.com/ssltest/analyze.html?d=birdsite.xanny.family)           |
 | [nitter.hu](https://nitter.hu)                                       | ✅      | ✅       | 🇭🇺      | [Let's Encrypt](https://www.ssllabs.com/ssltest/analyze.html?d=nitter.hu)                    |
-| [nitter.moomoo.me](https://nitter.moomoo.me)                         | ✅      | ✅       | 🇺🇸      | [Cloudflare](https://www.ssllabs.com/ssltest/analyze.html?d=nitter.moomoo.me)                |
+| [nitter.moomoo.me](https://nitter.moomoo.me)                         | ✅      | ✅       | 🇺🇸      | [Let's Encrypt](https://www.ssllabs.com/ssltest/analyze.html?d=nitter.moomoo.me)                |
 | [bird.trom.tf](https://bird.trom.tf/)                                | ✅      | ❓       | 🇩🇪      | [Let's Encrypt](https://www.ssllabs.com/ssltest/analyze.html?d=bird.trom.tf)                 |
 | [nitter.it](https://nitter.it)                                       | ✅      | ✅       | 🇫🇮      | [ZeroSSL](https://www.ssllabs.com/ssltest/analyze.html?d=nitter.it)                          |
 | [twitter.censors.us](https://twitter.censors.us)                     | ✅      | ✅       | 🇫🇷      | [Let's Encrypt](https://www.ssllabs.com/ssltest/analyze.html?d=twitter.censors.us)           |
