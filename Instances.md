@@ -71,7 +71,6 @@ Note: Please add new instances to the bottom to preserve the order.
 | [nitter.kylrth.com](https://nitter.kylrth.com)                       | ✅      | ✅       | 🇨🇦      | [Let's Encrypt](https://www.ssllabs.com/ssltest/analyze.html?d=nitter.kylrth.com)            |
 | [nitter.foss.wtf](https://nitter.foss.wtf)                           | ✅      | ✅       | 🇩🇪      | [Let's Encrypt](https://www.ssllabs.com/ssltest/analyze.html?d=nitter.foss.wtf)              |
 | [nitter.priv.pw](https://nitter.priv.pw)                             | ✅      | ✅       | 🇩🇪      | [Let's Encrypt](https://www.ssllabs.com/ssltest/analyze.html?d=nitter.priv.pw)               |
-| [nt.vern.cc](https://nt.vern.cc)                                     | ✅      | ✅       | 🇺🇸      | [Let's Encrypt](https://www.ssllabs.com/ssltest/analyze.html?d=nt.vern.cc)                   |
 | [nitter.wef.lol](https://nitter.wef.lol)                             | ✅      | ✅       | 🇮🇸      | [Let's Encrypt](https://www.ssllabs.com/ssltest/analyze.html?d=nitter.wef.lol)               |
 | [nitter.tokhmi.xyz](https://nitter.tokhmi.xyz)                       | ✅      | ✅       | 🇺🇸      | [Let's Encrypt](https://www.ssllabs.com/ssltest/analyze.html?d=nitter.tokhmi.xyz)            |
 | [nitter.catalyst.sx](https://nitter.catalyst.sx/)                    | ✅      | ✅       | 🇺🇸      | [Let's Encrypt](https://www.ssllabs.com/ssltest/analyze.html?d=nitter.catalyst.sx)           |
@@ -153,7 +152,8 @@ Note: Please add new instances to the bottom to preserve the order.
 | [nitter.govt.land](https://nitter.govt.land)            | 🌏      | 2022-05-04   |
 | [nitter.lunar.icu](https://nitter.lunar.icu/)           | 🇩🇪      | 2022-06-27   |
 | [nitter.mstdn.social](https://nitter.mstdn.social)      | 🇩🇪      | 2022-06-28   |
-| [nitter.oishi-ra.men](https://nitter.oishi-ra.men)      | 🇩🇪      | 2022-07-21 |
+| [nitter.oishi-ra.men](https://nitter.oishi-ra.men)      | 🇩🇪      | 2022-07-07   |
+| [nt.vern.cc](https://nt.vern.cc)                        | 🇺🇸      | Unknown      |
 
 ## Third-party Nitter services
 | Name                                                          | Description                                                      |
