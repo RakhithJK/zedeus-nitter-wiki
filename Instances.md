@@ -34,7 +34,6 @@ Note: Please add new instances to the bottom to preserve the order.
 | [nitter.it](https://nitter.it)                                       | ✅      | ✅       | 🇫🇮      | [ZeroSSL](https://www.ssllabs.com/ssltest/analyze.html?d=nitter.it)                          |
 | [twitter.censors.us](https://twitter.censors.us)                     | ✅      | ✅       | 🇫🇷      | [Let's Encrypt](https://www.ssllabs.com/ssltest/analyze.html?d=twitter.censors.us)           |
 | [nitter.grimneko.de](https://nitter.grimneko.de)                     | ✅      | ✅       | 🇩🇪      | [Let's Encrypt](https://www.ssllabs.com/ssltest/analyze.html?d=nitter.grimneko.de)           |
-| [n.hyperborea.cloud](https://n.hyperborea.cloud/)                    | ✅      | ❌       | 🇨🇦      | [Let's Encrypt](https://www.ssllabs.com/ssltest/analyze.html?d=n.hyperborea.cloud)           |
 | [nitter.ca](https://nitter.ca/)                                      | ✅      | ✅       | 🇨🇦      | [Let's Encrypt](https://www.ssllabs.com/ssltest/analyze.html?d=nitter.ca)                    |
 | [twitter.076.ne.jp](https://twitter.076.ne.jp) (in Japanese)         | ✅      | ✅       | 🇯🇵      | [Let's Encrypt](https://www.ssllabs.com/ssltest/analyze.html?d=twitter.076.ne.jp)            |
 | [nitter.fly.dev](https://nitter.fly.dev) (anycast)                   | ✅      | ✅       | 🌏      | [Let's Encrypt](https://www.ssllabs.com/ssltest/analyze.html?d=nitter.fly.dev)               |
@@ -55,7 +54,6 @@ Note: Please add new instances to the bottom to preserve the order.
 | [nitter.spaceint.fr](https://nitter.spaceint.fr)                     | ✅      | ✅       | 🇧🇪      | [Let's Encrypt](https://www.ssllabs.com/ssltest/analyze.html?d=nitter.spaceint.fr)           |
 | [twtr.bch.bar](https://twtr.bch.bar)                                 | ✅      | ✅       | 🌏      | [Cloudflare](https://www.ssllabs.com/ssltest/analyze.html?d=twtr.bch.bar)                    |
 | [nitter.privacy.com.de](https://nitter.privacy.com.de)               | ✅      | ✅       | 🇩🇪      | [ZeroSSL](https://www.ssllabs.com/ssltest/analyze.html?d=nitter.privacy.com.de)              |
-| [nitter.mastodon.pro](https://nitter.mastodon.pro)                   | ✅      | ✅       | 🇨🇭      | [Let's Encrypt](https://www.ssllabs.com/ssltest/analyze.html?d=nitter.mastodon.pro)          |
 | [nitter.notraxx.ch](https://nitter.notraxx.ch/)                      | ✅      | ✅       | 🇩🇪      | [Let's Encrypt](https://www.ssllabs.com/ssltest/analyze.html?d=nitter.notraxx.ch)            |
 | [nitter.poast.org](https://nitter.poast.org/)                        | ✅      | ✅       | 🇺🇸      | [Let's Encrypt](https://www.ssllabs.com/ssltest/analyze.html?d=nitter.poast.org)             |
 | [nitter.bird.froth.zone](https://nitter.bird.froth.zone)             | ✅      | ✅       | 🇨🇦      | [Let's Encrypt](https://www.ssllabs.com/ssltest/analyze.html?d=nitter.bird.froth.zone)       |
@@ -154,6 +152,8 @@ Note: Please add new instances to the bottom to preserve the order.
 | [nitter.mstdn.social](https://nitter.mstdn.social)      | 🇩🇪      | 2022-06-28   |
 | [nitter.oishi-ra.men](https://nitter.oishi-ra.men)      | 🇩🇪      | 2022-07-07   |
 | [nt.vern.cc](https://nt.vern.cc)                        | 🇺🇸      | Unknown      |
+| [nitter.mastodon.pro](https://nitter.mastodon.pro)      | 🇨🇭      | 2022-07-14   |
+| [n.hyperborea.cloud](https://n.hyperborea.cloud/)       | 🇨🇦      | 2022-07-23   |
 
 ## Third-party Nitter services
 | Name                                                          | Description                                                      |
