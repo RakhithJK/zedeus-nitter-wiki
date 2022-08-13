@@ -83,6 +83,7 @@ Note: Please add new instances to the bottom to preserve the order.
 | [uk.unofficialbird.com](https://uk.unofficialbird.com)               | ✅      | ✅       | 🇬🇧      | [Let's Encrypt](https://www.ssllabs.com/ssltest/analyze.html?d=uk.unofficialbird.com)        |
 | [n.l5.ca](https://n.l5.ca)                                           | ✅      | ✅       | 🇺🇸      | [Let's Encrypt](https://www.ssllabs.com/ssltest/analyze.html?d=n.l5.ca)                      |
 | [nitter.slipfox.xyz](https://nitter.slipfox.xyz)                     | ✅      | ✅       | 🇺🇸      | [Let's Encrypt](https://www.ssllabs.com/ssltest/analyze.html?d=nitter.slipfox.xyz)           |
+| [nitter.soopy.moe](https://nitter.soopy.moe)                         | ✅      | ✅       | 🇭🇰      | [Let's Encrypt](https://www.ssllabs.com/ssltest/analyze.html?d=nitter.soopy.moe)             |
 
 ### Tor
 | URL                                                                                                                                                      |    |
