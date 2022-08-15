@@ -85,6 +85,7 @@ Note: Please add new instances to the bottom to preserve the order.
 | [nitter.slipfox.xyz](https://nitter.slipfox.xyz)                     | ✅      | ✅       | 🇺🇸      | [Let's Encrypt](https://www.ssllabs.com/ssltest/analyze.html?d=nitter.slipfox.xyz)           |
 | [nitter.soopy.moe](https://nitter.soopy.moe)                         | ✅      | ✅       | 🇭🇰      | [Let's Encrypt](https://www.ssllabs.com/ssltest/analyze.html?d=nitter.soopy.moe)             |
 | [nitter.qwik.space](https://nitter.qwik.space)                       | ✅      | ✅       | 🇸🇪      | [Let's Encrypt](https://www.ssllabs.com/ssltest/analyze.html?d=nitter.qwik.space)             |
+[read.whatever.social](https://read.whatever.social)                       | ✅      | ✅       | 🇺🇸      | [Cloudflare](https://www.ssllabs.com/ssltest/analyze.html?d=read.whatever.social)             |
 
 ### Tor
 | URL                                                                                                                                                      |    |
