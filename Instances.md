@@ -86,7 +86,7 @@ Note: Please add new instances to the bottom to preserve the order.
 | [nitter.soopy.moe](https://nitter.soopy.moe)                         | ✅      | ✅       | 🇭🇰      | [Let's Encrypt](https://www.ssllabs.com/ssltest/analyze.html?d=nitter.soopy.moe)             |
 | [nitter.qwik.space](https://nitter.qwik.space)                       | ✅      | ✅       | 🇸🇪      | [Let's Encrypt](https://www.ssllabs.com/ssltest/analyze.html?d=nitter.qwik.space)             |
 [read.whatever.social](https://read.whatever.social)                       | ✅      | ✅       | 🇺🇸      | [Cloudflare](https://www.ssllabs.com/ssltest/analyze.html?d=read.whatever.social)             |
-
+[nitter.rawbit.ninja](https://nitter.rawbit.ninja)                       | ✅      | ✅       | 🇺🇸      | [Cloudflare](https://www.ssllabs.com/ssltest/analyze.html?d=nitter.rawbit.ninja)             |
 ### Tor
 | URL                                                                                                                                                      |    |
 | :------------------------------------------------------------------------------------------------------------------------------------------------------- | :- |
@@ -116,6 +116,7 @@ Note: Please add new instances to the bottom to preserve the order.
 | [aaaaaxx74hbzeibageieowryhsqvimbdiitfkfe47tvgawkwkjh3coqd.onion](http://aaaaaxx74hbzeibageieowryhsqvimbdiitfkfe47tvgawkwkjh3coqd.onion/)                 | ✅ |
 | [wiio4sgs4247brk7hj6qck2jxnvldwfdbguigc5ivpxrsegnliyfvuqd.onion](http://wiio4sgs4247brk7hj6qck2jxnvldwfdbguigc5ivpxrsegnliyfvuqd.onion/)                 | ✅ |
 | [qwikxx2erhx6qrymued6ox2qkf2yeogjwypqvzoif4fqkljixasr6oid.onion](http://qwikxx2erhx6qrymued6ox2qkf2yeogjwypqvzoif4fqkljixasr6oid.onion/)                 | ✅ |
+| [4g47cxugkohbweao2x66nnxxfoe3k7gdfzxej537nhdbwr522sbjxeqd.onion](http://4g47cxugkohbweao2x66nnxxfoe3k7gdfzxej537nhdbwr522sbjxeqd.onion/)                 | ✅ |
 ### I2P
 -   [nitter.i2p](http://axd6uavsstsrvstva4mzlzh4ct76rc6zdug3nxdgeitrzczhzf4q.b32.i2p/)
 -   [u6ikd6zndl3c4dsdq4mmujpntgeevdk5qzkfb57r4tnfeccrn2qa.b32.i2p](http://u6ikd6zndl3c4dsdq4mmujpntgeevdk5qzkfb57r4tnfeccrn2qa.b32.i2p/)
