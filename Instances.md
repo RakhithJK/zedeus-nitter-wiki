@@ -40,7 +40,7 @@ Note: Please add new instances to the bottom to preserve the order.
 | [notabird.site](https://notabird.site) (anycast)                     | ✅      | ✅       | 🌏      | [Cloudflare](https://www.ssllabs.com/ssltest/analyze.html?d=notabird.site)                   |
 | [nitter.weiler.rocks](https://nitter.weiler.rocks)                   | ✅      | ✅       | 🇩🇪      | [Let's Encrypt](https://www.ssllabs.com/ssltest/analyze.html?d=nitter.weiler.rocks)          |
 | [nitter.sethforprivacy.com](https://nitter.sethforprivacy.com)       | ✅      | ✅       | 🇩🇪      | [Let's Encrypt](https://www.ssllabs.com/ssltest/analyze.html?d=nitter.sethforprivacy.com)    |
-| [nttr.stream](https://nttr.stream)                                   | ✅      | ✅       | 🇺🇸      | [BuyPass](https://www.ssllabs.com/ssltest/analyze.html?d=nttr.stream)                        |
+| [nttr.stream](https://nttr.stream)                                   | ✅      | ✅       | 🇩🇪      | [ZeroSSL](https://www.ssllabs.com/ssltest/analyze.html?d=nttr.stream)                        |
 | [nitter.cutelab.space](https://nitter.cutelab.space)                 | ✅      | ✅       | 🇺🇸      | [Sectigo](https://www.ssllabs.com/ssltest/analyze.html?d=nitter.cutelab.space)               |
 | [nitter.nl](https://nitter.nl)                                       | ✅      | ✅       | 🇳🇱      | [Let's Encrypt](https://www.ssllabs.com/ssltest/analyze.html?d=nitter.nl)                    |
 | [nitter.mint.lgbt](https://nitter.mint.lgbt)                         | ✅      | ✅       | 🇬🇧      | [Let's Encrypt](https://www.ssllabs.com/ssltest/analyze.html?d=nitter.mint.lgbt)             |
@@ -48,7 +48,6 @@ Note: Please add new instances to the bottom to preserve the order.
 | [fuckthesacklers.network](https://fuckthesacklers.network) (anycast) | ✅      | ❌       | 🌏      | [Cloudflare](https://www.ssllabs.com/ssltest/analyze.html?d=fuckthesacklers.network)         |
 | [nitter.esmailelbob.xyz](https://nitter.esmailelbob.xyz)             | ✅      | ✅       | 🇨🇦      | [Let's Encrypt](https://www.ssllabs.com/ssltest/analyze.html?d=nitter.esmailelbob.xyz)       |
 | [tw.artemislena.eu](https://tw.artemislena.eu)                       | ✅      | ✅       | 🇩🇪      | [Let's Encrypt](https://www.ssllabs.com/ssltest/analyze.html?d=tw.artemislena.eu)            |
-| [de.nttr.stream](https://de.nttr.stream)                             | ✅      | ✅       | 🇩🇪      | [BuyPass](https://www.ssllabs.com/ssltest/analyze.html?d=de.nttr.stream)                     |
 | [nitter.winscloud.net](https://nitter.winscloud.net)                 | ✅      | ✅       | 🇹🇭      | [Cloudflare](https://www.ssllabs.com/ssltest/analyze.html?d=nitter.winscloud.net)            |
 | [nitter.tiekoetter.com](https://nitter.tiekoetter.com)               | ✅      | ✅       | 🇩🇪      | [Let's Encrypt](https://www.ssllabs.com/ssltest/analyze.html?d=nitter.tiekoetter.com)        |
 | [nitter.spaceint.fr](https://nitter.spaceint.fr)                     | ✅      | ✅       | 🇧🇪      | [Let's Encrypt](https://www.ssllabs.com/ssltest/analyze.html?d=nitter.spaceint.fr)           |
