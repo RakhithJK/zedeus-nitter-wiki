@@ -88,6 +88,7 @@ Note: Please add new instances to the bottom to preserve the order.
 | [read.whatever.social](https://read.whatever.social)                 | ✅      | ✅       | 🇺🇸      | [Cloudflare](https://www.ssllabs.com/ssltest/analyze.html?d=read.whatever.social)            |
 | [nitter.rawbit.ninja](https://nitter.rawbit.ninja)                   | ✅      | ✅       | 🇺🇸      | [Cloudflare](https://www.ssllabs.com/ssltest/analyze.html?d=nitter.rawbit.ninja)             |
 | [nt.vern.cc](https://nt.vern.cc)                                     | ✅      | ✅       | 🇺🇸      | [Let's Encrypt](https://www.ssllabs.com/ssltest/analyze.html?d=nt.vern.cc)                   |
+| [ntr.odyssey346.dev](https://ntr.odyssey346.dev)                                     | ✅      | ✅       | 🇵🇱      | [Let's Encrypt](https://www.ssllabs.com/ssltest/analyze.html?d=ntr.odyssey346.dev)                   |
 
 ### Tor
 | URL                                                                                                                                                      |    |
