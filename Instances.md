@@ -89,6 +89,7 @@ Note: Please add new instances to the bottom to preserve the order.
 | [nitter.rawbit.ninja](https://nitter.rawbit.ninja)                   | ✅      | ✅       | 🇺🇸      | [Cloudflare](https://www.ssllabs.com/ssltest/analyze.html?d=nitter.rawbit.ninja)             |
 | [nt.vern.cc](https://nt.vern.cc)                                     | ✅      | ✅       | 🇺🇸      | [Let's Encrypt](https://www.ssllabs.com/ssltest/analyze.html?d=nt.vern.cc)                   |
 | [ntr.odyssey346.dev](https://ntr.odyssey346.dev)                                     | ✅      | ✅       | 🇵🇱      | [Let's Encrypt](https://www.ssllabs.com/ssltest/analyze.html?d=ntr.odyssey346.dev)                   |
+| [nitter.ir](https://nitter.ir)                                     | ✅      | ✅       | 🇺🇸      | [Let's Encrypt](https://www.ssllabs.com/ssltest/analyze.html?d=nitter.ir)                   |
 
 ### Tor
 | URL                                                                                                                                                      |    |
@@ -149,7 +150,6 @@ Note: Please add new instances to the bottom to preserve the order.
 | [n.0x0.st](https://n.0x0.st/)                           | 🇩🇪      | 2021-12-06   |
 | [is-nitter.resolv.ee](https://is-nitter.resolv.ee)      | 🇮🇸      | 2021-12-10   |
 | [lu-nitter.resolv.ee](https://lu-nitter.resolv.ee)      | 🇱🇺      | 2021-12-31   |
-| [nitter.ir](https://nitter.ir/)                         | 🇺🇸      | 2022-01-03   |
 | [nitterrrs6...hid.onion](http://nitterrrs6bbcba2bxjviwxzzapkhuuelljtig2ku2rxasweckxxxhid.onion) | 🇺🇸 | 2022-01-31 |
 | [nitter.koyu.space](https://nitter.koyu.space/)         | 🇩🇪      | 2022-01-24   |
 | [nitter.autarkic.org](https://nitter.autarkic.org/)     | 🇺🇸      | 2022-01-28   |
