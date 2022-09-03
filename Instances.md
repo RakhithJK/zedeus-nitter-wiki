@@ -122,7 +122,7 @@ Note: Please add new instances to the bottom to preserve the order.
 | [qwikxx2erhx6qrymued6ox2qkf2yeogjwypqvzoif4fqkljixasr6oid.onion](http://qwikxx2erhx6qrymued6ox2qkf2yeogjwypqvzoif4fqkljixasr6oid.onion/)                 | ✅ |
 | [4g47cxugkohbweao2x66nnxxfoe3k7gdfzxej537nhdbwr522sbjxeqd.onion](http://4g47cxugkohbweao2x66nnxxfoe3k7gdfzxej537nhdbwr522sbjxeqd.onion/)                 | ✅ |
 | [nt.vernccvbvyi5qhfzyqengccj7lkove6bjot2xhh5kajhwvidqafczrad.onion/](http://nt.vernccvbvyi5qhfzyqengccj7lkove6bjot2xhh5kajhwvidqafczrad.onion/)          | ✅ |
-| [http://tw.v53koizwicklp2os45yhts66dgpqivhzb3c4uggjvunhjfe4otrfdvid.onion](http://tw.v53koizwicklp2os45yhts66dgpqivhzb3c4uggjvunhjfe4otrfdvid.onion)        | ✅ |
+| [tw.v53koizwicklp2os45yhts66dgpqivhzb3c4uggjvunhjfe4otrfdvid.onion](http://tw.v53koizwicklp2os45yhts66dgpqivhzb3c4uggjvunhjfe4otrfdvid.onion)        | ✅ |
 
 ### I2P
 -   [nitter.i2p](http://axd6uavsstsrvstva4mzlzh4ct76rc6zdug3nxdgeitrzczhzf4q.b32.i2p/)
