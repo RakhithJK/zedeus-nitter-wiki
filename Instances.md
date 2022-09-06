@@ -91,6 +91,7 @@ Note: Please add new instances to the bottom to preserve the order.
 | [ntr.odyssey346.dev](https://ntr.odyssey346.dev)                                     | ✅      | ✅       | 🇵🇱      | [Let's Encrypt](https://www.ssllabs.com/ssltest/analyze.html?d=ntr.odyssey346.dev)                   |
 | [nitter.ir](https://nitter.ir)                                     | ✅      | ✅       | 🇺🇸      | [Let's Encrypt](https://www.ssllabs.com/ssltest/analyze.html?d=nitter.ir)                   |
 | [nitter.privacytools.io](https://nitter.privacytools.io)                       | ✅      | ✅       | 🇸🇪      | [Cloudflare](https://www.ssllabs.com/ssltest/analyze.html?d=nitter.privacytools.io)                   |
+| [nitter.sneed.network](https://nitter.sneed.network) | ✅ | ✅ | 🇦🇺 | [Cloudflare](https://www.ssllabs.com/ssltest/analyze.html?d=nitter.sneed.network) |
 
 ### Tor
 | URL                                                                                                                                                      |    |
