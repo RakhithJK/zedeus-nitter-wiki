@@ -93,6 +93,7 @@ Note: Please add new instances to the bottom to preserve the order.
 | [nitter.privacytools.io](https://nitter.privacytools.io)                       | ✅      | ✅       | 🇸🇪      | [Cloudflare](https://www.ssllabs.com/ssltest/analyze.html?d=nitter.privacytools.io)                   |
 | [nitter.sneed.network](https://nitter.sneed.network) | ✅ | ✅ | 🇦🇺 | [Cloudflare](https://www.ssllabs.com/ssltest/analyze.html?d=nitter.sneed.network) |
 | [n.sneed.network](https://n.sneed.network) | ✅ | ✅ | 🇦🇺 | [Cloudflare](https://www.ssllabs.com/ssltest/analyze.html?d=n.sneed.network) |
+| [nitter.manasiwibi.com](https://nitter.manasiwibi.com) | ✅ | ✅ | 🇸🇬 | [Let's Encrypt](https://www.ssllabs.com/ssltest/analyze.html?d=nitter.manasiwibi.com) |
 ### Tor
 | URL                                                                                                                                                      |    |
 | :------------------------------------------------------------------------------------------------------------------------------------------------------- | :- |
@@ -126,6 +127,7 @@ Note: Please add new instances to the bottom to preserve the order.
 | [nt.vernccvbvyi5qhfzyqengccj7lkove6bjot2xhh5kajhwvidqafczrad.onion/](http://nt.vernccvbvyi5qhfzyqengccj7lkove6bjot2xhh5kajhwvidqafczrad.onion/)          | ✅ |
 | [tw.lpoaj7z2zkajuhgnlltpeqh3zyq7wk2iyeggqaduhgxhyajtdt2j7wad.onion](http://tw.lpoaj7z2zkajuhgnlltpeqh3zyq7wk2iyeggqaduhgxhyajtdt2j7wad.onion)        | ✅ |
 | [r2eqimhkvxboaltbdsectoo3hkf476pyemsdykclexzajbfx5v6ojlyd.onion](r2eqimhkvxboaltbdsectoo3hkf476pyemsdykclexzajbfx5v6ojlyd.onion)        | ✅ |
+| [li7snkj6oituazbkr5clmilccwwumhd2dntbhttxomy4dfakeeoar4qd.onion](li7snkj6oituazbkr5clmilccwwumhd2dntbhttxomy4dfakeeoar4qd.onion)        | ✅ |
 
 
 ### I2P
