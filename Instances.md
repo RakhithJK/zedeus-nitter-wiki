@@ -96,6 +96,7 @@ Note: Please add new instances to the bottom to preserve the order.
 | [nitter.manasiwibi.com](https://nitter.manasiwibi.com) | ✅ | ✅ | 🇸🇬 | [Let's Encrypt](https://www.ssllabs.com/ssltest/analyze.html?d=nitter.manasiwibi.com) |
 | [nitter.smnz.de](https://nitter.smnz.de) | ✅ | ✅ | 🇩🇪 | [Let's Encrypt](https://www.ssllabs.com/ssltest/analyze.html?d=nitter.smnz.de) |
 | [nitter.twei.space](https://nitter.twei.space) | ✅ | ✅ | 🇦🇹 | [Let's Encrypt](https://www.ssllabs.com/ssltest/analyze.html?d=nitter.twei.space) |
+| [nitter.inpt.fr](https://nitter.inpt.fr) | ✅ | ✅ | 🇫🇷 | [Let's Encrypt](https://www.ssllabs.com/ssltest/analyze.html?d=nitter.inpt.fr) |
 
 ### Tor
 | URL                                                                                                                                                      |    |
