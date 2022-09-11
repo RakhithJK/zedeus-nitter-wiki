@@ -95,6 +95,7 @@ Note: Please add new instances to the bottom to preserve the order.
 | [n.sneed.network](https://n.sneed.network) | ✅ | ✅ | 🇦🇺 | [Cloudflare](https://www.ssllabs.com/ssltest/analyze.html?d=n.sneed.network) |
 | [nitter.manasiwibi.com](https://nitter.manasiwibi.com) | ✅ | ✅ | 🇸🇬 | [Let's Encrypt](https://www.ssllabs.com/ssltest/analyze.html?d=nitter.manasiwibi.com) |
 | [nitter.smnz.de](https://nitter.smnz.de) | ✅ | ✅ | 🇩🇪 | [Let's Encrypt](https://www.ssllabs.com/ssltest/analyze.html?d=nitter.smnz.de) |
+| [nitter.twei.space](https://nitter.twei.space) | ✅ | ✅ | 🇦🇹 | [Let's Encrypt](https://www.ssllabs.com/ssltest/analyze.html?d=nitter.twei.space) |
 
 ### Tor
 | URL                                                                                                                                                      |    |
