@@ -65,7 +65,6 @@ Note: Please add new instances to the bottom to preserve the order.
 | [nitter.privacydev.net](https://nitter.privacydev.net)               | ✅      | ✅       | 🇺🇸      | [Let's Encrypt](https://www.ssllabs.com/ssltest/analyze.html?d=nitter.privacydev.net)        |
 | [nitter.evil.site](https://nitter.evil.site)               | ✅      | ✅       | 🇬🇧      | [Let's Encrypt](https://www.ssllabs.com/ssltest/analyze.html?d=nitter.evil.site)        |
 | [tweet.lambda.dance](https://tweet.lambda.dance)                     | ✅      | ✅       | 🇺🇸      | [Let's Encrypt](https://www.ssllabs.com/ssltest/analyze.html?d=tweet.lambda.dance)           |
-| [nitter.ebnar.xyz](https://nitter.ebnar.xyz)                         | ✅      | ✅       | 🇩🇪      | [Let's Encrypt](https://www.ssllabs.com/ssltest/analyze.html?d=nitter.ebnar.xyz)             |
 | [nitter.kylrth.com](https://nitter.kylrth.com)                       | ✅      | ✅       | 🇨🇦      | [Let's Encrypt](https://www.ssllabs.com/ssltest/analyze.html?d=nitter.kylrth.com)            |
 | [nitter.foss.wtf](https://nitter.foss.wtf)                           | ✅      | ✅       | 🇩🇪      | [Let's Encrypt](https://www.ssllabs.com/ssltest/analyze.html?d=nitter.foss.wtf)              |
 | [nitter.priv.pw](https://nitter.priv.pw)                             | ✅      | ✅       | 🇩🇪      | [Let's Encrypt](https://www.ssllabs.com/ssltest/analyze.html?d=nitter.priv.pw)               |
@@ -176,6 +175,7 @@ Note: Please add new instances to the bottom to preserve the order.
 | [nitter.oishi-ra.men](https://nitter.oishi-ra.men)      | 🇩🇪      | 2022-07-07   |
 | [nitter.mastodon.pro](https://nitter.mastodon.pro)      | 🇨🇭      | 2022-07-14   |
 | [n.hyperborea.cloud](https://n.hyperborea.cloud/)       | 🇨🇦      | 2022-07-23   |
+| [nitter.ebnar.xyz](https://nitter.ebnar.xyz)            | 🇩🇪      | 2022-09-16   |
 
 ## Third-party Nitter services
 | Name                                                          | Description                                                      |
