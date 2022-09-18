@@ -53,7 +53,6 @@ Note: Please add new instances to the bottom to preserve the order.
 | [nitter.spaceint.fr](https://nitter.spaceint.fr)                     | ✅      | ✅       | 🇧🇪      | [Let's Encrypt](https://www.ssllabs.com/ssltest/analyze.html?d=nitter.spaceint.fr)           |
 | [twtr.bch.bar](https://twtr.bch.bar)                                 | ✅      | ✅       | 🌏      | [Cloudflare](https://www.ssllabs.com/ssltest/analyze.html?d=twtr.bch.bar)                    |
 | [nitter.privacy.com.de](https://nitter.privacy.com.de)               | ✅      | ✅       | 🇩🇪      | [ZeroSSL](https://www.ssllabs.com/ssltest/analyze.html?d=nitter.privacy.com.de)              |
-| [nitter.notraxx.ch](https://nitter.notraxx.ch/)                      | ✅      | ✅       | 🇩🇪      | [Let's Encrypt](https://www.ssllabs.com/ssltest/analyze.html?d=nitter.notraxx.ch)            |
 | [nitter.poast.org](https://nitter.poast.org/)                        | ✅      | ✅       | 🇺🇸      | [Let's Encrypt](https://www.ssllabs.com/ssltest/analyze.html?d=nitter.poast.org)             |
 | [nitter.bird.froth.zone](https://nitter.bird.froth.zone)             | ✅      | ✅       | 🇨🇦      | [Let's Encrypt](https://www.ssllabs.com/ssltest/analyze.html?d=nitter.bird.froth.zone)       |
 | [nitter.dcs0.hu](https://nitter.dcs0.hu)                             | ✅      | ✅       | 🇭🇺      | [Let's Encrypt](https://www.ssllabs.com/ssltest/analyze.html?d=nitter.dcs0.hu)               |
@@ -68,7 +67,6 @@ Note: Please add new instances to the bottom to preserve the order.
 | [nitter.kylrth.com](https://nitter.kylrth.com)                       | ✅      | ✅       | 🇨🇦      | [Let's Encrypt](https://www.ssllabs.com/ssltest/analyze.html?d=nitter.kylrth.com)            |
 | [nitter.foss.wtf](https://nitter.foss.wtf)                           | ✅      | ✅       | 🇩🇪      | [Let's Encrypt](https://www.ssllabs.com/ssltest/analyze.html?d=nitter.foss.wtf)              |
 | [nitter.priv.pw](https://nitter.priv.pw)                             | ✅      | ✅       | 🇩🇪      | [Let's Encrypt](https://www.ssllabs.com/ssltest/analyze.html?d=nitter.priv.pw)               |
-| [nitter.wef.lol](https://nitter.wef.lol)                             | ✅      | ✅       | 🇮🇸      | [Let's Encrypt](https://www.ssllabs.com/ssltest/analyze.html?d=nitter.wef.lol)               |
 | [nitter.tokhmi.xyz](https://nitter.tokhmi.xyz)                       | ✅      | ✅       | 🇺🇸      | [Let's Encrypt](https://www.ssllabs.com/ssltest/analyze.html?d=nitter.tokhmi.xyz)            |
 | [nitter.catalyst.sx](https://nitter.catalyst.sx/)                    | ✅      | ✅       | 🇺🇸      | [Let's Encrypt](https://www.ssllabs.com/ssltest/analyze.html?d=nitter.catalyst.sx)           |
 | [unofficialbird.com](https://unofficialbird.com)                     | ✅      | ✅       | 🇺🇸      | [ZeroSSL](https://www.ssllabs.com/ssltest/analyze.html?d=unofficialbird.com)                 |
@@ -155,26 +153,29 @@ Note: Please add new instances to the bottom to preserve the order.
 | [nitter.didw.to](https://nitter.didw.to)                | 🇸🇪      | 2021-09-24   |
 | [bird.nogafam.es](https://bird.nogafam.es)              | 🇪🇸      | 2021-10-03   |
 | [nitter.ethibox.fr](https://nitter.ethibox.fr)          | 🇫🇷      | Unknown      |
-| [nitter.cattube.org](https://nitter.cattube.org/)       | 🇩🇪      | 2021-10-06   |
+| [nitter.cattube.org](https://nitter.cattube.org)        | 🇩🇪      | 2021-10-06   |
 | [nitter.vxempire.xyz](https://nitter.vxempire.xyz)      | 🇪🇸      | 2021-11-30   |
-| [n.0x0.st](https://n.0x0.st/)                           | 🇩🇪      | 2021-12-06   |
+| [n.0x0.st](https://n.0x0.st)                            | 🇩🇪      | 2021-12-06   |
 | [is-nitter.resolv.ee](https://is-nitter.resolv.ee)      | 🇮🇸      | 2021-12-10   |
 | [lu-nitter.resolv.ee](https://lu-nitter.resolv.ee)      | 🇱🇺      | 2021-12-31   |
 | [nitterrrs6...hid.onion](http://nitterrrs6bbcba2bxjviwxzzapkhuuelljtig2ku2rxasweckxxxhid.onion) | 🇺🇸 | 2022-01-31 |
-| [nitter.koyu.space](https://nitter.koyu.space/)         | 🇩🇪      | 2022-01-24   |
-| [nitter.autarkic.org](https://nitter.autarkic.org/)     | 🇺🇸      | 2022-01-28   |
+| [nitter.koyu.space](https://nitter.koyu.space)          | 🇩🇪      | 2022-01-24   |
+| [nitter.autarkic.org](https://nitter.autarkic.org)      | 🇺🇸      | 2022-01-28   |
 | [nitter.eu.org](https://nitter.eu.org)                  | 🌏      | 2022-02-14   |
 | [nittereu.moomoo.me](https://nittereu.moomoo.me)        | 🇩🇪      | 2022-04-24   |
-| [twitr.gq](https://twitr.gq/)                           | 🇫🇮      | 2022-04-26   |
-| [nitter.alefvanoon.xyz](https://nitter.alefvanoon.xyz/) | 🇺🇸      | 2022-04-28   |
+| [twitr.gq](https://twitr.gq)                            | 🇫🇮      | 2022-04-26   |
+| [nitter.alefvanoon.xyz](https://nitter.alefvanoon.xyz)  | 🇺🇸      | 2022-04-28   |
 | [nitter.datatunnel.xyz](https://nitter.datatunnel.xyz)  | 🇫🇮      | 2022-05-12   |
 | [nitter.silkky.cloud](https://nitter.silkky.cloud)      | 🇫🇮      | 2022-05-23   |
 | [nitter.govt.land](https://nitter.govt.land)            | 🌏      | 2022-05-04   |
-| [nitter.lunar.icu](https://nitter.lunar.icu/)           | 🇩🇪      | 2022-06-27   |
+| [nitter.lunar.icu](https://nitter.lunar.icu)            | 🇩🇪      | 2022-06-27   |
 | [nitter.mstdn.social](https://nitter.mstdn.social)      | 🇩🇪      | 2022-06-28   |
 | [nitter.oishi-ra.men](https://nitter.oishi-ra.men)      | 🇩🇪      | 2022-07-07   |
 | [nitter.mastodon.pro](https://nitter.mastodon.pro)      | 🇨🇭      | 2022-07-14   |
-| [n.hyperborea.cloud](https://n.hyperborea.cloud/)       | 🇨🇦      | 2022-07-23   |
+| [n.hyperborea.cloud](https://n.hyperborea.cloud)        | 🇨🇦      | 2022-07-23   |
+| [de.nttr.stream](https://de.nttr.stream)                | 🇩🇪      | 2022-08-21   |
+| [nitter.wef.lol](https://nitter.wef.lol)                | 🇮🇸      | 2022-09-05   |
+| [nitter.notraxx.ch](https://nitter.notraxx.ch)          | 🇩🇪      | 2022-09-13   |
 | [nitter.ebnar.xyz](https://nitter.ebnar.xyz)            | 🇩🇪      | 2022-09-16   |
 
 ## Third-party Nitter services
