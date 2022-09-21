@@ -94,6 +94,7 @@ Note: Please add new instances to the bottom to preserve the order.
 | [nitter.smnz.de](https://nitter.smnz.de) | ✅ | ✅ | 🇩🇪 | [Let's Encrypt](https://www.ssllabs.com/ssltest/analyze.html?d=nitter.smnz.de) |
 | [nitter.twei.space](https://nitter.twei.space) | ✅ | ✅ | 🇦🇹 | [Let's Encrypt](https://www.ssllabs.com/ssltest/analyze.html?d=nitter.twei.space) |
 | [nitter.inpt.fr](https://nitter.inpt.fr) | ✅ | ✅ | 🇫🇷 | [Let's Encrypt](https://www.ssllabs.com/ssltest/analyze.html?d=nitter.inpt.fr) |
+| [nitter.d420.de](https://nitter.d420.de) | ✅ | ✅ | 🇩🇪 | [Cloudflare](https://www.ssllabs.com/ssltest/analyze.html?d=nitter.d420.de) |
 
 ### Tor
 | URL                                                                                                                                                      |    |
