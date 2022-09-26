@@ -18,7 +18,7 @@ Note: Please add new instances to the bottom to preserve the order.
 
 | URL                                                                  | Online¹ | Updated² | Country | Issuer & SSLLabs verification link                                                           |
 | :------------------------------------------------------------------- | :------ | :------- | :------ | :------------------------------------------------------------------------------------------- |
-| [nitter.42l.fr](https://nitter.42l.fr/)                              | ✅      | ✅       | 🇫🇷      | [Let's Encrypt](https://www.ssllabs.com/ssltest/analyze.html?d=nitter.42l.fr)                |
+| [nitter.lacontrevoie.fr](https://nitter.lacontrevoie.fr/)            | ✅      | ✅       | 🇫🇷      | [Let's Encrypt](https://www.ssllabs.com/ssltest/analyze.html?d=nitter.lacontrevoie.fr)                |
 | [nitter.pussthecat.org](https://nitter.pussthecat.org)               | ✅      | ✅       | 🇩🇪      | [Let's Encrypt](https://www.ssllabs.com/ssltest/analyze.html?d=nitter.pussthecat.org)        |
 | [nitter.nixnet.services](https://nitter:nitter@nitter.nixnet.services) ([auth required](https://nixnet.services/blog/nitter-behind-http-basic-auth/)) | ✅ | ❌ | 🇩🇪 | [Let's Encrypt](https://www.ssllabs.com/ssltest/analyze.html?d=nitter.nixnet.services)    |
 | [nitter.fdn.fr](https://nitter.fdn.fr/)                              | ✅      | ❌       | 🇫🇷      | [Let's Encrypt](https://www.ssllabs.com/ssltest/analyze.html?d=nitter.fdn.fr)                |
