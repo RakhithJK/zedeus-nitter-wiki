@@ -97,6 +97,7 @@ Note: Please add new instances to the bottom to preserve the order.
 | [nitter.d420.de](https://nitter.d420.de) | ✅ | ✅ | 🇩🇪 | [Cloudflare](https://www.ssllabs.com/ssltest/analyze.html?d=nitter.d420.de) |
 | [nitter.caioalonso.com](https://nitter.caioalonso.com) | ✅ | ✅ | 🇺🇸 | [Let's Encrypt](https://www.ssllabs.com/ssltest/analyze.html?d=nitter.caioalonso.com) |
 | [nitter.at](https://nitter.at) | ✅ | ✅ | 🇩🇪 | [Let's Encrypt](https://www.ssllabs.com/ssltest/analyze.html?d=nitter.at) |
+| [nitter.drivet.xyz](https://nitter.drivet.xyz) | ✅ | ✅ | 🇫🇷 | [Let's Encrypt](https://www.ssllabs.com/ssltest/analyze.html?d=nitter.drivet.xyz) |
 
 ### Tor
 | URL                                                                                                                                                      |    |
