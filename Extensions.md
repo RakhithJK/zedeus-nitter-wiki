@@ -22,6 +22,28 @@
 | iPhone: [Privacy Redirect](https://apps.apple.com/app/privacy-redirect/id1578144015) | Twitter, Reddit, YouTube, Instagram, Google Translate, Google maps, Google Search, Medium | iPhone Safari Extension (iOS 15+) |
 | Android: [UntrackMe](https://f-droid.org/packages/app.fedilab.nitterizeme/)                      | Google Maps, Instagram, Twitter, YouTube | Android app. You can control which redirections and instances |
 
+### Others
+#### Redirector
+[Firefox](https://addons.mozilla.org/en-US/firefox/addon/redirector/) — [Chromium-based](https://chrome.google.com/webstore/detail/redirector/ocgpenflpmgnfapjedencafcfakcekcd) — [GitHub](https://github.com/einaregilsson/Redirector)
+
+##### Twitter
+- Example URL: `https://twitter.com/`
+- Include pattern: `^(?:https?://)(?:www\.|mobile\.|)twitter\.com/(.*)`
+- Redirect to: `https://nitter.net/$1`
+- Pattern type: `Regular Expression`
+
+##### Twitter t.co
+- Example URL: `https://t.co/`
+- Include pattern: `^(?:https?://)t\.co/(.*)`
+- Redirect to: `https://nitter.net/t.co/$1`
+- Pattern type: `Regular Expression`
+
+##### Twitter media
+- Example URL: `https://pbs.twimg.com/`
+- Include pattern: `^(?:https?://)(pbs|video)\.twimg\.com/(.*)`
+- Redirect to: `https://nitter.net/pic/$1.twimg.com/$2`
+- Pattern type: `Regular Expression`
+
 ### Bookmarklet by @Mennaruuk
 ```js
 javascript:(function(){window.location.replace(document.URL.replace(/(mobile.)?twitter.com/,'nitter.net'))})()
