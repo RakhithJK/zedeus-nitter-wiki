@@ -98,6 +98,8 @@ Note: Please add new instances to the bottom to preserve the order.
 | [nitter.caioalonso.com](https://nitter.caioalonso.com) | ✅ | ✅ | 🇺🇸 | [Let's Encrypt](https://www.ssllabs.com/ssltest/analyze.html?d=nitter.caioalonso.com) |
 | [nitter.at](https://nitter.at) | ✅ | ✅ | 🇩🇪 | [Let's Encrypt](https://www.ssllabs.com/ssltest/analyze.html?d=nitter.at) |
 | [nitter.drivet.xyz](https://nitter.drivet.xyz) | ✅ | ✅ | 🇫🇷 | [Let's Encrypt](https://www.ssllabs.com/ssltest/analyze.html?d=nitter.drivet.xyz) |
+| [nitter.pw](https://nitter.pw)               | ✅      | ✅       | 🌏      | [Let's Encrypt](https://www.ssllabs.com/ssltest/analyze.html?d=nitter.pw)        |
+
 
 ### Tor
 | URL                                                                                                                                                      |    |
