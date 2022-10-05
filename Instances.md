@@ -99,6 +99,7 @@ Note: Please add new instances to the bottom to preserve the order.
 | [nitter.at](https://nitter.at) | ✅ | ✅ | 🇩🇪 | [Let's Encrypt](https://www.ssllabs.com/ssltest/analyze.html?d=nitter.at) |
 | [nitter.drivet.xyz](https://nitter.drivet.xyz) | ✅ | ✅ | 🇫🇷 | [Let's Encrypt](https://www.ssllabs.com/ssltest/analyze.html?d=nitter.drivet.xyz) |
 | [nitter.pw](https://nitter.pw)               | ✅      | ✅       | 🌏      | [Let's Encrypt](https://www.ssllabs.com/ssltest/analyze.html?d=nitter.pw)        |
+| [nitter.nicfab.eu](https://nitter.nicfab.eu)               | ✅      | ✅       | 🌏      | [Let's Encrypt](https://www.ssllabs.com/ssltest/analyze.html?d=nitter.nicfab.eu)        |
 
 
 ### Tor
@@ -135,7 +136,7 @@ Note: Please add new instances to the bottom to preserve the order.
 | [tw.lpoaj7z2zkajuhgnlltpeqh3zyq7wk2iyeggqaduhgxhyajtdt2j7wad.onion](http://tw.lpoaj7z2zkajuhgnlltpeqh3zyq7wk2iyeggqaduhgxhyajtdt2j7wad.onion)        | ✅ |
 | [r2eqimhkvxboaltbdsectoo3hkf476pyemsdykclexzajbfx5v6ojlyd.onion](r2eqimhkvxboaltbdsectoo3hkf476pyemsdykclexzajbfx5v6ojlyd.onion)        | ✅ |
 | [li7snkj6oituazbkr5clmilccwwumhd2dntbhttxomy4dfakeeoar4qd.onion](li7snkj6oituazbkr5clmilccwwumhd2dntbhttxomy4dfakeeoar4qd.onion)        | ✅ |
-
+| [a5xyidyppowvblric6k6nixgf2eqwnb7zzeaarj7slqbv7tb6ip5t3ad.onion](a5xyidyppowvblric6k6nixgf2eqwnb7zzeaarj7slqbv7tb6ip5t3ad.onion)        | ✅ |
 
 ### I2P
 -   [nitter.i2p](http://axd6uavsstsrvstva4mzlzh4ct76rc6zdug3nxdgeitrzczhzf4q.b32.i2p/)
