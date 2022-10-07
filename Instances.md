@@ -99,7 +99,7 @@ Note: Please add new instances to the bottom to preserve the order.
 | [nitter.at](https://nitter.at) | ✅ | ✅ | 🇩🇪 | [Let's Encrypt](https://www.ssllabs.com/ssltest/analyze.html?d=nitter.at) |
 | [nitter.drivet.xyz](https://nitter.drivet.xyz) | ✅ | ✅ | 🇫🇷 | [Let's Encrypt](https://www.ssllabs.com/ssltest/analyze.html?d=nitter.drivet.xyz) |
 | [nitter.pw](https://nitter.pw)               | ✅      | ✅       | 🌏      | [Let's Encrypt](https://www.ssllabs.com/ssltest/analyze.html?d=nitter.pw)        |
-| [nitter.nicfab.eu](https://nitter.nicfab.eu)               | ✅      | ✅       | 🌏      | [Let's Encrypt](https://www.ssllabs.com/ssltest/analyze.html?d=nitter.nicfab.eu)        |
+| [nitter.nicfab.eu](https://nitter.nicfab.eu)               | ✅      | ✅       | 🇮🇹      | [Let's Encrypt](https://www.ssllabs.com/ssltest/analyze.html?d=nitter.nicfab.eu)        |
 
 
 ### Tor
