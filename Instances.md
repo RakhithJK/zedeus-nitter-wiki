@@ -139,7 +139,7 @@ Note: Please add new instances to the bottom to preserve the order.
 | [r2eqimhkvxboaltbdsectoo3hkf476pyemsdykclexzajbfx5v6ojlyd.onion](http://r2eqimhkvxboaltbdsectoo3hkf476pyemsdykclexzajbfx5v6ojlyd.onion)        | ✅ |
 | [li7snkj6oituazbkr5clmilccwwumhd2dntbhttxomy4dfakeeoar4qd.onion](http://li7snkj6oituazbkr5clmilccwwumhd2dntbhttxomy4dfakeeoar4qd.onion)        | ✅ |
 | [a5xyidyppowvblric6k6nixgf2eqwnb7zzeaarj7slqbv7tb6ip5t3ad.onion](http://a5xyidyppowvblric6k6nixgf2eqwnb7zzeaarj7slqbv7tb6ip5t3ad.onion)        | ✅ |
-| [bird.habeehrhadazsw3izbrbilqajalfyqqln54mrja3iwpqxgcuxnus7eid.onion)(http://bird.habeehrhadazsw3izbrbilqajalfyqqln54mrja3iwpqxgcuxnus7eid.onion)        | ✅ |
+| [bird.habeehrhadazsw3izbrbilqajalfyqqln54mrja3iwpqxgcuxnus7eid.onion](http://bird.habeehrhadazsw3izbrbilqajalfyqqln54mrja3iwpqxgcuxnus7eid.onion)        | ✅ |
 
 ### I2P
 -   [nitter.i2p](http://axd6uavsstsrvstva4mzlzh4ct76rc6zdug3nxdgeitrzczhzf4q.b32.i2p/)
