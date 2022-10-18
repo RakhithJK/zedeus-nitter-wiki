@@ -184,7 +184,6 @@ Note: Please add new instances to the bottom to preserve the order.
 | [nitter.mastodon.pro](https://nitter.mastodon.pro)      | 🇨🇭      | 2022-07-14   |
 | [n.hyperborea.cloud](https://n.hyperborea.cloud)        | 🇨🇦      | 2022-07-23   |
 | [de.nttr.stream](https://de.nttr.stream)                | 🇩🇪      | 2022-08-21   |
-| [nitter.wef.lol](https://nitter.wef.lol)                | 🇮🇸      | 2022-09-05   |
 | [nitter.notraxx.ch](https://nitter.notraxx.ch)          | 🇩🇪      | 2022-09-13   |
 | [nitter.ebnar.xyz](https://nitter.ebnar.xyz)            | 🇩🇪      | 2022-09-16   |
 
