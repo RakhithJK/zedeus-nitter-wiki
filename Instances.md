@@ -107,7 +107,6 @@ Note: Please add new instances to the bottom to preserve the order.
 ### Tor
 | URL                                                                                                                                                      |    |
 | :------------------------------------------------------------------------------------------------------------------------------------------------------- | :- |
-| [3nzoldnxplag42gqjs23xvghtzf6t6yzssrtytnntc6ppc7xxuoneoad.onion](http://3nzoldnxplag42gqjs23xvghtzf6t6yzssrtytnntc6ppc7xxuoneoad.onion/)                 | ❌ |
 | [nitter.l4qlywnpwqsluw65ts7md3khrivpirse744un3x7mlskqauz5pyuzgqd.onion](http://nitter.l4qlywnpwqsluw65ts7md3khrivpirse744un3x7mlskqauz5pyuzgqd.onion/)   | ❌ |
 | [nitter7bryz3jv7e3uekphigvmoyoem4al3fynerxkj22dmoxoq553qd.onion](http://nitter7bryz3jv7e3uekphigvmoyoem4al3fynerxkj22dmoxoq553qd.onion/)                 | ✅ |
 | [npf37k3mtzwxreiw52ccs5ay4e6qt2fkcs2ndieurdyn2cuzzsfyfvid.onion](http://npf37k3mtzwxreiw52ccs5ay4e6qt2fkcs2ndieurdyn2cuzzsfyfvid.onion/)                 | ✅ |
@@ -186,6 +185,7 @@ Note: Please add new instances to the bottom to preserve the order.
 | [de.nttr.stream](https://de.nttr.stream)                | 🇩🇪      | 2022-08-21   |
 | [nitter.notraxx.ch](https://nitter.notraxx.ch)          | 🇩🇪      | 2022-09-13   |
 | [nitter.ebnar.xyz](https://nitter.ebnar.xyz)            | 🇩🇪      | 2022-09-16   |
+| [3nzoldnxpl...oad.onion](http://3nzoldnxplag42gqjs23xvghtzf6t6yzssrtytnntc6ppc7xxuoneoad.onion/) | | 2022-10-20 |
 
 ## Third-party Nitter services
 | Name                                                          | Description                                                      |
