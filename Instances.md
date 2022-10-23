@@ -101,7 +101,7 @@ Note: Please add new instances to the bottom to preserve the order.
 | [nitter.pw](https://nitter.pw)               | ✅      | ✅       | 🌏      | [Let's Encrypt](https://www.ssllabs.com/ssltest/analyze.html?d=nitter.pw)        |
 | [nitter.nicfab.eu](https://nitter.nicfab.eu)               | ✅      | ✅       | 🇮🇹      | [Let's Encrypt](https://www.ssllabs.com/ssltest/analyze.html?d=nitter.nicfab.eu)        |
 | [bird.habedieeh.re](https://bird.habedieeh.re)               | ✅      | ✅       | 🇨🇦        | [Let's Encrypt](https://www.ssllabs.com/ssltest/analyze.html?d=bird.habedieeh.re)        |
-
+| [nitter.hostux.net](https://nitter.hostux.net) | ✅ | ✅ | 🇫🇷 | [Let's Encrypt](https://www.ssllabs.com/ssltest/analyze.html?d=nitter.hostux.net) |
 
 
 ### Tor
