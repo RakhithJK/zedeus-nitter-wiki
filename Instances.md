@@ -104,6 +104,7 @@ Note: Please add new instances to the bottom to preserve the order.
 | [nitter.hostux.net](https://nitter.hostux.net) | ✅ | ✅ | 🇫🇷 | [Let's Encrypt](https://www.ssllabs.com/ssltest/analyze.html?d=nitter.hostux.net) |
 | [nitter.adminforge.de](https://nitter.adminforge.de) | ✅ | ✅ | 🇩🇪 | [Let's Encrypt](https://www.ssllabs.com/ssltest/analyze.html?d=nitter.adminforge.de) |
 | [nitter.platypush.tech](https://nitter.platypush.tech) | ✅ | ✅ | 🇩🇪 | [Let's Encrypt](https://www.ssllabs.com/ssltest/analyze.html?d=nitter.platypush.tech) |
+| [nitter.mask.sh](https://nitter.mask.sh) | ✅ | ✅ | 🇺🇸 | [Let's Encrypt](https://www.ssllabs.com/ssltest/analyze.html?d=nitter.mask.sh) |
 
 ### Tor
 | URL                                                                                                                                                      |    |
