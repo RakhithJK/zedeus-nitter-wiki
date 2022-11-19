@@ -46,5 +46,5 @@
 
 ### Bookmarklet by @Mennaruuk
 ```js
-javascript:(function(){window.location.replace(document.URL.replace(/(mobile.)?twitter.com/,'nitter.net'))})()
+javascript:window.location.assign(window.location.href.replace(/(mobile.)?twitter.com/,'nitter.it'))
 ```
