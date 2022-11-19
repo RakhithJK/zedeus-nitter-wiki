@@ -45,6 +45,9 @@
 - Pattern type: `Regular Expression`
 
 ### Bookmarklet by @Mennaruuk
+
+Add a new bookmark with this snippet as the "Location" field:
 ```js
-javascript:window.location.assign(window.location.href.replace(/(mobile.)?twitter.com/,'nitter.it'))
+javascript:window.location.assign(window.location.href.replace(/(mobile.)?twitter.com/,'nitter.net'))
 ```
+When you click a twitter link, you can now click this bookmark and it will take you to the nitter.net equivalent.
