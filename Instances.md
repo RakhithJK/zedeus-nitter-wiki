@@ -106,6 +106,7 @@ Note: Please add new instances to the bottom to preserve the order.
 | [nitter.platypush.tech](https://nitter.platypush.tech) | ✅ | ✅ | 🇩🇪 | [Let's Encrypt](https://www.ssllabs.com/ssltest/analyze.html?d=nitter.platypush.tech) |
 | [nitter.mask.sh](https://nitter.mask.sh) | ✅ | ✅ | 🇺🇸 | [Let's Encrypt](https://www.ssllabs.com/ssltest/analyze.html?d=nitter.mask.sh) |
 | [nitter.pufe.org](https://nitter.pufe.org) | ✅ | ✅ | :new_zealand: | [Let's Encrypt](https://www.ssllabs.com/ssltest/analyze.html?d=nitter.pufe.org) |
+| [nitter.us.projectsegfau.lt](https://nitter.us.projectsegfau.lt) | ✅ | ✅ | 🇺🇸 | [Let's Encrypt](https://www.ssllabs.com/ssltest/analyze.html?d=nitter.us.projectsegfau.lt) |
 
 ### Tor
 | URL                                                                                                                                                      |    |
