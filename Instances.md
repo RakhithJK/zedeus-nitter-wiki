@@ -108,6 +108,7 @@ Note: Please add new instances to the bottom to preserve the order.
 | [nitter.pufe.org](https://nitter.pufe.org) | ✅ | ✅ | :new_zealand: | [Let's Encrypt](https://www.ssllabs.com/ssltest/analyze.html?d=nitter.pufe.org) |
 | [nitter.us.projectsegfau.lt](https://nitter.us.projectsegfau.lt) | ✅ | ✅ | 🇺🇸 | [Let's Encrypt](https://www.ssllabs.com/ssltest/analyze.html?d=nitter.us.projectsegfau.lt) |
 | [nitter.marcopisco.com](https://nitter.marcopisco.com/)                    | ✅      | ✅       | 🇵🇹 | [Cloudflare](https://www.ssllabs.com/ssltest/analyze.html?d=nitter.marcopisco.com)     
+| [nitter.arcticfoxes.net](https://nitter.arcticfoxes.net) | ✅ | ✅ | 🇬🇧 | [Let's Encrypt](https://www.ssllabs.com/ssltest/analyze.html?d=nitter.arcticfoxes.net)
 
 ### Tor
 | URL                                                                                                                                                      |    |
