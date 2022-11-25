@@ -109,6 +109,7 @@ Note: Please add new instances to the bottom to preserve the order.
 | [nitter.us.projectsegfau.lt](https://nitter.us.projectsegfau.lt) | ✅ | ✅ | 🇺🇸 | [Let's Encrypt](https://www.ssllabs.com/ssltest/analyze.html?d=nitter.us.projectsegfau.lt) |
 | [nitter.marcopisco.com](https://nitter.marcopisco.com/)                    | ✅      | ✅       | 🇵🇹 | [Cloudflare](https://www.ssllabs.com/ssltest/analyze.html?d=nitter.marcopisco.com)     
 | [nitter.arcticfoxes.net](https://nitter.arcticfoxes.net) | ✅ | ✅ | 🇬🇧 | [Let's Encrypt](https://www.ssllabs.com/ssltest/analyze.html?d=nitter.arcticfoxes.net)
+| [t.com.sb](https://t.com.sb/) | ✅ | ✅ | 🇪🇪 | [ZeroSSL](https://www.ssllabs.com/ssltest/analyze.html?d=t.com.sb)
 
 ### Tor
 | URL                                                                                                                                                      |    |
@@ -204,3 +205,4 @@ Apparently spam: https://github.com/zedeus/nitter/issues/596
 | [Twitit](https://twitit.gq)                                   | Tracks all Nitter instances status and redirects to working ones |
 -->
 <!-- t.com.sb is now redirecting to random nitter instances -->
+<!-- updated by t.com.sb owner, when did we redirect? -->
