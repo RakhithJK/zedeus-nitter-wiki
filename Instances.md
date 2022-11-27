@@ -109,7 +109,7 @@ Note: Please add new instances to the bottom to preserve the order.
 | [nitter.marcopisco.com](https://nitter.marcopisco.com/)                    | ✅      | ✅       | 🇵🇹 | [Cloudflare](https://www.ssllabs.com/ssltest/analyze.html?d=nitter.marcopisco.com)     
 | [nitter.arcticfoxes.net](https://nitter.arcticfoxes.net) | ✅ | ✅ | 🇬🇧 | [Let's Encrypt](https://www.ssllabs.com/ssltest/analyze.html?d=nitter.arcticfoxes.net)
 | [t.com.sb](https://t.com.sb/) | ✅ | ✅ | 🇪🇪 | [ZeroSSL](https://www.ssllabs.com/ssltest/analyze.html?d=t.com.sb)
-| [nitter.selfhostable.net](https://nitter.selfhostable.net | ✅ | ✅ | 🇳🇱 | [Let's Encrypt](https://www.ssllabs.com/ssltest/analyze.html?d=nitter.selfhostable.net)
+| [nitter.selfhostable.net](https://nitter.selfhostable.net) | ✅ | ✅ | 🇳🇱 | [Let's Encrypt](https://www.ssllabs.com/ssltest/analyze.html?d=nitter.selfhostable.net)
 
 ### Tor
 | URL                                                                                                                                                      |    |
