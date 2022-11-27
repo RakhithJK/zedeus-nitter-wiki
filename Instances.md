@@ -33,8 +33,7 @@ Note: Please add new instances to the bottom to preserve the order.
 | [bird.trom.tf](https://bird.trom.tf/)                                | ✅      | ❓       | 🇩🇪      | [Let's Encrypt](https://www.ssllabs.com/ssltest/analyze.html?d=bird.trom.tf)                 |
 | [nitter.it](https://nitter.it)                                       | ✅      | ✅       | 🇫🇮      | [ZeroSSL](https://www.ssllabs.com/ssltest/analyze.html?d=nitter.it)                          |
 | [twitter.censors.us](https://twitter.censors.us)                     | ✅      | ✅       | 🇫🇷      | [Let's Encrypt](https://www.ssllabs.com/ssltest/analyze.html?d=twitter.censors.us)           |
-| [nitter.grimneko.de](https://nitter.grimneko.de)                     | ✅      | ✅       | 🇩🇪      | [Let's Encrypt](https://www.ssllabs.com/ssltest/analyze.html?d=nitter.grimneko.de)           |
-| [nitter.ca](https://nitter.ca/)                                      | ✅      | ✅       | 🇨🇦      | [Let's Encrypt](https://www.ssllabs.com/ssltest/analyze.html?d=nitter.ca)                    |
+| [nitter.grimneko.de](https://nitter.grimneko.de)                     | ✅      | ✅       | 🇩🇪      | [Let's Encrypt](https://www.ssllabs.com/ssltest/analyze.html?d=nitter.grimneko.de)           |             |
 | [twitter.076.ne.jp](https://twitter.076.ne.jp) (in Japanese)         | ✅      | ✅       | 🇯🇵      | [Let's Encrypt](https://www.ssllabs.com/ssltest/analyze.html?d=twitter.076.ne.jp)            |
 | [nitter.fly.dev](https://nitter.fly.dev) (anycast)                   | ✅      | ✅       | 🌏      | [Let's Encrypt](https://www.ssllabs.com/ssltest/analyze.html?d=nitter.fly.dev)               |
 | [notabird.site](https://notabird.site) (anycast)                     | ✅      | ✅       | 🌏      | [Cloudflare](https://www.ssllabs.com/ssltest/analyze.html?d=notabird.site)                   |
@@ -193,6 +192,7 @@ Note: Please add new instances to the bottom to preserve the order.
 | [nitter.notraxx.ch](https://nitter.notraxx.ch)          | 🇩🇪      | 2022-09-13   |
 | [nitter.ebnar.xyz](https://nitter.ebnar.xyz)            | 🇩🇪      | 2022-09-16   |
 | [3nzoldnxpl...oad.onion](http://3nzoldnxplag42gqjs23xvghtzf6t6yzssrtytnntc6ppc7xxuoneoad.onion/) | | 2022-10-20 |
+| [nitter.ca](https://nitter.ca)                          | 🇨🇦      | 2022-11-26   |
 
 ## Third-party Nitter services
 | Name                                                          | Description                                                      |
