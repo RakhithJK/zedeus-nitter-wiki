@@ -27,7 +27,7 @@ Note: Please add new instances to the bottom to preserve the order.
 | [nitter.unixfox.eu](https://nitter.unixfox.eu)                       | ✅      | ✅       | 🇳🇱      | [Buypass AS-983163327](https://www.ssllabs.com/ssltest/analyze.html?d=nitter.unixfox.eu)     |
 | [nitter.domain.glass](https://nitter.domain.glass)                   | ✅      | ❌       | 🇺🇸      | [Cloudflare](https://www.ssllabs.com/ssltest/analyze.html?d=nitter.domain.glass)             |
 | [nitter.namazso.eu](https://nitter.namazso.eu)                       | ✅      | ✅       | 🇩🇪      | [Let's Encrypt](https://www.ssllabs.com/ssltest/analyze.html?d=nitter.namazso.eu)            |
-| [birdsite.xanny.family](https://birdsite.xanny.family) (anycast)     | ✅      | ❌       | 🌏      | [Cloudflare](https://www.ssllabs.com/ssltest/analyze.html?d=birdsite.xanny.family)           |
+| [birdsite.xanny.family](https://birdsite.xanny.family) (anycast)     | ✅      | ✅       | 🌏      | [Cloudflare](https://www.ssllabs.com/ssltest/analyze.html?d=birdsite.xanny.family)           |
 | [nitter.hu](https://nitter.hu)                                       | ✅      | ✅       | 🇭🇺      | [Let's Encrypt](https://www.ssllabs.com/ssltest/analyze.html?d=nitter.hu)                    |
 | [nitter.moomoo.me](https://nitter.moomoo.me)                         | ✅      | ✅       | 🇺🇸      | [Let's Encrypt](https://www.ssllabs.com/ssltest/analyze.html?d=nitter.moomoo.me)             |
 | [bird.trom.tf](https://bird.trom.tf/)                                | ✅      | ❓       | 🇩🇪      | [Let's Encrypt](https://www.ssllabs.com/ssltest/analyze.html?d=bird.trom.tf)                 |
@@ -110,6 +110,7 @@ Note: Please add new instances to the bottom to preserve the order.
 | [nitter.arcticfoxes.net](https://nitter.arcticfoxes.net) | ✅ | ✅ | 🇬🇧 | [Let's Encrypt](https://www.ssllabs.com/ssltest/analyze.html?d=nitter.arcticfoxes.net)
 | [t.com.sb](https://t.com.sb/) | ✅ | ✅ | 🇪🇪 | [ZeroSSL](https://www.ssllabs.com/ssltest/analyze.html?d=t.com.sb)
 | [nitter.selfhostable.net](https://nitter.selfhostable.net) | ✅ | ✅ | 🇳🇱 | [Let's Encrypt](https://www.ssllabs.com/ssltest/analyze.html?d=nitter.selfhostable.net)
+| [bluebird.codeine.world](https://bluebird.codeine.world) | ✅ | ✅ | 🇳🇱 | [Let's Encrypt](https://www.ssllabs.com/ssltest/analyze.html?d=bluebird.codeine.world)
 
 ### Tor
 | URL                                                                                                                                                      |    |
@@ -146,6 +147,7 @@ Note: Please add new instances to the bottom to preserve the order.
 | [li7snkj6oituazbkr5clmilccwwumhd2dntbhttxomy4dfakeeoar4qd.onion](http://li7snkj6oituazbkr5clmilccwwumhd2dntbhttxomy4dfakeeoar4qd.onion)        | ✅ |
 | [a5xyidyppowvblric6k6nixgf2eqwnb7zzeaarj7slqbv7tb6ip5t3ad.onion](http://a5xyidyppowvblric6k6nixgf2eqwnb7zzeaarj7slqbv7tb6ip5t3ad.onion)        | ✅ |
 | [bird.habeehrhadazsw3izbrbilqajalfyqqln54mrja3iwpqxgcuxnus7eid.onion](http://bird.habeehrhadazsw3izbrbilqajalfyqqln54mrja3iwpqxgcuxnus7eid.onion)        | ✅ |
+| [kjt25r7mmezdj2zv2sin7fut74ao6ziz5zb3w5s7o7nhfy2riovbhlad.onion](http://kjt25r7mmezdj2zv2sin7fut74ao6ziz5zb3w5s7o7nhfy2riovbhlad.onion)        | ✅ |
 
 ### I2P
 -   [nitter.i2p](http://axd6uavsstsrvstva4mzlzh4ct76rc6zdug3nxdgeitrzczhzf4q.b32.i2p/)
