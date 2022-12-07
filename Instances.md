@@ -31,7 +31,7 @@ Note: Please add new instances to the bottom to preserve the order.
 | [nitter.hu](https://nitter.hu)                                       | ✅      | ✅       | 🇭🇺      | [Let's Encrypt](https://www.ssllabs.com/ssltest/analyze.html?d=nitter.hu)                    |
 | [nitter.moomoo.me](https://nitter.moomoo.me)                         | ✅      | ✅       | 🇺🇸      | [Let's Encrypt](https://www.ssllabs.com/ssltest/analyze.html?d=nitter.moomoo.me)             |
 | [bird.trom.tf](https://bird.trom.tf/)                                | ✅      | ❓       | 🇩🇪      | [Let's Encrypt](https://www.ssllabs.com/ssltest/analyze.html?d=bird.trom.tf)                 |
-| [nitter.it](https://nitter.it)                                       | ❌      | ✅       | 🇫🇮      | [ZeroSSL](https://www.ssllabs.com/ssltest/analyze.html?d=nitter.it)                          |
+| [nitter.it](https://nitter.it)                                       | ✅      | ✅       | 🇫🇮      | [Cloudflare](https://www.ssllabs.com/ssltest/analyze.html?d=nitter.it)                          |
 | [twitter.censors.us](https://twitter.censors.us)                     | ✅      | ✅       | 🇫🇷      | [Let's Encrypt](https://www.ssllabs.com/ssltest/analyze.html?d=twitter.censors.us)           |
 | [nitter.grimneko.de](https://nitter.grimneko.de)                     | ✅      | ✅       | 🇩🇪      | [Let's Encrypt](https://www.ssllabs.com/ssltest/analyze.html?d=nitter.grimneko.de)           |             |
 | [twitter.076.ne.jp](https://twitter.076.ne.jp) (in Japanese)         | ✅      | ✅       | 🇯🇵      | [Let's Encrypt](https://www.ssllabs.com/ssltest/analyze.html?d=twitter.076.ne.jp)            |
