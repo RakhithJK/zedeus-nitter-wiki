@@ -149,7 +149,7 @@ Note: Please add new instances to the bottom to preserve the order.
 | [bird.habeehrhadazsw3izbrbilqajalfyqqln54mrja3iwpqxgcuxnus7eid.onion](http://bird.habeehrhadazsw3izbrbilqajalfyqqln54mrja3iwpqxgcuxnus7eid.onion)        | ✅ |
 | [codeine3hsqnnkb3dsu6ft4tunlomr3lmuml5hcoqmfkgiqfv2brdqqd.onion](http://codeine3hsqnnkb3dsu6ft4tunlomr3lmuml5hcoqmfkgiqfv2brdqqd.onion)        | ✅ |
 | [nitter.g4c3eya4clenolymqbpgwz3q3tawoxw56yhzk4vugqrl6dtu3ejvhjid.onion](http://nitter.g4c3eya4clenolymqbpgwz3q3tawoxw56yhzk4vugqrl6dtu3ejvhjid.onion)        | ✅ |
-| [http://jdadsqkjereqronxzovgvd453snh5jsvo7mukfwt2feth353nobqotad.onion](jdadsqkjereqronxzovgvd453snh5jsvo7mukfwt2feth353nobqotad.onion)        | ✅ |
+| [jdadsqkjereqronxzovgvd453snh5jsvo7mukfwt2feth353nobqotad.onion](http://jdadsqkjereqronxzovgvd453snh5jsvo7mukfwt2feth353nobqotad.onion)        | ✅ |
 
 ### I2P
 -   [nitter.i2p](http://axd6uavsstsrvstva4mzlzh4ct76rc6zdug3nxdgeitrzczhzf4q.b32.i2p/)
