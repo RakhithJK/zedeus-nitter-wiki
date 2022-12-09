@@ -110,7 +110,7 @@ Note: Please add new instances to the bottom to preserve the order.
 | [nitter.arcticfoxes.net](https://nitter.arcticfoxes.net) | ✅ | ✅ | 🇬🇧 | [Let's Encrypt](https://www.ssllabs.com/ssltest/analyze.html?d=nitter.arcticfoxes.net)
 | [t.com.sb](https://t.com.sb/) | ✅ | ✅ | 🇪🇪 | [ZeroSSL](https://www.ssllabs.com/ssltest/analyze.html?d=t.com.sb)
 | [nitter.selfhostable.net](https://nitter.selfhostable.net) | ✅ | ✅ | 🇳🇱 | [Let's Encrypt](https://www.ssllabs.com/ssltest/analyze.html?d=nitter.selfhostable.net)
-| [bluebird.codeine.world](https://bluebird.codeine.world) | ✅ | ✅ | 🇳🇱 | [Let's Encrypt](https://www.ssllabs.com/ssltest/analyze.html?d=bluebird.codeine.world)
+| [nitter.kling.gg](https://nitter.kling.gg) | ✅ | ✅ | 🇳🇱 | [Let's Encrypt](https://www.ssllabs.com/ssltest/analyze.html?d=nitter.kling.gg)
 
 ### Tor
 | URL                                                                                                                                                      |    |
@@ -149,6 +149,7 @@ Note: Please add new instances to the bottom to preserve the order.
 | [bird.habeehrhadazsw3izbrbilqajalfyqqln54mrja3iwpqxgcuxnus7eid.onion](http://bird.habeehrhadazsw3izbrbilqajalfyqqln54mrja3iwpqxgcuxnus7eid.onion)        | ✅ |
 | [codeine3hsqnnkb3dsu6ft4tunlomr3lmuml5hcoqmfkgiqfv2brdqqd.onion](http://codeine3hsqnnkb3dsu6ft4tunlomr3lmuml5hcoqmfkgiqfv2brdqqd.onion)        | ✅ |
 | [nitter.g4c3eya4clenolymqbpgwz3q3tawoxw56yhzk4vugqrl6dtu3ejvhjid.onion](http://nitter.g4c3eya4clenolymqbpgwz3q3tawoxw56yhzk4vugqrl6dtu3ejvhjid.onion)        | ✅ |
+| [http://jdadsqkjereqronxzovgvd453snh5jsvo7mukfwt2feth353nobqotad.onion](jdadsqkjereqronxzovgvd453snh5jsvo7mukfwt2feth353nobqotad.onion)        | ✅ |
 
 ### I2P
 -   [nitter.i2p](http://axd6uavsstsrvstva4mzlzh4ct76rc6zdug3nxdgeitrzczhzf4q.b32.i2p/)
@@ -156,6 +157,7 @@ Note: Please add new instances to the bottom to preserve the order.
 -   [gseczlzmiv23p5vhsktyd7whquq2uy3c5fgkmdohh453qp3daoua.b32.i2p](http://gseczlzmiv23p5vhsktyd7whquq2uy3c5fgkmdohh453qp3daoua.b32.i2p/)
 -   [tm4rwkeysv3zz3q5yacyr4rlmca2c4etkdobfvuqzt6vsfsu4weq.b32.i2p](http://tm4rwkeysv3zz3q5yacyr4rlmca2c4etkdobfvuqzt6vsfsu4weq.b32.i2p/)
 -   [nt.vern.i2p](http://vernzdedoxuflrrxc4vbatbkpjh4k22ecgiqgimdiif62onhagva.b32.i2p/)
+-   [pxrhfmieeeqdu5pi4duscycsxqefqphaxgvvrvdtc3ckqn2mcora.b32.i2p](http://pxrhfmieeeqdu5pi4duscycsxqefqphaxgvvrvdtc3ckqn2mcora.b32.i2p/)
 ### Lokinet
 -   [nitter.priv.loki](http://nitter.priv.loki/)
 
