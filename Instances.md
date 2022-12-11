@@ -56,7 +56,6 @@ Note: Please add new instances to the bottom to preserve the order.
 | [twitter.dr460nf1r3.org](https://twitter.dr460nf1r3.org/)            | ✅      | ✅       | 🇩🇪      | [Cloudflare](https://www.ssllabs.com/ssltest/analyze.html?d=twitter.dr460nf1r3.org)          |
 | [nitter.garudalinux.org](https://nitter.garudalinux.org/)            | ✅      | ✅       | 🇫🇮      | [Cloudflare](https://www.ssllabs.com/ssltest/analyze.html?d=nitter.garudalinux.org)          |
 | [twitter.beparanoid.de](https://twitter.beparanoid.de)               | ✅      | ✅       | 🇨🇭      | [Let's Encrypt](https://www.ssllabs.com/ssltest/analyze.html?d=twitter.beparanoid.de)        |
-| [n.ramle.be](https://n.ramle.be)                                     | ✅      | ✅       | 🇧🇪      | [Let's Encrypt](https://www.ssllabs.com/ssltest/analyze.html?d=n.ramle.be)                   |
 | [nitter.cz](https://nitter.cz)                                       | ✅      | ✅       | 🇨🇿      | [Let's Encrypt](https://www.ssllabs.com/ssltest/analyze.html?d=nitter.cz)                    |
 | [nitter.privacydev.net](https://nitter.privacydev.net)               | ✅      | ✅       | 🇺🇸      | [Let's Encrypt](https://www.ssllabs.com/ssltest/analyze.html?d=nitter.privacydev.net)        |
 | [nitter.evil.site](https://nitter.evil.site)               | ✅      | ✅       | 🇬🇧      | [Let's Encrypt](https://www.ssllabs.com/ssltest/analyze.html?d=nitter.evil.site)        |
@@ -198,6 +197,7 @@ Note: Please add new instances to the bottom to preserve the order.
 | [nttr.stream](https://nttr.stream)                      | 🇩🇪      | 2022-10-18   |
 | [3nzoldnxpl...oad.onion](http://3nzoldnxplag42gqjs23xvghtzf6t6yzssrtytnntc6ppc7xxuoneoad.onion/) | | 2022-10-20 |
 | [twtr.bch.bar](https://twtr.bch.bar)                    | 🌏      | 2022-11-02   |
+| [n.ramle.be](https://n.ramle.be)                        | 🇧🇪      | 2022-11-03   |
 | [nitter.ca](https://nitter.ca)                          | 🇨🇦      | 2022-11-26   |
 
 ## Third-party Nitter services
