@@ -68,7 +68,6 @@ Note: Please add new instances to the bottom to preserve the order.
 | [unofficialbird.com](https://unofficialbird.com)                     | ✅      | ✅       | 🇺🇸      | [ZeroSSL](https://www.ssllabs.com/ssltest/analyze.html?d=unofficialbird.com)                 |
 | [nitter.projectsegfau.lt](https://nitter.projectsegfau.lt)           | ✅      | ✅       | 🇱🇺      | [Let's Encrypt](https://www.ssllabs.com/ssltest/analyze.html?d=nitter.projectsegfau.lt)      |
 | [singapore.unofficialbird.com](https://singapore.unofficialbird.com) | ✅      | ✅       | 🇸🇬      | [Let's Encrypt](https://www.ssllabs.com/ssltest/analyze.html?d=singapore.unofficialbird.com) |
-| [twt.funami.tech](https://twt.funami.tech)                           | ✅      | ✅       | 🇰🇷      | [Let's Encrypt](https://www.ssllabs.com/ssltest/analyze.html?d=twt.funami.tech)              |
 | [nitter.fprivacy.com](https://nitter.fprivacy.com)                   | ✅      | ✅       | 🇸🇬      | [Let's Encrypt](https://www.ssllabs.com/ssltest/analyze.html?d=nitter.fprivacy.com)          |
 | [canada.unofficialbird.com](https://canada.unofficialbird.com)       | ✅      | ✅       | 🇨🇦      | [Let's Encrypt](https://www.ssllabs.com/ssltest/analyze.html?d=canada.unofficialbird.com)    |
 | [india.unofficialbird.com](https://india.unofficialbird.com)         | ✅      | ✅       | 🇮🇳      | [Let's Encrypt](https://www.ssllabs.com/ssltest/analyze.html?d=india.unofficialbird.com)     |
@@ -198,6 +197,7 @@ Note: Please add new instances to the bottom to preserve the order.
 | [3nzoldnxpl...oad.onion](http://3nzoldnxplag42gqjs23xvghtzf6t6yzssrtytnntc6ppc7xxuoneoad.onion/) | | 2022-10-20 |
 | [twtr.bch.bar](https://twtr.bch.bar)                    | 🌏      | 2022-11-02   |
 | [n.ramle.be](https://n.ramle.be)                        | 🇧🇪      | 2022-11-03   |
+| [twt.funami.tech](https://twt.funami.tech)              | 🇰🇷      | 2022-11-22   |
 | [nitter.ca](https://nitter.ca)                          | 🇨🇦      | 2022-11-26   |
 
 ## Third-party Nitter services
