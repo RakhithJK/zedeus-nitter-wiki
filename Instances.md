@@ -49,7 +49,6 @@ Note: Please add new instances to the bottom to preserve the order.
 | [nitter.winscloud.net](https://nitter.winscloud.net)                 | ✅      | ✅       | 🇹🇭      | [Cloudflare](https://www.ssllabs.com/ssltest/analyze.html?d=nitter.winscloud.net)            |
 | [nitter.tiekoetter.com](https://nitter.tiekoetter.com)               | ✅      | ✅       | 🇩🇪      | [Let's Encrypt](https://www.ssllabs.com/ssltest/analyze.html?d=nitter.tiekoetter.com)        |
 | [nitter.spaceint.fr](https://nitter.spaceint.fr)                     | ✅      | ✅       | 🇧🇪      | [Let's Encrypt](https://www.ssllabs.com/ssltest/analyze.html?d=nitter.spaceint.fr)           |
-| [twtr.bch.bar](https://twtr.bch.bar)                                 | ✅      | ✅       | 🌏      | [Cloudflare](https://www.ssllabs.com/ssltest/analyze.html?d=twtr.bch.bar)                    |
 | [nitter.privacy.com.de](https://nitter.privacy.com.de)               | ✅      | ✅       | 🇩🇪      | [ZeroSSL](https://www.ssllabs.com/ssltest/analyze.html?d=nitter.privacy.com.de)              |
 | [nitter.poast.org](https://nitter.poast.org/)                        | ✅      | ✅       | 🇺🇸      | [Let's Encrypt](https://www.ssllabs.com/ssltest/analyze.html?d=nitter.poast.org)             |
 | [nitter.bird.froth.zone](https://nitter.bird.froth.zone)             | ✅      | ✅       | 🇨🇦      | [Let's Encrypt](https://www.ssllabs.com/ssltest/analyze.html?d=nitter.bird.froth.zone)       |
@@ -198,6 +197,7 @@ Note: Please add new instances to the bottom to preserve the order.
 | [nitter.ebnar.xyz](https://nitter.ebnar.xyz)            | 🇩🇪      | 2022-09-16   |
 | [nttr.stream](https://nttr.stream)                      | 🇩🇪      | 2022-10-18   |
 | [3nzoldnxpl...oad.onion](http://3nzoldnxplag42gqjs23xvghtzf6t6yzssrtytnntc6ppc7xxuoneoad.onion/) | | 2022-10-20 |
+| [twtr.bch.bar](https://twtr.bch.bar)                    | 🌏      | 2022-11-02   |
 | [nitter.ca](https://nitter.ca)                          | 🇨🇦      | 2022-11-26   |
 
 ## Third-party Nitter services
