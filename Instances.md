@@ -39,7 +39,6 @@ Note: Please add new instances to the bottom to preserve the order.
 | [notabird.site](https://notabird.site) (anycast)                     | ✅      | ✅       | 🌏      | [Cloudflare](https://www.ssllabs.com/ssltest/analyze.html?d=notabird.site)                   |
 | [nitter.weiler.rocks](https://nitter.weiler.rocks)                   | ✅      | ✅       | 🇩🇪      | [Let's Encrypt](https://www.ssllabs.com/ssltest/analyze.html?d=nitter.weiler.rocks)          |
 | [nitter.sethforprivacy.com](https://nitter.sethforprivacy.com)       | ✅      | ✅       | 🇩🇪      | [Let's Encrypt](https://www.ssllabs.com/ssltest/analyze.html?d=nitter.sethforprivacy.com)    |
-| [nttr.stream](https://nttr.stream)                                   | ✅      | ✅       | 🇩🇪      | [ZeroSSL](https://www.ssllabs.com/ssltest/analyze.html?d=nttr.stream)                        |
 | [nitter.cutelab.space](https://nitter.cutelab.space)                 | ✅      | ✅       | 🇺🇸      | [Sectigo](https://www.ssllabs.com/ssltest/analyze.html?d=nitter.cutelab.space)               |
 | [nitter.nl](https://nitter.nl)                                       | ✅      | ✅       | 🇳🇱      | [Let's Encrypt](https://www.ssllabs.com/ssltest/analyze.html?d=nitter.nl)                    |
 | [nitter.mint.lgbt](https://nitter.mint.lgbt)                         | ✅      | ✅       | 🇬🇧      | [Let's Encrypt](https://www.ssllabs.com/ssltest/analyze.html?d=nitter.mint.lgbt)             |
@@ -197,6 +196,7 @@ Note: Please add new instances to the bottom to preserve the order.
 | [de.nttr.stream](https://de.nttr.stream)                | 🇩🇪      | 2022-08-21   |
 | [nitter.notraxx.ch](https://nitter.notraxx.ch)          | 🇩🇪      | 2022-09-13   |
 | [nitter.ebnar.xyz](https://nitter.ebnar.xyz)            | 🇩🇪      | 2022-09-16   |
+| [nttr.stream](https://nttr.stream)                      | 🇩🇪      | 2022-10-18   |
 | [3nzoldnxpl...oad.onion](http://3nzoldnxplag42gqjs23xvghtzf6t6yzssrtytnntc6ppc7xxuoneoad.onion/) | | 2022-10-20 |
 | [nitter.ca](https://nitter.ca)                          | 🇨🇦      | 2022-11-26   |
 
