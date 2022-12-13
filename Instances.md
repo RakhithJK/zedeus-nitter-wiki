@@ -107,6 +107,7 @@ Note: Please add new instances to the bottom to preserve the order.
 | [t.com.sb](https://t.com.sb/) | ✅ | ✅ | 🇪🇪 | [ZeroSSL](https://www.ssllabs.com/ssltest/analyze.html?d=t.com.sb)
 | [nitter.selfhostable.net](https://nitter.selfhostable.net) | ✅ | ✅ | 🇳🇱 | [Let's Encrypt](https://www.ssllabs.com/ssltest/analyze.html?d=nitter.selfhostable.net)
 | [nitter.kling.gg](https://nitter.kling.gg) | ✅ | ✅ | 🇳🇱 | [Let's Encrypt](https://www.ssllabs.com/ssltest/analyze.html?d=nitter.kling.gg)
+| [twt.funami.tech](https://twt.funami.tech) | ✅ | ✅ | 🇰🇷 | [Let's Encrypt](https://www.ssllabs.com/ssltest/analyze.html?d=twt.funami.tech)
 
 ### Tor
 | URL                                                                                                                                                      |    |
@@ -197,7 +198,6 @@ Note: Please add new instances to the bottom to preserve the order.
 | [3nzoldnxpl...oad.onion](http://3nzoldnxplag42gqjs23xvghtzf6t6yzssrtytnntc6ppc7xxuoneoad.onion/) | | 2022-10-20 |
 | [twtr.bch.bar](https://twtr.bch.bar)                    | 🌏      | 2022-11-02   |
 | [n.ramle.be](https://n.ramle.be)                        | 🇧🇪      | 2022-11-03   |
-| [twt.funami.tech](https://twt.funami.tech)              | 🇰🇷      | 2022-11-22   |
 | [nitter.ca](https://nitter.ca)                          | 🇨🇦      | 2022-11-26   |
 
 ## Third-party Nitter services
