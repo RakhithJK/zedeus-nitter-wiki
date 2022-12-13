@@ -21,6 +21,7 @@
 | iPhone: [Redirector Shortcut](https://www.icloud.com/shortcuts/3e90ac68c77b45eb82cb18dab519ff76) | Twitter                                  | iPhone shortcut                                               |
 | iPhone: [Privacy Redirect](https://apps.apple.com/app/privacy-redirect/id1578144015) | Twitter, Reddit, YouTube, Instagram, Google Translate, Google maps, Google Search, Medium | iPhone Safari Extension (iOS 15+) |
 | Android: [UntrackMe](https://f-droid.org/packages/app.fedilab.nitterizeme/)                      | Google Maps, Instagram, Twitter, YouTube | Android app. You can control which redirections and instances |
+| Android: [twitter2nitter](https://f-droid.org/uk/packages/eu.auct.twitter2nitter/)                      | Twitter | Android app. You can change nitter instance |
 
 ### Others
 #### Redirector
