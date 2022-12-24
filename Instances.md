@@ -108,6 +108,7 @@ Note: Please add new instances to the bottom to preserve the order.
 | [nitter.selfhostable.net](https://nitter.selfhostable.net) | ✅ | ✅ | 🇳🇱 | [Let's Encrypt](https://www.ssllabs.com/ssltest/analyze.html?d=nitter.selfhostable.net)
 | [nitter.kling.gg](https://nitter.kling.gg) | ✅ | ✅ | 🇳🇱 | [Let's Encrypt](https://www.ssllabs.com/ssltest/analyze.html?d=nitter.kling.gg)
 | [twt.funami.tech](https://twt.funami.tech) | ✅ | ✅ | 🇰🇷 | [Let's Encrypt](https://www.ssllabs.com/ssltest/analyze.html?d=twt.funami.tech)
+| [nitter.ktachibana.party](http://nitter.ktachibana.party) | ✅ | ✅ | 🇺🇸 | [Let's Encrypt](https://www.ssllabs.com/ssltest/analyze.html?d=nitter.ktachibana.party)
 
 ### Tor
 | URL                                                                                                                                                      |    |
