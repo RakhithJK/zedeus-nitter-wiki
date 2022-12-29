@@ -95,7 +95,7 @@ Note: Please add new instances to the bottom to preserve the order.
 | [nitter.drivet.xyz](https://nitter.drivet.xyz) | ✅ | ✅ | 🇫🇷 | [Let's Encrypt](https://www.ssllabs.com/ssltest/analyze.html?d=nitter.drivet.xyz) |
 | [nitter.pw](https://nitter.pw)               | ✅      | ✅       | 🌏      | [Let's Encrypt](https://www.ssllabs.com/ssltest/analyze.html?d=nitter.pw)        |
 | [nitter.nicfab.eu](https://nitter.nicfab.eu)               | ✅      | ✅       | 🇮🇹      | [Let's Encrypt](https://www.ssllabs.com/ssltest/analyze.html?d=nitter.nicfab.eu)        |
-| [bird.habedieeh.re](https://bird.habedieeh.re)               | ✅      | ✅       | 🇨🇦        | [Let's Encrypt](https://www.ssllabs.com/ssltest/analyze.html?d=bird.habedieeh.re)        |
+| [bird.habedieeh.re](https://bird.habedieeh.re)               | ❌      | ❌       | 🇨🇦        | [Let's Encrypt](https://www.ssllabs.com/ssltest/analyze.html?d=bird.habedieeh.re)        |
 | [nitter.hostux.net](https://nitter.hostux.net) | ✅ | ✅ | 🇫🇷 | [Let's Encrypt](https://www.ssllabs.com/ssltest/analyze.html?d=nitter.hostux.net) |
 | [nitter.adminforge.de](https://nitter.adminforge.de) | ✅ | ✅ | 🇩🇪 | [Let's Encrypt](https://www.ssllabs.com/ssltest/analyze.html?d=nitter.adminforge.de) |
 | [nitter.platypush.tech](https://nitter.platypush.tech) | ✅ | ✅ | 🇩🇪 | [Let's Encrypt](https://www.ssllabs.com/ssltest/analyze.html?d=nitter.platypush.tech) |
@@ -144,7 +144,7 @@ Note: Please add new instances to the bottom to preserve the order.
 | [r2eqimhkvxboaltbdsectoo3hkf476pyemsdykclexzajbfx5v6ojlyd.onion](http://r2eqimhkvxboaltbdsectoo3hkf476pyemsdykclexzajbfx5v6ojlyd.onion)        | ✅ |
 | [li7snkj6oituazbkr5clmilccwwumhd2dntbhttxomy4dfakeeoar4qd.onion](http://li7snkj6oituazbkr5clmilccwwumhd2dntbhttxomy4dfakeeoar4qd.onion)        | ✅ |
 | [a5xyidyppowvblric6k6nixgf2eqwnb7zzeaarj7slqbv7tb6ip5t3ad.onion](http://a5xyidyppowvblric6k6nixgf2eqwnb7zzeaarj7slqbv7tb6ip5t3ad.onion)        | ✅ |
-| [bird.habeehrhadazsw3izbrbilqajalfyqqln54mrja3iwpqxgcuxnus7eid.onion](http://bird.habeehrhadazsw3izbrbilqajalfyqqln54mrja3iwpqxgcuxnus7eid.onion)        | ✅ |
+| [bird.habeehrhadazsw3izbrbilqajalfyqqln54mrja3iwpqxgcuxnus7eid.onion](http://bird.habeehrhadazsw3izbrbilqajalfyqqln54mrja3iwpqxgcuxnus7eid.onion)        | ❌ |
 | [codeine3hsqnnkb3dsu6ft4tunlomr3lmuml5hcoqmfkgiqfv2brdqqd.onion](http://codeine3hsqnnkb3dsu6ft4tunlomr3lmuml5hcoqmfkgiqfv2brdqqd.onion)        | ✅ |
 | [nitter.g4c3eya4clenolymqbpgwz3q3tawoxw56yhzk4vugqrl6dtu3ejvhjid.onion](http://nitter.g4c3eya4clenolymqbpgwz3q3tawoxw56yhzk4vugqrl6dtu3ejvhjid.onion)        | ✅ |
 | [jdadsqkjereqronxzovgvd453snh5jsvo7mukfwt2feth353nobqotad.onion](http://jdadsqkjereqronxzovgvd453snh5jsvo7mukfwt2feth353nobqotad.onion)        | ✅ |
