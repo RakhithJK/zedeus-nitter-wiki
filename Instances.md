@@ -110,6 +110,7 @@ Note: Please add new instances to the bottom to preserve the order.
 | [twt.funami.tech](https://twt.funami.tech) | ✅ | ✅ | 🇰🇷 | [Let's Encrypt](https://www.ssllabs.com/ssltest/analyze.html?d=twt.funami.tech)
 | [nitter.ktachibana.party](http://nitter.ktachibana.party) | ✅ | ✅ | 🇺🇸 | [Let's Encrypt](https://www.ssllabs.com/ssltest/analyze.html?d=nitter.ktachibana.party)
 | [nitter.riverside.rocks](https://nitter.riverside.rocks) | ✅ | ✅ | 🇺🇸 | [Let's Encrypt](https://www.ssllabs.com/ssltest/analyze.html?d=nitter.riverside.rocks)
+| [bird.wilbvr.me](https://bird.wilbvr.me) | ✅ | ✅ | 🇳🇱 | [Let's Encrypt](https://www.ssllabs.com/ssltest/analyze.html?d=bird.wilbvr.me)
 
 ### Tor
 | URL                                                                                                                                                      |    |
