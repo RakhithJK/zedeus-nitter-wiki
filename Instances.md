@@ -111,6 +111,7 @@ Note: Please add new instances to the bottom to preserve the order.
 | [nitter.ktachibana.party](http://nitter.ktachibana.party) | ✅ | ✅ | 🇺🇸 | [Let's Encrypt](https://www.ssllabs.com/ssltest/analyze.html?d=nitter.ktachibana.party)
 | [nitter.riverside.rocks](https://nitter.riverside.rocks) | ✅ | ✅ | 🇺🇸 | [Let's Encrypt](https://www.ssllabs.com/ssltest/analyze.html?d=nitter.riverside.rocks)
 | [bird.wilbvr.me](https://bird.wilbvr.me) | ✅ | ✅ | 🇳🇱 | [Let's Encrypt](https://www.ssllabs.com/ssltest/analyze.html?d=bird.wilbvr.me)
+| [nitter.girlboss.ceo](https://nitter.girlboss.ceo) | ✅ | ✅ | 🇺🇸 | [Let's Encrypt](https://www.ssllabs.com/ssltest/analyze.html?d=nitter.girlboss.ceo) |
 
 ### Tor
 | URL                                                                                                                                                      |    |
@@ -150,7 +151,7 @@ Note: Please add new instances to the bottom to preserve the order.
 | [codeine3hsqnnkb3dsu6ft4tunlomr3lmuml5hcoqmfkgiqfv2brdqqd.onion](http://codeine3hsqnnkb3dsu6ft4tunlomr3lmuml5hcoqmfkgiqfv2brdqqd.onion)        | ✅ |
 | [nitter.g4c3eya4clenolymqbpgwz3q3tawoxw56yhzk4vugqrl6dtu3ejvhjid.onion](http://nitter.g4c3eya4clenolymqbpgwz3q3tawoxw56yhzk4vugqrl6dtu3ejvhjid.onion)        | ✅ |
 | [jdadsqkjereqronxzovgvd453snh5jsvo7mukfwt2feth353nobqotad.onion](http://jdadsqkjereqronxzovgvd453snh5jsvo7mukfwt2feth353nobqotad.onion)        | ✅ |
-| [bird7z6qceabzvryhdbbdi4cmlxk75r5i7vzdaiw5yawofu6crir3cad.onion](http://bird7z6qceabzvryhdbbdi4cmlxk75r5i7vzdaiw5yawofu6crir3cad.onion) | ✅ |
+| [oawb4ub2x2jehgg7k7ll4uoay34re5nbbnwnztpphdec6wkcxgarwbad.onion](http://oawb4ub2x2jehgg7k7ll4uoay34re5nbbnwnztpphdec6wkcxgarwbad.onion) | ✅ |
 
 ### I2P
 -   [nitter.i2p](http://axd6uavsstsrvstva4mzlzh4ct76rc6zdug3nxdgeitrzczhzf4q.b32.i2p/)
