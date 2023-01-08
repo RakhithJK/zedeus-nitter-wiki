@@ -162,7 +162,7 @@ Note: Please add new instances to the bottom to preserve the order.
 -   [pxrhfmieeeqdu5pi4duscycsxqefqphaxgvvrvdtc3ckqn2mcora.b32.i2p](http://pxrhfmieeeqdu5pi4duscycsxqefqphaxgvvrvdtc3ckqn2mcora.b32.i2p/)
 -
 [bird.habedieehre.i2p]
-(http://4kzgzonccxuv4ctforjqx565jgd4bocgnzsy3dg4fmdf3ye2iciq.b32.i2p/
+(http://4kzgzonccxuv4ctforjqx565jgd4bocgnzsy3dg4fmdf3ye2iciq.b32.i2p/)
 ### Lokinet
 -   [nitter.priv.loki](http://nitter.priv.loki/)
 
