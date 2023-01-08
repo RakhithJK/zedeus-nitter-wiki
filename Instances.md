@@ -111,7 +111,8 @@ Note: Please add new instances to the bottom to preserve the order.
 | [nitter.ktachibana.party](http://nitter.ktachibana.party) | ✅ | ✅ | 🇺🇸 | [Let's Encrypt](https://www.ssllabs.com/ssltest/analyze.html?d=nitter.ktachibana.party)
 | [nitter.riverside.rocks](https://nitter.riverside.rocks) | ✅ | ✅ | 🇺🇸 | [Let's Encrypt](https://www.ssllabs.com/ssltest/analyze.html?d=nitter.riverside.rocks)
 | [bird.wilbvr.me](https://bird.wilbvr.me) | ✅ | ✅ | 🇳🇱 | [Let's Encrypt](https://www.ssllabs.com/ssltest/analyze.html?d=bird.wilbvr.me)
-| [nitter.girlboss.ceo](https://nitter.girlboss.ceo) | ✅ | ✅ | 🇺🇸 | [Let's Encrypt](https://www.ssllabs.com/ssltest/analyze.html?d=nitter.girlboss.ceo) |
+| [nitter.girlboss.ceo](https://nitter.girlboss.ceo) | ✅ | ✅ | 🇺🇸 | [Let's Encrypt](https://www.ssllabs.com/ssltest/analyze.html?d=nitter.girlboss.ceo)
+| [nitter.lunar.icu](https://nitter.lunar.icu) | ✅ | ✅ | 🇩🇪 | [Cloudflare](https://www.ssllabs.com/ssltest/analyze.html?d=nitter.lunar.icu) |
 
 ### Tor
 | URL                                                                                                                                                      |    |
@@ -192,7 +193,6 @@ Note: Please add new instances to the bottom to preserve the order.
 | [nitter.datatunnel.xyz](https://nitter.datatunnel.xyz)  | 🇫🇮      | 2022-05-12   |
 | [nitter.silkky.cloud](https://nitter.silkky.cloud)      | 🇫🇮      | 2022-05-23   |
 | [nitter.govt.land](https://nitter.govt.land)            | 🌏      | 2022-05-04   |
-| [nitter.lunar.icu](https://nitter.lunar.icu)            | 🇩🇪      | 2022-06-27   |
 | [nitter.mstdn.social](https://nitter.mstdn.social)      | 🇩🇪      | 2022-06-28   |
 | [nitter.oishi-ra.men](https://nitter.oishi-ra.men)      | 🇩🇪      | 2022-07-07   |
 | [nitter.mastodon.pro](https://nitter.mastodon.pro)      | 🇨🇭      | 2022-07-14   |
