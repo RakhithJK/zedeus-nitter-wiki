@@ -114,6 +114,7 @@ Note: Please add new instances to the bottom to preserve the order.
 | [nitter.girlboss.ceo](https://nitter.girlboss.ceo) | ✅ | ✅ | 🇺🇸 | [Let's Encrypt](https://www.ssllabs.com/ssltest/analyze.html?d=nitter.girlboss.ceo)
 | [nitter.lunar.icu](https://nitter.lunar.icu) | ✅ | ✅ | 🇩🇪 | [Cloudflare](https://www.ssllabs.com/ssltest/analyze.html?d=nitter.lunar.icu) |
 | [twitter.moe.ngo](https://twitter.moe.ngo) | ✅ | ✅ | 🇮🇩 | [Google Trust Services LLC](https://www.ssllabs.com/ssltest/analyze.html?d=twitter.moe.ngo) |
+| [nitter.freedit.eu](https://nitter.freedit.eu) | ✅ | ✅ | 🇺🇸 | [Let's Encrypt](https://www.ssllabs.com/ssltest/analyze.html?d=nitter.freedit.eu) |
 
 ### Tor
 | URL                                                                                                                                                      |    |
