@@ -66,7 +66,8 @@ Note: Please add new instances to the bottom to preserve the order.
 | [nitter.tokhmi.xyz](https://nitter.tokhmi.xyz)                       | ✅      | ✅       | 🇺🇸      | [Let's Encrypt](https://www.ssllabs.com/ssltest/analyze.html?d=nitter.tokhmi.xyz)            |
 | [nitter.catalyst.sx](https://nitter.catalyst.sx/)                    | ✅      | ✅       | 🇺🇸      | [Let's Encrypt](https://www.ssllabs.com/ssltest/analyze.html?d=nitter.catalyst.sx)           |
 | [unofficialbird.com](https://unofficialbird.com)                     | ✅      | ✅       | 🇺🇸      | [ZeroSSL](https://www.ssllabs.com/ssltest/analyze.html?d=unofficialbird.com)                 |
-| [nitter.projectsegfau.lt](https://nitter.projectsegfau.lt)           | ✅      | ✅       | 🇱🇺      | [Let's Encrypt](https://www.ssllabs.com/ssltest/analyze.html?d=nitter.projectsegfau.lt)      |
+| [nitter.projectsegfau.lt](https://nitter.projectsegfau.lt)           | ✅      | ✅       | GeoDNS  | [Let's Encrypt](https://www.ssllabs.com/ssltest/analyze.html?d=nitter.projectsegfau.lt)      |
+| [nitter.eu.projectsegfau.lt](https://nitter.eu.projectsegfau.lt)           | ✅      | ✅       | 🇱🇺      | [Let's Encrypt](https://www.ssllabs.com/ssltest/analyze.html?d=nitter.eu.projectsegfau.lt)      |
 | [singapore.unofficialbird.com](https://singapore.unofficialbird.com) | ✅      | ✅       | 🇸🇬      | [Let's Encrypt](https://www.ssllabs.com/ssltest/analyze.html?d=singapore.unofficialbird.com) |
 | [nitter.fprivacy.com](https://nitter.fprivacy.com)                   | ✅      | ✅       | 🇸🇬      | [Let's Encrypt](https://www.ssllabs.com/ssltest/analyze.html?d=nitter.fprivacy.com)          |
 | [canada.unofficialbird.com](https://canada.unofficialbird.com)       | ✅      | ✅       | 🇨🇦      | [Let's Encrypt](https://www.ssllabs.com/ssltest/analyze.html?d=canada.unofficialbird.com)    |
@@ -115,7 +116,8 @@ Note: Please add new instances to the bottom to preserve the order.
 | [nitter.lunar.icu](https://nitter.lunar.icu) | ✅ | ✅ | 🇩🇪 | [Cloudflare](https://www.ssllabs.com/ssltest/analyze.html?d=nitter.lunar.icu) |
 | [twitter.moe.ngo](https://twitter.moe.ngo) | ✅ | ✅ | 🇮🇩 | [Google Trust Services LLC](https://www.ssllabs.com/ssltest/analyze.html?d=twitter.moe.ngo) |
 | [nitter.freedit.eu](https://nitter.freedit.eu) | ✅ | ✅ | 🇺🇸 | [Let's Encrypt](https://www.ssllabs.com/ssltest/analyze.html?d=nitter.freedit.eu) |
-| [ntr.frail.duckdns.org](https://ntr.frail.duckdns.org) | ✅ | ✅ | 🇧🇷 | [Let's Encrypt](https://www.ssllabs.com/ssltest/analyze.html?d=ntr.frail.duckdns.org)    
+| [ntr.frail.duckdns.org](https://ntr.frail.duckdns.org) | ✅ | ✅ | 🇧🇷 | [Let's Encrypt](https://www.ssllabs.com/ssltest/analyze.html?d=ntr.frail.duckdns.org) 
+| [nitter.us.projectsegfau.lt](https://nitter.us.projectsegfau.lt)           | ✅      | ✅       | 🇺🇸      | [Let's Encrypt](https://www.ssllabs.com/ssltest/analyze.html?d=nitter.us.projectsegfau.lt)      |
 
 ### Tor
 | URL                                                                                                                                                      |    |
@@ -155,7 +157,8 @@ Note: Please add new instances to the bottom to preserve the order.
 | [codeine3hsqnnkb3dsu6ft4tunlomr3lmuml5hcoqmfkgiqfv2brdqqd.onion](http://codeine3hsqnnkb3dsu6ft4tunlomr3lmuml5hcoqmfkgiqfv2brdqqd.onion)        | ✅ |
 | [nitter.g4c3eya4clenolymqbpgwz3q3tawoxw56yhzk4vugqrl6dtu3ejvhjid.onion](http://nitter.g4c3eya4clenolymqbpgwz3q3tawoxw56yhzk4vugqrl6dtu3ejvhjid.onion)        | ✅ |
 | [jdadsqkjereqronxzovgvd453snh5jsvo7mukfwt2feth353nobqotad.onion](http://jdadsqkjereqronxzovgvd453snh5jsvo7mukfwt2feth353nobqotad.onion)        | ✅ |
-| [oawb4ub2x2jehgg7k7ll4uoay34re5nbbnwnztpphdec6wkcxgarwbad.onion](http://oawb4ub2x2jehgg7k7ll4uoay34re5nbbnwnztpphdec6wkcxgarwbad.onion) | ✅ |
+| [oawb4ub2x2jehgg7k7ll4uoay34re5nbbnwnztpphdec6wkcxgarwbad.onion](http://oawb4ub2x2jehgg7k7ll4uoay34re5nbbnwnztpphdec6wkcxgarwbad.onion) | ✅ 
+| [nitter.pjsfkvpxlinjamtawaksbnnaqs2fc2mtvmozrzckxh7f3kis6yea25ad.onion](http://nitter.pjsfkvpxlinjamtawaksbnnaqs2fc2mtvmozrzckxh7f3kis6yea25ad.onion/) | ✅ |
 
 ### I2P
 -   [nitter.i2p](http://axd6uavsstsrvstva4mzlzh4ct76rc6zdug3nxdgeitrzczhzf4q.b32.i2p/)
