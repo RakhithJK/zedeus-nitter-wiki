@@ -42,7 +42,6 @@ Note: Please add new instances to the bottom to preserve the order.
 | [nitter.cutelab.space](https://nitter.cutelab.space)                 | ✅      | ✅       | 🇺🇸      | [Sectigo](https://www.ssllabs.com/ssltest/analyze.html?d=nitter.cutelab.space)               |
 | [nitter.nl](https://nitter.nl)                                       | ✅      | ✅       | 🇳🇱      | [Let's Encrypt](https://www.ssllabs.com/ssltest/analyze.html?d=nitter.nl)                    |
 | [nitter.mint.lgbt](https://nitter.mint.lgbt)                         | ✅      | ✅       | 🇬🇧      | [Let's Encrypt](https://www.ssllabs.com/ssltest/analyze.html?d=nitter.mint.lgbt)             |
-| [nitter.bus-hit.me](https://nitter.bus-hit.me)                       | ✅      | ✅       | 🇨🇦      | [Let's Encrypt](https://www.ssllabs.com/ssltest/analyze.html?d=nitter.bus-hit.me)            |
 | [fuckthesacklers.network](https://fuckthesacklers.network) (anycast) | ✅      | ❌       | 🌏      | [Cloudflare](https://www.ssllabs.com/ssltest/analyze.html?d=fuckthesacklers.network)         |
 | [nitter.esmailelbob.xyz](https://nitter.esmailelbob.xyz)             | ✅      | ✅       | 🇨🇦      | [Let's Encrypt](https://www.ssllabs.com/ssltest/analyze.html?d=nitter.esmailelbob.xyz)       |
 | [tw.artemislena.eu](https://tw.artemislena.eu)                       | ✅      | ✅       | 🇩🇪      | [Let's Encrypt](https://www.ssllabs.com/ssltest/analyze.html?d=tw.artemislena.eu)            |
@@ -222,5 +221,9 @@ Note: Please add new instances to the bottom to preserve the order.
 Apparently spam: https://github.com/zedeus/nitter/issues/596
 | [Twitit](https://twitit.gq)                                   | Tracks all Nitter instances status and redirects to working ones |
 -->
-<!-- t.com.sb is now redirecting to random nitter instances -->
-<!-- updated by t.com.sb owner, when did we redirect? -->
+
+<!--
+| [nitter.bus-hit.me](https://nitter.bus-hit.me)                       | ✅      | ✅       | 🇨🇦      | [Let's Encrypt](https://www.ssllabs.com/ssltest/analyze.html?d=nitter.bus-hit.me)            | 
+taken down due to an issue regarding arm64
+was after nitter.mint.lgbt in order
+-->
