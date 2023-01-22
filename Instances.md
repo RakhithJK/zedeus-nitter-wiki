@@ -157,7 +157,7 @@ Note: Please add new instances to the bottom to preserve the order.
 | [codeine3hsqnnkb3dsu6ft4tunlomr3lmuml5hcoqmfkgiqfv2brdqqd.onion](http://codeine3hsqnnkb3dsu6ft4tunlomr3lmuml5hcoqmfkgiqfv2brdqqd.onion)        | ✅ |
 | [nitter.g4c3eya4clenolymqbpgwz3q3tawoxw56yhzk4vugqrl6dtu3ejvhjid.onion](http://nitter.g4c3eya4clenolymqbpgwz3q3tawoxw56yhzk4vugqrl6dtu3ejvhjid.onion)        | ✅ |
 | [jdadsqkjereqronxzovgvd453snh5jsvo7mukfwt2feth353nobqotad.onion](http://jdadsqkjereqronxzovgvd453snh5jsvo7mukfwt2feth353nobqotad.onion)        | ✅ |
-| [oawb4ub2x2jehgg7k7ll4uoay34re5nbbnwnztpphdec6wkcxgarwbad.onion](http://oawb4ub2x2jehgg7k7ll4uoay34re5nbbnwnztpphdec6wkcxgarwbad.onion) | ✅ 
+| [oawb4ub2x2jehgg7k7ll4uoay34re5nbbnwnztpphdec6wkcxgarwbad.onion](http://oawb4ub2x2jehgg7k7ll4uoay34re5nbbnwnztpphdec6wkcxgarwbad.onion) | ✅ |
 | [nitter.pjsfkvpxlinjamtawaksbnnaqs2fc2mtvmozrzckxh7f3kis6yea25ad.onion](http://nitter.pjsfkvpxlinjamtawaksbnnaqs2fc2mtvmozrzckxh7f3kis6yea25ad.onion/) | ✅ |
 
 ### I2P
@@ -167,7 +167,7 @@ Note: Please add new instances to the bottom to preserve the order.
 -   [tm4rwkeysv3zz3q5yacyr4rlmca2c4etkdobfvuqzt6vsfsu4weq.b32.i2p](http://tm4rwkeysv3zz3q5yacyr4rlmca2c4etkdobfvuqzt6vsfsu4weq.b32.i2p/)
 -   [nt.vern.i2p](http://vernzdedoxuflrrxc4vbatbkpjh4k22ecgiqgimdiif62onhagva.b32.i2p/)
 -   [pxrhfmieeeqdu5pi4duscycsxqefqphaxgvvrvdtc3ckqn2mcora.b32.i2p](http://pxrhfmieeeqdu5pi4duscycsxqefqphaxgvvrvdtc3ckqn2mcora.b32.i2p/)
-- [bird.habedieehre.i2p](http://4kzgzonccxuv4ctforjqx565jgd4bocgnzsy3dg4fmdf3ye2iciq.b32.i2p/)
+-   [bird.habedieehre.i2p](http://4kzgzonccxuv4ctforjqx565jgd4bocgnzsy3dg4fmdf3ye2iciq.b32.i2p/)
 ### Lokinet
 -   [nitter.priv.loki](http://nitter.priv.loki/)
 
