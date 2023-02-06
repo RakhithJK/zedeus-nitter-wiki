@@ -55,7 +55,7 @@ Note: Please add new instances to the bottom to preserve the order. In order to 
 | [nitter.dcs0.hu](https://nitter.dcs0.hu)                             | ✅      | ✅       | 🇭🇺      | [Let's Encrypt](https://www.ssllabs.com/ssltest/analyze.html?d=nitter.dcs0.hu)               |
 | [twitter.dr460nf1r3.org](https://twitter.dr460nf1r3.org/)            | ✅      | ✅       | 🇩🇪      | [Cloudflare](https://www.ssllabs.com/ssltest/analyze.html?d=twitter.dr460nf1r3.org)          |
 | [nitter.garudalinux.org](https://nitter.garudalinux.org/)            | ✅      | ✅       | 🇫🇮      | [Cloudflare](https://www.ssllabs.com/ssltest/analyze.html?d=nitter.garudalinux.org)          |
-| [twitter.beparanoid.de](https://twitter.beparanoid.de)               | ✅      | ✅       | 🇨🇭      | [Let's Encrypt](https://www.ssllabs.com/ssltest/analyze.html?d=twitter.beparanoid.de)        |
+| [twitter.femboy.hu](https://twitter.femboy.hu)                       | ✅      | ✅       | 🇭🇺      | [Let's Encrypt](https://www.ssllabs.com/ssltest/analyze.html?d=twitter.femboy.hu)        |
 | [nitter.cz](https://nitter.cz)                                       | ✅      | ✅       | 🇨🇿      | [Let's Encrypt](https://www.ssllabs.com/ssltest/analyze.html?d=nitter.cz)                    |
 | [nitter.privacydev.net](https://nitter.privacydev.net)               | ✅      | ✅       | 🇺🇸      | [Let's Encrypt](https://www.ssllabs.com/ssltest/analyze.html?d=nitter.privacydev.net)        |
 | [nitter.evil.site](https://nitter.evil.site)                         | ✅      | ✅       | 🇬🇧      | [Let's Encrypt](https://www.ssllabs.com/ssltest/analyze.html?d=nitter.evil.site)             |
