@@ -112,7 +112,7 @@ Note: Please add new instances to the bottom to preserve the order. In order to 
 | [ntr.frail.duckdns.org](https://ntr.frail.duckdns.org)               | ✅      | ✅       | 🇧🇷      | [Let's Encrypt](https://www.ssllabs.com/ssltest/analyze.html?d=ntr.frail.duckdns.org)        |
 | [nitter.us.projectsegfau.lt](https://nitter.us.projectsegfau.lt)     | ✅      | ✅       | 🇺🇸      | [Let's Encrypt](https://www.ssllabs.com/ssltest/analyze.html?d=nitter.us.projectsegfau.lt)   |
 | [nitter.librenode.org](https://nitter.librenode.org)                 | ✅      | ✅       | 🇩🇪      | [Let's Encrypt](https://www.ssllabs.com/ssltest/analyze.html?d=nitter.librenode.org)         |
-| [n.opnxng.com](n.opnxng.com)                 | ✅      | ✅       | 🇯🇵      | [Let's Encrypt](https://www.ssllabs.com/ssltest/analyze.html?d=n.opnxng.com)         |
+| [n.opnxng.com](https://n.opnxng.com)                                 | ✅      | ✅       | 🇯🇵      | [Let's Encrypt](https://www.ssllabs.com/ssltest/analyze.html?d=n.opnxng.com)         |
 
 ### Tor
 | URL                                                                                                                                                      |    |
