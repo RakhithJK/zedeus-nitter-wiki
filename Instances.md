@@ -105,7 +105,6 @@ Note: Please add new instances to the bottom to preserve the order. In order to 
 | [nitter.kling.gg](https://nitter.kling.gg)                           | ✅      | ✅       | 🇳🇱      | [Let's Encrypt](https://www.ssllabs.com/ssltest/analyze.html?d=nitter.kling.gg)              |
 | [nitter.ktachibana.party](http://nitter.ktachibana.party)            | ✅      | ✅       | 🇺🇸      | [Let's Encrypt](https://www.ssllabs.com/ssltest/analyze.html?d=nitter.ktachibana.party)      |
 | [nitter.riverside.rocks](https://nitter.riverside.rocks)             | ✅      | ✅       | 🇺🇸      | [Let's Encrypt](https://www.ssllabs.com/ssltest/analyze.html?d=nitter.riverside.rocks)       |
-| [bird.wilbvr.me](https://bird.wilbvr.me)                             | ✅      | ✅       | 🇳🇱      | [Let's Encrypt](https://www.ssllabs.com/ssltest/analyze.html?d=bird.wilbvr.me)               |
 | [nitter.girlboss.ceo](https://nitter.girlboss.ceo)                   | ✅      | ✅       | 🇺🇸      | [Let's Encrypt](https://www.ssllabs.com/ssltest/analyze.html?d=nitter.girlboss.ceo)          |
 | [nitter.lunar.icu](https://nitter.lunar.icu)                         | ✅      | ✅       | 🇩🇪      | [Cloudflare](https://www.ssllabs.com/ssltest/analyze.html?d=nitter.lunar.icu)                |
 | [twitter.moe.ngo](https://twitter.moe.ngo)                           | ✅      | ✅       | 🇮🇩      | [Google Trust Services LLC](https://www.ssllabs.com/ssltest/analyze.html?d=twitter.moe.ngo)  |
@@ -213,7 +212,8 @@ Note: Please add new instances to the bottom to preserve the order. In order to 
 | [nitter.marcopisco.com](https://nitter.marcopisco.com)  | 🇵🇹      | 2023-01-01   |
 | [nitter.hu](https://nitter.hu)                          | 🇭🇺      | 2023-01-01   |
 | [twt.funami.tech](https://twt.funami.tech)              | 🇰🇷      | 2023-01-10   |
-| [fuckthesacklers.network](https://fuckthesacklers.network) | 🌏    | 2023-01-13  |
+| [fuckthesacklers.network](https://fuckthesacklers.network) | 🌏   | 2023-01-13   |
+| [bird.wilbvr.me](https://bird.wilbvr.me)                | 🇳🇱      | Never Online |
 
 ## Third-party Nitter services
 | Name                                                          | Description                                                      |
