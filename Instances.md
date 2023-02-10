@@ -19,7 +19,6 @@ Note: Please add new instances to the bottom to preserve the order. In order to 
 | URL                                                                  | Online¹ | Updated² | Country | Issuer & SSLLabs verification link                                                           |
 | :------------------------------------------------------------------- | :------ | :------- | :------ | :------------------------------------------------------------------------------------------- |
 | [nitter.lacontrevoie.fr](https://nitter.lacontrevoie.fr/)            | ✅      | ✅       | 🇫🇷      | [Let's Encrypt](https://www.ssllabs.com/ssltest/analyze.html?d=nitter.lacontrevoie.fr)                |
-| [nitter.pussthecat.org](https://nitter.pussthecat.org)               | ✅      | ✅       | 🇩🇪      | [Let's Encrypt](https://www.ssllabs.com/ssltest/analyze.html?d=nitter.pussthecat.org)        |
 | [nitter.nixnet.services](https://nitter:nitter@nitter.nixnet.services) ([auth required](https://nixnet.services/blog/nitter-behind-http-basic-auth/)) | ✅ | ❌ | 🇩🇪 | [Let's Encrypt](https://www.ssllabs.com/ssltest/analyze.html?d=nitter.nixnet.services)    |
 | [nitter.fdn.fr](https://nitter.fdn.fr/)                              | ✅      | ❌       | 🇫🇷      | [Let's Encrypt](https://www.ssllabs.com/ssltest/analyze.html?d=nitter.fdn.fr)                |
 | [nitter.1d4.us](https://nitter.1d4.us/)                              | ✅      | ❌       | 🇺🇸      | [Let's Encrypt](https://www.ssllabs.com/ssltest/analyze.html?d=nitter.1d4.us)                |
@@ -214,6 +213,7 @@ Note: Please add new instances to the bottom to preserve the order. In order to 
 | [twt.funami.tech](https://twt.funami.tech)              | 🇰🇷      | 2023-01-10   |
 | [fuckthesacklers.network](https://fuckthesacklers.network) | 🌏   | 2023-01-13   |
 | [bird.wilbvr.me](https://bird.wilbvr.me)                | 🇳🇱      | Never Online |
+| [nitter.pussthecat.org](https://nitter.pussthecat.org)  | 🇩🇪      | 2023-02-09   |
 
 ## Third-party Nitter services
 | Name                                                          | Description                                                      |
