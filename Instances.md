@@ -200,10 +200,8 @@ Note: Please add new instances to the bottom to preserve the order. In order to 
 | [nitter.oishi-ra.men](https://nitter.oishi-ra.men)      | 🇩🇪      | 2022-07-07   |
 | [nitter.mastodon.pro](https://nitter.mastodon.pro)      | 🇨🇭      | 2022-07-14   |
 | [n.hyperborea.cloud](https://n.hyperborea.cloud)        | 🇨🇦      | 2022-07-23   |
-| [de.nttr.stream](https://de.nttr.stream)                | 🇩🇪      | 2022-08-21   |
 | [nitter.notraxx.ch](https://nitter.notraxx.ch)          | 🇩🇪      | 2022-09-13   |
 | [nitter.ebnar.xyz](https://nitter.ebnar.xyz)            | 🇩🇪      | 2022-09-16   |
-| [nttr.stream](https://nttr.stream)                      | 🇩🇪      | 2022-10-18   |
 | [3nzoldnxpl...oad.onion](http://3nzoldnxplag42gqjs23xvghtzf6t6yzssrtytnntc6ppc7xxuoneoad.onion/) | | 2022-10-20 |
 | [twtr.bch.bar](https://twtr.bch.bar)                    | 🌏      | 2022-11-02   |
 | [n.ramle.be](https://n.ramle.be)                        | 🇧🇪      | 2022-11-03   |
