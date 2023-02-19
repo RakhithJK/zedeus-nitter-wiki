@@ -211,6 +211,7 @@ Note: Please add new instances to the bottom to preserve the order. In order to 
 | [nitter.drivet.xyz](https://nitter.drivet.xyz)          | 🇫🇷      | 2023-02-03   |
 | [ntr.odyssey346.dev](https://ntr.odyssey346.dev)        | 🇵🇱      | 2023-02-09   |
 | [nitter.pussthecat.org](https://nitter.pussthecat.org)  | 🇩🇪      | 2023-02-09   |
+| [nitter.namazso.eu](https://nitter.namazso.eu)          | 🇩🇪      | 2023-02-19   |
 
 ## Third-party Nitter services
 | Name                                                          | Description                                                      |
