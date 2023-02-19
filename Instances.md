@@ -25,7 +25,6 @@ Note: Please add new instances to the bottom to preserve the order. In order to 
 | [nitter.kavin.rocks](https://nitter.kavin.rocks)                     | ✅      | ✅       | 🇮🇳      | [Let's Encrypt](https://www.ssllabs.com/ssltest/analyze.html?d=nitter.kavin.rocks)           |
 | [nitter.unixfox.eu](https://nitter.unixfox.eu)                       | ✅      | ✅       | 🇳🇱      | [Buypass AS-983163327](https://www.ssllabs.com/ssltest/analyze.html?d=nitter.unixfox.eu)     |
 | [nitter.domain.glass](https://nitter.domain.glass)                   | ✅      | ❌       | 🇺🇸      | [Cloudflare](https://www.ssllabs.com/ssltest/analyze.html?d=nitter.domain.glass)             |
-| [nitter.namazso.eu](https://nitter.namazso.eu)                       | ✅      | ✅       | 🇩🇪      | [Let's Encrypt](https://www.ssllabs.com/ssltest/analyze.html?d=nitter.namazso.eu)            |
 | [birdsite.xanny.family](https://birdsite.xanny.family) (anycast)     | ✅      | ✅       | 🌏      | [Cloudflare](https://www.ssllabs.com/ssltest/analyze.html?d=birdsite.xanny.family)           |
 | [nitter.moomoo.me](https://nitter.moomoo.me)                         | ✅      | ✅       | 🇺🇸      | [Let's Encrypt](https://www.ssllabs.com/ssltest/analyze.html?d=nitter.moomoo.me)             |
 | [bird.trom.tf](https://bird.trom.tf/)                                | ✅      | ❓       | 🇩🇪      | [Let's Encrypt](https://www.ssllabs.com/ssltest/analyze.html?d=bird.trom.tf)                 |
