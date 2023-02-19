@@ -105,11 +105,10 @@ Note: Please add new instances to the bottom to preserve the order. In order to 
 | [twitter.moe.ngo](https://twitter.moe.ngo)                           | ✅      | ✅       | 🇮🇩      | [Google Trust Services LLC](https://www.ssllabs.com/ssltest/analyze.html?d=twitter.moe.ngo)  |
 | [nitter.freedit.eu](https://nitter.freedit.eu)                       | ✅      | ✅       | 🇺🇸      | [Let's Encrypt](https://www.ssllabs.com/ssltest/analyze.html?d=nitter.freedit.eu)            |
 | [ntr.frail.duckdns.org](https://ntr.frail.duckdns.org)               | ✅      | ✅       | 🇧🇷      | [Let's Encrypt](https://www.ssllabs.com/ssltest/analyze.html?d=ntr.frail.duckdns.org)        |
-| [nitter.us.projectsegfau.lt](https://nitter.us.projectsegfau.lt)     | ✅      | ✅       | 🇺🇸      | [Let's Encrypt](https://www.ssllabs.com/ssltest/analyze.html?d=nitter.us.projectsegfau.lt)   |
 | [nitter.librenode.org](https://nitter.librenode.org)                 | ✅      | ✅       | 🇩🇪      | [Let's Encrypt](https://www.ssllabs.com/ssltest/analyze.html?d=nitter.librenode.org)         |
 | [n.opnxng.com](https://n.opnxng.com)                                 | ✅      | ✅       | 🇯🇵      | [Let's Encrypt](https://www.ssllabs.com/ssltest/analyze.html?d=n.opnxng.com)         |
 | [nitter.plus.st](https://nitter.plus.st)                       | ✅      | ✅       | 🇺🇸      | [Let's Encrypt](https://www.ssllabs.com/ssltest/analyze.html?d=nitter.plus.st)            |
-
+| [nitter.in.projectsegfau.lt](https://nitter.in.projectsegfau.lt)  | ✅ | ✅ | 🇮🇳 | [Let's Encrypt](https://www.ssllabs.com/ssltest/analyze.html?d=nitter.in.projectsegfau.lt)
 ### Tor
 | URL                                                                                                                                                      |    |
 | :------------------------------------------------------------------------------------------------------------------------------------------------------- | :- |
