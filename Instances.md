@@ -109,6 +109,7 @@ Note: Please add new instances to the bottom to preserve the order. In order to 
 | [nitter.us.projectsegfau.lt](https://nitter.us.projectsegfau.lt)     | ✅      | ✅       | 🇺🇸      | [Let's Encrypt](https://www.ssllabs.com/ssltest/analyze.html?d=nitter.us.projectsegfau.lt)   |
 | [nitter.librenode.org](https://nitter.librenode.org)                 | ✅      | ✅       | 🇩🇪      | [Let's Encrypt](https://www.ssllabs.com/ssltest/analyze.html?d=nitter.librenode.org)         |
 | [n.opnxng.com](https://n.opnxng.com)                                 | ✅      | ✅       | 🇯🇵      | [Let's Encrypt](https://www.ssllabs.com/ssltest/analyze.html?d=n.opnxng.com)         |
+| [nitter.plus.st](https://nitter.plus.st)                       | ✅      | ✅       | 🇺🇸      | [Let's Encrypt](https://www.ssllabs.com/ssltest/analyze.html?d=nitter.plus.st)            |
 
 ### Tor
 | URL                                                                                                                                                      |    |
@@ -212,7 +213,6 @@ Note: Please add new instances to the bottom to preserve the order. In order to 
 | [nitter.drivet.xyz](https://nitter.drivet.xyz)          | 🇫🇷      | 2023-02-03   |
 | [ntr.odyssey346.dev](https://ntr.odyssey346.dev)        | 🇵🇱      | 2023-02-09   |
 | [nitter.pussthecat.org](https://nitter.pussthecat.org)  | 🇩🇪      | 2023-02-09   |
-| [nitter.plus.st](https://nitter.plus.st)                | 🇺🇸      | Never Online |
 
 ## Third-party Nitter services
 | Name                                                          | Description                                                      |
