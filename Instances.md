@@ -109,6 +109,7 @@ Note: Please add new instances to the bottom to preserve the order. In order to 
 | [n.opnxng.com](https://n.opnxng.com)                                 | ✅      | ✅       | 🇯🇵      | [Let's Encrypt](https://www.ssllabs.com/ssltest/analyze.html?d=n.opnxng.com)         |
 | [nitter.plus.st](https://nitter.plus.st)                       | ✅      | ✅       | 🇺🇸      | [Let's Encrypt](https://www.ssllabs.com/ssltest/analyze.html?d=nitter.plus.st)            |
 | [nitter.in.projectsegfau.lt](https://nitter.in.projectsegfau.lt)  | ✅ | ✅ | 🇮🇳 | [Let's Encrypt](https://www.ssllabs.com/ssltest/analyze.html?d=nitter.in.projectsegfau.lt)
+| [nitter.tux.pizza](https://nitter.tux.pizza)  | ✅ | ✅ | 🇺🇸 | [Let's Encrypt](https://www.ssllabs.com/ssltest/analyze.html?d=nitter.tux.pizza)
 ### Tor
 | URL                                                                                                                                                      |    |
 | :------------------------------------------------------------------------------------------------------------------------------------------------------- | :- |
