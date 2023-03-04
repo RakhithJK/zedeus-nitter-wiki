@@ -80,7 +80,6 @@ Note: Please add new instances to the bottom to preserve the order. In order to 
 | [nitter.privacytools.io](https://nitter.privacytools.io)             | ✅      | ✅       | 🇸🇪      | [Cloudflare](https://www.ssllabs.com/ssltest/analyze.html?d=nitter.privacytools.io)          |
 | [nitter.sneed.network](https://nitter.sneed.network)                 | ✅      | ✅       | 🇦🇺      | [Cloudflare](https://www.ssllabs.com/ssltest/analyze.html?d=nitter.sneed.network)            |
 | [n.sneed.network](https://n.sneed.network)                           | ✅      | ✅       | 🇦🇺      | [Cloudflare](https://www.ssllabs.com/ssltest/analyze.html?d=n.sneed.network)                 |
-| [nitter.manasiwibi.com](https://nitter.manasiwibi.com)               | ✅      | ✅       | 🇸🇬      | [Let's Encrypt](https://www.ssllabs.com/ssltest/analyze.html?d=nitter.manasiwibi.com)        |
 | [nitter.smnz.de](https://nitter.smnz.de)                             | ✅      | ✅       | 🇩🇪      | [Let's Encrypt](https://www.ssllabs.com/ssltest/analyze.html?d=nitter.smnz.de)               |
 | [nitter.twei.space](https://nitter.twei.space)                       | ✅      | ✅       | 🇦🇹      | [Let's Encrypt](https://www.ssllabs.com/ssltest/analyze.html?d=nitter.twei.space)            |
 | [nitter.inpt.fr](https://nitter.inpt.fr)                             | ✅      | ✅       | 🇫🇷      | [Let's Encrypt](https://www.ssllabs.com/ssltest/analyze.html?d=nitter.inpt.fr)               |
@@ -143,7 +142,6 @@ Note: Please add new instances to the bottom to preserve the order. In order to 
 | [nt.vernccvbvyi5qhfzyqengccj7lkove6bjot2xhh5kajhwvidqafczrad.onion/](http://nt.vernccvbvyi5qhfzyqengccj7lkove6bjot2xhh5kajhwvidqafczrad.onion/)          | ✅ |
 | [tw.lpoaj7z2zkajuhgnlltpeqh3zyq7wk2iyeggqaduhgxhyajtdt2j7wad.onion](http://tw.lpoaj7z2zkajuhgnlltpeqh3zyq7wk2iyeggqaduhgxhyajtdt2j7wad.onion)            | ✅ |
 | [r2eqimhkvxboaltbdsectoo3hkf476pyemsdykclexzajbfx5v6ojlyd.onion](http://r2eqimhkvxboaltbdsectoo3hkf476pyemsdykclexzajbfx5v6ojlyd.onion)                  | ✅ |
-| [li7snkj6oituazbkr5clmilccwwumhd2dntbhttxomy4dfakeeoar4qd.onion](http://li7snkj6oituazbkr5clmilccwwumhd2dntbhttxomy4dfakeeoar4qd.onion)                  | ✅ |
 | [a5xyidyppowvblric6k6nixgf2eqwnb7zzeaarj7slqbv7tb6ip5t3ad.onion](http://a5xyidyppowvblric6k6nixgf2eqwnb7zzeaarj7slqbv7tb6ip5t3ad.onion)                  | ✅ |
 | [bird.habeehrhadazsw3izbrbilqajalfyqqln54mrja3iwpqxgcuxnus7eid.onion](http://bird.habeehrhadazsw3izbrbilqajalfyqqln54mrja3iwpqxgcuxnus7eid.onion)        | ✅ |
 | [codeine3hsqnnkb3dsu6ft4tunlomr3lmuml5hcoqmfkgiqfv2brdqqd.onion](http://codeine3hsqnnkb3dsu6ft4tunlomr3lmuml5hcoqmfkgiqfv2brdqqd.onion)                  | ✅ |
