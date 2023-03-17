@@ -53,7 +53,7 @@ Note: Please add new instances to the bottom to preserve the order. In order to 
 | [nitter.garudalinux.org](https://nitter.garudalinux.org/)            | ✅      | ✅       | 🇫🇮      | [Cloudflare](https://www.ssllabs.com/ssltest/analyze.html?d=nitter.garudalinux.org)          |
 | [twitter.femboy.hu](https://twitter.femboy.hu)                       | ✅      | ✅       | 🇭🇺      | [Let's Encrypt](https://www.ssllabs.com/ssltest/analyze.html?d=twitter.femboy.hu)        |
 | [nitter.cz](https://nitter.cz)                                       | ✅      | ✅       | 🇨🇿      | [Let's Encrypt](https://www.ssllabs.com/ssltest/analyze.html?d=nitter.cz)                    |
-| [nitter.privacydev.net](https://nitter.privacydev.net)               | ✅      | ✅       | 🇺🇸      | [Let's Encrypt](https://www.ssllabs.com/ssltest/analyze.html?d=nitter.privacydev.net)        |
+| [nitter.privacydev.net](https://nitter.privacydev.net)               | ✅      | ✅       | 🇳🇱      | [Let's Encrypt](https://www.ssllabs.com/ssltest/analyze.html?d=nitter.privacydev.net)        |
 | [nitter.evil.site](https://nitter.evil.site)                         | ✅      | ✅       | 🇬🇧      | [Let's Encrypt](https://www.ssllabs.com/ssltest/analyze.html?d=nitter.evil.site)             |
 | [tweet.lambda.dance](https://tweet.lambda.dance)                     | ✅      | ✅       | 🇺🇸      | [Let's Encrypt](https://www.ssllabs.com/ssltest/analyze.html?d=tweet.lambda.dance)           |
 | [nitter.kylrth.com](https://nitter.kylrth.com)                       | ✅      | ✅       | 🇨🇦      | [Let's Encrypt](https://www.ssllabs.com/ssltest/analyze.html?d=nitter.kylrth.com)            |
