@@ -205,7 +205,6 @@ Note: Please add new instances to the bottom to preserve the order. In order to 
 | [nitter.fprivacy.com](https://nitter.fprivacy.com)      | 🇸🇬      | 2023-01-01   |
 | [nitter.marcopisco.com](https://nitter.marcopisco.com)  | 🇵🇹      | 2023-01-01   |
 | [nitter.hu](https://nitter.hu)                          | 🇭🇺      | 2023-01-01   |
-| [twt.funami.tech](https://twt.funami.tech)              | 🇰🇷      | 2023-01-10   |
 | [fuckthesacklers.network](https://fuckthesacklers.network) | 🌏   | 2023-01-13   |
 | [bird.wilbvr.me](https://bird.wilbvr.me)                | 🇳🇱      | Never Online |
 | [nitter.mask.sh](https://nitter.mask.sh)                | 🇺🇸      | 2023-01-29   |
