@@ -111,6 +111,7 @@ Note: Please add new instances to the bottom to preserve the order. In order to 
 | [nitter.tux.pizza](https://nitter.tux.pizza)  | ✅ | ✅ | 🇺🇸 | [Let's Encrypt](https://www.ssllabs.com/ssltest/analyze.html?d=nitter.tux.pizza)
 | [t.floss.media](https://t.floss.media)  | ✅ | ✅ | 🇫🇮 | [Let's Encrypt](https://www.ssllabs.com/ssltest/analyze.html?d=t.floss.media)
 | [twit.hell.rodeo](https://twit.hell.rodeo)  | ✅ | ✅ | 🇩🇪 | [Let's Encrypt](https://www.ssllabs.com/ssltest/analyze.html?d=twit.hell.rodeo&s=23.88.54.14&latest)
+| [twt.funami.tech](https://twt.funami.tech)  | ✅ | ✅ | 🇰🇷 | [Let's Encrypt](https://www.ssllabs.com/ssltest/analyze.html?d=twt.funami.tech)
 ### Tor
 | URL                                                                                                                                                      |    |
 | :------------------------------------------------------------------------------------------------------------------------------------------------------- | :- |
