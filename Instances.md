@@ -214,6 +214,7 @@ Note: Please add new instances to the bottom to preserve the order. In order to 
 | [ntr.odyssey346.dev](https://ntr.odyssey346.dev)        | 🇵🇱      | 2023-02-09   |
 | [nitter.pussthecat.org](https://nitter.pussthecat.org)  | 🇩🇪      | 2023-02-09   |
 | [nitter.namazso.eu](https://nitter.namazso.eu)          | 🇩🇪      | 2023-02-19   |
+| [nitter.girlboss.ceo](https://nitter.girlboss.ceo)      | 🇺🇸      | 2023-03-20   |
 
 ## Third-party Nitter services
 | Name                                                          | Description                                                      |
