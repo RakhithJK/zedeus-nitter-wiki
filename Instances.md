@@ -113,7 +113,7 @@ Note: Please add new instances to the bottom to preserve the order. In order to 
 | [nitter.edist.ro](https://nitter.edist.ro)                           | ✅      | ✅       | 🇩🇪      | [Let's Encrypt](https://www.ssllabs.com/ssltest/analyze.html?d=nitter.edist.ro)              |
 | [twt.funami.tech](https://twt.funami.tech)                           | ✅      | ✅       | 🇰🇷      | [Let's Encrypt](https://www.ssllabs.com/ssltest/analyze.html?d=twt.funami.tech)              |
 | [nitter.nachtalb.io](https://nitter.nachtalb.io)                     | ✅      | ✅       | 🇨🇭      | [Cloudflare](https://www.ssllabs.com/ssltest/analyze.html?d=nitter.nachtalb.io)              |
-
+| [n.quadtr.ee](https://n.quadtr.ee)                                   | ✅      | ✅       | 🇺🇸      | [Cloudflare](https://www.ssllabs.com/ssltest/analyze.html?d=n.quadtr.ee)                     |
 
 ### Tor
 | URL                                                                                                                                                      |    |
