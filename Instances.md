@@ -58,9 +58,9 @@ Note: Please add new instances to the bottom to preserve the order. In order to 
 | [tweet.lambda.dance](https://tweet.lambda.dance)                     | ✅      | ❌       | 🇺🇸      | [Let's Encrypt](https://www.ssllabs.com/ssltest/analyze.html?d=tweet.lambda.dance)           |
 | [nitter.kylrth.com](https://nitter.kylrth.com)                       | ✅      | ✅       | 🇨🇦      | [Let's Encrypt](https://www.ssllabs.com/ssltest/analyze.html?d=nitter.kylrth.com)            |
 | [nitter.foss.wtf](https://nitter.foss.wtf)                           | ✅      | ✅       | 🇩🇪      | [Let's Encrypt](https://www.ssllabs.com/ssltest/analyze.html?d=nitter.foss.wtf)              |
-| [nitter.priv.pw](https://nitter.priv.pw)                             | ✅      | ✅       | 🇩🇪      | [Let's Encrypt](https://www.ssllabs.com/ssltest/analyze.html?d=nitter.priv.pw)               |
-| [nitter.tokhmi.xyz](https://nitter.tokhmi.xyz)                       | ✅      | ✅       | 🇺🇸      | [Let's Encrypt](https://www.ssllabs.com/ssltest/analyze.html?d=nitter.tokhmi.xyz)            |
-| [nitter.catalyst.sx](https://nitter.catalyst.sx/)                    | ✅      | ✅       | 🇺🇸      | [Let's Encrypt](https://www.ssllabs.com/ssltest/analyze.html?d=nitter.catalyst.sx)           |
+| [nitter.priv.pw](https://nitter.priv.pw)                             | ❌      | ✅       | 🇩🇪      | [Let's Encrypt](https://www.ssllabs.com/ssltest/analyze.html?d=nitter.priv.pw)               |
+| [nitter.tokhmi.xyz](https://nitter.tokhmi.xyz)                       | ✅      | ❌       | 🇺🇸      | [Let's Encrypt](https://www.ssllabs.com/ssltest/analyze.html?d=nitter.tokhmi.xyz)            |
+| [nitter.catalyst.sx](https://nitter.catalyst.sx/)                    | ❌      | ✅       | 🇺🇸      | [Let's Encrypt](https://www.ssllabs.com/ssltest/analyze.html?d=nitter.catalyst.sx)           |
 | [unofficialbird.com](https://unofficialbird.com)                     | ✅      | ✅       | 🇺🇸      | [ZeroSSL](https://www.ssllabs.com/ssltest/analyze.html?d=unofficialbird.com)                 |
 | [nitter.projectsegfau.lt](https://nitter.projectsegfau.lt)           | ✅      | ✅       | GeoDNS  | [Let's Encrypt](https://www.ssllabs.com/ssltest/analyze.html?d=nitter.projectsegfau.lt)      |
 | [nitter.eu.projectsegfau.lt](https://nitter.eu.projectsegfau.lt)     | ✅      | ✅       | 🇱🇺      | [Let's Encrypt](https://www.ssllabs.com/ssltest/analyze.html?d=nitter.eu.projectsegfau.lt)   |
@@ -69,7 +69,7 @@ Note: Please add new instances to the bottom to preserve the order. In order to 
 | [india.unofficialbird.com](https://india.unofficialbird.com)         | ✅      | ✅       | 🇮🇳      | [Let's Encrypt](https://www.ssllabs.com/ssltest/analyze.html?d=india.unofficialbird.com)     |
 | [nederland.unofficialbird.com](https://nederland.unofficialbird.com) | ✅      | ✅       | 🇳🇱      | [Let's Encrypt](https://www.ssllabs.com/ssltest/analyze.html?d=nederland.unofficialbird.com) |
 | [uk.unofficialbird.com](https://uk.unofficialbird.com)               | ✅      | ✅       | 🇬🇧      | [Let's Encrypt](https://www.ssllabs.com/ssltest/analyze.html?d=uk.unofficialbird.com)        |
-| [n.l5.ca](https://n.l5.ca)                                           | ✅      | ✅       | 🇺🇸      | [Let's Encrypt](https://www.ssllabs.com/ssltest/analyze.html?d=n.l5.ca)                      |
+| [n.l5.ca](https://n.l5.ca)                                           | ✅      | ❌       | 🇺🇸      | [Let's Encrypt](https://www.ssllabs.com/ssltest/analyze.html?d=n.l5.ca)                      |
 | [nitter.slipfox.xyz](https://nitter.slipfox.xyz)                     | ✅      | ✅       | 🇺🇸      | [Let's Encrypt](https://www.ssllabs.com/ssltest/analyze.html?d=nitter.slipfox.xyz)           |
 | [nitter.soopy.moe](https://nitter.soopy.moe)                         | ✅      | ✅       | 🇭🇰      | [Let's Encrypt](https://www.ssllabs.com/ssltest/analyze.html?d=nitter.soopy.moe)             |
 | [nitter.qwik.space](https://nitter.qwik.space)                       | ✅      | ✅       | 🇸🇪      | [Let's Encrypt](https://www.ssllabs.com/ssltest/analyze.html?d=nitter.qwik.space)            |
