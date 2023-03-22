@@ -71,12 +71,12 @@ Note: Please add new instances to the bottom to preserve the order. In order to 
 | [uk.unofficialbird.com](https://uk.unofficialbird.com)               | ✅      | ✅       | 🇬🇧      | [Let's Encrypt](https://www.ssllabs.com/ssltest/analyze.html?d=uk.unofficialbird.com)        |
 | [n.l5.ca](https://n.l5.ca)                                           | ✅      | ❌       | 🇺🇸      | [Let's Encrypt](https://www.ssllabs.com/ssltest/analyze.html?d=n.l5.ca)                      |
 | [nitter.slipfox.xyz](https://nitter.slipfox.xyz)                     | ✅      | ✅       | 🇺🇸      | [Let's Encrypt](https://www.ssllabs.com/ssltest/analyze.html?d=nitter.slipfox.xyz)           |
-| [nitter.soopy.moe](https://nitter.soopy.moe)                         | ✅      | ✅       | 🇭🇰      | [Let's Encrypt](https://www.ssllabs.com/ssltest/analyze.html?d=nitter.soopy.moe)             |
+| [nitter.soopy.moe](https://nitter.soopy.moe)                         | ✅      | ❌       | 🇭🇰      | [Let's Encrypt](https://www.ssllabs.com/ssltest/analyze.html?d=nitter.soopy.moe)             |
 | [nitter.qwik.space](https://nitter.qwik.space)                       | ✅      | ✅       | 🇸🇪      | [Let's Encrypt](https://www.ssllabs.com/ssltest/analyze.html?d=nitter.qwik.space)            |
 | [read.whatever.social](https://read.whatever.social)                 | ✅      | ✅       | 🇺🇸      | [Let's Encrypt](https://www.ssllabs.com/ssltest/analyze.html?d=read.whatever.social)         |
 | [nitter.rawbit.ninja](https://nitter.rawbit.ninja)                   | ✅      | ✅       | 🇺🇸      | [Cloudflare](https://www.ssllabs.com/ssltest/analyze.html?d=nitter.rawbit.ninja)             |
-| [nt.vern.cc](https://nt.vern.cc)                                     | ✅      | ✅       | 🇺🇸      | [Let's Encrypt](https://www.ssllabs.com/ssltest/analyze.html?d=nt.vern.cc)                   |
-| [nitter.ir](https://nitter.ir)                                       | ✅      | ✅       | 🇺🇸      | [Let's Encrypt](https://www.ssllabs.com/ssltest/analyze.html?d=nitter.ir)                    |
+| [nt.vern.cc](https://nt.vern.cc)                                     | ✅      | ❌       | 🇺🇸      | [Let's Encrypt](https://www.ssllabs.com/ssltest/analyze.html?d=nt.vern.cc)                   |
+| [nitter.ir](https://nitter.ir)                                       | ✅      | ❌       | 🇺🇸      | [Let's Encrypt](https://www.ssllabs.com/ssltest/analyze.html?d=nitter.ir)                    |
 | [nitter.privacytools.io](https://nitter.privacytools.io)             | ✅      | ✅       | 🇸🇪      | [Cloudflare](https://www.ssllabs.com/ssltest/analyze.html?d=nitter.privacytools.io)          |
 | [nitter.sneed.network](https://nitter.sneed.network)                 | ✅      | ✅       | 🇦🇺      | [Cloudflare](https://www.ssllabs.com/ssltest/analyze.html?d=nitter.sneed.network)            |
 | [n.sneed.network](https://n.sneed.network)                           | ✅      | ✅       | 🇦🇺      | [Cloudflare](https://www.ssllabs.com/ssltest/analyze.html?d=n.sneed.network)                 |
@@ -108,7 +108,7 @@ Note: Please add new instances to the bottom to preserve the order. In order to 
 | [nitter.plus.st](https://nitter.plus.st)                             | ✅      | ✅       | 🇺🇸      | [Let's Encrypt](https://www.ssllabs.com/ssltest/analyze.html?d=nitter.plus.st)               |
 | [nitter.in.projectsegfau.lt](https://nitter.in.projectsegfau.lt)     | ✅      | ✅       | 🇮🇳      | [Let's Encrypt](https://www.ssllabs.com/ssltest/analyze.html?d=nitter.in.projectsegfau.lt)   |
 | [nitter.tux.pizza](https://nitter.tux.pizza)                         | ✅      | ✅       | 🇺🇸      | [Let's Encrypt](https://www.ssllabs.com/ssltest/analyze.html?d=nitter.tux.pizza)             |
-| [t.floss.media](https://t.floss.media)                               | ✅      | ✅       | 🇫🇮      | [Let's Encrypt](https://www.ssllabs.com/ssltest/analyze.html?d=t.floss.media)                |
+| [t.floss.media](https://t.floss.media)                               | ❌      | ✅       | 🇫🇮      | [Let's Encrypt](https://www.ssllabs.com/ssltest/analyze.html?d=t.floss.media)                |
 | [twit.hell.rodeo](https://twit.hell.rodeo)                           | ✅      | ✅       | 🇩🇪      | [Let's Encrypt](https://www.ssllabs.com/ssltest/analyze.html?d=twit.hell.rodeo)              |
 | [nitter.edist.ro](https://nitter.edist.ro)                           | ✅      | ✅       | 🇩🇪      | [Let's Encrypt](https://www.ssllabs.com/ssltest/analyze.html?d=nitter.edist.ro)              |
 | [twt.funami.tech](https://twt.funami.tech)                           | ✅      | ✅       | 🇰🇷      | [Let's Encrypt](https://www.ssllabs.com/ssltest/analyze.html?d=twt.funami.tech)              |
