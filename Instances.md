@@ -117,6 +117,7 @@ Note: Please add new instances to the bottom to preserve the order. In order to 
 | [n.quadtr.ee](https://n.quadtr.ee)                                   | ✅      | ✅       | 🇺🇸      | [Cloudflare](https://www.ssllabs.com/ssltest/analyze.html?d=n.quadtr.ee)                     |
 | [nitter.altgr.xyz](https://nitter.altgr.xyz)                                   | ✅      | ✅       | 🇨🇱      | [Cloudflare](https://www.ssllabs.com/ssltest/analyze.html?d=nitter.altgr.xyz)                     |
 | [jote.lile.cl](https://jote.lile.cl)                                   | ✅      | ✅       | 🇨🇱      | [Cloudflare](https://www.ssllabs.com/ssltest/analyze.html?d=jote.lile.cl)                     |
+| [nitter.one](https://nitter.one)                                   | ✅      | ✅       | 🇸🇪      | [Let's Encrypt](https://www.ssllabs.com/ssltest/analyze.html?d=nitter.one)                     |
 
 ### Tor
 | URL                                                                                                                                                      |    |
