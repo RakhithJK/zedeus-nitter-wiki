@@ -99,6 +99,7 @@ Note: Please add new instances to the bottom to preserve the order. In order to 
 | [nitter.kling.gg](https://nitter.kling.gg)                           | ✅      | ✅       | 🇳🇱      | [Let's Encrypt](https://www.ssllabs.com/ssltest/analyze.html?d=nitter.kling.gg)              |
 | [nitter.ktachibana.party](http://nitter.ktachibana.party)            | ✅      | ✅       | 🇺🇸      | [Let's Encrypt](https://www.ssllabs.com/ssltest/analyze.html?d=nitter.ktachibana.party)      |
 | [nitter.riverside.rocks](https://nitter.riverside.rocks)             | ✅      | ✅       | 🇺🇸      | [Let's Encrypt](https://www.ssllabs.com/ssltest/analyze.html?d=nitter.riverside.rocks)       |
+| [ntr.odyssey346.dev](https://ntr.odyssey346.dev)             | ✅      | ✅       | 🇫🇷       | [Let's Encrypt](https://www.ssllabs.com/ssltest/analyze.html?d=ntr.odyssey346.dev)       |
 | [nitter.lunar.icu](https://nitter.lunar.icu)                         | ✅      | ✅       | 🇩🇪      | [Cloudflare](https://www.ssllabs.com/ssltest/analyze.html?d=nitter.lunar.icu)                |
 | [twitter.moe.ngo](https://twitter.moe.ngo)                           | ✅      | ✅       | 🇮🇩      | [Google Trust Services LLC](https://www.ssllabs.com/ssltest/analyze.html?d=twitter.moe.ngo)  |
 | [nitter.freedit.eu](https://nitter.freedit.eu)                       | ✅      | ✅       | 🇺🇸      | [Let's Encrypt](https://www.ssllabs.com/ssltest/analyze.html?d=nitter.freedit.eu)            |
@@ -214,7 +215,6 @@ Note: Please add new instances to the bottom to preserve the order. In order to 
 | [bird.wilbvr.me](https://bird.wilbvr.me)                | 🇳🇱      | Never Online |
 | [nitter.mask.sh](https://nitter.mask.sh)                | 🇺🇸      | 2023-01-29   |
 | [nitter.drivet.xyz](https://nitter.drivet.xyz)          | 🇫🇷      | 2023-02-03   |
-| [ntr.odyssey346.dev](https://ntr.odyssey346.dev)        | 🇵🇱      | 2023-02-09   |
 | [nitter.pussthecat.org](https://nitter.pussthecat.org)  | 🇩🇪      | 2023-02-09   |
 | [nitter.namazso.eu](https://nitter.namazso.eu)          | 🇩🇪      | 2023-02-19   |
 | [nitter.girlboss.ceo](https://nitter.girlboss.ceo)      | 🇺🇸      | 2023-03-20   |
