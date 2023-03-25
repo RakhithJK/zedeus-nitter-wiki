@@ -108,7 +108,7 @@ Note: Please add new instances to the bottom to preserve the order. In order to 
 | [nitter.plus.st](https://nitter.plus.st)                             | ✅      | ✅       | 🇺🇸      | [Let's Encrypt](https://www.ssllabs.com/ssltest/analyze.html?d=nitter.plus.st)               |
 | [nitter.in.projectsegfau.lt](https://nitter.in.projectsegfau.lt)     | ✅      | ✅       | 🇮🇳      | [Let's Encrypt](https://www.ssllabs.com/ssltest/analyze.html?d=nitter.in.projectsegfau.lt)   |
 | [nitter.tux.pizza](https://nitter.tux.pizza)                         | ✅      | ✅       | 🇺🇸      | [Let's Encrypt](https://www.ssllabs.com/ssltest/analyze.html?d=nitter.tux.pizza)             |
-| [t.floss.media](https://t.floss.media)                               | ❌      | ✅       | 🇫🇮      | [Let's Encrypt](https://www.ssllabs.com/ssltest/analyze.html?d=t.floss.media)                |
+| [t.floss.media](https://t.floss.media)                               | ✅      | ✅       | 🇫🇮      | [Let's Encrypt](https://www.ssllabs.com/ssltest/analyze.html?d=t.floss.media)                |
 | [twit.hell.rodeo](https://twit.hell.rodeo)                           | ✅      | ✅       | 🇩🇪      | [Let's Encrypt](https://www.ssllabs.com/ssltest/analyze.html?d=twit.hell.rodeo)              |
 | [nitter.edist.ro](https://nitter.edist.ro)                           | ✅      | ✅       | 🇩🇪      | [Let's Encrypt](https://www.ssllabs.com/ssltest/analyze.html?d=nitter.edist.ro)              |
 | [twt.funami.tech](https://twt.funami.tech)                           | ✅      | ✅       | 🇰🇷      | [Let's Encrypt](https://www.ssllabs.com/ssltest/analyze.html?d=twt.funami.tech)              |
