@@ -39,7 +39,7 @@ Note: Please add new instances to the bottom to preserve the order. In order to 
 | [nitter.cutelab.space](https://nitter.cutelab.space)                 | ✅      | ✅       | 🇺🇸      | [Let's Encrypt](https://www.ssllabs.com/ssltest/analyze.html?d=nitter.cutelab.space)         |
 | [nitter.nl](https://nitter.nl)                                       | ✅      | ✅       | 🇳🇱      | [Let's Encrypt](https://www.ssllabs.com/ssltest/analyze.html?d=nitter.nl)                    |
 | [nitter.mint.lgbt](https://nitter.mint.lgbt)                         | ✅      | ✅       | 🇬🇧      | [Let's Encrypt](https://www.ssllabs.com/ssltest/analyze.html?d=nitter.mint.lgbt)             |
-| [nitter.bus-hit.me](https://nitter.bus-hit.me)                       | ✅      | ✅       | 🇨🇦      | [Let's Encrypt](https://www.ssllabs.com/ssltest/analyze.html?d=nitter.bus-hit.me)            |
+| [nitter.bus-hit.me](https://nitter.bus-hit.me)                       | ❌      | ✅       | 🇨🇦      | [Let's Encrypt](https://www.ssllabs.com/ssltest/analyze.html?d=nitter.bus-hit.me)            |
 | [nitter.esmailelbob.xyz](https://nitter.esmailelbob.xyz)             | ✅      | ✅       | 🇨🇦      | [Let's Encrypt](https://www.ssllabs.com/ssltest/analyze.html?d=nitter.esmailelbob.xyz)       |
 | [tw.artemislena.eu](https://tw.artemislena.eu)                       | ✅      | ✅       | 🇩🇪      | [Let's Encrypt](https://www.ssllabs.com/ssltest/analyze.html?d=tw.artemislena.eu)            |
 | [nitter.winscloud.net](https://nitter.winscloud.net)                 | ✅      | ❌       | 🇹🇭      | [Cloudflare](https://www.ssllabs.com/ssltest/analyze.html?d=nitter.winscloud.net)            |
@@ -51,7 +51,7 @@ Note: Please add new instances to the bottom to preserve the order. In order to 
 | [nitter.dcs0.hu](https://nitter.dcs0.hu)                             | ✅      | ✅       | 🇭🇺      | [Let's Encrypt](https://www.ssllabs.com/ssltest/analyze.html?d=nitter.dcs0.hu)               |
 | [twitter.dr460nf1r3.org](https://twitter.dr460nf1r3.org/)            | ✅      | ✅       | 🇩🇪      | [Cloudflare](https://www.ssllabs.com/ssltest/analyze.html?d=twitter.dr460nf1r3.org)          |
 | [nitter.garudalinux.org](https://nitter.garudalinux.org/)            | ✅      | ✅       | 🇫🇮      | [Cloudflare](https://www.ssllabs.com/ssltest/analyze.html?d=nitter.garudalinux.org)          |
-| [twitter.femboy.hu](https://twitter.femboy.hu)                       | ✅      | ✅       | 🇭🇺      | [Let's Encrypt](https://www.ssllabs.com/ssltest/analyze.html?d=twitter.femboy.hu)            |
+| [twitter.femboy.hu](https://twitter.femboy.hu)                       | ❌      | ✅       | 🇭🇺      | [Let's Encrypt](https://www.ssllabs.com/ssltest/analyze.html?d=twitter.femboy.hu)            |
 | [nitter.cz](https://nitter.cz)                                       | ✅      | ❌       | 🇨🇿      | [Let's Encrypt](https://www.ssllabs.com/ssltest/analyze.html?d=nitter.cz)                    |
 | [nitter.privacydev.net](https://nitter.privacydev.net)               | ✅      | ✅       | 🇳🇱      | [Let's Encrypt](https://www.ssllabs.com/ssltest/analyze.html?d=nitter.privacydev.net)        |
 | [nitter.evil.site](https://nitter.evil.site)                         | ❌      | ✅       | 🇬🇧      | [Let's Encrypt](https://www.ssllabs.com/ssltest/analyze.html?d=nitter.evil.site)             |
