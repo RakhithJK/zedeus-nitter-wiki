@@ -23,6 +23,10 @@
 | Android: [UntrackMe](https://f-droid.org/packages/app.fedilab.nitterizeme/)                      | Google Maps, Instagram, Twitter, YouTube | Android app. You can control which redirections and instances |
 | Android: [twitter2nitter](https://f-droid.org/uk/packages/eu.auct.twitter2nitter/)                      | Twitter | Android app. You can change nitter instance |
 
+### Userscripts
+#### [Privacy Redirector](https://github.com/dybdeskarphet/privacy-redirector)
+##### Redirects Twitter to Nitter, as well as Fandom to Breeze Wiki, YouTube to Invidious, etc.
+
 ### Others
 #### Redirector
 [Firefox](https://addons.mozilla.org/en-US/firefox/addon/redirector/) — [Chromium-based](https://chrome.google.com/webstore/detail/redirector/ocgpenflpmgnfapjedencafcfakcekcd) — [GitHub](https://github.com/einaregilsson/Redirector)
