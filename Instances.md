@@ -119,6 +119,7 @@ Note: Please add new instances to the bottom to preserve the order. In order to 
 | [nitter.instance.no](https://nitter.instance.no)                                   | ✅      | ✅       | 🇳🇴      | [Cloudflare](https://www.ssllabs.com/ssltest/analyze.html?d=nitter.instance.no)
 | [nitter.simpleprivacy.fr](https://nitter.simpleprivacy.fr/)                           | ✅      | ✅       | 🇫🇷      | [Let's Encrypt](https://www.ssllabs.com/ssltest/analyze.html?d=nitter.simpleprivacy.fr) 
 | [nitter.io.lol](https://nitter.io.lol/)                           | ✅      | ✅       | 🇺🇸      | [Let's Encrypt](https://www.ssllabs.com/ssltest/analyze.html?d=nitter.io.lol) 
+| [nitter.hu](https://nitter.hu)                                    | ✅      | ✅       | 🇭🇺      | [Let's Encrypt](https://www.ssllabs.com/ssltest/analyze.html?d=nitter.hu&latest)
 
 ### Tor
 | URL                                                                                                                                                      |    |
@@ -213,7 +214,6 @@ Note: Please add new instances to the bottom to preserve the order. In order to 
 | [nitter.ca](https://nitter.ca)                          | 🇨🇦      | 2022-11-26   |
 | [nitter.fprivacy.com](https://nitter.fprivacy.com)      | 🇸🇬      | 2023-01-01   |
 | [nitter.marcopisco.com](https://nitter.marcopisco.com)  | 🇵🇹      | 2023-01-01   |
-| [nitter.hu](https://nitter.hu)                          | 🇭🇺      | 2023-01-01   |
 | [fuckthesacklers.network](https://fuckthesacklers.network) | 🌏   | 2023-01-13   |
 | [bird.wilbvr.me](https://bird.wilbvr.me)                | 🇳🇱      | Never Online |
 | [nitter.mask.sh](https://nitter.mask.sh)                | 🇺🇸      | 2023-01-29   |
