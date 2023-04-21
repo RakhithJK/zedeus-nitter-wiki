@@ -57,7 +57,6 @@ Note: Please add new instances to the bottom to preserve the order. In order to 
 | [nitter.evil.site](https://nitter.evil.site)                         | ❌      | ✅       | 🇬🇧      | [Let's Encrypt](https://www.ssllabs.com/ssltest/analyze.html?d=nitter.evil.site)             |
 | [tweet.lambda.dance](https://tweet.lambda.dance)                     | ✅      | ❌       | 🇺🇸      | [Let's Encrypt](https://www.ssllabs.com/ssltest/analyze.html?d=tweet.lambda.dance)           |
 | [nitter.kylrth.com](https://nitter.kylrth.com)                       | ✅      | ✅       | 🇨🇦      | [Let's Encrypt](https://www.ssllabs.com/ssltest/analyze.html?d=nitter.kylrth.com)            |
-| [nitter.foss.wtf](https://nitter.foss.wtf)                           | ✅      | ✅       | 🇩🇪      | [Let's Encrypt](https://www.ssllabs.com/ssltest/analyze.html?d=nitter.foss.wtf)              |
 | [nitter.priv.pw](https://nitter.priv.pw)                             | ❌      | ✅       | 🇩🇪      | [Let's Encrypt](https://www.ssllabs.com/ssltest/analyze.html?d=nitter.priv.pw)               |
 | [nitter.tokhmi.xyz](https://nitter.tokhmi.xyz)                       | ✅      | ❌       | 🇺🇸      | [Let's Encrypt](https://www.ssllabs.com/ssltest/analyze.html?d=nitter.tokhmi.xyz)            |
 | [nitter.catalyst.sx](https://nitter.catalyst.sx/)                    | ❌      | ✅       | 🇺🇸      | [Let's Encrypt](https://www.ssllabs.com/ssltest/analyze.html?d=nitter.catalyst.sx)           |
@@ -104,7 +103,6 @@ Note: Please add new instances to the bottom to preserve the order. In order to 
 | [twitter.moe.ngo](https://twitter.moe.ngo)                           | ✅      | ✅       | 🇮🇩      | [Google Trust Services LLC](https://www.ssllabs.com/ssltest/analyze.html?d=twitter.moe.ngo)  |
 | [nitter.freedit.eu](https://nitter.freedit.eu)                       | ✅      | ✅       | 🇺🇸      | [Let's Encrypt](https://www.ssllabs.com/ssltest/analyze.html?d=nitter.freedit.eu)            |
 | [ntr.frail.duckdns.org](https://ntr.frail.duckdns.org)               | ✅      | ✅       | 🇧🇷      | [Let's Encrypt](https://www.ssllabs.com/ssltest/analyze.html?d=ntr.frail.duckdns.org)        |
-| [nitter.librenode.org](https://nitter.librenode.org)                 | ✅      | ✅       | 🇩🇪      | [Let's Encrypt](https://www.ssllabs.com/ssltest/analyze.html?d=nitter.librenode.org)         |
 | [n.opnxng.com](https://n.opnxng.com)                                 | ✅      | ✅       | 🇯🇵      | [Let's Encrypt](https://www.ssllabs.com/ssltest/analyze.html?d=n.opnxng.com)                 |
 | [nitter.plus.st](https://nitter.plus.st)                             | ✅      | ✅       | 🇺🇸      | [Let's Encrypt](https://www.ssllabs.com/ssltest/analyze.html?d=nitter.plus.st)               |
 | [nitter.in.projectsegfau.lt](https://nitter.in.projectsegfau.lt)     | ✅      | ✅       | 🇮🇳      | [Let's Encrypt](https://www.ssllabs.com/ssltest/analyze.html?d=nitter.in.projectsegfau.lt)   |
@@ -222,7 +220,10 @@ Note: Please add new instances to the bottom to preserve the order. In order to 
 | [nitter.drivet.xyz](https://nitter.drivet.xyz)          | 🇫🇷      | 2023-02-03   |
 | [nitter.pussthecat.org](https://nitter.pussthecat.org)  | 🇩🇪      | 2023-02-09   |
 | [nitter.namazso.eu](https://nitter.namazso.eu)          | 🇩🇪      | 2023-02-19   |
+| [nitter.manasiwibi.com](https://nitter.manasiwibi.com)  | 🇸🇬      | 2023-03-04   |
+| [nitter.librenode.org](https://nitter.librenode.org)    | 🇩🇪      | 2023-03-24   |
 | [nitter.girlboss.ceo](https://nitter.girlboss.ceo)      | 🇺🇸      | 2023-03-20   |
+| [nitter.foss.wtf](https://nitter.foss.wtf)              | 🇩🇪      | 2023-04-13   |
 
 ## Third-party Nitter services
 | Name                                                          | Description                                                      |
