@@ -116,7 +116,7 @@ Note: Please add new instances to the bottom to preserve the order. In order to 
 | [jote.lile.cl](https://jote.lile.cl)                                   | ✅      | ✅       | 🇨🇱      | [Cloudflare](https://www.ssllabs.com/ssltest/analyze.html?d=jote.lile.cl)                     |
 | [nitter.one](https://nitter.one)                                   | ✅      | ✅       | 🇸🇪      | [Let's Encrypt](https://www.ssllabs.com/ssltest/analyze.html?d=nitter.one)                     |
 | [nitter.edist.ro](https://nitter.edist.ro)                           | ✅      | ✅       | 🇩🇪      | [Let's Encrypt](https://www.ssllabs.com/ssltest/analyze.html?d=nitter.edist.ro)              |
-| [nitter.instance.no](https://nitter.instance.no)                                   | ✅      | ✅       | 🇳🇴      | [Cloudflare]
+| [nitter.instance.no](https://nitter.instance.no)                                   | ✅      | ✅       | 🇳🇴      | [Cloudflare](https://www.ssllabs.com/ssltest/analyze.html?d=nitter.instance.no)
 | [nitter.simpleprivacy.fr](https://nitter.simpleprivacy.fr/)                           | ✅      | ✅       | 🇫🇷      | [Let's Encrypt](https://www.ssllabs.com/ssltest/analyze.html?d=nitter.simpleprivacy.fr) 
 | [nitter.io.lol](https://nitter.io.lol/)                           | ✅      | ✅       | 🇺🇸      | [Let's Encrypt](https://www.ssllabs.com/ssltest/analyze.html?d=nitter.io.lol) 
 
