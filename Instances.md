@@ -120,6 +120,7 @@ Note: Please add new instances to the bottom to preserve the order. In order to 
 | [nitter.simpleprivacy.fr](https://nitter.simpleprivacy.fr/)                           | ✅      | ✅       | 🇫🇷      | [Let's Encrypt](https://www.ssllabs.com/ssltest/analyze.html?d=nitter.simpleprivacy.fr) 
 | [nitter.io.lol](https://nitter.io.lol/)                           | ✅      | ✅       | 🇺🇸      | [Let's Encrypt](https://www.ssllabs.com/ssltest/analyze.html?d=nitter.io.lol) 
 | [nitter.hu](https://nitter.hu)                                    | ✅      | ✅       | 🇭🇺      | [Let's Encrypt](https://www.ssllabs.com/ssltest/analyze.html?d=nitter.hu&latest)
+| [nitter.no-logs.com](https://nitter.no-logs.com)                                    | ✅      | ✅       | 🇸🇪      | [Let's Encrypt](https://www.ssllabs.com/ssltest/analyze.html?d=nitter.no-logs.com&latest)
 
 ### Tor
 | URL                                                                                                                                                      |    |
