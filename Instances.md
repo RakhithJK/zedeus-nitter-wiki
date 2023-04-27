@@ -55,7 +55,7 @@ Note: Please add new instances to the bottom to preserve the order. In order to 
 | [nitter.cz](https://nitter.cz)                                       | ✅      | ✅       | 🇨🇿      | [Let's Encrypt](https://www.ssllabs.com/ssltest/analyze.html?d=nitter.cz)                    |
 | [nitter.privacydev.net](https://nitter.privacydev.net)               | ✅      | ✅       | 🇩🇪      | [Let's Encrypt](https://www.ssllabs.com/ssltest/analyze.html?d=nitter.privacydev.net)        |
 | [nitter.evil.site](https://nitter.evil.site)                         | ❌      | ✅       | 🇬🇧      | [Let's Encrypt](https://www.ssllabs.com/ssltest/analyze.html?d=nitter.evil.site)             |
-| [tweet.lambda.dance](https://tweet.lambda.dance)                     | ✅      | ❌       | 🇺🇸      | [Let's Encrypt](https://www.ssllabs.com/ssltest/analyze.html?d=tweet.lambda.dance)           |
+| [tweet.lambda.dance](https://tweet.lambda.dance)                     | ✅      | ✅       | 🇺🇸      | [Let's Encrypt](https://www.ssllabs.com/ssltest/analyze.html?d=tweet.lambda.dance)           |
 | [nitter.kylrth.com](https://nitter.kylrth.com)                       | ✅      | ✅       | 🇨🇦      | [Let's Encrypt](https://www.ssllabs.com/ssltest/analyze.html?d=nitter.kylrth.com)            |
 | [nitter.priv.pw](https://nitter.priv.pw)                             | ❌      | ✅       | 🇩🇪      | [Let's Encrypt](https://www.ssllabs.com/ssltest/analyze.html?d=nitter.priv.pw)               |
 | [nitter.tokhmi.xyz](https://nitter.tokhmi.xyz)                       | ✅      | ❌       | 🇺🇸      | [Let's Encrypt](https://www.ssllabs.com/ssltest/analyze.html?d=nitter.tokhmi.xyz)            |
@@ -144,7 +144,7 @@ Note: Please add new instances to the bottom to preserve the order. In order to 
 | [twitter.ap3jtgssd7qn4vfoa62gi2ijddoblslbeuw5dan3xt7myvqpura5i4qd.onion](http://twitter.ap3jtgssd7qn4vfoa62gi2ijddoblslbeuw5dan3xt7myvqpura5i4qd.onion/) | ❌ |
 | [twitter.prnoid54e44a4bduq5due64jkk7wcnkxcp5kv3juncm7veptjcqudgyd.onion](http://twitter.prnoid54e44a4bduq5due64jkk7wcnkxcp5kv3juncm7veptjcqudgyd.onion/) | ❌ |
 | [nitter.micohauwkjbyw5meacrb4ipicwvwg4xtzl7y7viv53kig2mdcsvwkyyd.onion](http://nitter.micohauwkjbyw5meacrb4ipicwvwg4xtzl7y7viv53kig2mdcsvwkyyd.onion/)   | ❌ |
-| [fbdi323aj3t6hdx4jtkuwxrnafzskquciowu2yu3jizfssaq35aow6ad.onion](http://fbdi323aj3t6hdx4jtkuwxrnafzskquciowu2yu3jizfssaq35aow6ad.onion/)                 | ❌ |
+| [fbdi323aj3t6hdx4jtkuwxrnafzskquciowu2yu3jizfssaq35aow6ad.onion](http://fbdi323aj3t6hdx4jtkuwxrnafzskquciowu2yu3jizfssaq35aow6ad.onion/)                 | ✅ |
 | [nitterqdyumlovt7tjqpdjrluitgmtpa53qq3idlpgoe4kxo7gs3xvad.onion](http://nitterqdyumlovt7tjqpdjrluitgmtpa53qq3idlpgoe4kxo7gs3xvad.onion/)                 | ✅ |
 | [nitter.privpw3tndpkw6pnp3g727zfgfdzbu3k6a7chv226s3xymv2p4eiuqyd.onion](http://nitter.privpw3tndpkw6pnp3g727zfgfdzbu3k6a7chv226s3xymv2p4eiuqyd.onion/)   | ❌ |
 | [aaaaaxx74hbzeibageieowryhsqvimbdiitfkfe47tvgawkwkjh3coqd.onion](http://aaaaaxx74hbzeibageieowryhsqvimbdiitfkfe47tvgawkwkjh3coqd.onion/)                 | ✅ |
