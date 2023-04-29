@@ -96,7 +96,7 @@ Note: Please add new instances to the bottom to preserve the order. In order to 
 | [nitter.arcticfoxes.net](https://nitter.arcticfoxes.net)             | ✅      | ✅       | 🇬🇧      | [Let's Encrypt](https://www.ssllabs.com/ssltest/analyze.html?d=nitter.arcticfoxes.net)       |
 | [t.com.sb](https://t.com.sb/)                                        | ✅      | ✅       | 🇪🇪      | [ZeroSSL](https://www.ssllabs.com/ssltest/analyze.html?d=t.com.sb)                           |
 | [nitter.kling.gg](https://nitter.kling.gg)                           | ✅      | ✅       | 🇳🇱      | [Let's Encrypt](https://www.ssllabs.com/ssltest/analyze.html?d=nitter.kling.gg)              |
-| [nitter.ktachibana.party](http://nitter.ktachibana.party)            | ✅      | ✅       | 🇺🇸      | [Let's Encrypt](https://www.ssllabs.com/ssltest/analyze.html?d=nitter.ktachibana.party)      |
+| [nitter.ktachibana.party](https://nitter.ktachibana.party)            | ✅      | ✅       | 🇺🇸      | [Let's Encrypt](https://www.ssllabs.com/ssltest/analyze.html?d=nitter.ktachibana.party)      |
 | [nitter.riverside.rocks](https://nitter.riverside.rocks)             | ✅      | ✅       | 🇺🇸      | [Let's Encrypt](https://www.ssllabs.com/ssltest/analyze.html?d=nitter.riverside.rocks)       |
 | [ntr.odyssey346.dev](https://ntr.odyssey346.dev)             | ✅      | ✅       | 🇫🇷       | [Let's Encrypt](https://www.ssllabs.com/ssltest/analyze.html?d=ntr.odyssey346.dev)       |
 | [nitter.lunar.icu](https://nitter.lunar.icu)                         | ✅      | ✅       | 🇩🇪      | [Cloudflare](https://www.ssllabs.com/ssltest/analyze.html?d=nitter.lunar.icu)                |
