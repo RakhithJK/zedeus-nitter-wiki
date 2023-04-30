@@ -122,6 +122,7 @@ Note: Please add new instances to the bottom to preserve the order. In order to 
 | [nitter.hu](https://nitter.hu)                                    | ✅      | ✅       | 🇭🇺      | [Let's Encrypt](https://www.ssllabs.com/ssltest/analyze.html?d=nitter.hu&latest)
 | [nitter.no-logs.com](https://nitter.no-logs.com)                                    | ✅      | ✅       | 🇸🇪      | [Let's Encrypt](https://www.ssllabs.com/ssltest/analyze.html?d=nitter.no-logs.com&latest)
 | [tw.libb.pw](https://tw.libb.pw)                                   | ✅      | ✅       | 🇷🇴       | [Cloudflare](https://www.ssllabs.com/ssltest/analyze.html?d=tw.libb.pw)
+| [nitter.fascinated.cc](https://nitter.fascinated.cc)                                   | ✅      | ✅       | 🇩🇪       | [Cloudflare](https://www.ssllabs.com/ssltest/analyze.html?d=nitter.fascinated.cc)
 ### Tor
 | URL                                                                                                                                                      |    |
 | :------------------------------------------------------------------------------------------------------------------------------------------------------- | :- |
