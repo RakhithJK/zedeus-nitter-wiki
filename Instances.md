@@ -46,7 +46,7 @@ Note: Please add new instances to the bottom to preserve the order. In order to 
 | [nitter.tiekoetter.com](https://nitter.tiekoetter.com)               | ✅      | ✅       | 🇩🇪      | [Let's Encrypt](https://www.ssllabs.com/ssltest/analyze.html?d=nitter.tiekoetter.com)        |
 | [nitter.spaceint.fr](https://nitter.spaceint.fr)                     | ✅      | ✅       | 🇧🇪      | [Let's Encrypt](https://www.ssllabs.com/ssltest/analyze.html?d=nitter.spaceint.fr)           |
 | [nitter.privacy.com.de](https://nitter.privacy.com.de)               | ✅      | ✅       | 🇩🇪      | [ZeroSSL](https://www.ssllabs.com/ssltest/analyze.html?d=nitter.privacy.com.de)              |
-| [nitter.poast.org](https://nitter.poast.org/)                        | ✅      | ✅       | 🇺🇸      | [Let's Encrypt](https://www.ssllabs.com/ssltest/analyze.html?d=nitter.poast.org)             |
+| [nitter.poast.org](https://nitter.poast.org/)                        | ❌      | ✅       | 🇺🇸      | [Let's Encrypt](https://www.ssllabs.com/ssltest/analyze.html?d=nitter.poast.org)             |
 | [nitter.bird.froth.zone](https://nitter.bird.froth.zone)             | ✅      | ✅       | 🇨🇦      | [Let's Encrypt](https://www.ssllabs.com/ssltest/analyze.html?d=nitter.bird.froth.zone)       |
 | [nitter.dcs0.hu](https://nitter.dcs0.hu)                             | ✅      | ✅       | 🇭🇺      | [Let's Encrypt](https://www.ssllabs.com/ssltest/analyze.html?d=nitter.dcs0.hu)               |
 | [twitter.dr460nf1r3.org](https://twitter.dr460nf1r3.org/)            | ✅      | ✅       | 🇩🇪      | [Cloudflare](https://www.ssllabs.com/ssltest/analyze.html?d=twitter.dr460nf1r3.org)          |
