@@ -31,7 +31,7 @@ Note: Please add new instances to the bottom to preserve the order. In order to 
 | [nitter.it](https://nitter.it)                                       | ✅      | ❌       | 🇫🇮      | [Let's Encrypt](https://www.ssllabs.com/ssltest/analyze.html?d=nitter.it)                    |
 | [twitter.censors.us](https://twitter.censors.us)                     | ✅      | ✅       | 🇫🇷      | [Let's Encrypt](https://www.ssllabs.com/ssltest/analyze.html?d=twitter.censors.us)           |
 | [nitter.grimneko.de](https://nitter.grimneko.de)                     | ❌      | ✅       | 🇩🇪      | [Let's Encrypt](https://www.ssllabs.com/ssltest/analyze.html?d=nitter.grimneko.de)           |
-| [twitter.owacon.moe](https://twitter.owacon.moe) (in Japanese)       | ✅      | ✅       | 🇯🇵      | [Let's Encrypt](https://www.ssllabs.com/ssltest/analyze.html?d=twitter.076.ne.jp)            |
+| [twitter.owacon.moe](https://twitter.owacon.moe) (in Japanese and extra features)       | ✅      | ✅       | 🇯🇵      | [Let's Encrypt](https://www.ssllabs.com/ssltest/analyze.html?d=twitter.076.ne.jp)            |
 | [nitter.fly.dev](https://nitter.fly.dev) (anycast)                   | ✅      | ✅       | 🌏      | [Let's Encrypt](https://www.ssllabs.com/ssltest/analyze.html?d=nitter.fly.dev)               |
 | [notabird.site](https://notabird.site) (anycast)                     | ✅      | ✅       | 🌏      | [Cloudflare](https://www.ssllabs.com/ssltest/analyze.html?d=notabird.site)                   |
 | [nitter.weiler.rocks](https://nitter.weiler.rocks)                   | ✅      | ✅       | 🇩🇪      | [Let's Encrypt](https://www.ssllabs.com/ssltest/analyze.html?d=nitter.weiler.rocks)          |
