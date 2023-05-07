@@ -123,9 +123,11 @@ Note: Please add new instances to the bottom to preserve the order. In order to 
 | [nitter.no-logs.com](https://nitter.no-logs.com)                                    | ✅      | ✅       | 🇸🇪      | [Let's Encrypt](https://www.ssllabs.com/ssltest/analyze.html?d=nitter.no-logs.com&latest)
 | [tw.libb.pw](https://tw.libb.pw)                                   | ✅      | ✅       | 🇷🇴       | [Cloudflare](https://www.ssllabs.com/ssltest/analyze.html?d=tw.libb.pw)
 | [nitter.fascinated.cc](https://nitter.fascinated.cc)                                   | ✅      | ✅       | 🇩🇪       | [Cloudflare](https://www.ssllabs.com/ssltest/analyze.html?d=nitter.fascinated.cc)
+| [nitter.link](https://nitter:nitter@nitter.link) ([auth required](https://auth.nitter.link/login) | ✅ | ✅ | 🇩🇪 | [Let's Encrypt (https://www.ssllabs.com/ssltest/analyze.html?d=nitter.link)    |
 ### Tor
 | URL                                                                                                                                                      |    |
-| :------------------------------------------------------------------------------------------------------------------------------------------------------- | :- |
+| 
+:------------------------------------------------------------------------------------------------------------------------------------------------------- | :- |
 | [nitter.l4qlywnpwqsluw65ts7md3khrivpirse744un3x7mlskqauz5pyuzgqd.onion](http://nitter.l4qlywnpwqsluw65ts7md3khrivpirse744un3x7mlskqauz5pyuzgqd.onion/)   | ❌ |
 | [nitter7bryz3jv7e3uekphigvmoyoem4al3fynerxkj22dmoxoq553qd.onion](http://nitter7bryz3jv7e3uekphigvmoyoem4al3fynerxkj22dmoxoq553qd.onion/)                 | ✅ |
 | [npf37k3mtzwxreiw52ccs5ay4e6qt2fkcs2ndieurdyn2cuzzsfyfvid.onion](http://npf37k3mtzwxreiw52ccs5ay4e6qt2fkcs2ndieurdyn2cuzzsfyfvid.onion/)                 | ❌ |
@@ -226,6 +228,7 @@ Note: Please add new instances to the bottom to preserve the order. In order to 
 | [nitter.librenode.org](https://nitter.librenode.org)    | 🇩🇪      | 2023-03-24   |
 | [nitter.girlboss.ceo](https://nitter.girlboss.ceo)      | 🇺🇸      | 2023-03-20   |
 | [nitter.foss.wtf](https://nitter.foss.wtf)              | 🇩🇪      | 2023-04-13   |
+
 
 ## Third-party Nitter services
 | Name                                                          | Description                                                      |
