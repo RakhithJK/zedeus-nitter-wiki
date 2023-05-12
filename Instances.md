@@ -127,9 +127,8 @@ Note: Please add new instances to the bottom to preserve the order. In order to 
 | [nitter.kozmik.studio](https://nitter.kozmik.studio)                                    | ✅      | ✅       | 🇺🇸      | [Cloudflare](https://www.ssllabs.com/ssltest/analyze.html?d=nitter.kozmik.studio&latest) |
 
 ### Tor
-| URL                                                                                                                                                      |    |
-| 
-:------------------------------------------------------------------------------------------------------------------------------------------------------- | :- |
+| URL                                                                  | Online¹                                                          |
+| :------------------------------------------------------------------- | :------ |
 | [nitter.l4qlywnpwqsluw65ts7md3khrivpirse744un3x7mlskqauz5pyuzgqd.onion](http://nitter.l4qlywnpwqsluw65ts7md3khrivpirse744un3x7mlskqauz5pyuzgqd.onion/)   | ❌ |
 | [nitter7bryz3jv7e3uekphigvmoyoem4al3fynerxkj22dmoxoq553qd.onion](http://nitter7bryz3jv7e3uekphigvmoyoem4al3fynerxkj22dmoxoq553qd.onion/)                 | ✅ |
 | [npf37k3mtzwxreiw52ccs5ay4e6qt2fkcs2ndieurdyn2cuzzsfyfvid.onion](http://npf37k3mtzwxreiw52ccs5ay4e6qt2fkcs2ndieurdyn2cuzzsfyfvid.onion/)                 | ❌ |
