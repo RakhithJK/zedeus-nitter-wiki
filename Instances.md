@@ -127,6 +127,7 @@ Note: Please add new instances to the bottom to preserve the order. In order to 
 | [nitter.kozmik.studio](https://nitter.kozmik.studio)                 | ✅      | ✅       | 🇺🇸      | [Cloudflare](https://www.ssllabs.com/ssltest/analyze.html?d=nitter.kozmik.studio&latest)     |
 | [tweet.whateveritworks.org](https://tweet.whateveritworks.org)       | ✅      | ✅       | 🇩🇪      | [Let's Encrypt + Cloudflare](https://www.ssllabs.com/ssltest/analyze.html?d=tweet.whateveritworks.org)  |
 | [t.uchun.net](https://t.uchun.net)                                       | ✅      | ✅       | 🇳🇱      | [Let's Encrypt](https://www.ssllabs.com/ssltest/analyze.html?d=t.uchun.net)                    |
+| [nitter.fediflix.org](https://nitter.fediflix.org)                                       | ✅      | ✅       | 🇩🇪      | [Let's Encrypt](https://www.ssllabs.com/ssltest/analyze.html?d=nitter.fediflix.org)                    |
 
 ### Tor
 | URL                                                                  | Online¹                                                          |
