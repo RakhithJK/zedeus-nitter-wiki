@@ -116,7 +116,6 @@ Note: Please add new instances to the bottom to preserve the order. In order to 
 | [nitter.io.lol](https://nitter.io.lol/)                              | ✅      | ✅       | 🇺🇸      | [Let's Encrypt](https://www.ssllabs.com/ssltest/analyze.html?d=nitter.io.lol)                |
 | [nitter.hu](https://nitter.hu)                                       | ✅      | ✅       | 🇭🇺      | [Let's Encrypt](https://www.ssllabs.com/ssltest/analyze.html?d=nitter.hu&latest)             |
 | [nitter.no-logs.com](https://nitter.no-logs.com)                     | ✅      | ✅       | 🇸🇪      | [Let's Encrypt](https://www.ssllabs.com/ssltest/analyze.html?d=nitter.no-logs.com&latest)    |
-| [tw.libb.pw](https://tw.libb.pw)                                     | ✅      | ✅       | 🇷🇴      | [Cloudflare](https://www.ssllabs.com/ssltest/analyze.html?d=tw.libb.pw)                      |
 | [nitter.fascinated.cc](https://nitter.fascinated.cc)                 | ✅      | ✅       | 🇩🇪      | [Cloudflare](https://www.ssllabs.com/ssltest/analyze.html?d=nitter.fascinated.cc)            |
 | [nitter.link](https://nitter:nitter@nitter.link) ([auth required](https://auth.nitter.link/login)) | ✅ | ✅ | 🇩🇪 | [Let's Encrypt](https://www.ssllabs.com/ssltest/analyze.html?d=nitter.link)    |
 | [nitter.kozmik.studio](https://nitter.kozmik.studio)                 | ✅      | ✅       | 🇺🇸      | [Cloudflare](https://www.ssllabs.com/ssltest/analyze.html?d=nitter.kozmik.studio&latest)     |
