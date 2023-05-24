@@ -122,6 +122,7 @@ Note: Please add new instances to the bottom to preserve the order. In order to 
 | [tweet.whateveritworks.org](https://tweet.whateveritworks.org)       | ✅      | ✅       | 🇩🇪      | [Let's Encrypt + Cloudflare](https://www.ssllabs.com/ssltest/analyze.html?d=tweet.whateveritworks.org)  |
 | [t.uchun.net](https://t.uchun.net)                                       | ✅      | ✅       | 🇳🇱      | [Let's Encrypt](https://www.ssllabs.com/ssltest/analyze.html?d=t.uchun.net)                    |
 | [nitter.fediflix.org](https://nitter.fediflix.org)                                       | ✅      | ✅       | 🇩🇪      | [Let's Encrypt](https://www.ssllabs.com/ssltest/analyze.html?d=nitter.fediflix.org)                    |
+| [nitter.nohost.network](https://nitter.nohost.network)                                       | ✅      | ✅       | :mexico:     | [Let's Encrypt](https://www.ssllabs.com/ssltest/analyze.html?d=nitter.nohost.network)                    |
 
 ### Tor
 | URL                                                                  | Online¹                                                          |
