@@ -123,7 +123,7 @@ Note: Please add new instances to the bottom to preserve the order. In order to 
 | [t.uchun.net](https://t.uchun.net)                                       | ✅      | ✅       | 🇳🇱      | [Let's Encrypt](https://www.ssllabs.com/ssltest/analyze.html?d=t.uchun.net)                    |
 | [nitter.fediflix.org](https://nitter.fediflix.org)                                       | ✅      | ✅       | 🇩🇪      | [Let's Encrypt](https://www.ssllabs.com/ssltest/analyze.html?d=nitter.fediflix.org)                    |
 | [nitter.nohost.network](https://nitter.nohost.network)                                       | ✅      | ✅       | :mexico:     | [Let's Encrypt](https://www.ssllabs.com/ssltest/analyze.html?d=nitter.nohost.network)                    |
-
+| [nitter.services.woodland.cafe](https://nitter.services.woodland.cafe/)                      | ✅      | ✅       | 🇩🇪     | [Let's Encrypt](https://www.ssllabs.com/ssltest/analyze.html?d=nitter.services.woodland.cafe)                    |
 ### Tor
 | URL                                                                  | Online¹                                                          |
 | :------------------------------------------------------------------- | :------ |
