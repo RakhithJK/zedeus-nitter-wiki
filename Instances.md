@@ -124,6 +124,7 @@ Note: Please add new instances to the bottom to preserve the order. In order to 
 | [nitter.fediflix.org](https://nitter.fediflix.org)                                       | ✅      | ✅       | 🇩🇪      | [Let's Encrypt](https://www.ssllabs.com/ssltest/analyze.html?d=nitter.fediflix.org)                    |
 | [nitter.nohost.network](https://nitter.nohost.network)                                       | ✅      | ✅       | :mexico:     | [Let's Encrypt](https://www.ssllabs.com/ssltest/analyze.html?d=nitter.nohost.network)                    |
 | [nitter.services.woodland.cafe](https://nitter.services.woodland.cafe/)                      | ✅      | ✅       | 🇩🇪     | [Let's Encrypt](https://www.ssllabs.com/ssltest/analyze.html?d=nitter.services.woodland.cafe)                    |
+| [twt.funami.tech](https://twt.funami.tech/)                      | ✅      | ✅       | 🇰🇷     | [Let's Encrypt](https://www.ssllabs.com/ssltest/analyze.html?d=twt.funami.tech)                    |
 ### Tor
 | URL                                                                  | Online¹                                                          |
 | :------------------------------------------------------------------- | :------ |
@@ -227,7 +228,6 @@ Note: Please add new instances to the bottom to preserve the order. In order to 
 | [nitter.librenode.org](https://nitter.librenode.org)    | 🇩🇪      | 2023-03-24   |
 | [nitter.girlboss.ceo](https://nitter.girlboss.ceo)      | 🇺🇸      | 2023-03-20   |
 | [nitter.foss.wtf](https://nitter.foss.wtf)              | 🇩🇪      | 2023-04-13   |
-| [twt.funami.tech](https://twt.funami.tech)              | 🇰🇷      | 2023-04-29   |
 | [nitter.grimneko.de](https://nitter.grimneko.de)        | 🇩🇪      | 2023-04-30   |
 | [nitter.winscloud.net](https://nitter.winscloud.net)    | 🇹🇭      | 2023-05-13   |
 | [nitter.dcs0.hu](https://nitter.dcs0.hu)                | 🇭🇺      | 2023-05-13   |
