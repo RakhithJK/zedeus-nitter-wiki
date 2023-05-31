@@ -117,7 +117,7 @@ Note: Please add new instances to the bottom to preserve the order. In order to 
 | [nitter.hu](https://nitter.hu)                                       | ✅      | ✅       | 🇭🇺      | [Let's Encrypt](https://www.ssllabs.com/ssltest/analyze.html?d=nitter.hu&latest)             |
 | [nitter.no-logs.com](https://nitter.no-logs.com)                     | ✅      | ✅       | 🇸🇪      | [Let's Encrypt](https://www.ssllabs.com/ssltest/analyze.html?d=nitter.no-logs.com&latest)    |
 | [nitter.fascinated.cc](https://nitter.fascinated.cc)                 | ✅      | ✅       | 🇩🇪      | [Cloudflare](https://www.ssllabs.com/ssltest/analyze.html?d=nitter.fascinated.cc)            |
-| [nitter.link](https://nitter:nitter@nitter.link) ([auth required](https://auth.nitter.link/login)) | ✅ | ✅ | 🇩🇪 | [Let's Encrypt](https://www.ssllabs.com/ssltest/analyze.html?d=nitter.link)    |
+| [nitter.ftw.lol](https://nitter:nitter@nitter.ftw.lol) ([auth required](https://auth.nitter.ftw.lol/login)) | ✅ | ✅ | 🇩🇪 | [Let's Encrypt](https://www.ssllabs.com/ssltest/analyze.html?d=nitter.ftw.lol)    |
 | [nitter.kozmik.studio](https://nitter.kozmik.studio)                 | ✅      | ✅       | 🇺🇸      | [Cloudflare](https://www.ssllabs.com/ssltest/analyze.html?d=nitter.kozmik.studio&latest)     |
 | [tweet.whateveritworks.org](https://tweet.whateveritworks.org)       | ✅      | ✅       | 🇩🇪      | [Let's Encrypt + Cloudflare](https://www.ssllabs.com/ssltest/analyze.html?d=tweet.whateveritworks.org)  |
 | [t.uchun.net](https://t.uchun.net)                                       | ✅      | ✅       | 🇳🇱      | [Let's Encrypt](https://www.ssllabs.com/ssltest/analyze.html?d=t.uchun.net)                    |
