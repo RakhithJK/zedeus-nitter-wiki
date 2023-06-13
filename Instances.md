@@ -111,7 +111,7 @@ Note: Please add new instances to the bottom to preserve the order. In order to 
 | [nitter.altgr.xyz](https://nitter.altgr.xyz)                         | ✅      | ✅       | 🇨🇱      | [Cloudflare](https://www.ssllabs.com/ssltest/analyze.html?d=nitter.altgr.xyz)                |
 | [jote.lile.cl](https://jote.lile.cl)                                 | ✅      | ✅       | 🇨🇱      | [Cloudflare](https://www.ssllabs.com/ssltest/analyze.html?d=jote.lile.cl)                    |
 | [nitter.one](https://nitter.one)                                     | ✅      | ✅       | 🇸🇪      | [Let's Encrypt](https://www.ssllabs.com/ssltest/analyze.html?d=nitter.one)                   |
-| [nitter.instances.cc/](https://nitter.instances.cc/)                     | ✅      | ✅       | 🇳🇴      | [Cloudflare](https://www.ssllabs.com/ssltest/analyze.html?d=nitter.instance.no)              |
+| [nitter.instances.cc](https://nitter.instances.cc/)                     | ✅      | ✅       | 🇳🇴      | [Cloudflare](https://www.ssllabs.com/ssltest/analyze.html?d=nitter.instance.no)              |
 | [nitter.io.lol](https://nitter.io.lol/)                              | ✅      | ✅       | 🇺🇸      | [Let's Encrypt](https://www.ssllabs.com/ssltest/analyze.html?d=nitter.io.lol)                |
 | [nitter.hu](https://nitter.hu)                                       | ✅      | ✅       | 🇭🇺      | [Let's Encrypt](https://www.ssllabs.com/ssltest/analyze.html?d=nitter.hu&latest)             |
 | [nitter.no-logs.com](https://nitter.no-logs.com)                     | ✅      | ✅       | 🇸🇪      | [Let's Encrypt](https://www.ssllabs.com/ssltest/analyze.html?d=nitter.no-logs.com&latest)    |
