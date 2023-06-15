@@ -124,7 +124,7 @@ Note: Please add new instances to the bottom to preserve the order. In order to 
 | [nitter.nohost.network](https://nitter.nohost.network)                                       | ✅      | ✅       | :mexico:     | [Let's Encrypt](https://www.ssllabs.com/ssltest/analyze.html?d=nitter.nohost.network)                    |
 | [nitter.services.woodland.cafe](https://nitter.services.woodland.cafe/)                      | ✅      | ✅       | 🇩🇪     | [Let's Encrypt](https://www.ssllabs.com/ssltest/analyze.html?d=nitter.services.woodland.cafe)                    |
 | [twt.funami.tech](https://twt.funami.tech/)                      | ✅      | ✅       | 🇰🇷     | [Let's Encrypt](https://www.ssllabs.com/ssltest/analyze.html?d=twt.funami.tech)                    |
-| [nitter.simpleprivacy.fr](https://nitter.simpleprivacy.fr)| ✅      | ✅        | 🇫🇷   | 2023-05-13   |
+| [nitter.simpleprivacy.fr](https://nitter.simpleprivacy.fr)| ✅      | ✅        | 🇫🇷   | [Let's Encrypt](https://www.ssllabs.com/ssltest/analyze.html?d=nitter.simpleprivacy.fr)   |
 ### Tor
 | URL                                                                  | Online¹                                                          |
 | :------------------------------------------------------------------- | :------ |
