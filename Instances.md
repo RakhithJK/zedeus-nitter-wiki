@@ -124,6 +124,7 @@ Note: Please add new instances to the bottom to preserve the order. In order to 
 | [nitter.nohost.network](https://nitter.nohost.network)                                       | ✅      | ✅       | :mexico:     | [Let's Encrypt](https://www.ssllabs.com/ssltest/analyze.html?d=nitter.nohost.network)                    |
 | [nitter.services.woodland.cafe](https://nitter.services.woodland.cafe/)                      | ✅      | ✅       | 🇩🇪     | [Let's Encrypt](https://www.ssllabs.com/ssltest/analyze.html?d=nitter.services.woodland.cafe)                    |
 | [twt.funami.tech](https://twt.funami.tech/)                      | ✅      | ✅       | 🇰🇷     | [Let's Encrypt](https://www.ssllabs.com/ssltest/analyze.html?d=twt.funami.tech)                    |
+| [nitter.simpleprivacy.fr](https://nitter.simpleprivacy.fr)| ✅      | ✅        | 🇫🇷   | 2023-05-13   |
 ### Tor
 | URL                                                                  | Online¹                                                          |
 | :------------------------------------------------------------------- | :------ |
@@ -230,7 +231,6 @@ Note: Please add new instances to the bottom to preserve the order. In order to 
 | [nitter.grimneko.de](https://nitter.grimneko.de)        | 🇩🇪      | 2023-04-30   |
 | [nitter.winscloud.net](https://nitter.winscloud.net)    | 🇹🇭      | 2023-05-13   |
 | [nitter.dcs0.hu](https://nitter.dcs0.hu)                | 🇭🇺      | 2023-05-13   |
-| [nitter.simpleprivacy.fr](https://nitter.simpleprivacy.fr) | 🇫🇷   | 2023-05-13   |
 
 
 ## Third-party Nitter services
