@@ -1,27 +1,28 @@
 ### Firefox
 | Name                                                                                                | Sites                                                             | Comment                                                                                                                                       |
 | :-------------------------------------------------------------------------------------------------- | :---------------------------------------------------------------- | :-------------------------------------------------------------------------------------------------------------------------------------------- |
-| [LibRedirect](https://addons.mozilla.org/en-GB/firefox/addon/libredirect/)                          | Twitter, YouTube, Reddit, Instagram, Google, Medium, TikTok, etc. | Actively maintained fork of Privacy Redirect
-| [Alter](https://addons.mozilla.org/firefox/addon/alter/)                                            | Twitter, YouTube, Reddit                                          | Simple and Minimal                                                                                                                            |
-| [Privacy Redirect](https://addons.mozilla.org/firefox/addon/privacy-redirect/)                      | Twitter, YouTube, Reddit, Instagram, Google Maps, Google Search   | Unmaintained, use LibRedirect instead.                                                                                                        |
-| [Twitter to Nitter Redirect](https://addons.mozilla.org/firefox/addon/twitter-to-nitter-redirect/)  | Twitter                                                           |                                                                                                                                               |
-| ~~[Nitter Redirect](https://addons.mozilla.org/firefox/addon/nitter-redirect/)~~                    | ~~Twitter~~                                                       | Unmaintained, use LibRedirect instead.                                                                                                        |
-| ~~[Nitterify](https://addons.mozilla.org/firefox/addon/nitterify/)~~                                | ~~Twitter~~                                                       | ~~Without loading Twitter first. Supports media. Deprecated. Use [Invidition](https://addons.mozilla.org/firefox/addon/invidition/) instead~~ |
-| ~~[Invidition](https://addons.mozilla.org/firefox/addon/invidition/)~~                              | ~~Twitter, Youtube~~                                              | ~~Highly configurable. Unmaintained.~~ Use [Privacy Redirect](https://addons.mozilla.org/firefox/addon/privacy-redirect/) instead             |
+| [LibRedirect](https://addons.mozilla.org/en-GB/firefox/addon/libredirect/)                          | Twitter, YouTube, Reddit, Instagram, Google, Medium, TikTok, etc. | Actively maintained fork of Privacy Redirect                 |
+| [Alter](https://addons.mozilla.org/firefox/addon/alter/)                                            | Twitter, YouTube, Reddit                                          | Simple and Minimal                                           |
+| [Privacy Redirect](https://addons.mozilla.org/firefox/addon/privacy-redirect/)                      | Twitter, YouTube, Reddit, Instagram, Google Maps, Google Search   | Unmaintained, use LibRedirect instead.                       |
+| [Twitter to Nitter Redirect](https://addons.mozilla.org/firefox/addon/twitter-to-nitter-redirect/)  | Twitter                                                           |                                                              |
+| ~~[Nitter Redirect](https://addons.mozilla.org/firefox/addon/nitter-redirect/)~~                    | ~~Twitter~~                                                       | Unmaintained, use LibRedirect instead.                       |
+| ~~[Nitterify](https://addons.mozilla.org/firefox/addon/nitterify/)~~                                | ~~Twitter~~                                                       | ~~Without loading Twitter first. Supports media. Deprecated. |
+| ~~[Invidition](https://addons.mozilla.org/firefox/addon/invidition/)~~                              | ~~Twitter, Youtube~~                                              | ~~Highly configurable. Unmaintained.~~                       |
 
 ### Chromium-based browsers
 | Name                                                                                                            | Sites                                                           | Comment                                             |
 | :-------------------------------------------------------------------------------------------------------------- | :-------------------------------------------------------------- | :-------------------------------------------------- |
-| [Privacy Redirect](https://chrome.google.com/webstore/detail/privacy-redirect/pmcmeagblkinmogikoikkdjiligflglb) | Google Maps, Google Search, Instagram, Reddit, Twitter, Youtube |                                                     |
+| [LibRedirect](https://libredirect.github.io/download_chromium.html)                                             | Twitter, YouTube, Reddit, Instagram, Google, Medium, etc.       | Actively maintained fork of Privacy Redirect        |
+| [Privacy Redirect](https://chrome.google.com/webstore/detail/privacy-redirect/pmcmeagblkinmogikoikkdjiligflglb) | Twitter, YouTube, Reddit, Instagram, Google Maps, Google Search | Unmaintained, use LibRedirect instead.              |
 | [Nitter Redirect](https://chrome.google.com/webstore/detail/nitter-redirect/mohaicophfnifehkkkdbcejkflmgfkof)   | Twitter                                                         | Works when navigating to the site, or opening links |
 
 ### Mobile
 | Name                                                                                             | Sites                                    | Comment                                                       |
 | :----------------------------------------------------------------------------------------------- | :--------------------------------------- | :------------------------------------------------------------ |
 | iPhone: [Redirector Shortcut](https://www.icloud.com/shortcuts/3e90ac68c77b45eb82cb18dab519ff76) | Twitter                                  | iPhone shortcut                                               |
-| iPhone: [Privacy Redirect](https://apps.apple.com/app/privacy-redirect/id1578144015) | Twitter, Reddit, YouTube, Instagram, Google Translate, Google maps, Google Search, Medium | iPhone Safari Extension (iOS 15+) |
+| iPhone: [Privacy Redirect](https://apps.apple.com/app/privacy-redirect/id1578144015)             | Twitter, Reddit, YouTube, Instagram, Google Translate/Maps/Search, Medium | iPhone Safari Extension (iOS 15+) |
 | Android: [UntrackMe](https://f-droid.org/packages/app.fedilab.nitterizeme/)                      | Google Maps, Instagram, Twitter, YouTube | Android app. You can control which redirections and instances |
-| Android: [twitter2nitter](https://f-droid.org/uk/packages/eu.auct.twitter2nitter/)                      | Twitter | Android app. You can change nitter instance |
+| Android: [twitter2nitter](https://f-droid.org/uk/packages/eu.auct.twitter2nitter/)               | Twitter                                  | Android app. You can change Nitter instance                   |
 
 ### Userscripts
 #### [Privacy Redirector](https://github.com/dybdeskarphet/privacy-redirector)
@@ -56,3 +57,7 @@ Add a new bookmark with this snippet as the "Location" field:
 javascript:window.location.assign(window.location.href.replace(/(mobile.)?twitter.com/,'nitter.net'))
 ```
 When you click a twitter link, you can now click this bookmark and it will take you to the nitter.net equivalent.
+
+### Wordpress plugin
+
+https://github.com/nextgenthemes/nextgenthemes-nitter-embeds
