@@ -1,8 +1,8 @@
 ## Official
 
-| URL                              | Country | Issuer & SSLLabs verification&nbsp;link                                    |
-| :------------------------------- | :------ | :------------------------------------------------------------------------- |
-| [nitter.net](https://nitter.net) | :de:    | [Let's Encrypt](https://www.ssllabs.com/ssltest/analyze.html?d=nitter.net) |
+| URL                              | Country          | Issuer & SSLLabs verification&nbsp;link                                    |
+| :------------------------------- | :--------------- | :------------------------------------------------------------------------- |
+| [nitter.net](https://nitter.net) | :netherlands:    | [Let's Encrypt](https://www.ssllabs.com/ssltest/analyze.html?d=nitter.net) |
 
 ## Public
 
