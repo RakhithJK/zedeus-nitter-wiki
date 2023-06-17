@@ -125,6 +125,8 @@ Note: Please add new instances to the bottom to preserve the order. In order to 
 | [nitter.services.woodland.cafe](https://nitter.services.woodland.cafe/) | :white_check_mark: | :white_check_mark: | :de:       | [Let's Encrypt](https://www.ssllabs.com/ssltest/analyze.html?d=nitter.services.woodland.cafe) |
 | [twt.funami.tech](https://twt.funami.tech/)                          | :white_check_mark: | :white_check_mark: | :kr:          | [Let's Encrypt](https://www.ssllabs.com/ssltest/analyze.html?d=twt.funami.tech)              |
 | [nitter.simpleprivacy.fr](https://nitter.simpleprivacy.fr)           | :white_check_mark: | :white_check_mark: | :fr:          | [Let's Encrypt](https://www.ssllabs.com/ssltest/analyze.html?d=nitter.simpleprivacy.fr)      |
+| [nitter.onthescent.xyz](https://nitter.onthescent.xyz/)              | :white_check_mark: | :white_check_mark: | :us:          | [Let's Encrypt](https://www.ssllabs.com/ssltest/analyze.html?d=nitter.onthescent.xyz)        |
+| [nitter.sylentpunk.xyz](https://nitter.sylentpunk.xyz/)              | :white_check_mark: | :white_check_mark: | :iceland:     | [Let's Encrypt](https://www.ssllabs.com/ssltest/analyze.html?d=nitter.sylentpunk.xyz)        |
 
 ### Tor
 | URL                                                                              | Online¹            |
