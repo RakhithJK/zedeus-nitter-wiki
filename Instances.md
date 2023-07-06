@@ -126,6 +126,7 @@ Note: Please add new instances to the bottom to preserve the order. In order to 
 | [nitter.simpleprivacy.fr](https://nitter.simpleprivacy.fr)           | :white_check_mark: | :white_check_mark: | :fr:          | [Let's Encrypt](https://www.ssllabs.com/ssltest/analyze.html?d=nitter.simpleprivacy.fr)      |
 | [nitter.onthescent.xyz](https://nitter.onthescent.xyz/)              | :white_check_mark: | :white_check_mark: | :us:          | [Let's Encrypt](https://www.ssllabs.com/ssltest/analyze.html?d=nitter.onthescent.xyz)        |
 | [nitter.sylentpunk.xyz](https://nitter.sylentpunk.xyz/)              | :white_check_mark: | :white_check_mark: | :iceland:     | [Let's Encrypt](https://www.ssllabs.com/ssltest/analyze.html?d=nitter.sylentpunk.xyz)        |
+| [nitter.x86-64-unknown-linux-gnu.zip](https://nitter.x86-64-unknown-linux-gnu.zip/)              | :white_check_mark: | :white_check_mark: | :de:     | [Let's Encrypt](https://www.ssllabs.com/ssltest/analyze.html?d=nitter.x86-64-unknown-linux-gnu.zip)        |
 
 ### Tor
 | URL                                                                              | Online¹            |
