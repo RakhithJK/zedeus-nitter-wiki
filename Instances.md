@@ -113,6 +113,7 @@ Note: Please add new instances to the bottom to preserve the order. In order to 
 | [nitter.simpleprivacy.fr](https://nitter.simpleprivacy.fr)           | :white_check_mark: | :x: | :fr:          | [Let's Encrypt](https://www.ssllabs.com/ssltest/analyze.html?d=nitter.simpleprivacy.fr)      |
 | [nitter.onthescent.xyz](https://nitter.onthescent.xyz/)              | :white_check_mark: | :x: | :us:          | [Let's Encrypt](https://www.ssllabs.com/ssltest/analyze.html?d=nitter.onthescent.xyz)        |
 | [nitter.x86-64-unknown-linux-gnu.zip](https://nitter.x86-64-unknown-linux-gnu.zip/)              | :white_check_mark: | :white_check_mark: | :de:     | [Let's Encrypt](https://www.ssllabs.com/ssltest/analyze.html?d=nitter.x86-64-unknown-linux-gnu.zip)        |
+| [nitter.private.coffee](https://nitter.private.coffee)               | :white_check_mark: | :white_check_mark: | :austria: | [Let's Encrypt](https://www.ssllabs.com/ssltest/analyze.html?d=nitter.private.coffee) |
 
 ### Tor
 | URL                                                                              | Online¹            |
@@ -153,6 +154,7 @@ Note: Please add new instances to the bottom to preserve the order. In order to 
 | <http://jdadsqkjereqronxzovgvd453snh5jsvo7mukfwt2feth353nobqotad.onion>          | :white_check_mark: |
 | <http://nitter.pjsfkvpxlinjamtawaksbnnaqs2fc2mtvmozrzckxh7f3kis6yea25ad.onion/>  | :white_check_mark: |
 | <http://twitter.cepyxplublbyw2f4axy4pyztfbxmf63lrt2c7uwv6wl4iixz53czload.onion/> | :white_check_mark: |
+| <http://nitter.coffee2m3bjsrrqqycx6ghkxrnejl2q6nl7pjw2j4clchjj6uk5zozad.onion/>  | :white_check_mark: |
 
 ### I2P
 - <http://axd6uavsstsrvstva4mzlzh4ct76rc6zdug3nxdgeitrzczhzf4q.b32.i2p/>
