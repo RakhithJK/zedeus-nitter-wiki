@@ -81,7 +81,7 @@ Note: Please add new instances to the bottom to preserve the order. In order to 
 | [nitter.pufe.org](https://nitter.pufe.org)                           | :x: | :x: | :new_zealand: | [Let's Encrypt](https://www.ssllabs.com/ssltest/analyze.html?d=nitter.pufe.org)              |
 | [nitter.us.projectsegfau.lt](https://nitter.us.projectsegfau.lt)     | :x: | :x: | :us:          | [Let's Encrypt](https://www.ssllabs.com/ssltest/analyze.html?d=nitter.us.projectsegfau.lt)   |
 | [t.com.sb](https://t.com.sb/)                                        | :x: | :x: | :estonia:     | [ZeroSSL](https://www.ssllabs.com/ssltest/analyze.html?d=t.com.sb)                           |
-| [nitter.kling.gg](https://nitter.kling.gg)                           | :white_check_mark: | :x: | :netherlands: | [Let's Encrypt](https://www.ssllabs.com/ssltest/analyze.html?d=nitter.kling.gg)              |
+| [nitter.kling.gg](https://nitter.kling.gg)                           | :white_check_mark: | :white_check_mark: | :netherlands: | [Let's Encrypt](https://www.ssllabs.com/ssltest/analyze.html?d=nitter.kling.gg)              |
 | [nitter.riverside.rocks](https://nitter.riverside.rocks)             | :x: | :x: | :us:          | [Let's Encrypt](https://www.ssllabs.com/ssltest/analyze.html?d=nitter.riverside.rocks)       |
 | [nitter.lunar.icu](https://nitter.lunar.icu)                         | :white_check_mark: | :x: | :de:          | [Cloudflare](https://www.ssllabs.com/ssltest/analyze.html?d=nitter.lunar.icu)                |
 | [twitter.moe.ngo](https://twitter.moe.ngo)                           | :white_check_mark: | :x: | :indonesia:   | [Google Trust Services LLC](https://www.ssllabs.com/ssltest/analyze.html?d=twitter.moe.ngo)  |
