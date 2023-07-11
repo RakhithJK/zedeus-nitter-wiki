@@ -18,7 +18,7 @@ Note: Please add new instances to the bottom to preserve the order. In order to 
 
 | URL                                                                  | Online¹            | Updated²           | Country       | Issuer & SSLLabs verification link                                                           |
 | :------------------------------------------------------------------- | :----------------- | :----------------- | :------------ | :------------------------------------------------------------------------------------------- |
-| [nitter.lacontrevoie.fr](https://nitter.lacontrevoie.fr/)            | :white_check_mark: | :x: | :fr:          | [Let's Encrypt](https://www.ssllabs.com/ssltest/analyze.html?d=nitter.lacontrevoie.fr)       |
+| [nitter.lacontrevoie.fr](https://nitter.lacontrevoie.fr/)            | :white_check_mark: | :white_check_mark: | :fr:          | [Let's Encrypt](https://www.ssllabs.com/ssltest/analyze.html?d=nitter.lacontrevoie.fr)       |
 | [nitter.nixnet.services](https://nitter:nitter@nitter.nixnet.services) ([auth required](https://nixnet.services/blog/nitter-behind-http-basic-auth/)) | :white_check_mark: | :x: | :de: | [Let's Encrypt](https://www.ssllabs.com/ssltest/analyze.html?d=nitter.nixnet.services)    |
 | [nitter.fdn.fr](https://nitter.fdn.fr/)                              | :white_check_mark: | :x: | :fr:          | [Let's Encrypt](https://www.ssllabs.com/ssltest/analyze.html?d=nitter.fdn.fr)                |
 | [nitter.1d4.us](https://nitter.1d4.us/)                              | :white_check_mark: | :x: | :us:          | [Let's Encrypt](https://www.ssllabs.com/ssltest/analyze.html?d=nitter.1d4.us)                |
