@@ -21,30 +21,27 @@ Note: Please add new instances to the bottom to preserve the order. In order to 
 | [nitter.lacontrevoie.fr](https://nitter.lacontrevoie.fr/)            | :white_check_mark: | :white_check_mark: | :fr:          | [Let's Encrypt](https://www.ssllabs.com/ssltest/analyze.html?d=nitter.lacontrevoie.fr)       |
 | [nitter.nixnet.services](https://nitter:nitter@nitter.nixnet.services) ([auth required](https://nixnet.services/blog/nitter-behind-http-basic-auth/)) | :white_check_mark: | :x: | :de: | [Let's Encrypt](https://www.ssllabs.com/ssltest/analyze.html?d=nitter.nixnet.services)    |
 | [nitter.fdn.fr](https://nitter.fdn.fr/)                              | :white_check_mark: | :white_check_mark: | :fr:          | [Let's Encrypt](https://www.ssllabs.com/ssltest/analyze.html?d=nitter.fdn.fr)                |
-| [nitter.1d4.us](https://nitter.1d4.us/)                              | :white_check_mark: | :x: | :us:          | [Let's Encrypt](https://www.ssllabs.com/ssltest/analyze.html?d=nitter.1d4.us)                |
-| [nitter.kavin.rocks](https://nitter.kavin.rocks)                     | :white_check_mark: | :x: | :india:       | [Let's Encrypt](https://www.ssllabs.com/ssltest/analyze.html?d=nitter.kavin.rocks)           |
+| [nitter.1d4.us](https://nitter.1d4.us/)                              | :white_check_mark: | :white_check_mark: | :us:          | [Let's Encrypt](https://www.ssllabs.com/ssltest/analyze.html?d=nitter.1d4.us)                |
+| [nitter.kavin.rocks](https://nitter.kavin.rocks)                     | :white_check_mark: | :white_check_mark: | :india:       | [Let's Encrypt](https://www.ssllabs.com/ssltest/analyze.html?d=nitter.kavin.rocks)           |
 | [nitter.unixfox.eu](https://nitter.unixfox.eu)                       | :white_check_mark: | :white_check_mark: | :netherlands: | [Buypass AS-983163327](https://www.ssllabs.com/ssltest/analyze.html?d=nitter.unixfox.eu)     |
 | [nitter.domain.glass](https://nitter.domain.glass)                   | :white_check_mark: | :x:                | :us:          | [Cloudflare](https://www.ssllabs.com/ssltest/analyze.html?d=nitter.domain.glass)             |
 | [birdsite.xanny.family](https://birdsite.xanny.family) (anycast)     | :white_check_mark: | :x:                | :earth_asia:  | [Cloudflare](https://www.ssllabs.com/ssltest/analyze.html?d=birdsite.xanny.family)           |
 | [nitter.moomoo.me](https://nitter.moomoo.me)                         | :white_check_mark: | :white_check_mark: | :us:          | [Let's Encrypt](https://www.ssllabs.com/ssltest/analyze.html?d=nitter.moomoo.me)             |
-| [bird.trom.tf](https://bird.trom.tf/)                                | :white_check_mark: | :x:         | :de:          | [Let's Encrypt](https://www.ssllabs.com/ssltest/analyze.html?d=bird.trom.tf)                 |
+| [bird.trom.tf](https://bird.trom.tf/)                                | :x: | :x:         | :de:          | [Let's Encrypt](https://www.ssllabs.com/ssltest/analyze.html?d=bird.trom.tf)                 |
 | [nitter.it](https://nitter.it)                                       | :white_check_mark: | :x: | :finland:     | [Let's Encrypt](https://www.ssllabs.com/ssltest/analyze.html?d=nitter.it)                    |
-| [twitter.censors.us](https://twitter.censors.us)                     | :white_check_mark: | :x: | :fr:          | [Let's Encrypt](https://www.ssllabs.com/ssltest/analyze.html?d=twitter.censors.us)  (OUTDATED)          |
-| [twitter.owacon.moe](https://twitter.owacon.moe) (in Japanese)       | :white_check_mark: | :x: | :jp:          | [Let's Encrypt](https://www.ssllabs.com/ssltest/analyze.html?d=twitter.076.ne.jp)            |
+| [twitter.owacon.moe](https://twitter.owacon.moe) (in Japanese)       | :white_check_mark: | :white_check_mark: | :jp:          | [Let's Encrypt](https://www.ssllabs.com/ssltest/analyze.html?d=twitter.076.ne.jp)            |
 | [notabird.site](https://notabird.site) (anycast)                     | :x: | :x: | :earth_asia:  | [Cloudflare](https://www.ssllabs.com/ssltest/analyze.html?d=notabird.site)                   |
-| [nitter.weiler.rocks](https://nitter.weiler.rocks)                   | :white_check_mark: | :x: | :de:          | [Let's Encrypt](https://www.ssllabs.com/ssltest/analyze.html?d=nitter.weiler.rocks)          |
-| [nitter.sethforprivacy.com](https://nitter.sethforprivacy.com)       | :white_check_mark: | :x: | :de:          | [Let's Encrypt](https://www.ssllabs.com/ssltest/analyze.html?d=nitter.sethforprivacy.com)    |
+| [nitter.weiler.rocks](https://nitter.weiler.rocks)                   | :white_check_mark: | :white_check_mark: | :de:          | [Let's Encrypt](https://www.ssllabs.com/ssltest/analyze.html?d=nitter.weiler.rocks)          |
+| [nitter.sethforprivacy.com](https://nitter.sethforprivacy.com)       | :white_check_mark: | :white_check_mark: | :de:          | [Let's Encrypt](https://www.ssllabs.com/ssltest/analyze.html?d=nitter.sethforprivacy.com)    |
 | [nitter.cutelab.space](https://nitter.cutelab.space)                 | :white_check_mark: | :x: | :us:          | [Let's Encrypt](https://www.ssllabs.com/ssltest/analyze.html?d=nitter.cutelab.space)         |
-| [nitter.nl](https://nitter.nl)                                       | :white_check_mark: | :x: | :netherlands: | [Let's Encrypt](https://www.ssllabs.com/ssltest/analyze.html?d=nitter.nl)                    |
-| [nitter.mint.lgbt](https://nitter.mint.lgbt)                         | :white_check_mark: | :x: | :gb:          | [Let's Encrypt](https://www.ssllabs.com/ssltest/analyze.html?d=nitter.mint.lgbt)             |
+| [nitter.nl](https://nitter.nl)                                       | :white_check_mark: | :white_check_mark: | :netherlands: | [Let's Encrypt](https://www.ssllabs.com/ssltest/analyze.html?d=nitter.nl)                    |
+| [nitter.mint.lgbt](https://nitter.mint.lgbt)                         | :white_check_mark: | :white_check_mark: | :gb:          | [Let's Encrypt](https://www.ssllabs.com/ssltest/analyze.html?d=nitter.mint.lgbt)             |
 | [nitter.esmailelbob.xyz](https://nitter.esmailelbob.xyz)             | :white_check_mark: | :x: | :canada:      | [Let's Encrypt](https://www.ssllabs.com/ssltest/analyze.html?d=nitter.esmailelbob.xyz)       |
-| [tw.artemislena.eu](https://tw.artemislena.eu)                       | :white_check_mark: | :x: | :de:          | [Let's Encrypt](https://www.ssllabs.com/ssltest/analyze.html?d=tw.artemislena.eu)            |
+| [tw.artemislena.eu](https://tw.artemislena.eu)                       | :white_check_mark: | :white_check_mark: | :de:          | [Let's Encrypt](https://www.ssllabs.com/ssltest/analyze.html?d=tw.artemislena.eu)            |
 | [nitter.tiekoetter.com](https://nitter.tiekoetter.com)               | :white_check_mark: | :x: | :de:          | [Let's Encrypt](https://www.ssllabs.com/ssltest/analyze.html?d=nitter.tiekoetter.com)        |
-| [nitter.spaceint.fr](https://nitter.spaceint.fr)                     | :x: | :x:                | :belgium:     | [Let's Encrypt](https://www.ssllabs.com/ssltest/analyze.html?d=nitter.spaceint.fr)           |
-| [nitter.privacy.com.de](https://nitter.privacy.com.de)               | :white_check_mark: | :x: | :de:          | [ZeroSSL](https://www.ssllabs.com/ssltest/analyze.html?d=nitter.privacy.com.de)              |
-| [nitter.poast.org](https://nitter.poast.org/)                        | :white_check_mark: | :x: | :us:          | [Let's Encrypt](https://www.ssllabs.com/ssltest/analyze.html?d=nitter.poast.org)             |
+| [nitter.privacy.com.de](https://nitter.privacy.com.de)               | :white_check_mark: | :white_check_mark: | :de:          | [ZeroSSL](https://www.ssllabs.com/ssltest/analyze.html?d=nitter.privacy.com.de)              |
+| [nitter.poast.org](https://nitter.poast.org/)                        | :white_check_mark: | :white_check_mark: | :us:          | [Let's Encrypt](https://www.ssllabs.com/ssltest/analyze.html?d=nitter.poast.org)             |
 | [nitter.bird.froth.zone](https://nitter.bird.froth.zone)             | :white_check_mark: | :x: | :canada:      | [Let's Encrypt](https://www.ssllabs.com/ssltest/analyze.html?d=nitter.bird.froth.zone)       |
-| [twitter.dr460nf1r3.org](https://twitter.dr460nf1r3.org/)            | :x: | :x: | :de:          | [Cloudflare](https://www.ssllabs.com/ssltest/analyze.html?d=twitter.dr460nf1r3.org)          |
 | [nitter.cz](https://nitter.cz)                                       | :white_check_mark: | :x: | :czech_republic: | [Let's Encrypt](https://www.ssllabs.com/ssltest/analyze.html?d=nitter.cz)                 |
 | [nitter.privacydev.net](https://nitter.privacydev.net)               | :white_check_mark: | :x: | :de:          | [Let's Encrypt](https://www.ssllabs.com/ssltest/analyze.html?d=nitter.privacydev.net)        |
 | [tweet.lambda.dance](https://tweet.lambda.dance)                     | :white_check_mark: | :x: | :us:          | [Let's Encrypt](https://www.ssllabs.com/ssltest/analyze.html?d=tweet.lambda.dance)           |
@@ -234,6 +231,9 @@ Note: Please add new instances to the bottom to preserve the order. In order to 
 | [nitter.plus.st](https://nitter.plus.st)                | 🇺🇸            | Unknown      |
 | [nitter.kozmik.studio](https://nitter.kozmik.studio)    | 🇺🇸            | Unknown      |
 | [nitter.sylentpunk.xyz](https://nitter.sylentpunk.xyz/) | 🇮🇸            | Unknown      |
+| [twitter.censors.us](https://twitter.censors.us)        | 🇺🇸            | Unknown      |
+| [nitter.spaceint.fr](https://nitter.spaceint.fr)        | :belgium:     | Unknown       |
+| [twitter.dr460nf1r3.org](https://twitter.dr460nf1r3.org/)  | :de:   | Unknown |
 
 ## Third-party Nitter services
 | Name                                                          | Description                                                      |
