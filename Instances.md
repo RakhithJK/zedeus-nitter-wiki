@@ -64,7 +64,7 @@ Note: Please add new instances to the bottom to preserve the order. In order to 
 | [nt.vern.cc](https://nt.vern.cc)                                     | :x: | :x:                | :us:          | [Let's Encrypt](https://www.ssllabs.com/ssltest/analyze.html?d=nt.vern.cc)                   |
 | [nitter.ir](https://nitter.ir)                                       | :white_check_mark: | :x:                | :us:          | [Let's Encrypt](https://www.ssllabs.com/ssltest/analyze.html?d=nitter.ir)                    |
 | [nitter.privacytools.io](https://nitter.privacytools.io)             | :white_check_mark: | :x: | :sweden:      | [Cloudflare](https://www.ssllabs.com/ssltest/analyze.html?d=nitter.privacytools.io)          |
-| [nitter.sneed.network](https://nitter.sneed.network)                 | :white_check_mark: | :x: | :australia:   | [Cloudflare](https://www.ssllabs.com/ssltest/analyze.html?d=nitter.sneed.network)            |
+| [n.sneed.network](https://n.sneed.network)                 | :white_check_mark: | :white_check_mark: | :australia:   | [Cloudflare](https://www.ssllabs.com/ssltest/analyze.html?d=nitter.sneed.network)            |
 | [nitter.smnz.de](https://nitter.smnz.de)                             | :x: | :x: | :de:          | [Let's Encrypt](https://www.ssllabs.com/ssltest/analyze.html?d=nitter.smnz.de)               |
 | [nitter.twei.space](https://nitter.twei.space)                       | :white_check_mark: | :x: | :austria:     | [Let's Encrypt](https://www.ssllabs.com/ssltest/analyze.html?d=nitter.twei.space)            |
 | [nitter.inpt.fr](https://nitter.inpt.fr)                             | :white_check_mark: | :x: | :fr:          | [Let's Encrypt](https://www.ssllabs.com/ssltest/analyze.html?d=nitter.inpt.fr)               |
