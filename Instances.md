@@ -78,8 +78,8 @@ Note: Please add new instances to the bottom to preserve the order. In order to 
 | [nitter.adminforge.de](https://nitter.adminforge.de)                 | :white_check_mark: | :x: | :de:          | [Let's Encrypt](https://www.ssllabs.com/ssltest/analyze.html?d=nitter.adminforge.de)         |
 | [nitter.platypush.tech](https://nitter.platypush.tech)               | :x: | :x:                | :de:          | [Let's Encrypt](https://www.ssllabs.com/ssltest/analyze.html?d=nitter.platypush.tech)        |
 | [nitter.pufe.org](https://nitter.pufe.org)                           | :x: | :x: | :new_zealand: | [Let's Encrypt](https://www.ssllabs.com/ssltest/analyze.html?d=nitter.pufe.org)              |
-| [nitter.us.projectsegfau.lt](https://nitter.us.projectsegfau.lt)     | :x: | :x: | :us:          | [Let's Encrypt](https://www.ssllabs.com/ssltest/analyze.html?d=nitter.us.projectsegfau.lt)   |
-| [t.com.sb](https://t.com.sb/)                                        | :x: | :x: | :estonia:     | [ZeroSSL](https://www.ssllabs.com/ssltest/analyze.html?d=t.com.sb)                           |
+| [nitter.us.projectsegfau.lt](https://nitter.us.projectsegfau.lt)     | :white_check_mark: | :white_check_mark: | :us:          | [Let's Encrypt](https://www.ssllabs.com/ssltest/analyze.html?d=nitter.us.projectsegfau.lt)   |
+| [t.com.sb](https://t.com.sb/)                                        | :white_check_mark: | :x: | :estonia:     | [ZeroSSL](https://www.ssllabs.com/ssltest/analyze.html?d=t.com.sb)                           |
 | [nitter.kling.gg](https://nitter.kling.gg)                           | :white_check_mark: | :white_check_mark: | :netherlands: | [Let's Encrypt](https://www.ssllabs.com/ssltest/analyze.html?d=nitter.kling.gg)              |
 | [nitter.riverside.rocks](https://nitter.riverside.rocks)             | :x: | :x: | :us:          | [Let's Encrypt](https://www.ssllabs.com/ssltest/analyze.html?d=nitter.riverside.rocks)       |
 | [nitter.lunar.icu](https://nitter.lunar.icu)                         | :white_check_mark: | :x: | :de:          | [Cloudflare](https://www.ssllabs.com/ssltest/analyze.html?d=nitter.lunar.icu)                |
