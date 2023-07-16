@@ -111,6 +111,7 @@ Note: Please add new instances to the bottom to preserve the order. In order to 
 | [nitter.x86-64-unknown-linux-gnu.zip](https://nitter.x86-64-unknown-linux-gnu.zip/)              | :white_check_mark: | :white_check_mark: | :de:     | [Let's Encrypt](https://www.ssllabs.com/ssltest/analyze.html?d=nitter.x86-64-unknown-linux-gnu.zip)        |
 | [nitter.private.coffee](https://nitter.private.coffee)               | :white_check_mark: | :white_check_mark: | :austria: | [Let's Encrypt](https://www.ssllabs.com/ssltest/analyze.html?d=nitter.private.coffee) |
 | [nitter.oksocial.net](https://nitter.oksocial.net)             | :white_check_mark: | :white_check_mark: | :us:      | [Let's Encrypt](https://www.ssllabs.com/ssltest/analyze.html?d=nitter.oksocial.net)       |
+| [nitter.services.woodland.cafe](https://nitter.services.woodland.cafe)             | :white_check_mark: | :white_check_mark: | :de:      | [Let's Encrypt](https://www.ssllabs.com/ssltest/analyze.html?d=nitter.services.woodland.cafe)       |
 
 ### Tor
 | URL                                                                              | Online¹            |
