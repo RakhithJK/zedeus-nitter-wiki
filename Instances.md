@@ -100,7 +100,6 @@ Note: Please add new instances to the bottom to preserve the order. In order to 
 | [nitter.io.lol](https://nitter.io.lol/)                              | :white_check_mark: | :x: | :us:          | [Let's Encrypt](https://www.ssllabs.com/ssltest/analyze.html?d=nitter.io.lol)                |
 | [nitter.hu](https://nitter.hu)                                       | :white_check_mark: | :x: | :hungary:     | [Let's Encrypt](https://www.ssllabs.com/ssltest/analyze.html?d=nitter.hu&latest)             |
 | [nitter.no-logs.com](https://nitter.no-logs.com)                     | :white_check_mark: | :x: | :sweden:      | [Let's Encrypt](https://www.ssllabs.com/ssltest/analyze.html?d=nitter.no-logs.com&latest)    |
-| [nitter.fascinated.cc](https://nitter.fascinated.cc)                 | :x: | :x: | :de:          | [Cloudflare](https://www.ssllabs.com/ssltest/analyze.html?d=nitter.fascinated.cc)            |
 | [nitter.ftw.lol](https://nitter:nitter@nitter.ftw.lol) ([auth required](https://auth.nitter.ftw.lol/login)) | :x: | :x: | :de: | [Let's Encrypt](https://www.ssllabs.com/ssltest/analyze.html?d=nitter.ftw.lol) |
 | [tweet.whateveritworks.org](https://tweet.whateveritworks.org)       | :white_check_mark: | :x: | :de:          | [Let's Encrypt + Cloudflare](https://www.ssllabs.com/ssltest/analyze.html?d=tweet.whateveritworks.org) |
 | [nitter.fediflix.org](https://nitter.fediflix.org)                   | :white_check_mark: | :x: | :de:          | [Let's Encrypt](https://www.ssllabs.com/ssltest/analyze.html?d=nitter.fediflix.org)          |
@@ -234,7 +233,8 @@ Note: Please add new instances to the bottom to preserve the order. In order to 
 | [nitter.sylentpunk.xyz](https://nitter.sylentpunk.xyz/) | 🇮🇸            | Unknown      |
 | [twitter.censors.us](https://twitter.censors.us)        | 🇺🇸            | Unknown      |
 | [nitter.spaceint.fr](https://nitter.spaceint.fr)        | :belgium:     | Unknown       |
-| [twitter.dr460nf1r3.org](https://twitter.dr460nf1r3.org/)  | :de:   | Unknown |
+| [twitter.dr460nf1r3.org](https://twitter.dr460nf1r3.org/)  | 🇩🇪   | Unknown |
+| [nitter.fascinated.cc](https://nitter.fascinated.cc)     | 🇩🇪 | 2023-07-19
 
 ## Third-party Nitter services
 | Name                                                          | Description                                                      |
