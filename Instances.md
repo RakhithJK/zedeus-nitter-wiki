@@ -111,6 +111,8 @@ Note: Please add new instances to the bottom to preserve the order. In order to 
 | [nitter.private.coffee](https://nitter.private.coffee)               | :white_check_mark: | :white_check_mark: | :austria: | [Let's Encrypt](https://www.ssllabs.com/ssltest/analyze.html?d=nitter.private.coffee) |
 | [nitter.oksocial.net](https://nitter.oksocial.net)             | :white_check_mark: | :white_check_mark: | :us:      | [Let's Encrypt](https://www.ssllabs.com/ssltest/analyze.html?d=nitter.oksocial.net)       |
 | [nitter.services.woodland.cafe](https://nitter.services.woodland.cafe)             | :white_check_mark: | :white_check_mark: | :de:      | [Let's Encrypt](https://www.ssllabs.com/ssltest/analyze.html?d=nitter.services.woodland.cafe)       |
+| [nitter.datura.network](https://nitter.datura.network)             | :white_check_mark: | :white_check_mark: | :de:      | [Let's Encrypt](https://www.ssllabs.com/ssltest/analyze.html?d=nitter.datura.network)       |
+
 
 ### Tor
 | URL                                                                              | Online¹            |
@@ -152,6 +154,7 @@ Note: Please add new instances to the bottom to preserve the order. In order to 
 | <http://nitter.pjsfkvpxlinjamtawaksbnnaqs2fc2mtvmozrzckxh7f3kis6yea25ad.onion/>  | :white_check_mark: |
 | <http://twitter.cepyxplublbyw2f4axy4pyztfbxmf63lrt2c7uwv6wl4iixz53czload.onion/> | :white_check_mark: |
 | <http://nitter.coffee2m3bjsrrqqycx6ghkxrnejl2q6nl7pjw2j4clchjj6uk5zozad.onion/>  | :white_check_mark: |
+| <http://nitter.daturab6drmkhyeia4ch5gvfc2f3wgo6bhjrv3pz6n7kxmvoznlkq4yd.onion/>  | :white_check_mark: |
 
 ### I2P
 - <http://axd6uavsstsrvstva4mzlzh4ct76rc6zdug3nxdgeitrzczhzf4q.b32.i2p/>
