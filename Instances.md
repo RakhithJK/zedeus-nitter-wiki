@@ -112,7 +112,7 @@ Note: Please add new instances to the bottom to preserve the order. In order to 
 | [nitter.oksocial.net](https://nitter.oksocial.net)             | :white_check_mark: | :white_check_mark: | :us:      | [Let's Encrypt](https://www.ssllabs.com/ssltest/analyze.html?d=nitter.oksocial.net)       |
 | [nitter.services.woodland.cafe](https://nitter.services.woodland.cafe)             | :white_check_mark: | :white_check_mark: | :de:      | [Let's Encrypt](https://www.ssllabs.com/ssltest/analyze.html?d=nitter.services.woodland.cafe)       |
 | [nitter.datura.network](https://nitter.datura.network)             | :white_check_mark: | :white_check_mark: | :de:      | [Let's Encrypt](https://www.ssllabs.com/ssltest/analyze.html?d=nitter.datura.network)       |
-
+| [nitter.dafriser.be](https://nitter.dafriser.be)             | :white_check_mark: | :white_check_mark: | :de:      | [Let's Encrypt](https://www.ssllabs.com/ssltest/analyze.html?d=nitter.dafriser.be)       |
 
 ### Tor
 | URL                                                                              | Online¹            |
