@@ -245,6 +245,7 @@ Note: Please add new instances to the bottom to preserve the order. In order to 
 | :------------------------------------------------------------ | :--------------------------------------------------------------- |
 | [Twiiit](https://twiiit.com)                                  | Randomly picks a server from this wiki                           |
 | [Farside](https://farside.link)                               | Randomly picks a working instance for various frontends          |
+| [nitter-status](https://status.d420.de)                       | Tracks uptime for Nitter instances                               |
 <!--
 Discontinued service: https://github.com/xnaas/xnaas/commit/1f235556272c08ef5b124ca981b0b4fa409ba756
 | [Nitter Uptime](https://xnaas.github.io/nitter-instances/)    | Tracks uptime for Nitter instances                               |
