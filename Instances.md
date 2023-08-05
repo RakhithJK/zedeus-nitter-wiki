@@ -24,8 +24,6 @@ Note: Please add new instances to the bottom to preserve the order. In order to 
 | [nitter.1d4.us](https://nitter.1d4.us/)                              | :white_check_mark: | :white_check_mark: | :us:          | [Let's Encrypt](https://www.ssllabs.com/ssltest/analyze.html?d=nitter.1d4.us)                |
 | [nitter.kavin.rocks](https://nitter.kavin.rocks)                     | :white_check_mark: | :white_check_mark: | :india:       | [Let's Encrypt](https://www.ssllabs.com/ssltest/analyze.html?d=nitter.kavin.rocks)           |
 | [nitter.unixfox.eu](https://nitter.unixfox.eu)                       | :white_check_mark: | :white_check_mark: | :netherlands: | [Buypass AS-983163327](https://www.ssllabs.com/ssltest/analyze.html?d=nitter.unixfox.eu)     |
-| [nitter.domain.glass](https://nitter.domain.glass)                   | :white_check_mark: | :x:                | :us:          | [Cloudflare](https://www.ssllabs.com/ssltest/analyze.html?d=nitter.domain.glass)             |
-| [birdsite.xanny.family](https://birdsite.xanny.family) (anycast)     | :white_check_mark: | :x:                | :earth_asia:  | [Cloudflare](https://www.ssllabs.com/ssltest/analyze.html?d=birdsite.xanny.family)           |
 | [nitter.moomoo.me](https://nitter.moomoo.me)                         | :white_check_mark: | :white_check_mark: | :us:          | [Let's Encrypt](https://www.ssllabs.com/ssltest/analyze.html?d=nitter.moomoo.me)             |
 | [bird.trom.tf](https://bird.trom.tf/)                                | :x: | :x:         | :de:          | [Let's Encrypt](https://www.ssllabs.com/ssltest/analyze.html?d=bird.trom.tf)                 |
 | [nitter.it](https://nitter.it)                                       | :white_check_mark: | :x: | :finland:     | [Let's Encrypt](https://www.ssllabs.com/ssltest/analyze.html?d=nitter.it)                    |
@@ -238,6 +236,8 @@ Note: Please add new instances to the bottom to preserve the order. In order to 
 | [nitter.privacytools.io](https://nitter.privacytools.io)| :sweden:      | Unknown      |
 | [nitter.slipfox.xyz](https://nitter.slipfox.xyz)        | :us:          | Unknown      |
 | [n.l5.ca](https://n.l5.ca)                              | :us:          | Unknown      |
+| [birdsite.xanny.family](https://birdsite.xanny.family)  | :earth_asia:  | Unknown      |
+| [nitter.domain.glass](https://nitter.domain.glass)      | :us:          | Unknown      |
 | [nitter.pufe.org](https://nitter.pufe.org)              | :new_zealand: | 2023-07-03   |
 | [nitter.fascinated.cc](https://nitter.fascinated.cc)    | 🇩🇪            | 2023-07-19   |
 
