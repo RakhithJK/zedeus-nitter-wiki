@@ -18,6 +18,7 @@ Note: Please add new instances to the bottom to preserve the order. In order to 
 
 | URL                                                                  | Online¹            | Updated²           | Country       | Issuer & SSLLabs verification link                                                           |
 | :------------------------------------------------------------------- | :----------------- | :----------------- | :------------ | :------------------------------------------------------------------------------------------- |
+| [nitter.datura.network](https://nitter.datura.network) | :white_check_mark: | :white_check_mark: | :de: | [Let's Encrypt](https://www.ssllabs.com/ssltest/analyze.html?d=nitter.datura.network)
 | [nitter.lacontrevoie.fr](https://nitter.lacontrevoie.fr/)            | :white_check_mark: | :white_check_mark: | :fr:          | [Let's Encrypt](https://www.ssllabs.com/ssltest/analyze.html?d=nitter.lacontrevoie.fr)       |
 | [nitter.nixnet.services](https://nitter:nitter@nitter.nixnet.services) ([auth required](https://nixnet.services/blog/nitter-behind-http-basic-auth/)) | :white_check_mark: | :white_check_mark: | :de: | [Let's Encrypt](https://www.ssllabs.com/ssltest/analyze.html?d=nitter.nixnet.services)    |
 | [nitter.fdn.fr](https://nitter.fdn.fr/)                              | :white_check_mark: | :white_check_mark: | :fr:          | [Let's Encrypt](https://www.ssllabs.com/ssltest/analyze.html?d=nitter.fdn.fr)                |
@@ -230,7 +231,6 @@ Note: Please add new instances to the bottom to preserve the order. In order to 
 | [nitter.ir](https://nitter.ir)                          | :us:          | Unknown      |
 | [nitter.tokhmi.xyz](https://nitter.tokhmi.xyz)          | :us:          | Unknown      |
 | [nitter.instances.cc](https://nitter.instances.cc/)     | :norway:      | Unknown      |
-| [nitter.datura.network](https://nitter.datura.network)  | :de:          | Unknown      |
 | [nitter.nachtalb.io](https://nitter.nachtalb.io)        | :switzerland: | Unknown      |
 | [n.quadtr.ee](https://n.quadtr.ee)                      | :us:          | Unknown      |
 | [twitter.owacon.moe](https://twitter.owacon.moe)        | :jp:          | Unknown      |
