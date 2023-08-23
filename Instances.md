@@ -13,10 +13,9 @@ Note: Please add new instances to the bottom to preserve the order. In order to 
 -->
 
 :x:¹ means the instance isn't online. \
-:x:² means the instance is outdated, mostly shows if an instance misses a vital change, e.g. timelines not loading. \
-:question: means the commit link is invalid or missing from the instance's about page.
+:x:² means the instance isn't working properly, mostly shows if an instance misses a vital change, e.g. timelines not loading.
 
-| URL                                                                  | Online¹            | Updated²           | Country       | Issuer & SSLLabs verification link                                                           |
+| URL                                                                  | Online¹            | Working²           | Country       | Issuer & SSLLabs verification link                                                           |
 | :------------------------------------------------------------------- | :----------------- | :----------------- | :------------ | :------------------------------------------------------------------------------------------- |
 | [nitter.lacontrevoie.fr](https://nitter.lacontrevoie.fr/)            | :white_check_mark: | :x: | :fr:          | [Let's Encrypt](https://www.ssllabs.com/ssltest/analyze.html?d=nitter.lacontrevoie.fr)       |
 | [nitter.nixnet.services](https://nitter:nitter@nitter.nixnet.services) ([auth required](https://nixnet.services/blog/nitter-behind-http-basic-auth/)) | :white_check_mark: | :white_check_mark: | :de: | [Let's Encrypt](https://www.ssllabs.com/ssltest/analyze.html?d=nitter.nixnet.services)    |
