@@ -106,8 +106,6 @@ systemctl restart fail2ban
 ```
 
 To verify that the jail is running:
-
-Run
 ```bash
 fail2ban-client status nginx-limit-req
 ```
