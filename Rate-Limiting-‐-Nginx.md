@@ -73,6 +73,7 @@ __nitter.nginx__
                 proxy_pass http://localhost:8080;
                 limit_req zone=nitter.tld_sec burst=3 nodelay;
                 limit_req zone=nitter.tld_min burst=4;
+}
 ```
 The 'burst' parameter allows for temporary bursts of traffic while maintaining the overall rate limit, ensuring a smoother user experience while preventing server overload and misuse.
 
