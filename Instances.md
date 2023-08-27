@@ -239,6 +239,7 @@ Note: Please add new instances to the bottom to preserve the order. In order to 
 | [nitter.domain.glass](https://nitter.domain.glass)      | :us:          | Unknown      |
 | [nitter.pufe.org](https://nitter.pufe.org)              | :new_zealand: | 2023-07-03   |
 | [nitter.fascinated.cc](https://nitter.fascinated.cc)    | 🇩🇪            | 2023-07-19   |
+| [n.opnxng.com](https://n.opnxng.com)                    | :singapore:   | 2023-08-27   |
 
 ## Third-party Nitter services
 | Name                                                          | Description                                                      |
