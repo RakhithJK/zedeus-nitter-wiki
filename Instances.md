@@ -72,7 +72,6 @@ Note: Please add new instances to the bottom to preserve the order. In order to 
 | [nitter.lunar.icu](https://nitter.lunar.icu)                         | :white_check_mark: | :x: | :de:          | [Cloudflare](https://www.ssllabs.com/ssltest/analyze.html?d=nitter.lunar.icu)                |
 | [twitter.moe.ngo](https://twitter.moe.ngo)                           | :white_check_mark: | :x: | :indonesia:   | [Google Trust Services LLC](https://www.ssllabs.com/ssltest/analyze.html?d=twitter.moe.ngo)  |
 | [nitter.freedit.eu](https://nitter.freedit.eu)                       | :white_check_mark: | :x: | :us:          | [Let's Encrypt](https://www.ssllabs.com/ssltest/analyze.html?d=nitter.freedit.eu)            |
-| [n.opnxng.com](https://n.opnxng.com)                                 | :white_check_mark: | :x: | :singapore:   | [Let's Encrypt](https://www.ssllabs.com/ssltest/analyze.html?d=n.opnxng.com)                 |
 | [nitter.tux.pizza](https://nitter.tux.pizza)                         | :white_check_mark: | :x: | :us:          | [Let's Encrypt](https://www.ssllabs.com/ssltest/analyze.html?d=nitter.tux.pizza)             |
 | [nitter.altgr.xyz](https://nitter.altgr.xyz)                         | :white_check_mark: | :x: | :chile:       | [Cloudflare](https://www.ssllabs.com/ssltest/analyze.html?d=nitter.altgr.xyz)                |
 | [jote.lile.cl](https://jote.lile.cl)                                 | :white_check_mark: | :x: | :chile:       | [Cloudflare](https://www.ssllabs.com/ssltest/analyze.html?d=jote.lile.cl)                    |
