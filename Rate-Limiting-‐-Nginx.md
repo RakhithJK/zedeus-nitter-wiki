@@ -77,6 +77,13 @@ __nitter.nginx__
 ```
 The 'burst' parameter allows for temporary bursts of traffic while maintaining the overall rate limit, ensuring a smoother user experience while preventing server overload and misuse.
 
+Reload Nginx configuration files:
+```bash
+nginx -s reload
+```
+
+Nginx will now rate limit IP for excessive usage.
+
 ### **Fail2ban**
 
 To implement rate limiting and address repeat offenders, a functional install of Fail2ban (https://github.com/fail2ban/fail2ban) is required. Typically, Fail2ban configuration files are located at /etc/fail2ban. Make a copy of jail.conf named jail.local, as Fail2ban will prioritize jail.local by default when both are present:
