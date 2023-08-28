@@ -68,7 +68,6 @@ Note: Please add new instances to the bottom to preserve the order. In order to 
 | [nitter.us.projectsegfau.lt](https://nitter.us.projectsegfau.lt)     | :white_check_mark: | :x: | :us:          | [Let's Encrypt](https://www.ssllabs.com/ssltest/analyze.html?d=nitter.us.projectsegfau.lt)   |
 | [t.com.sb](https://t.com.sb/)                                        | :white_check_mark: | :x: | :estonia:     | [ZeroSSL](https://www.ssllabs.com/ssltest/analyze.html?d=t.com.sb)                           |
 | [nitter.kling.gg](https://nitter.kling.gg)                           | :white_check_mark: | :x: | :netherlands: | [Let's Encrypt](https://www.ssllabs.com/ssltest/analyze.html?d=nitter.kling.gg)              |
-| [nitter.riverside.rocks](https://nitter.riverside.rocks)             | :x: | :x: | :us:          | [Let's Encrypt](https://www.ssllabs.com/ssltest/analyze.html?d=nitter.riverside.rocks)       |
 | [nitter.lunar.icu](https://nitter.lunar.icu)                         | :white_check_mark: | :x: | :de:          | [Cloudflare](https://www.ssllabs.com/ssltest/analyze.html?d=nitter.lunar.icu)                |
 | [twitter.moe.ngo](https://twitter.moe.ngo)                           | :white_check_mark: | :x: | :indonesia:   | [Google Trust Services LLC](https://www.ssllabs.com/ssltest/analyze.html?d=twitter.moe.ngo)  |
 | [nitter.freedit.eu](https://nitter.freedit.eu)                       | :white_check_mark: | :x: | :us:          | [Let's Encrypt](https://www.ssllabs.com/ssltest/analyze.html?d=nitter.freedit.eu)            |
@@ -240,6 +239,7 @@ Note: Please add new instances to the bottom to preserve the order. In order to 
 | [nitter.pufe.org](https://nitter.pufe.org)              | :new_zealand: | 2023-07-03   |
 | [nitter.fascinated.cc](https://nitter.fascinated.cc)    | 🇩🇪            | 2023-07-19   |
 | [n.opnxng.com](https://n.opnxng.com)                    | :singapore:   | 2023-08-27   |
+| [nitter.riverside.rocks](https://nitter.riverside.rocks)| :us:          | 2023-08-19   |
 
 ## Third-party Nitter services
 | Name                                                          | Description                                                      |
