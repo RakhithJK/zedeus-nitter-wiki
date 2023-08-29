@@ -39,7 +39,7 @@ __nginx.conf__
 http {
 
         limit_req_zone $binary_remote_addr zone=nitter.tld_sec:10m rate=1r/s;
-        limit_req_zone $binary_remote_addr zone=nitter.tld_min:10m rate=200r/m;
+        limit_req_zone $binary_remote_addr zone=nitter.tld_min:10m rate=45r/m;
 }
 ```
 These settings limit users to one request per second and 200 requests per minute, a natural browsing rate for the site.
@@ -73,7 +73,7 @@ __nitter.nginx__
                 proxy_pass http://localhost:8080;
                 limit_req zone=nitter.tld_sec burst=3 nodelay;
                 limit_req zone=nitter.tld_min burst=4;
-}
+        }
 ```
 The 'burst' parameter allows for temporary bursts of traffic while maintaining the overall rate limit, ensuring a smoother user experience while preventing server overload and misuse.
 
@@ -132,5 +132,3 @@ Status for the jail: nginx-limit-req
 ```
 
 Fail2ban will now enforce rate limits, with incremental punishments for repeat infractions when bans expire.
-
-
