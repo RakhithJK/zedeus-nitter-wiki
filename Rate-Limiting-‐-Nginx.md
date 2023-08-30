@@ -42,7 +42,7 @@ http {
         limit_req_zone $binary_remote_addr zone=nitter.tld_min:10m rate=45r/m;
 }
 ```
-These settings limit users to one request per second and 200 requests per minute, a natural browsing rate for the site.
+These settings limit users to one request per second and 45 requests per minute, a natural browsing rate for the site.
 
 Now, in your 'nitter.nginx' server block:
 
