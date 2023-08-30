@@ -92,6 +92,7 @@ Note: Please add new instances to the bottom to preserve the order. In order to 
 | [https://nitter.laserdisc.tokyo/](https://nitter.laserdisc.tokyo/) | :white_check_mark: | :x: | :sweden:    | [Let's Encrypt](https://www.ssllabs.com/ssltest/analyze.html?d=nitter.laserdisc.tokyo) |
 | [nitter.datura.network](https://nitter.datura.network) | :white_check_mark: | :x: | :de: | [Let's Encrypt](https://www.ssllabs.com/ssltest/analyze.html?d=nitter.datura.network)
 | [nitter.salastil.com](https://nitter.salastil.com/)            | :white_check_mark: | :white_check_mark: | :us:          | [Let's Encrypt](https://www.ssllabs.com/ssltest/analyze.html?d=nitter.salastil.com)       |
+| [nt.ggtyler.dev](https://nt.ggtyler.dev)                             | :white_check_mark: | :white_check_mark: | :us: | [Let's Encrypt](https://www.ssllabs.com/ssltest/analyze.html?d=nt.ggtyler.dev)         |
 
 ### Tor
 | URL                                                                              | Online¹            |
