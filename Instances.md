@@ -92,6 +92,7 @@ Note: Please add new instances to the bottom to preserve the order. In order to 
 | [nitter.datura.network](https://nitter.datura.network) | :white_check_mark: | :x: | :de: | [Let's Encrypt](https://www.ssllabs.com/ssltest/analyze.html?d=nitter.datura.network)
 | [nitter.salastil.com](https://nitter.salastil.com/)            | :white_check_mark: | :white_check_mark: | :us:          | [Let's Encrypt](https://www.ssllabs.com/ssltest/analyze.html?d=nitter.salastil.com)       |
 | [nt.ggtyler.dev](https://nt.ggtyler.dev)                             | :white_check_mark: | :white_check_mark: | :us: | [Let's Encrypt](https://www.ssllabs.com/ssltest/analyze.html?d=nt.ggtyler.dev)         |
+| [nitter.hyperreal.coffee](https://nitter.hyperreal.coffee) | :white_check_mark: | :white_check_mark: | :us: | [Let's Encrypt](https://www.ssllabs.com/ssltest/analyze.html?d=nitter.hyperreal.coffee)
 
 ### Tor
 | URL                                                                              | Online¹            |
@@ -256,3 +257,4 @@ Discontinued service: https://github.com/xnaas/xnaas/commit/1f235556272c08ef5b12
 Apparently spam: https://github.com/zedeus/nitter/issues/596
 | [Twitit](https://twitit.gq)                                   | Tracks all Nitter instances status and redirects to working ones |
 -->
+
