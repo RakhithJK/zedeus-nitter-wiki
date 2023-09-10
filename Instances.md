@@ -13,7 +13,7 @@ Note: Please add new instances to the bottom to preserve the order. In order to 
 -->
 
 :x:¹ means the instance isn't online. \
-:x:² means the instance isn't working properly, mostly shows if an instance misses a vital change, e.g. timelines not loading. \
+:x:² means the instance isn't working properly, mostly shows if an instance misses a vital change, e.g. timelines not loading.
 
 | URL                                                                                                                                                   | Online¹            | Working²           | IPv6               | Country             | Issuer & SSLLabs verification link                                                                             |
 | :---------------------------------------------------------------------------------------------------------------------------------------------------- | :----------------- | :----------------- | :----------------- | :------------------ | :------------------------------------------------------------------------------------------------------------- |
@@ -92,7 +92,7 @@ Note: Please add new instances to the bottom to preserve the order. In order to 
 | [nitter.datura.network](https://nitter.datura.network)                                                                                                | :white_check_mark: | :x:                | :x:                | :de:                | [Let's Encrypt](https://www.ssllabs.com/ssltest/analyze.html?d=nitter.datura.network)                          |
 | [nitter.salastil.com](https://nitter.salastil.com/)                                                                                                   | :white_check_mark: | :white_check_mark: | :x:                | :us:                | [Let's Encrypt](https://www.ssllabs.com/ssltest/analyze.html?d=nitter.salastil.com)                            |
 | [nt.ggtyler.dev](https://nt.ggtyler.dev)                                                                                                              | :white_check_mark: | :white_check_mark: | :x:                | :us:                | [Let's Encrypt](https://www.ssllabs.com/ssltest/analyze.html?d=nt.ggtyler.dev)                                 |
-| [nitter.hyperreal.coffee](https://nitter.hyperreal.coffee)                                                                                            | :white_check_mark: | :white_check_mark: | :x:                | :us:                | [Let's Encrypt](https://www.ssllabs.com/ssltest/analyze.html?d=nitter.hyperreal.coffee)                        |
+| [nitter.hyperreal.coffee](https://nitter.hyperreal.coffee)                                                                                            | :white_check_mark: | :white_check_mark: | :x:                | :us:                | [Let's Encrypt](https://www.ssllabs.com/ssltest/analyze.html?d=nitter.hyperreal.coffee)
 
 ### Tor
 | URL                                                                              | Online¹            |
