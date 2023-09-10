@@ -92,7 +92,7 @@ Note: Please add new instances to the bottom to preserve the order. In order to 
 | [nitter.datura.network](https://nitter.datura.network)                                                                                                | :white_check_mark: | :x:                | :x:                | :de:                | [Let's Encrypt](https://www.ssllabs.com/ssltest/analyze.html?d=nitter.datura.network)                          |
 | [nitter.salastil.com](https://nitter.salastil.com/)                                                                                                   | :white_check_mark: | :white_check_mark: | :x:                | :us:                | [Let's Encrypt](https://www.ssllabs.com/ssltest/analyze.html?d=nitter.salastil.com)                            |
 | [nt.ggtyler.dev](https://nt.ggtyler.dev)                                                                                                              | :white_check_mark: | :white_check_mark: | :x:                | :us:                | [Let's Encrypt](https://www.ssllabs.com/ssltest/analyze.html?d=nt.ggtyler.dev)                                 |
-| [nitter.hyperreal.coffee](https://nitter.hyperreal.coffee)                                                                                            | :white_check_mark: | :white_check_mark: | :x:                | :us:                | [Let's Encrypt](https://www.ssllabs.com/ssltest/analyze.html?d=nitter.hyperreal.coffee)
+| [nitter.hyperreal.coffee](https://nitter.hyperreal.coffee)                                                                                            | :white_check_mark: | :white_check_mark: | :x:                | :us:                | [Let's Encrypt](https://www.ssllabs.com/ssltest/analyze.html?d=nitter.hyperreal.coffee)                        |
 
 ### Tor
 | URL                                                                              | Online¹            |
@@ -151,97 +151,97 @@ Note: Please add new instances to the bottom to preserve the order. In order to 
 - <http://nitter.priv.loki/>
 
 ## Discontinued
-| URL                                                     | Country       | Offline Date |
-| :------------------------------------------------------ | :------------ | :----------- |
-| [nitter.himiko.cloud](https://nitter.himiko.cloud)      | :bulgaria:    | 2021-05-03   |
-| [nitter.jae.fi](https://nitter.jae.fi)                  | :finland:     | Unknown      |
-| [nitter.cc](https://nitter.cc)                          | :serbia:      | 2021-06      |
-| [nitter.ortion.xyz](https://nitter.ortion.xyz)          | :fr:          | 2021-06-07   |
-| [nitter.40two.app](https://nitter.40two.app)            | :netherlands: | Unknown      |
-| [nitter.dark.fail](https://nitter.dark.fail)            | :us:          | Unknown      |
-| [nitter.sugoma.tk](https://nitter.sugoma.tk)            | :us:          | Never Online |
-| [nitter.didw.to](https://nitter.didw.to)                | :sweden:      | 2021-09-24   |
-| [bird.nogafam.es](https://bird.nogafam.es)              | :es:          | 2021-10-03   |
-| [nitter.ethibox.fr](https://nitter.ethibox.fr)          | :fr:          | Unknown      |
-| [nitter.cattube.org](https://nitter.cattube.org)        | :de:          | 2021-10-06   |
-| [nitter.vxempire.xyz](https://nitter.vxempire.xyz)      | :es:          | 2021-11-30   |
-| [n.0x0.st](https://n.0x0.st)                            | :de:          | 2021-12-06   |
-| [is-nitter.resolv.ee](https://is-nitter.resolv.ee)      | :iceland:     | 2021-12-10   |
-| [lu-nitter.resolv.ee](https://lu-nitter.resolv.ee)      | :luxembourg:  | 2021-12-31   |
-| [nitterrrs6...hid.onion](http://nitterrrs6bbcba2bxjviwxzzapkhuuelljtig2ku2rxasweckxxxhid.onion) | :us: | 2022-01-31 |
-| [nitter.koyu.space](https://nitter.koyu.space)          | :de:          | 2022-01-24   |
-| [nitter.autarkic.org](https://nitter.autarkic.org)      | :us:          | 2022-01-28   |
-| [nitter.eu.org](https://nitter.eu.org)                  | :earth_asia:  | 2022-02-14   |
-| [nittereu.moomoo.me](https://nittereu.moomoo.me)        | :de:          | 2022-04-24   |
-| [twitr.gq](https://twitr.gq)                            | :finland:     | 2022-04-26   |
-| [nitter.alefvanoon.xyz](https://nitter.alefvanoon.xyz)  | :us:          | 2022-04-28   |
-| [nitter.datatunnel.xyz](https://nitter.datatunnel.xyz)  | :finland:     | 2022-05-12   |
-| [nitter.silkky.cloud](https://nitter.silkky.cloud)      | :finland:     | 2022-05-23   |
-| [nitter.govt.land](https://nitter.govt.land)            | :earth_asia:  | 2022-05-04   |
-| [nitter.mstdn.social](https://nitter.mstdn.social)      | :de:          | 2022-06-28   |
-| [nitter.oishi-ra.men](https://nitter.oishi-ra.men)      | :de:          | 2022-07-07   |
-| [nitter.mastodon.pro](https://nitter.mastodon.pro)      | :switzerland: | 2022-07-14   |
-| [n.hyperborea.cloud](https://n.hyperborea.cloud)        | :canada:      | 2022-07-23   |
-| [nitter.notraxx.ch](https://nitter.notraxx.ch)          | :de:          | 2022-09-13   |
-| [nitter.ebnar.xyz](https://nitter.ebnar.xyz)            | :de:          | 2022-09-16   |
-| [3nzoldnxpl...oad.onion](http://3nzoldnxplag42gqjs23xvghtzf6t6yzssrtytnntc6ppc7xxuoneoad.onion/) | | 2022-10-20 |
-| [twtr.bch.bar](https://twtr.bch.bar)                    | :earth_asia:  | 2022-11-02   |
-| [n.ramle.be](https://n.ramle.be)                        | :belgium:     | 2022-11-03   |
-| [nitter.ca](https://nitter.ca)                          | :canada:      | 2022-11-26   |
-| [nitter.fprivacy.com](https://nitter.fprivacy.com)      | :singapore:   | 2023-01-01   |
-| [nitter.marcopisco.com](https://nitter.marcopisco.com)  | :portugal:    | 2023-01-01   |
-| [fuckthesacklers.network](https://fuckthesacklers.network) | :earth_asia: | 2023-01-13 |
-| [bird.wilbvr.me](https://bird.wilbvr.me)                | :netherlands: | Never Online |
-| [nitter.mask.sh](https://nitter.mask.sh)                | :us:          | 2023-01-29   |
-| [nitter.drivet.xyz](https://nitter.drivet.xyz)          | :fr:          | 2023-02-03   |
-| [nitter.pussthecat.org](https://nitter.pussthecat.org)  | :de:          | 2023-02-09   |
-| [nitter.namazso.eu](https://nitter.namazso.eu)          | :de:          | 2023-02-19   |
-| [nitter.manasiwibi.com](https://nitter.manasiwibi.com)  | :singapore:   | 2023-03-04   |
-| [nitter.librenode.org](https://nitter.librenode.org)    | :de:          | 2023-03-24   |
-| [nitter.girlboss.ceo](https://nitter.girlboss.ceo)      | :us:          | 2023-03-20   |
-| [nitter.foss.wtf](https://nitter.foss.wtf)              | :de:          | 2023-04-13   |
-| [nitter.grimneko.de](https://nitter.grimneko.de)        | :de:          | 2023-04-30   |
-| [nitter.winscloud.net](https://nitter.winscloud.net)    | :thailand:    | 2023-05-13   |
-| [nitter.dcs0.hu](https://nitter.dcs0.hu)                | :hungary:     | 2023-05-13   |
-| [nitter.fly.dev](https://nitter.fly.dev)                | 🌏            | Unknown      |
-| [nitter.bus-hit.me](https://nitter.bus-hit.me)          | 🇨🇦            | Unknown      |
-| [nitter.garudalinux.org](https://nitter.garudalinux.org/) | 🇫🇮           | Unknown     |
-| [twitter.femboy.hu](https://twitter.femboy.hu)          | 🇭🇺            | Unknown      |
-| [nitter.evil.site](https://nitter.evil.site)            | 🇬🇧            | Unknown      |
-| [nitter.priv.pw](https://nitter.priv.pw)                | 🇩🇪            | Unknown      |
-| [nitter.arcticfoxes.net](https://nitter.arcticfoxes.net) | 🇬🇧           | Unknown      |
-| [nitter.ktachibana.party](https://nitter.ktachibana.party) | 🇺🇸         | Unknown      |
-| [ntr.odyssey346.dev](https://ntr.odyssey346.dev)        | 🇫🇷            | Unknown      |
-| [nitter.plus.st](https://nitter.plus.st)                | 🇺🇸            | Unknown      |
-| [nitter.kozmik.studio](https://nitter.kozmik.studio)    | 🇺🇸            | Unknown      |
-| [nitter.sylentpunk.xyz](https://nitter.sylentpunk.xyz/) | 🇮🇸            | Unknown      |
-| [twitter.censors.us](https://twitter.censors.us)        | 🇺🇸            | Unknown      |
-| [nitter.spaceint.fr](https://nitter.spaceint.fr)        | :belgium:     | Unknown      |
-| [twitter.dr460nf1r3.org](https://twitter.dr460nf1r3.org/)  | 🇩🇪         | Unknown      |
-| [t.floss.media](https://t.floss.media)                  | :finland:     | Unknown      |
-| [nitter.hu](https://nitter.hu)                          |:hungary:      | Unknown      |
-| [nitter.catalyst.sx](https://nitter.catalyst.sx/)       |:us:           | Unknown      |
-| [nitter.pw](https://nitter.pw)                          | :earth_asia:  | Unknown      |
-| [twt.funami.tech](https://twt.funami.tech/)             | :kr:          | Unknown      |
-| [notabird.site](https://notabird.site)                  | :earth_asia:  | Unknown      |
-| [nitter.ftw.lol](https://nitter:nitter@nitter.ftw.lol)  | :de:          | Unknown      |
-| [twit.hell.rodeo](https://twit.hell.rodeo)              | :de:          | Unknown      |
-| [ntr.frail.duckdns.org](https://ntr.frail.duckdns.org)  | :brazil:      | Unknown      |
-| [nitter.ir](https://nitter.ir)                          | :us:          | Unknown      |
-| [nitter.tokhmi.xyz](https://nitter.tokhmi.xyz)          | :us:          | Unknown      |
-| [nitter.instances.cc](https://nitter.instances.cc/)     | :norway:      | Unknown      |
-| [nitter.nachtalb.io](https://nitter.nachtalb.io)        | :switzerland: | Unknown      |
-| [n.quadtr.ee](https://n.quadtr.ee)                      | :us:          | Unknown      |
-| [twitter.owacon.moe](https://twitter.owacon.moe)        | :jp:          | Unknown      |
-| [nitter.privacytools.io](https://nitter.privacytools.io)| :sweden:      | Unknown      |
-| [nitter.slipfox.xyz](https://nitter.slipfox.xyz)        | :us:          | Unknown      |
-| [n.l5.ca](https://n.l5.ca)                              | :us:          | Unknown      |
-| [birdsite.xanny.family](https://birdsite.xanny.family)  | :earth_asia:  | Unknown      |
-| [nitter.domain.glass](https://nitter.domain.glass)      | :us:          | Unknown      |
-| [nitter.pufe.org](https://nitter.pufe.org)              | :new_zealand: | 2023-07-03   |
-| [nitter.fascinated.cc](https://nitter.fascinated.cc)    | 🇩🇪            | 2023-07-19   |
-| [nitter.riverside.rocks](https://nitter.riverside.rocks)| :us:          | 2023-08-19   |
-| [n.opnxng.com](https://n.opnxng.com)                    | :singapore:   | 2023-08-27   |
+| URL                                                                                             | Country       | Offline Date |
+| :---------------------------------------------------------------------------------------------- | :------------ | :----------- |
+| [nitter.himiko.cloud](https://nitter.himiko.cloud)                                              | :bulgaria:    | 2021-05-03   |
+| [nitter.jae.fi](https://nitter.jae.fi)                                                          | :finland:     | Unknown      |
+| [nitter.cc](https://nitter.cc)                                                                  | :serbia:      | 2021-06      |
+| [nitter.ortion.xyz](https://nitter.ortion.xyz)                                                  | :fr:          | 2021-06-07   |
+| [nitter.40two.app](https://nitter.40two.app)                                                    | :netherlands: | Unknown      |
+| [nitter.dark.fail](https://nitter.dark.fail)                                                    | :us:          | Unknown      |
+| [nitter.sugoma.tk](https://nitter.sugoma.tk)                                                    | :us:          | Never Online |
+| [nitter.didw.to](https://nitter.didw.to)                                                        | :sweden:      | 2021-09-24   |
+| [bird.nogafam.es](https://bird.nogafam.es)                                                      | :es:          | 2021-10-03   |
+| [nitter.ethibox.fr](https://nitter.ethibox.fr)                                                  | :fr:          | Unknown      |
+| [nitter.cattube.org](https://nitter.cattube.org)                                                | :de:          | 2021-10-06   |
+| [nitter.vxempire.xyz](https://nitter.vxempire.xyz)                                              | :es:          | 2021-11-30   |
+| [n.0x0.st](https://n.0x0.st)                                                                    | :de:          | 2021-12-06   |
+| [is-nitter.resolv.ee](https://is-nitter.resolv.ee)                                              | :iceland:     | 2021-12-10   |
+| [lu-nitter.resolv.ee](https://lu-nitter.resolv.ee)                                              | :luxembourg:  | 2021-12-31   |
+| [nitterrrs6...hid.onion](http://nitterrrs6bbcba2bxjviwxzzapkhuuelljtig2ku2rxasweckxxxhid.onion) |               | 2022-01-31   |
+| [nitter.koyu.space](https://nitter.koyu.space)                                                  | :de:          | 2022-01-24   |
+| [nitter.autarkic.org](https://nitter.autarkic.org)                                              | :us:          | 2022-01-28   |
+| [nitter.eu.org](https://nitter.eu.org)                                                          | :earth_asia:  | 2022-02-14   |
+| [nittereu.moomoo.me](https://nittereu.moomoo.me)                                                | :de:          | 2022-04-24   |
+| [twitr.gq](https://twitr.gq)                                                                    | :finland:     | 2022-04-26   |
+| [nitter.alefvanoon.xyz](https://nitter.alefvanoon.xyz)                                          | :us:          | 2022-04-28   |
+| [nitter.datatunnel.xyz](https://nitter.datatunnel.xyz)                                          | :finland:     | 2022-05-12   |
+| [nitter.silkky.cloud](https://nitter.silkky.cloud)                                              | :finland:     | 2022-05-23   |
+| [nitter.govt.land](https://nitter.govt.land)                                                    | :earth_asia:  | 2022-05-04   |
+| [nitter.mstdn.social](https://nitter.mstdn.social)                                              | :de:          | 2022-06-28   |
+| [nitter.oishi-ra.men](https://nitter.oishi-ra.men)                                              | :de:          | 2022-07-07   |
+| [nitter.mastodon.pro](https://nitter.mastodon.pro)                                              | :switzerland: | 2022-07-14   |
+| [n.hyperborea.cloud](https://n.hyperborea.cloud)                                                | :canada:      | 2022-07-23   |
+| [nitter.notraxx.ch](https://nitter.notraxx.ch)                                                  | :de:          | 2022-09-13   |
+| [nitter.ebnar.xyz](https://nitter.ebnar.xyz)                                                    | :de:          | 2022-09-16   |
+| [3nzoldnxpl...oad.onion](http://3nzoldnxplag42gqjs23xvghtzf6t6yzssrtytnntc6ppc7xxuoneoad.onion) |               | 2022-10-20   |
+| [twtr.bch.bar](https://twtr.bch.bar)                                                            | :earth_asia:  | 2022-11-02   |
+| [n.ramle.be](https://n.ramle.be)                                                                | :belgium:     | 2022-11-03   |
+| [nitter.ca](https://nitter.ca)                                                                  | :canada:      | 2022-11-26   |
+| [nitter.fprivacy.com](https://nitter.fprivacy.com)                                              | :singapore:   | 2023-01-01   |
+| [nitter.marcopisco.com](https://nitter.marcopisco.com)                                          | :portugal:    | 2023-01-01   |
+| [fuckthesacklers.network](https://fuckthesacklers.network)                                      | :earth_asia:  | 2023-01-13   |
+| [bird.wilbvr.me](https://bird.wilbvr.me)                                                        | :netherlands: | Never Online |
+| [nitter.mask.sh](https://nitter.mask.sh)                                                        | :us:          | 2023-01-29   |
+| [nitter.drivet.xyz](https://nitter.drivet.xyz)                                                  | :fr:          | 2023-02-03   |
+| [nitter.pussthecat.org](https://nitter.pussthecat.org)                                          | :de:          | 2023-02-09   |
+| [nitter.namazso.eu](https://nitter.namazso.eu)                                                  | :de:          | 2023-02-19   |
+| [nitter.manasiwibi.com](https://nitter.manasiwibi.com)                                          | :singapore:   | 2023-03-04   |
+| [nitter.librenode.org](https://nitter.librenode.org)                                            | :de:          | 2023-03-24   |
+| [nitter.girlboss.ceo](https://nitter.girlboss.ceo)                                              | :us:          | 2023-03-20   |
+| [nitter.foss.wtf](https://nitter.foss.wtf)                                                      | :de:          | 2023-04-13   |
+| [nitter.grimneko.de](https://nitter.grimneko.de)                                                | :de:          | 2023-04-30   |
+| [nitter.winscloud.net](https://nitter.winscloud.net)                                            | :thailand:    | 2023-05-13   |
+| [nitter.dcs0.hu](https://nitter.dcs0.hu)                                                        | :hungary:     | 2023-05-13   |
+| [nitter.fly.dev](https://nitter.fly.dev)                                                        | :earth_asia:  | Unknown      |
+| [nitter.bus-hit.me](https://nitter.bus-hit.me)                                                  | :canada:      | Unknown      |
+| [nitter.garudalinux.org](https://nitter.garudalinux.org)                                        | :finland:     | Unknown      |
+| [twitter.femboy.hu](https://twitter.femboy.hu)                                                  | :hungary:     | Unknown      |
+| [nitter.evil.site](https://nitter.evil.site)                                                    | :gb:          | Unknown      |
+| [nitter.priv.pw](https://nitter.priv.pw)                                                        | :de:          | Unknown      |
+| [nitter.arcticfoxes.net](https://nitter.arcticfoxes.net)                                        | :gb:          | Unknown      |
+| [nitter.ktachibana.party](https://nitter.ktachibana.party)                                      | :us:          | Unknown      |
+| [ntr.odyssey346.dev](https://ntr.odyssey346.dev)                                                | :fr:          | Unknown      |
+| [nitter.plus.st](https://nitter.plus.st)                                                        | :us:          | Unknown      |
+| [nitter.kozmik.studio](https://nitter.kozmik.studio)                                            | :us:          | Unknown      |
+| [nitter.sylentpunk.xyz](https://nitter.sylentpunk.xyz)                                          | :iceland:     | Unknown      |
+| [twitter.censors.us](https://twitter.censors.us)                                                | :us:          | Unknown      |
+| [nitter.spaceint.fr](https://nitter.spaceint.fr)                                                | :belgium:     | Unknown      |
+| [twitter.dr460nf1r3.org](https://twitter.dr460nf1r3.org)                                        | :de:          | Unknown      |
+| [t.floss.media](https://t.floss.media)                                                          | :finland:     | Unknown      |
+| [nitter.hu](https://nitter.hu)                                                                  | :hungary:     | Unknown      |
+| [nitter.catalyst.sx](https://nitter.catalyst.sx)                                                | :us:          | Unknown      |
+| [nitter.pw](https://nitter.pw)                                                                  | :earth_asia:  | Unknown      |
+| [twt.funami.tech](https://twt.funami.tech)                                                      | :kr:          | Unknown      |
+| [notabird.site](https://notabird.site)                                                          | :earth_asia:  | Unknown      |
+| [nitter.ftw.lol](https://nitter:nitter@nitter.ftw.lol)                                          | :de:          | Unknown      |
+| [twit.hell.rodeo](https://twit.hell.rodeo)                                                      | :de:          | Unknown      |
+| [ntr.frail.duckdns.org](https://ntr.frail.duckdns.org)                                          | :brazil:      | Unknown      |
+| [nitter.ir](https://nitter.ir)                                                                  | :us:          | Unknown      |
+| [nitter.tokhmi.xyz](https://nitter.tokhmi.xyz)                                                  | :us:          | Unknown      |
+| [nitter.instances.cc](https://nitter.instances.cc)                                              | :norway:      | Unknown      |
+| [nitter.nachtalb.io](https://nitter.nachtalb.io)                                                | :switzerland: | Unknown      |
+| [n.quadtr.ee](https://n.quadtr.ee)                                                              | :us:          | Unknown      |
+| [twitter.owacon.moe](https://twitter.owacon.moe)                                                | :jp:          | Unknown      |
+| [nitter.privacytools.io](https://nitter.privacytools.io)                                        | :sweden:      | Unknown      |
+| [nitter.slipfox.xyz](https://nitter.slipfox.xyz)                                                | :us:          | Unknown      |
+| [n.l5.ca](https://n.l5.ca)                                                                      | :us:          | Unknown      |
+| [birdsite.xanny.family](https://birdsite.xanny.family)                                          | :earth_asia:  | Unknown      |
+| [nitter.domain.glass](https://nitter.domain.glass)                                              | :us:          | Unknown      |
+| [nitter.pufe.org](https://nitter.pufe.org)                                                      | :new_zealand: | 2023-07-03   |
+| [nitter.fascinated.cc](https://nitter.fascinated.cc)                                            | :de:          | 2023-07-19   |
+| [nitter.riverside.rocks](https://nitter.riverside.rocks)                                        | :us:          | 2023-08-19   |
+| [n.opnxng.com](https://n.opnxng.com)                                                            | :singapore:   | 2023-08-27   |
 
 ## Third-party Nitter services
 | Name                                                          | Description                                                      |
