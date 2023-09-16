@@ -31,7 +31,6 @@ Note: Please add new instances to the bottom to preserve the order. In order to 
 | [nitter.nl](https://nitter.nl)                                       | :white_check_mark: | :x: | :netherlands: | [Let's Encrypt](https://www.ssllabs.com/ssltest/analyze.html?d=nitter.nl)                    |
 | [nitter.mint.lgbt](https://nitter.mint.lgbt)                         | :white_check_mark: |:x: | :gb:          | [Let's Encrypt](https://www.ssllabs.com/ssltest/analyze.html?d=nitter.mint.lgbt)             |
 | [nitter.esmailelbob.xyz](https://nitter.esmailelbob.xyz)             | :white_check_mark: | :x: | :canada:      | [Let's Encrypt](https://www.ssllabs.com/ssltest/analyze.html?d=nitter.esmailelbob.xyz)       |
-| [tw.artemislena.eu](https://tw.artemislena.eu)                       | :white_check_mark: | :x: | :de:          | [Let's Encrypt](https://www.ssllabs.com/ssltest/analyze.html?d=tw.artemislena.eu)            |
 | [nitter.tiekoetter.com](https://nitter.tiekoetter.com)               | :white_check_mark: | :x: | :de:          | [Let's Encrypt](https://www.ssllabs.com/ssltest/analyze.html?d=nitter.tiekoetter.com)        |
 | [nitter.privacy.com.de](https://nitter.privacy.com.de)               | :white_check_mark: | :x: | :de:          | [ZeroSSL](https://www.ssllabs.com/ssltest/analyze.html?d=nitter.privacy.com.de)              |
 | [nitter.poast.org](https://nitter.poast.org/)                        | :white_check_mark: | :white_check_mark: | :us:          | [Let's Encrypt](https://www.ssllabs.com/ssltest/analyze.html?d=nitter.poast.org)             |
@@ -123,7 +122,6 @@ Note: Please add new instances to the bottom to preserve the order. In order to 
 | <http://qwikxx2erhx6qrymued6ox2qkf2yeogjwypqvzoif4fqkljixasr6oid.onion/>         | :white_check_mark: |
 | <http://4g47cxugkohbweao2x66nnxxfoe3k7gdfzxej537nhdbwr522sbjxeqd.onion/>         | :white_check_mark: |
 | <http://nt.vernccvbvyi5qhfzyqengccj7lkove6bjot2xhh5kajhwvidqafczrad.onion/>      | :white_check_mark: |
-| <http://tw.lpoaj7z2zkajuhgnlltpeqh3zyq7wk2iyeggqaduhgxhyajtdt2j7wad.onion>       | :white_check_mark: |
 | <http://r2eqimhkvxboaltbdsectoo3hkf476pyemsdykclexzajbfx5v6ojlyd.onion>          | :white_check_mark: |
 | <http://a5xyidyppowvblric6k6nixgf2eqwnb7zzeaarj7slqbv7tb6ip5t3ad.onion>          | :white_check_mark: |
 | <http://bird.habeehrhadazsw3izbrbilqajalfyqqln54mrja3iwpqxgcuxnus7eid.onion>     | :white_check_mark: |
@@ -241,6 +239,10 @@ Note: Please add new instances to the bottom to preserve the order. In order to 
 | [nitter.fascinated.cc](https://nitter.fascinated.cc)    | 🇩🇪            | 2023-07-19   |
 | [nitter.riverside.rocks](https://nitter.riverside.rocks)| :us:          | 2023-08-19   |
 | [n.opnxng.com](https://n.opnxng.com)                    | :singapore:   | 2023-08-27   |
+| [tw.artemislena.eu](https://tw.artemislena.eu)          | :de:          | 2023-09-16   |
+| [tw.lpoaj7z...wad.onion](http://tw.lpoaj7z2zkajuhgnlltpeqh3zyq7wk2iyeggqaduhgxhyajtdt2j7wad.onion) | :de: | 2023-09-16 |
+
+
 
 ## Third-party Nitter services
 | Name                                                          | Description                                                      |
