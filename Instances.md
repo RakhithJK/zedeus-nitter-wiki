@@ -85,7 +85,7 @@ Note: Please add new instances to the bottom to preserve the order. In order to 
 | [nitter.services.woodland.cafe](https://nitter.services.woodland.cafe)             | :white_check_mark: | :white_check_mark: | :de:      | [Let's Encrypt](https://www.ssllabs.com/ssltest/analyze.html?d=nitter.services.woodland.cafe)       |
 | [nitter.dafriser.be](https://nitter.dafriser.be)             | :white_check_mark: | :x: | :de:      | [Let's Encrypt](https://www.ssllabs.com/ssltest/analyze.html?d=nitter.dafriser.be)       |
 | [nitter.catsarch.com](https://nitter.catsarch.com)             | :white_check_mark: | :x: | :us:      | [Let's Encrypt](https://www.ssllabs.com/ssltest/analyze.html?d=catsarch.com)       |
-| [nitter.perennialte.ch](https://nitter.perennialte.ch)             | :white_check_mark: | :x: | :australia:      | [Google Trust Services LLC + Cloudflare](https://www.ssllabs.com/ssltest/analyze.html?d=nitter.perennialte.ch)       |
+| [nitter.perennialte.ch](https://nitter.perennialte.ch)             | :white_check_mark: | :white_check_mark: | :australia:      | [Google Trust Services LLC + Cloudflare](https://www.ssllabs.com/ssltest/analyze.html?d=nitter.perennialte.ch)       |
 | [https://nitter.laserdisc.tokyo/](https://nitter.laserdisc.tokyo/) | :white_check_mark: | :x: | :sweden:    | [Let's Encrypt](https://www.ssllabs.com/ssltest/analyze.html?d=nitter.laserdisc.tokyo) |
 | [nitter.datura.network](https://nitter.datura.network) | :white_check_mark: | :x: | :de: | [Let's Encrypt](https://www.ssllabs.com/ssltest/analyze.html?d=nitter.datura.network)
 | [nitter.salastil.com](https://nitter.salastil.com/)            | :white_check_mark: | :white_check_mark: | :us:          | [Let's Encrypt](https://www.ssllabs.com/ssltest/analyze.html?d=nitter.salastil.com)       |
@@ -258,4 +258,3 @@ Discontinued service: https://github.com/xnaas/xnaas/commit/1f235556272c08ef5b12
 Apparently spam: https://github.com/zedeus/nitter/issues/596
 | [Twitit](https://twitit.gq)                                   | Tracks all Nitter instances status and redirects to working ones |
 -->
-
