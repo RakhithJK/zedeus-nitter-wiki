@@ -91,7 +91,7 @@ Note: Please add new instances to the bottom to preserve the order. In order to 
 | [nitter.salastil.com](https://nitter.salastil.com/)            | :white_check_mark: | :white_check_mark: | :us:          | [Let's Encrypt](https://www.ssllabs.com/ssltest/analyze.html?d=nitter.salastil.com)       |
 | [nt.ggtyler.dev](https://nt.ggtyler.dev)                             | :white_check_mark: | :white_check_mark: | :us: | [Let's Encrypt](https://www.ssllabs.com/ssltest/analyze.html?d=nt.ggtyler.dev)         |
 | [nitter.hyperreal.coffee](https://nitter.hyperreal.coffee) | :white_check_mark: | :white_check_mark: | :us: | [Let's Encrypt](https://www.ssllabs.com/ssltest/analyze.html?d=nitter.hyperreal.coffee)
-| [nitter.uni-sonia.com](https://nitter.uni-sonia.com) | :x: | :x: | :jp: | [Let's Encrypt](https://www.ssllabs.com/ssltest/analyze.html?d=nitter.uni-sonia.com)
+| [nitter.uni-sonia.com(Testing)](https://nitter.uni-sonia.com) | :white_check_mark: | :white_check_mark: | :jp: | [Let's Encrypt](https://www.ssllabs.com/ssltest/analyze.html?d=nitter.uni-sonia.com)
 
 ### Tor
 | URL                                                                              | Online¹            |
