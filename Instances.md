@@ -93,6 +93,7 @@ Note: Please add new instances to the bottom to preserve the order. In order to 
 | [nitter.hyperreal.coffee](https://nitter.hyperreal.coffee) | :white_check_mark: | :white_check_mark: | :us: | [Let's Encrypt](https://www.ssllabs.com/ssltest/analyze.html?d=nitter.hyperreal.coffee)
 | [nitter.uni-sonia.com](https://nitter.uni-sonia.com) | :white_check_mark: | :white_check_mark: | :jp: | [Let's Encrypt + Cloudflare](https://www.ssllabs.com/ssltest/analyze.html?d=nitter.uni-sonia.com)
 | [n.opnxng.com](https://n.opnxng.com) | :white_check_mark: | :white_check_mark: | 🇸🇬 | [Let's Encrypt](https://www.ssllabs.com/ssltest/analyze.html?d=n.opnxng.com)
+| [nitter.ktachibana.party](https://nitter.ktachibana.party) | :white_check_mark: | :white_check_mark: | :us: | [Let's Encrypt](https://www.ssllabs.com/ssltest/analyze.html?d=nitter.ktachibana.party)
 
 ### Tor
 | URL                                                                              | Online¹            |
@@ -209,7 +210,6 @@ Note: Please add new instances to the bottom to preserve the order. In order to 
 | [nitter.evil.site](https://nitter.evil.site)            | 🇬🇧            | Unknown      |
 | [nitter.priv.pw](https://nitter.priv.pw)                | 🇩🇪            | Unknown      |
 | [nitter.arcticfoxes.net](https://nitter.arcticfoxes.net) | 🇬🇧           | Unknown      |
-| [nitter.ktachibana.party](https://nitter.ktachibana.party) | 🇺🇸         | Unknown      |
 | [ntr.odyssey346.dev](https://ntr.odyssey346.dev)        | 🇫🇷            | Unknown      |
 | [nitter.plus.st](https://nitter.plus.st)                | 🇺🇸            | Unknown      |
 | [nitter.kozmik.studio](https://nitter.kozmik.studio)    | 🇺🇸            | Unknown      |
