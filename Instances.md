@@ -83,7 +83,7 @@ Note: Please add new instances to the bottom to preserve the order. In order to 
 | [nitter.private.coffee](https://nitter.private.coffee)               | :white_check_mark: | :x: | :austria: | [Let's Encrypt](https://www.ssllabs.com/ssltest/analyze.html?d=nitter.private.coffee) |
 | [nitter.oksocial.net](https://nitter.oksocial.net)             | :white_check_mark: | :x: | :us:      | [Let's Encrypt](https://www.ssllabs.com/ssltest/analyze.html?d=nitter.oksocial.net)       |
 | [nitter.woodland.cafe](https://nitter.woodland.cafe)             | :white_check_mark: | :white_check_mark: | :de:      | [Let's Encrypt](https://www.ssllabs.com/ssltest/analyze.html?d=nitter.services.woodland.cafe)       |
-| [nitter.dafriser.be](https://nitter.dafriser.be)             | :white_check_mark: | :x: | :de:      | [Let's Encrypt](https://www.ssllabs.com/ssltest/analyze.html?d=nitter.dafriser.be)       |
+| [nitter.dafriser.be](https://nitter.dafriser.be)             | :white_check_mark: | :white_check_mark: | :de:      | [Let's Encrypt](https://www.ssllabs.com/ssltest/analyze.html?d=nitter.dafriser.be)       |
 | [nitter.catsarch.com](https://nitter.catsarch.com)             | :white_check_mark: | :white_check_mark: | :us:      | [Let's Encrypt](https://www.ssllabs.com/ssltest/analyze.html?d=catsarch.com)       |
 | [nitter.perennialte.ch](https://nitter.perennialte.ch)             | :white_check_mark: | :white_check_mark: | :australia:      | [Google Trust Services LLC + Cloudflare](https://www.ssllabs.com/ssltest/analyze.html?d=nitter.perennialte.ch)       |
 | [https://nitter.laserdisc.tokyo/](https://nitter.laserdisc.tokyo/) | :white_check_mark: | :x: | :sweden:    | [Let's Encrypt](https://www.ssllabs.com/ssltest/analyze.html?d=nitter.laserdisc.tokyo) |
