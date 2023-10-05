@@ -1,1 +1,0 @@
-[https://www.ariapay.io/buy-telegram-premium/](خرید تلگرام پرمیوم)
