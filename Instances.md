@@ -17,7 +17,6 @@ Note: Please add new instances to the bottom to preserve the order. In order to 
 
 | URL                                                                  | Online¹            | Working²           | Country       | Issuer & SSLLabs verification link                                                           |
 | :------------------------------------------------------------------- | :----------------- | :----------------- | :------------ | :------------------------------------------------------------------------------------------- |
-| [nitter.lacontrevoie.fr](https://nitter.lacontrevoie.fr/)            | :white_check_mark: | :x: | :fr:          | [Let's Encrypt](https://www.ssllabs.com/ssltest/analyze.html?d=nitter.lacontrevoie.fr)       |
 | [nitter.nixnet.services](https://nitter:nitter@nitter.nixnet.services) ([auth required](https://nixnet.services/blog/nitter-behind-http-basic-auth/)) | :white_check_mark: | :white_check_mark: | :de: | [Let's Encrypt](https://www.ssllabs.com/ssltest/analyze.html?d=nitter.nixnet.services)    |
 | [nitter.fdn.fr](https://nitter.fdn.fr/)                              | :white_check_mark: | :x: | :fr:          | [Let's Encrypt](https://www.ssllabs.com/ssltest/analyze.html?d=nitter.fdn.fr)                |
 | [nitter.1d4.us](https://nitter.1d4.us/)                              | :white_check_mark: | :x: | :us:          | [Let's Encrypt](https://www.ssllabs.com/ssltest/analyze.html?d=nitter.1d4.us)                |
@@ -243,6 +242,7 @@ Note: Please add new instances to the bottom to preserve the order. In order to 
 | [n.opnxng.com](https://n.opnxng.com)                    | :singapore:   | 2023-08-27   |
 | [tw.artemislena.eu](https://tw.artemislena.eu)          | :de:          | 2023-09-16   |
 | [tw.lpoaj7z...wad.onion](http://tw.lpoaj7z2zkajuhgnlltpeqh3zyq7wk2iyeggqaduhgxhyajtdt2j7wad.onion) | :de: | 2023-09-16 |
+| [nitter.lacontrevoie.fr](https://nitter.lacontrevoie.fr/) | :fr:        | 2023-10-06   |
 
 
 
