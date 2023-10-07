@@ -93,6 +93,7 @@ Note: Please add new instances to the bottom to preserve the order. In order to 
 | [nitter.uni-sonia.com](https://nitter.uni-sonia.com) | :white_check_mark: | :white_check_mark: | :jp: | [Let's Encrypt + Cloudflare](https://www.ssllabs.com/ssltest/analyze.html?d=nitter.uni-sonia.com)
 | [n.opnxng.com](https://n.opnxng.com) | :white_check_mark: | :white_check_mark: | 🇸🇬 | [Let's Encrypt](https://www.ssllabs.com/ssltest/analyze.html?d=n.opnxng.com)
 | [nitter.ktachibana.party](https://nitter.ktachibana.party) | :white_check_mark: | :white_check_mark: | :us: | [Let's Encrypt](https://www.ssllabs.com/ssltest/analyze.html?d=nitter.ktachibana.party)
+| [nitter.tinfoil-hat.net](https://nitter.tinfoil-hat.net) | :white_check_mark: | :white_check_mark: | :de: | [Let's Encrypt](https://www.ssllabs.com/ssltest/analyze.html?d=nitter.tinfoil-hat.net)
 
 ### Tor
 | URL                                                                              | Online¹            |
