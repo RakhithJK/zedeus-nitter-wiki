@@ -231,7 +231,7 @@ Note: Please add new instances to the bottom to preserve the order. In order to 
 | [nitter.instances.cc](https://nitter.instances.cc/)     | :norway:      | Unknown      |
 | [nitter.nachtalb.io](https://nitter.nachtalb.io)        | :switzerland: | Unknown      |
 | [n.quadtr.ee](https://n.quadtr.ee)                      | :us:          | Unknown      |
-| [twitter.owacon.moe](https://twitter.owacon.moe)        | :jp:          | Unknown      |
+| [twitter.owacon.moe](https://twitter.owacon.moe)        | :jp:          | 2023-09-09   |
 | [nitter.privacytools.io](https://nitter.privacytools.io)| :sweden:      | Unknown      |
 | [nitter.slipfox.xyz](https://nitter.slipfox.xyz)        | :us:          | Unknown      |
 | [n.l5.ca](https://n.l5.ca)                              | :us:          | Unknown      |
