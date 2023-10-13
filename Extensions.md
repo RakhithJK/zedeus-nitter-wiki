@@ -50,6 +50,11 @@
 - Redirect to: `https://nitter.net/pic/$1.twimg.com/$2`
 - Pattern type: `Regular Expression`
 
+#### [Request Control (Chrome)](https://chrome.google.com/webstore/detail/request-control/gkadogdmakibilhnklflcgaennojgipd)
+```
+REDIRECT https://twitter.com/(.*) TO https://nitter.net/$1
+```
+
 ### Bookmarklet by @Mennaruuk
 
 Add a new bookmark with this snippet as the "Location" field:
