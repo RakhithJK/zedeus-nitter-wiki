@@ -28,7 +28,7 @@ __shared_static.conf__
 ```nginx
 expires 90d;
 access_log off;
-root /opt/nitter/public
+root /opt/nitter/public;
 ```
 These files ensure that normal usage, such as serving images, videos, and site data, does not trigger rate limiting. Logging for these locations is disabled to prevent entries in access or error logs.
 
