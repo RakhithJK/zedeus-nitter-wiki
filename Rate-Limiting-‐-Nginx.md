@@ -79,6 +79,13 @@ __nitter.nginx__
 ```
 The 'burst' parameter allows for temporary bursts of traffic while maintaining the overall rate limit, ensuring a smoother user experience while preventing server overload and misuse.
 
+You need to make sure error logging is enabled for nitter if you will use Fail2ban.
+
+__nitter.nginx__
+```nginx
+error_log /var/log/nginx/nitter_error.log notice;
+```
+
 Reload Nginx configuration files:
 ```bash
 nginx -s reload
