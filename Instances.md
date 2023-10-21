@@ -30,6 +30,8 @@ Note: Please add new instances to the bottom to preserve the order. In order to 
 :x:¹ means the instance isn't online. \
 :x:² means the instance isn't working properly, mostly shows if an instance misses a vital change, e.g. timelines not loading.
 
+For a list of which instances are **working right now**, see the [nitter-status](https://status.d420.de) project above.
+
 | URL                                                                  | Online¹            | Working²           | Country       | Issuer & SSLLabs verification link                                                           |
 | :------------------------------------------------------------------- | :----------------- | :----------------- | :------------ | :------------------------------------------------------------------------------------------- |
 | [nitter.nixnet.services](https://nitter:nitter@nitter.nixnet.services) ([auth required](https://nixnet.services/blog/nitter-behind-http-basic-auth/)) | :white_check_mark: | :white_check_mark: | :de: | [Let's Encrypt](https://www.ssllabs.com/ssltest/analyze.html?d=nitter.nixnet.services)    |
