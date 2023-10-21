@@ -30,7 +30,7 @@ Note: Please add new instances to the bottom to preserve the order. In order to 
 :x:¹ means the instance isn't online. \
 :x:² means the instance isn't working properly, mostly shows if an instance misses a vital change, e.g. timelines not loading.
 
-For a list of which instances are **working right now**, see the [nitter-status](https://status.d420.de) project above.
+For a list of which instances are **working right now**, see the [nitter-status](https://status.d420.de) project above. This table is the basis for instances listed on the status page.
 
 | URL                                                                  | Online¹            | Working²           | Country       | Issuer & SSLLabs verification link                                                           |
 | :------------------------------------------------------------------- | :----------------- | :----------------- | :------------ | :------------------------------------------------------------------------------------------- |
