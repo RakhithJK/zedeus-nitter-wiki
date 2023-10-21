@@ -53,7 +53,9 @@ server {
         location /pic/ { include shared_cache.conf; }
         location /video/ { include shared_cache.conf; }
 
+        # If you are running nitter from docker then change `shared_static.conf` to `shared_cache.conf`
         location /css/ { include shared_static.conf; }
+
         location /js/ { include shared_static.conf; }
         location /fonts/ { include shared_static.conf; }
         location = /apple-touch-icon.png { include shared_static.conf; }
