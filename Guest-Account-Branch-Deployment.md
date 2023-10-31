@@ -1,4 +1,13 @@
-Given the recent changes in Twitter and its API access a new method for accessing Twitter anonymously was devised, this method involves using temporary guest accounts created when going through the onboarding process with the Android app. This guide will teach you how to get basic functionality on a fresh deploy of Nitter, all of the dependency requirements can be found in the readme for the [repository] (https://github.com/zedeus/nitter) also this guide will not diverge far from the normal deployment routine.
+Given the recent changes in Twitter and its API access a new method for accessing Twitter anonymously was devised, this method involves using temporary guest accounts created when going through the onboarding process with the Android app. This guide will teach you how to get basic functionality on a fresh deployment of Nitter, all of the dependency requirements can be found in the readme for the [repository] (https://github.com/zedeus/nitter) also this guide will not diverge far from the normal deployment routine.
+
+### [Dependencies](https://github.com/zedeus/nitter#dependencies)
+
+    libpcre
+    libsass
+    redis
+
+
+### Installation Guide
 
 ```bash
 useradd -m nitter
@@ -13,7 +22,9 @@ nimble md
 cp nitter.example.conf nitter.conf
 ```
 
-From this point edit your nitter.conf to the configuration that you want. After this is completed we will be creating a guest_account using a [shell script](https://gist.github.com/Salastil/f66a098d408c8c74adcf2210d4d33435)
+From this point edit your nitter.conf to the configuration that you want. 
+### Guest Accounts
+After this is completed we will be creating a guest_account using a [shell script](https://gist.github.com/Salastil/f66a098d408c8c74adcf2210d4d33435)
 
 When this shell script is run it will output json that looks similar to this:
 ```json
