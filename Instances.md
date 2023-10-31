@@ -97,6 +97,7 @@ For a list of which instances are **working right now**, see the [nitter-status]
 | [n.opnxng.com](https://n.opnxng.com)                                 | :white_check_mark: | :white_check_mark: | 🇸🇬 | [Let's Encrypt](https://www.ssllabs.com/ssltest/analyze.html?d=n.opnxng.com)                 |
 | [nitter.ktachibana.party](https://nitter.ktachibana.party)           | :white_check_mark: | :white_check_mark: | :us: | [Let's Encrypt](https://www.ssllabs.com/ssltest/analyze.html?d=nitter.ktachibana.party)      |
 | [nitter.tinfoil-hat.net](https://nitter.tinfoil-hat.net)             | :white_check_mark: | :white_check_mark: | :de: | [Let's Encrypt](https://www.ssllabs.com/ssltest/analyze.html?d=nitter.tinfoil-hat.net)       |
+| [n.biendeo.com](https://n.biendeo.com)                               | :white_check_mark: | :x: | :australia: | [Let's Encrypt](https://www.ssllabs.com/ssltest/analyze.html?d=n.biendeo.com)       |
 
 ### Tor
 | URL                                                                              | Online¹            |
