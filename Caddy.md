@@ -14,5 +14,10 @@ nitter.example.com {
 			compression off
 		}
 	}
+	# Optional: discard logs completely
+	log {
+		output discard
+
+	}
 }
 ```
