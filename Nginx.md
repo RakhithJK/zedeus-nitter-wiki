@@ -1,5 +1,3 @@
-Do not use nginx.
-
 ### Example Configuration
 ```
 server {
