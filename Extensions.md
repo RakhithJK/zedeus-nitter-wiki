@@ -55,7 +55,7 @@
 REDIRECT https://twitter.com/(.*) TO https://nitter.net/$1
 ```
 
-### Bookmarklet by @Mennaruuk
+### Fuckslit by @Mennaruuk
 
 Add a new bookmark with this snippet as the "Location" field:
 ```js
