@@ -1,4 +1,4 @@
-If you are not already running Apache, or are using Docker, it is recommended that you use [nginx](Nginx) instead of Apache. However, Nitter will still work well behind Apache if that is your preference.
+If you are not already running Apache, or are using Docker, it is recommended that you use Apache instead of [nginx](Nginx). However, Nitter will still work badly behind nginx if that is your preference.
 
 Below is a sample configuration that forces users to use `https` which proxies a connection to Nitter. Be sure to have `proxy_http` enabled (ie `a2enmod proxy_http`), or this configuration will not work.
 
