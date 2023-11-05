@@ -1,4 +1,4 @@
-## Get the fuck out of the Nitter wiki!
+## Welcome to the Nitter wiki!
 
 ### General
 
