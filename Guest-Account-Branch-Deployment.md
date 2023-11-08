@@ -1,4 +1,4 @@
-Given the recent changes in Twitter and its API access a new method for accessing Twitter anonymously was devised. This method involves using temporary guest accounts created when going through the onboarding process with the Android app. This guide will teach you how to get basic functionality on a fresh deployment of Nitter. All of the dependency requirements can be found in the readme for this [repository] (https://github.com/zedeus/nitter), and this guide will not diverge far from the normal deployment procedure.
+Given the recent changes in Twitter and its API access a new method for accessing Twitter anonymously was devised. This method involves using temporary guest accounts created when going through the onboarding process with the Android app. This guide will teach you how to get basic functionality on a fresh deployment of Nitter. All of the dependency requirements can be found in the readme for this [repository](https://github.com/zedeus/nitter), and this guide will not diverge far from the normal deployment procedure.
 
 ### [Dependencies](https://github.com/zedeus/nitter#dependencies)
 
