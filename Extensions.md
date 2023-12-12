@@ -52,7 +52,7 @@
 
 #### [Request Control (Chrome)](https://chrome.google.com/webstore/detail/request-control/gkadogdmakibilhnklflcgaennojgipd)
 ```
-REDIRECT https://twitter.com/(.*) TO https://nitter.net/$1
+REDIRECT ^https://twitter.com TO https://nitter.net
 ```
 
 ### Bookmarklet by @Mennaruuk
