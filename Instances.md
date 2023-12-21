@@ -98,7 +98,8 @@ For a list of which instances are **working right now**, see the [nitter-status]
 | [nitter.ktachibana.party](https://nitter.ktachibana.party)           | :white_check_mark: | :white_check_mark: | :us: | [Let's Encrypt](https://www.ssllabs.com/ssltest/analyze.html?d=nitter.ktachibana.party)      |
 | [nitter.tinfoil-hat.net](https://nitter.tinfoil-hat.net)             | :white_check_mark: | :white_check_mark: | :de: | [Let's Encrypt](https://www.ssllabs.com/ssltest/analyze.html?d=nitter.tinfoil-hat.net)       |
 | [n.biendeo.com](https://n.biendeo.com)                               | :white_check_mark: | :x: | :australia: | [Let's Encrypt](https://www.ssllabs.com/ssltest/analyze.html?d=n.biendeo.com)       |
-| [nitter.jakefrosty.com](https://nitter.jakefrosty.com)                               | :white_check_mark: | :white_check_mark: | :singapore: | [Let's Encrypt + CloudFlare](https://www.ssllabs.com/ssltest/analyze.html?d=nitter.jakefrosty.com)       |
+| [nitter.jakefrosty.com](https://nitter.jakefrosty.com)                               | :white_check_mark: | :white_check_mark: | :singapore: | [Let's Encrypt + CloudFlare](https://www.ssllabs.com/ssltest/analyze.html?d=nitter.jakefrosty.com)       |\
+| [nitter.manasiwibi.com](https://nitter.manasiwibi.com)                               | :white_check_mark: | :white_check_mark: | :de: | [Let's Encrypt](https://www.ssllabs.com/ssltest/analyze.html?d=nitter.manasiwibi.com)       |
 
 ### Tor
 | URL                                                                              | Online¹            |
@@ -141,6 +142,7 @@ For a list of which instances are **working right now**, see the [nitter-status]
 | <http://nitter.coffee2m3bjsrrqqycx6ghkxrnejl2q6nl7pjw2j4clchjj6uk5zozad.onion/>  | :white_check_mark: |
 | <http://nitter.daturab6drmkhyeia4ch5gvfc2f3wgo6bhjrv3pz6n7kxmvoznlkq4yd.onion/>  | :white_check_mark: |
 | <http://n.sneed4fmhevap3ci4xhf4wgkf72lwk275lcgomnfgwniwmqvaxyluuid.onion/>       | :white_check_mark: |
+| <http://6g7w5lt6qcidh6vtue64udzld2mjnvxlpgddvn34qywxafxdv6a3w5id.onion/>         | :white_check_mark: |
 
 ### I2P
 - <http://axd6uavsstsrvstva4mzlzh4ct76rc6zdug3nxdgeitrzczhzf4q.b32.i2p/>
