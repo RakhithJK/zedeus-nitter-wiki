@@ -143,6 +143,7 @@ For a list of which instances are **working right now**, see the [nitter-status]
 | <http://nitter.daturab6drmkhyeia4ch5gvfc2f3wgo6bhjrv3pz6n7kxmvoznlkq4yd.onion/>  | :white_check_mark: |
 | <http://n.sneed4fmhevap3ci4xhf4wgkf72lwk275lcgomnfgwniwmqvaxyluuid.onion/>       | :white_check_mark: |
 | <http://6g7w5lt6qcidh6vtue64udzld2mjnvxlpgddvn34qywxafxdv6a3w5id.onion/>         | :white_check_mark: |
+| <http://nitter.catsarchywsyuss6jdxlypsw5dc7owd5u5tr6bujxb7o6xw2hipqehyd.onion/>         | :white_check_mark: |
 
 ### I2P
 - <http://axd6uavsstsrvstva4mzlzh4ct76rc6zdug3nxdgeitrzczhzf4q.b32.i2p/>
