@@ -44,6 +44,8 @@ The `@notstatic` named matcher ensure that normal usage, such as serving images,
 
 The `rate_limit` directives limits users to 2 request per second and 30 requests per minute, a natural browsing rate for the site.
 
+Over this, you need to setup fail2ban to persist the bans. Follow https://muetsch.io/how-to-integrate-caddy-with-fail2ban.html and the Fail2Ban instructions under https://github.com/zedeus/nitter/wiki/Rate-Limiting-%E2%80%90-Nginx#fail2ban to do so. (Do note you need logs enabled for fail2ban)
+
 ## Alternative module
 
 You may also use the module [mholt/caddy-ratelimit](https://github.com/mholt/caddy-ratelimit) to manage unwarranted access.
