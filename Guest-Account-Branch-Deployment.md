@@ -28,7 +28,7 @@ From this point edit your nitter.conf to the configuration that you want.
 After this is completed we will be creating a guest_account using the following shell script:
 
 ```bash
-#!/bin/bash
+#!/usr/bin/env bash
 
 guest_token=$(curl -s -XPOST https://api.twitter.com/1.1/guest/activate.json -H 'Authorization: Bearer AAAAAAAAAAAAAAAAAAAAAFXzAwAAAAAAMHCxpeSDG1gLNLghVe8d74hl6k4%3DRUMF4xAQLsbeBhTSRrCiQpJtxoGWeyHrDb5te2jpGskWDFW82F' | jq -r '.guest_token')
 
