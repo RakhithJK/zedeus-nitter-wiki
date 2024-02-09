@@ -27,12 +27,12 @@ Note: Please add new instances to the bottom to preserve the order. In order to 
 - nitter.snopyta.org admin ask us to "hide it from the top, otherwise it might get as popular as invidious"
 -->
 
-:x:Â¹ means the instance isn't online. \
-:x:Â² means the instance isn't working properly, mostly shows if an instance misses a vital change, e.g. timelines not loading.
+:x:¹ means the instance isn't online. \
+:x:² means the instance isn't working properly, mostly shows if an instance misses a vital change, e.g. timelines not loading.
 
 For a list of which instances are **working right now**, see the [nitter-status](https://status.d420.de) project above. This table is the basis for instances listed on the status page.
 
-| URL                                                                  | OnlineÂ¹            | WorkingÂ²           | Country       | Issuer & SSLLabs verification link                                                           |
+| URL                                                                  | Online¹            | Working²           | Country       | Issuer & SSLLabs verification link                                                           |
 | :------------------------------------------------------------------- | :----------------- | :----------------- | :------------ | :------------------------------------------------------------------------------------------- |
 | [nitter.nixnet.services](https://nitter:nitter@nitter.nixnet.services) ([auth required](https://nixnet.services/blog/nitter-behind-http-basic-auth/)) | :white_check_mark: | :x: | :de: | [Let's Encrypt](https://www.ssllabs.com/ssltest/analyze.html?d=nitter.nixnet.services)    |
 | [nitter.fdn.fr](https://nitter.fdn.fr/)                              | :white_check_mark: | :white_check_mark: | :fr:          | [Let's Encrypt](https://www.ssllabs.com/ssltest/analyze.html?d=nitter.fdn.fr)                |
@@ -88,7 +88,7 @@ For a list of which instances are **working right now**, see the [nitter-status]
 | [n.populas.no](https://n.populas.no)                                 | :white_check_mark: | :white_check_mark: | :norway:      | [Let's Encrypt](https://www.ssllabs.com/ssltest/analyze.html?d=n.populas.no)                 |
 | [nt.ggtyler.dev](https://nt.ggtyler.dev)                             | :white_check_mark: | :white_check_mark: | :us:          | [Let's Encrypt](https://www.ssllabs.com/ssltest/analyze.html?d=nt.ggtyler.dev)               |
 | [nitter.holo-mix.com](https://nitter.holo-mix.com/)                  | :white_check_mark: | :white_check_mark: | :jp: | [Let's Encrypt + Cloudflare](https://www.ssllabs.com/ssltest/analyze.html?d=nitter.holo-mix.com)          |
-| [n.opnxng.com](https://n.opnxng.com)                                 | :white_check_mark: | :white_check_mark: | ðŸ‡¸ðŸ‡¬ | [Let's Encrypt](https://www.ssllabs.com/ssltest/analyze.html?d=n.opnxng.com)                 |
+| [n.opnxng.com](https://n.opnxng.com)                                 | :white_check_mark: | :white_check_mark: | :singapore: | [Let's Encrypt](https://www.ssllabs.com/ssltest/analyze.html?d=n.opnxng.com)                 |
 | [nitter.ktachibana.party](https://nitter.ktachibana.party)           | :white_check_mark: | :white_check_mark: | :us: | [Let's Encrypt](https://www.ssllabs.com/ssltest/analyze.html?d=nitter.ktachibana.party)      |
 | [nitter.tinfoil-hat.net](https://nitter.tinfoil-hat.net)             |         :x:        |         :x:        | :de: | [Let's Encrypt](https://www.ssllabs.com/ssltest/analyze.html?d=nitter.tinfoil-hat.net)       |
 | [n.biendeo.com](https://n.biendeo.com)                               |         :x:        | :x: | :australia: | [Let's Encrypt](https://www.ssllabs.com/ssltest/analyze.html?d=n.biendeo.com)                |
@@ -97,7 +97,7 @@ For a list of which instances are **working right now**, see the [nitter-status]
 | [nitter.lanterne-rouge.info](https://nitter.lanterne-rouge.info)     | :white_check_mark: | :white_check_mark: | :fr: | [Let's Encrypt](https://www.ssllabs.com/ssltest/analyze.html?d=nitter.lanterne-rouge.info)   |
 
 ### Tor
-| URL                                                                              | OnlineÂ¹            | WorkingÂ²           |
+| URL                                                                              | Online¹            | Working²           |
 | :------------------------------------------------------------------------------- | :----------------- | :----------------- |
 | <http://nitter.l4qlywnpwqsluw65ts7md3khrivpirse744un3x7mlskqauz5pyuzgqd.onion/>  | :x:                | :x:                |
 | <http://nitter7bryz3jv7e3uekphigvmoyoem4al3fynerxkj22dmoxoq553qd.onion/>         | :white_check_mark: | :white_check_mark: |
