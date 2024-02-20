@@ -80,7 +80,6 @@ For a list of which instances are **working right now**, see the [nitter-status]
 | [nitter.catsarch.com](https://nitter.catsarch.com)                   | :x: | :x: | :us:          | [ZeroSSL](https://www.ssllabs.com/ssltest/analyze.html?d=nitter.catsarch.com)          |
 | [nitter.perennialte.ch](https://nitter.perennialte.ch)               | :white_check_mark: | :white_check_mark: | :australia:   | [Google Trust Services LLC + Cloudflare](https://www.ssllabs.com/ssltest/analyze.html?d=nitter.perennialte.ch)       |
 | [nitter.datura.network](https://nitter.datura.network)               | :x: | :x: | :de: | [Let's Encrypt](https://www.ssllabs.com/ssltest/analyze.html?d=nitter.datura.network)        |
-| [nitter.salastil.com](https://nitter.salastil.com/)                  | :x: | :x: | :us:          | [Let's Encrypt](https://www.ssllabs.com/ssltest/analyze.html?d=nitter.salastil.com)          |
 | [n.populas.no](https://n.populas.no)                                 |         :x:        |         :x:        | :norway:      | [Let's Encrypt](https://www.ssllabs.com/ssltest/analyze.html?d=n.populas.no)                 |
 | [nt.ggtyler.dev](https://nt.ggtyler.dev)                             | :white_check_mark: | :x: | :us:          | [Let's Encrypt](https://www.ssllabs.com/ssltest/analyze.html?d=nt.ggtyler.dev)               |
 | [nitter.holo-mix.com](https://nitter.holo-mix.com/)                  | :white_check_mark: | :x: | :jp: | [Let's Encrypt + Cloudflare](https://www.ssllabs.com/ssltest/analyze.html?d=nitter.holo-mix.com)          |
