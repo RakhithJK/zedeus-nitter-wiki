@@ -90,6 +90,7 @@ For a list of which instances are **working right now**, see the [nitter-status]
 | [nitter.jakefrosty.com](https://nitter.jakefrosty.com)               | :white_check_mark: |         :x:        | :singapore: | [Let's Encrypt + CloudFlare](https://www.ssllabs.com/ssltest/analyze.html?d=nitter.jakefrosty.com)       |
 | [nitter.manasiwibi.com](https://nitter.manasiwibi.com)               |         :x:        |         :x:        | :de: | [Let's Encrypt](https://www.ssllabs.com/ssltest/analyze.html?d=nitter.manasiwibi.com)        |
 | [nitter.lanterne-rouge.info](https://nitter.lanterne-rouge.info)     | :white_check_mark: | :x: | :fr: | [Let's Encrypt](https://www.ssllabs.com/ssltest/analyze.html?d=nitter.lanterne-rouge.info)   |
+| [nitter.orbb.fr](https://nitter.orbb.fr)                             | :white_check_mark: | :x: | :fr: | [Let's Encrypt](https://www.ssllabs.com/ssltest/analyze.html?d=nitter.orbb.fr)                        |
 
 ### Tor
 | URL                                                                              | Online¹            | Working²           |
