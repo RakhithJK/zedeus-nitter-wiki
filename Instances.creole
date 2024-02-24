@@ -74,7 +74,7 @@ For a list of which instances are **working right now**, see the [nitter-status]
 | [nitter.simpleprivacy.fr](https://nitter.simpleprivacy.fr)           |         :x:        | :x: | :fr:          | [Let's Encrypt](https://www.ssllabs.com/ssltest/analyze.html?d=nitter.simpleprivacy.fr)      |
 | [nitter.x86-64-unknown-linux-gnu.zip](https://nitter.x86-64-unknown-linux-gnu.zip/)  |         :x:        | :x: | :de:     | [Let's Encrypt](https://www.ssllabs.com/ssltest/analyze.html?d=nitter.x86-64-unknown-linux-gnu.zip)        |
 | [nitter.private.coffee](https://nitter.private.coffee)               | :white_check_mark: | :x: | :austria:     | [Let's Encrypt](https://www.ssllabs.com/ssltest/analyze.html?d=nitter.private.coffee)        |
-| [nitter.oksocial.net](https://nitter.oksocial.net)                   | :white_check_mark: | :white_check_mark: | :us:          | [Let's Encrypt](https://www.ssllabs.com/ssltest/analyze.html?d=nitter.oksocial.net)          |
+| [nitter.oksocial.net](https://nitter.oksocial.net)                   | :white_check_mark: | :x: | :us:          | [Let's Encrypt](https://www.ssllabs.com/ssltest/analyze.html?d=nitter.oksocial.net)          |
 | [nitter.woodland.cafe](https://nitter.woodland.cafe)                 | :white_check_mark: | :x: | :de:          | [Let's Encrypt](https://www.ssllabs.com/ssltest/analyze.html?d=nitter.services.woodland.cafe)|
 | [nitter.dafriser.be](https://nitter.dafriser.be)                     | :x: | :x: | :de:          | [Let's Encrypt](https://www.ssllabs.com/ssltest/analyze.html?d=nitter.dafriser.be)           |
 | [nitter.catsarch.com](https://nitter.catsarch.com)                   | :x: | :x: | :us:          | [ZeroSSL](https://www.ssllabs.com/ssltest/analyze.html?d=nitter.catsarch.com)          |
