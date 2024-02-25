@@ -50,7 +50,7 @@ For a list of which instances are **working right now**, see the [nitter-status]
 | [nitter.privacydev.net](https://nitter.privacydev.net)               | :white_check_mark: | :x: | :fr:          | [Let's Encrypt](https://www.ssllabs.com/ssltest/analyze.html?d=nitter.privacydev.net)        |
 | [tweet.lambda.dance](https://tweet.lambda.dance)                     |         :x:        | :x: | :us:          | [Let's Encrypt](https://www.ssllabs.com/ssltest/analyze.html?d=tweet.lambda.dance)           |
 | [nitter.kylrth.com](https://nitter.kylrth.com)                       | :white_check_mark: | :x: | :canada:      | [Let's Encrypt](https://www.ssllabs.com/ssltest/analyze.html?d=nitter.kylrth.com)            |
-| [nitter.soopy.moe](https://nitter.soopy.moe)                         | :white_check_mark: | :x: | :hong_kong:   | [Let's Encrypt](https://www.ssllabs.com/ssltest/analyze.html?d=nitter.soopy.moe)             |
+| [nitter.soopy.moe](https://nitter.soopy.moe)                         | :x: | :x: | :hong_kong:   | [Let's Encrypt](https://www.ssllabs.com/ssltest/analyze.html?d=nitter.soopy.moe)             |
 | [nitter.qwik.space](https://nitter.qwik.space)                       | :white_check_mark: | :x: | :sweden:      | [Let's Encrypt](https://www.ssllabs.com/ssltest/analyze.html?d=nitter.qwik.space)            |
 | [nitter.rawbit.ninja](https://nitter.rawbit.ninja)                   | :white_check_mark: | :x: | :us:          | [Cloudflare](https://www.ssllabs.com/ssltest/analyze.html?d=nitter.rawbit.ninja)          |
 | [n.sneed.network](https://n.sneed.network)                           | :white_check_mark: | :x: | :australia:   | [Cloudflare](https://www.ssllabs.com/ssltest/analyze.html?d=nitter.sneed.network)         |
