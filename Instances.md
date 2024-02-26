@@ -38,7 +38,7 @@ For a list of which instances are **working right now**, see the [nitter-status]
 | [nitter.fdn.fr](https://nitter.fdn.fr/)                              | :white_check_mark: | :x: | :fr:          | [Let's Encrypt](https://www.ssllabs.com/ssltest/analyze.html?d=nitter.fdn.fr)                |
 | [nitter.1d4.us](https://nitter.1d4.us/)                              | :x: | :x: | :us:          | [Let's Encrypt](https://www.ssllabs.com/ssltest/analyze.html?d=nitter.1d4.us)                |
 | [nitter.kavin.rocks](https://nitter.kavin.rocks)                     | :white_check_mark: | :x: | :india:       | [Let's Encrypt](https://www.ssllabs.com/ssltest/analyze.html?d=nitter.kavin.rocks)           |
-| [nitter.unixfox.eu](https://nitter.unixfox.eu)                       | :white_check_mark: | :white_check_mark: | :de: | [Buypass AS-983163327](https://www.ssllabs.com/ssltest/analyze.html?d=nitter.unixfox.eu)            |
+| [nitter.unixfox.eu](https://nitter.unixfox.eu)                       | :white_check_mark: | :x: | :de: | [Buypass AS-983163327](https://www.ssllabs.com/ssltest/analyze.html?d=nitter.unixfox.eu)            |
 | [nitter.moomoo.me](https://nitter.moomoo.me)                         | :white_check_mark: | :x: | :us:          | [Let's Encrypt](https://www.ssllabs.com/ssltest/analyze.html?d=nitter.moomoo.me)             |
 | [nitter.it](https://nitter.it)                                       | :x: | :x: | :finland:     | [Let's Encrypt](https://www.ssllabs.com/ssltest/analyze.html?d=nitter.it)                    |
 | [nitter.mint.lgbt](https://nitter.mint.lgbt)                         | :white_check_mark: | :x: | :gb:          | [Let's Encrypt](https://www.ssllabs.com/ssltest/analyze.html?d=nitter.mint.lgbt)             |
@@ -47,7 +47,7 @@ For a list of which instances are **working right now**, see the [nitter-status]
 | [nitter.poast.org](https://nitter.poast.org/)                        | :x: | :x: | :us:          | [Let's Encrypt](https://www.ssllabs.com/ssltest/analyze.html?d=nitter.poast.org)             |
 | [nitter.bird.froth.zone](https://nitter.bird.froth.zone)             | :white_check_mark: | :x: | :canada:      | [Let's Encrypt](https://www.ssllabs.com/ssltest/analyze.html?d=nitter.bird.froth.zone)       |
 | [nitter.cz](https://nitter.cz)                                       | :x: | :x: | :czech_republic: | [Let's Encrypt](https://www.ssllabs.com/ssltest/analyze.html?d=nitter.cz)                    |
-| [nitter.privacydev.net](https://nitter.privacydev.net)               | :white_check_mark: | :white_check_mark: | :fr:          | [Let's Encrypt](https://www.ssllabs.com/ssltest/analyze.html?d=nitter.privacydev.net)        |
+| [nitter.privacydev.net](https://nitter.privacydev.net)               | :white_check_mark: | :x: | :fr:          | [Let's Encrypt](https://www.ssllabs.com/ssltest/analyze.html?d=nitter.privacydev.net)        |
 | [tweet.lambda.dance](https://tweet.lambda.dance)                     |         :x:        | :x: | :us:          | [Let's Encrypt](https://www.ssllabs.com/ssltest/analyze.html?d=tweet.lambda.dance)           |
 | [nitter.kylrth.com](https://nitter.kylrth.com)                       | :white_check_mark: | :x: | :canada:      | [Let's Encrypt](https://www.ssllabs.com/ssltest/analyze.html?d=nitter.kylrth.com)            |
 | [nitter.soopy.moe](https://nitter.soopy.moe)                         | :x: | :x: | :hong_kong:   | [Let's Encrypt](https://www.ssllabs.com/ssltest/analyze.html?d=nitter.soopy.moe)             |
@@ -65,7 +65,7 @@ For a list of which instances are **working right now**, see the [nitter-status]
 | [nitter.kling.gg](https://nitter.kling.gg)                           |         :x:        | :x: | :netherlands: | [Let's Encrypt](https://www.ssllabs.com/ssltest/analyze.html?d=nitter.kling.gg)              |
 | [nitter.lunar.icu](https://nitter.lunar.icu)                         | :white_check_mark: | :x: | :de:          | [Cloudflare](https://www.ssllabs.com/ssltest/analyze.html?d=nitter.lunar.icu)             |
 | [nitter.freedit.eu](https://nitter.freedit.eu)                       | :x: | :x: | :us:          | [Let's Encrypt](https://www.ssllabs.com/ssltest/analyze.html?d=nitter.freedit.eu)            |
-| [nitter.tux.pizza](https://nitter.tux.pizza)                         | :white_check_mark: | :white_check_mark: | :us:          | [Let's Encrypt](https://www.ssllabs.com/ssltest/analyze.html?d=nitter.tux.pizza)             |
+| [nitter.tux.pizza](https://nitter.tux.pizza)                         | :white_check_mark: | :x: | :us:          | [Let's Encrypt](https://www.ssllabs.com/ssltest/analyze.html?d=nitter.tux.pizza)             |
 | [nitter.altgr.xyz](https://nitter.altgr.xyz)                         |         :x:        | :x: | :chile:       | [Cloudflare](https://www.ssllabs.com/ssltest/analyze.html?d=nitter.altgr.xyz)             |
 | [nitter.io.lol](https://nitter.io.lol/)                              | :white_check_mark: |         :x:        | :us:          | [Let's Encrypt](https://www.ssllabs.com/ssltest/analyze.html?d=nitter.io.lol)                |
 | [nitter.no-logs.com](https://nitter.no-logs.com)                     | :white_check_mark: | :x: | :sweden:      | [Let's Encrypt](https://www.ssllabs.com/ssltest/analyze.html?d=nitter.no-logs.com&latest)    |
@@ -82,7 +82,7 @@ For a list of which instances are **working right now**, see the [nitter-status]
 | [nitter.datura.network](https://nitter.datura.network)               | :x: | :x: | :de: | [Let's Encrypt](https://www.ssllabs.com/ssltest/analyze.html?d=nitter.datura.network)        |
 | [n.populas.no](https://n.populas.no)                                 |         :x:        |         :x:        | :norway:      | [Let's Encrypt](https://www.ssllabs.com/ssltest/analyze.html?d=n.populas.no)                 |
 | [nt.ggtyler.dev](https://nt.ggtyler.dev)                             | :white_check_mark: | :x: | :us:          | [Let's Encrypt](https://www.ssllabs.com/ssltest/analyze.html?d=nt.ggtyler.dev)               |
-| [nitter.holo-mix.com](https://nitter.holo-mix.com/)                  | :white_check_mark: | :white_check_mark: | :jp: | [Let's Encrypt + Cloudflare](https://www.ssllabs.com/ssltest/analyze.html?d=nitter.holo-mix.com)          |
+| [nitter.holo-mix.com](https://nitter.holo-mix.com/)                  | :white_check_mark: | :x: | :jp: | [Let's Encrypt + Cloudflare](https://www.ssllabs.com/ssltest/analyze.html?d=nitter.holo-mix.com)          |
 | [n.opnxng.com](https://n.opnxng.com)                                 |        :x:      |        :x:            | :singapore: | [Let's Encrypt](https://www.ssllabs.com/ssltest/analyze.html?d=n.opnxng.com)                 |
 | [nitter.ktachibana.party](https://nitter.ktachibana.party)           | :white_check_mark: | :x: | :us: | [Let's Encrypt](https://www.ssllabs.com/ssltest/analyze.html?d=nitter.ktachibana.party)      |
 | [nitter.tinfoil-hat.net](https://nitter.tinfoil-hat.net)             |         :x:        |         :x:        | :de: | [Let's Encrypt](https://www.ssllabs.com/ssltest/analyze.html?d=nitter.tinfoil-hat.net)       |
