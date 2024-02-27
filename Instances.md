@@ -32,6 +32,8 @@ Note: Please add new instances to the bottom to preserve the order. In order to 
 
 For a list of which instances are **working right now**, see the [nitter-status](https://status.d420.de) project above. This table is the basis for instances listed on the status page.
 
+> **All of the instances listed in the table below are no longer working.**
+
 | URL                                                                  | Online¹            | Working²           | Country       | Issuer & SSLLabs verification link                                                           |
 | :------------------------------------------------------------------- | :----------------- | :----------------- | :------------ | :------------------------------------------------------------------------------------------- |
 | [nitter.nixnet.services](https://nitter:nitter@nitter.nixnet.services) ([auth required](https://nixnet.services/blog/nitter-behind-http-basic-auth/)) | :white_check_mark: | :x: | :de: | [Let's Encrypt](https://www.ssllabs.com/ssltest/analyze.html?d=nitter.nixnet.services)    |
