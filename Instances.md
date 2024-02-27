@@ -95,7 +95,7 @@ For a list of which instances are **working right now**, see the [nitter-status]
 | URL                                                                              | Online¹            | Working²           |
 | :------------------------------------------------------------------------------- | :----------------- | :----------------- |
 | <http://nitter.l4qlywnpwqsluw65ts7md3khrivpirse744un3x7mlskqauz5pyuzgqd.onion/>  | :x:                | :x:                |
-| <http://nitter7bryz3jv7e3uekphigvmoyoem4al3fynerxkj22dmoxoq553qd.onion/>         | :white_check_mark: | :white_check_mark: |
+| <http://nitter7bryz3jv7e3uekphigvmoyoem4al3fynerxkj22dmoxoq553qd.onion/>         | :white_check_mark: | :x:                |
 | <http://npf37k3mtzwxreiw52ccs5ay4e6qt2fkcs2ndieurdyn2cuzzsfyfvid.onion/>         | :x:                | :x:                |
 | <http://nitter.v6vgyqpa7yefkorazmg5d5fimstmvm2vtbirt6676mt7qmllrcnwycqd.onion/>  | :x:                | :x:                |
 | <http://i23nv6w3juvzlw32xzoxcqzktegd4i4fu3nmnc2ewv4ggiu4ledwklad.onion/>         | :x:                | :x:                |
@@ -127,13 +127,13 @@ For a list of which instances are **working right now**, see the [nitter-status]
 | <http://codeine3hsqnnkb3dsu6ft4tunlomr3lmuml5hcoqmfkgiqfv2brdqqd.onion>          | :x:                | :x:                |
 | <http://nitter.g4c3eya4clenolymqbpgwz3q3tawoxw56yhzk4vugqrl6dtu3ejvhjid.onion>   | :white_check_mark: | :x:                |
 | <http://jdadsqkjereqronxzovgvd453snh5jsvo7mukfwt2feth353nobqotad.onion>          | :x:                | :x:                |
-| <http://nitter.pjsfkvpxlinjamtawaksbnnaqs2fc2mtvmozrzckxh7f3kis6yea25ad.onion/>  | :white_check_mark: | :white_check_mark: |
+| <http://nitter.pjsfkvpxlinjamtawaksbnnaqs2fc2mtvmozrzckxh7f3kis6yea25ad.onion/>  | :x:                | :x:                |
 | <http://twitter.cepyxplublbyw2f4axy4pyztfbxmf63lrt2c7uwv6wl4iixz53czload.onion/> | :x:                | :x:                |
 | <http://nitter.coffee2m3bjsrrqqycx6ghkxrnejl2q6nl7pjw2j4clchjj6uk5zozad.onion/>  | :white_check_mark: | :x:                |
 | <http://nitter.daturab6drmkhyeia4ch5gvfc2f3wgo6bhjrv3pz6n7kxmvoznlkq4yd.onion/>  | :white_check_mark: | :x:                |
 | <http://n.sneed4fmhevap3ci4xhf4wgkf72lwk275lcgomnfgwniwmqvaxyluuid.onion/>       | :white_check_mark: | :x:                |
 | <http://6g7w5lt6qcidh6vtue64udzld2mjnvxlpgddvn34qywxafxdv6a3w5id.onion/>         | :white_check_mark: | :x:                |
-| <http://nitter.catsarchywsyuss6jdxlypsw5dc7owd5u5tr6bujxb7o6xw2hipqehyd.onion/>  | :x: | :x: |
+| <http://nitter.catsarchywsyuss6jdxlypsw5dc7owd5u5tr6bujxb7o6xw2hipqehyd.onion/>  | :x:                | :x:                |
 
 ### I2P
 - <http://axd6uavsstsrvstva4mzlzh4ct76rc6zdug3nxdgeitrzczhzf4q.b32.i2p/>
