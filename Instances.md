@@ -46,7 +46,7 @@ For a list of which instances are **working right now**, see the [nitter-status]
 | [nitter.mint.lgbt](https://nitter.mint.lgbt)                         | :white_check_mark: | :x: | :gb:          | [Let's Encrypt](https://www.ssllabs.com/ssltest/analyze.html?d=nitter.mint.lgbt)             |
 | [nitter.esmailelbob.xyz](https://nitter.esmailelbob.xyz)             | :white_check_mark: | :x: | :canada:      | [Let's Encrypt](https://www.ssllabs.com/ssltest/analyze.html?d=nitter.esmailelbob.xyz)       |
 | [nitter.tiekoetter.com](https://nitter.tiekoetter.com)               | :x: | :x: | :de:          | [Let's Encrypt](https://www.ssllabs.com/ssltest/analyze.html?d=nitter.tiekoetter.com)        |
-| [nitter.poast.org](https://nitter.poast.org/)                        | :x: | :x: | :us:          | [Let's Encrypt](https://www.ssllabs.com/ssltest/analyze.html?d=nitter.poast.org)             |
+| [nitter.poast.org](https://nitter.poast.org/)                        | :white_check_mark: | :white_check_mark: | :us:          | [Let's Encrypt](https://www.ssllabs.com/ssltest/analyze.html?d=nitter.poast.org)             |
 | [nitter.bird.froth.zone](https://nitter.bird.froth.zone)             | :white_check_mark: | :x: | :canada:      | [Let's Encrypt](https://www.ssllabs.com/ssltest/analyze.html?d=nitter.bird.froth.zone)       |
 | [nitter.cz](https://nitter.cz)                                       | :x: | :x: | :czech_republic: | [Let's Encrypt](https://www.ssllabs.com/ssltest/analyze.html?d=nitter.cz)                    |
 | [nitter.privacydev.net](https://nitter.privacydev.net)               | :white_check_mark: | :x: | :fr:          | [Let's Encrypt](https://www.ssllabs.com/ssltest/analyze.html?d=nitter.privacydev.net)        |
