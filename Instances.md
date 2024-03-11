@@ -106,7 +106,7 @@ For a list of which instances are **working right now**, see the [nitter-status]
 | <http://jebqj47jgxleaiosfcxfibx2xdahjettuydlxbg64azd4khsxv6kawid.onion/>         | :x:                | :x:                |
 | <http://nttr2iupbb6fazdpr2rgbooon2tzbbsvvkagkgkwohhodjzj43stxhad.onion/>         | :x:                | :x:                |
 | <http://nitraeju2mipeziu2wtcrqsxg7h62v5y4eqgwi75uprynkj74gevvuqd.onion/>         | :x:                | :x:                |
-| <http://nitter.esmail5pdn24shtvieloeedh7ehz3nrwcdivnfhfcedl7gf4kwddhkqd.onion/>  | :white_check_mark: | :white_check_mark: |
+| <http://nitter.esmail5pdn24shtvieloeedh7ehz3nrwcdivnfhfcedl7gf4kwddhkqd.onion/>  | :x:                | :x:                |
 | <http://ibsboeui2im5o7dxnik3s5yghufumgy5abevtij5nbizequfpu4qi4ad.onion/>         | :x:                | :x:                |
 | <http://ec5nvbycpfa5k6ro77blxgkyrzbkv7uy6r5cngcbkadtjj2733nm3uyd.onion/>         | :x:                | :x:                |
 | <http://twitter.ap3jtgssd7qn4vfoa62gi2ijddoblslbeuw5dan3xt7myvqpura5i4qd.onion/> | :x:                | :x:                |
