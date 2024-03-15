@@ -47,7 +47,7 @@ For a list of which instances are **working right now**, see the [nitter-status]
 | [nitter.tiekoetter.com](https://nitter.tiekoetter.com)               | :x: | :x: | :de:          | [Let's Encrypt](https://www.ssllabs.com/ssltest/analyze.html?d=nitter.tiekoetter.com)        |
 | [nitter.bird.froth.zone](https://nitter.bird.froth.zone)             | :white_check_mark: | :x: | :canada:      | [Let's Encrypt](https://www.ssllabs.com/ssltest/analyze.html?d=nitter.bird.froth.zone)       |
 | [nitter.cz](https://nitter.cz)                                       | :x: | :x: | :czech_republic: | [Let's Encrypt](https://www.ssllabs.com/ssltest/analyze.html?d=nitter.cz)                    |
-| [nitter.privacydev.net](https://nitter.privacydev.net)               | :white_check_mark: | :x: | :fr:          | [Let's Encrypt](https://www.ssllabs.com/ssltest/analyze.html?d=nitter.privacydev.net)        |
+| [nitter.privacydev.net](https://nitter.privacydev.net)               | :white_check_mark: | :white_check_mark: | :fr:          | [Let's Encrypt](https://www.ssllabs.com/ssltest/analyze.html?d=nitter.privacydev.net)        |
 | [tweet.lambda.dance](https://tweet.lambda.dance)                     |         :x:        | :x: | :us:          | [Let's Encrypt](https://www.ssllabs.com/ssltest/analyze.html?d=tweet.lambda.dance)           |
 | [nitter.kylrth.com](https://nitter.kylrth.com)                       | :white_check_mark: | :x: | :canada:      | [Let's Encrypt](https://www.ssllabs.com/ssltest/analyze.html?d=nitter.kylrth.com)            |
 | [nitter.soopy.moe](https://nitter.soopy.moe)                         | :x: | :x: | :hong_kong:   | [Let's Encrypt](https://www.ssllabs.com/ssltest/analyze.html?d=nitter.soopy.moe)             |
