@@ -21,7 +21,7 @@ Apparently spam: https://github.com/zedeus/nitter/issues/596
 
 ## Public
 
-Note: Please add new instances to the bottom to preserve the order. In order to make it easier to preserve the right syntax and the proper aligment of the table in the Markdown source, it is recommended to copy everything into a text editor, edit it there, then copy the result back to the GitHub editor.
+Note: Please add new instances to the bottom to preserve the order. In order to make it easier to preserve the right syntax and the proper alignment of the table in the Markdown source, it is recommended to copy everything into a text editor, edit it there, then copy the result back to the GitHub editor.
 
 <!--
 - nitter.snopyta.org admin ask us to "hide it from the top, otherwise it might get as popular as invidious"
