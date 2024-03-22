@@ -34,7 +34,7 @@ For a list of which instances are **working right now**, see the [nitter-status]
 
 | URL                                                                  | Online¹            | Working²           | Country       | Issuer & SSLLabs verification link                                                           |
 | :------------------------------------------------------------------- | :----------------- | :----------------- | :------------ | :------------------------------------------------------------------------------------------- |
-| [nitter.poast.org](https://nitter.poast.org/)                        | :white_check_mark: | :white_check_mark: | :us:          | [Let's Encrypt](https://www.ssllabs.com/ssltest/analyze.html?d=nitter.poast.org)             |
+| [nitter.poast.org](https://nitter.poast.org/)                        | :white_check_mark: | :x: | :us:          | [Let's Encrypt](https://www.ssllabs.com/ssltest/analyze.html?d=nitter.poast.org)             |
 | [nitter.nixnet.services](https://nitter:nitter@nitter.nixnet.services) ([auth required](https://nixnet.services/blog/nitter-behind-http-basic-auth/)) | :white_check_mark: | :x: | :de: | [Let's Encrypt](https://www.ssllabs.com/ssltest/analyze.html?d=nitter.nixnet.services)    |
 | [nitter.fdn.fr](https://nitter.fdn.fr/)                              | :white_check_mark: | :x: | :fr:          | [Let's Encrypt](https://www.ssllabs.com/ssltest/analyze.html?d=nitter.fdn.fr)                |
 | [nitter.1d4.us](https://nitter.1d4.us/)                              | :x: | :x: | :us:          | [Let's Encrypt](https://www.ssllabs.com/ssltest/analyze.html?d=nitter.1d4.us)                |
