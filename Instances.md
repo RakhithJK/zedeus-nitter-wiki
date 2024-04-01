@@ -35,11 +35,11 @@ For a list of which instances are **working right now**, see the [nitter-status]
 | URL                                                                  | Online¹            | Working²           | Country       | Issuer & SSLLabs verification link                                                           |
 | :------------------------------------------------------------------- | :----------------- | :----------------- | :------------ | :------------------------------------------------------------------------------------------- |
 | [nitter.poast.org](https://nitter.poast.org/)                        | :white_check_mark: | :x: | :us:          | [Let's Encrypt](https://www.ssllabs.com/ssltest/analyze.html?d=nitter.poast.org)             |
-| [nitter.nixnet.services](https://nitter:nitter@nitter.nixnet.services) ([auth required](https://nixnet.services/blog/nitter-behind-http-basic-auth/)) | :white_check_mark: | :x: | :de: | [Let's Encrypt](https://www.ssllabs.com/ssltest/analyze.html?d=nitter.nixnet.services)    |
-| [nitter.fdn.fr](https://nitter.fdn.fr/)                              | :white_check_mark: | :x: | :fr:          | [Let's Encrypt](https://www.ssllabs.com/ssltest/analyze.html?d=nitter.fdn.fr)                |
+| [nitter.nixnet.services](https://nitter:nitter@nitter.nixnet.services) ([auth required](https://nixnet.services/blog/nitter-behind-http-basic-auth/)) | :x: | :x: | :de: | [Let's Encrypt](https://www.ssllabs.com/ssltest/analyze.html?d=nitter.nixnet.services)    |
+| [nitter.fdn.fr](https://nitter.fdn.fr/)                              | :x: | :x: | :fr:          | [Let's Encrypt](https://www.ssllabs.com/ssltest/analyze.html?d=nitter.fdn.fr)                |
 | [nitter.1d4.us](https://nitter.1d4.us/)                              | :x: | :x: | :us:          | [Let's Encrypt](https://www.ssllabs.com/ssltest/analyze.html?d=nitter.1d4.us)                |
 | [nitter.kavin.rocks](https://nitter.kavin.rocks)                     | :white_check_mark: | :x: | :india:       | [Let's Encrypt](https://www.ssllabs.com/ssltest/analyze.html?d=nitter.kavin.rocks)           |
-| [nitter.unixfox.eu](https://nitter.unixfox.eu)                       | :white_check_mark: | :x: | :de: | [Buypass AS-983163327](https://www.ssllabs.com/ssltest/analyze.html?d=nitter.unixfox.eu)            |
+| [nitter.unixfox.eu](https://nitter.unixfox.eu)                       | :x: | :x: | :de: | [Buypass AS-983163327](https://www.ssllabs.com/ssltest/analyze.html?d=nitter.unixfox.eu)            |
 | [nitter.moomoo.me](https://nitter.moomoo.me)                         | :white_check_mark: | :x: | :us:          | [Let's Encrypt](https://www.ssllabs.com/ssltest/analyze.html?d=nitter.moomoo.me)             |
 | [nitter.it](https://nitter.it)                                       | :x: | :x: | :finland:     | [Let's Encrypt](https://www.ssllabs.com/ssltest/analyze.html?d=nitter.it)                    |
 | [nitter.mint.lgbt](https://nitter.mint.lgbt)                         | :white_check_mark: | :x: | :gb:          | [Let's Encrypt](https://www.ssllabs.com/ssltest/analyze.html?d=nitter.mint.lgbt)             |
@@ -85,7 +85,7 @@ For a list of which instances are **working right now**, see the [nitter-status]
 | [n.opnxng.com](https://n.opnxng.com)                                 |        :x:      |        :x:            | :singapore: | [Let's Encrypt](https://www.ssllabs.com/ssltest/analyze.html?d=n.opnxng.com)                 |
 | [nitter.tinfoil-hat.net](https://nitter.tinfoil-hat.net)             |         :x:        |         :x:        | :de: | [Let's Encrypt](https://www.ssllabs.com/ssltest/analyze.html?d=nitter.tinfoil-hat.net)       |
 | [n.biendeo.com](https://n.biendeo.com)                               |         :x:        | :x: | :australia: | [Let's Encrypt](https://www.ssllabs.com/ssltest/analyze.html?d=n.biendeo.com)                |
-| [nitter.jakefrosty.com](https://nitter.jakefrosty.com)               | :white_check_mark: |         :x:        | :singapore: | [Let's Encrypt + CloudFlare](https://www.ssllabs.com/ssltest/analyze.html?d=nitter.jakefrosty.com)       |
+| [nitter.jakefrosty.com](https://nitter.jakefrosty.com)               | :x: |         :x:        | :singapore: | [Let's Encrypt + CloudFlare](https://www.ssllabs.com/ssltest/analyze.html?d=nitter.jakefrosty.com)       |
 | [nitter.manasiwibi.com](https://nitter.manasiwibi.com)               |         :x:        |         :x:        | :de: | [Let's Encrypt](https://www.ssllabs.com/ssltest/analyze.html?d=nitter.manasiwibi.com)        |
 | [nitter.lanterne-rouge.info](https://nitter.lanterne-rouge.info)     | :white_check_mark: | :x: | :fr: | [Let's Encrypt](https://www.ssllabs.com/ssltest/analyze.html?d=nitter.lanterne-rouge.info)   |
 
